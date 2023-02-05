@@ -1,5 +1,5 @@
 # حمایت مالی برای سرویس‌هامون 
-# Donation (we are non profit, however, for buying services, we need money) 
+# Donation (we are non profit, however, for our services, we need money) 
 
 <a href="https://nowpayments.io/donation?api_key=WNVGZP8-9094SDB-NGCVEG3-ZBTRVX4" target="_blank">
 Crypto donation
