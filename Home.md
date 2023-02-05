@@ -7,7 +7,17 @@
 
 در این مقاله به شما آموزش میدهیم چگونه یک فیلترشکن اختصاصی مالتی پروتوکل در پورت 443 ایجاد کنید.
 موارد پشتیبانی شده:
- <details markdown="1"> <summary><b>به زودی چند کاربره و قابلیت تعریف حجم اضافه می شود</b></summary>
+ <details markdown="1"> <summary><b>راهنمای نصب نسخه چند کاربره با قابلیت تعریف حجم (تست)</b></summary>
+
+راهنمای نصب نسخه جدید به صورت تست
+```
+cd /opt
+apt install git
+git clone  https://github.com/hiddify/hiddify-config
+cd hiddify-config
+git checkout v6
+bash install.sh
+```
 
 نمای ورژن جدید
 
