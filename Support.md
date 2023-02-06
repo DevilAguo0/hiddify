@@ -1,9 +1,10 @@
 #  Donation  حمایت مالی
 
+<!--
 <a href="https://nowpayments.io/donation?api_key=WNVGZP8-9094SDB-NGCVEG3-ZBTRVX4" target="_blank">
 Crypto donation حمایت با رمزارز
 </a>
-
+-->
 ### Other payment methods سایر روش های پرداخت
 
   - [Credit card and PayPal](https://opencollective.com/hiddify/contribute/backer-50556/checkout?interval=month&amount=25)
