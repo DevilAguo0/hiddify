@@ -25,7 +25,6 @@
 * برنامه‌نویس Kotlin
 
 ## راه‌های ارتباط با ما
-* ایمیل:
-* [hiddify@gmail.com](mailto:hiddify@gmail.com)
+* ایمیل:[hiddify@gmail.com](mailto:hiddify@gmail.com)
 * ### [کانال تلگرام  ](https://t.me/hiddify)
 </div>
