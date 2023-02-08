@@ -9,8 +9,24 @@
 ## فهرست مطالب
 
 <details markdown="1"> <summary>توضیحات پروژه هایدیفای</summary>
-
 <blockquote>
+<details markdown="1"> <summary>پروژه متن‌باز</summary> 
+
+
+کلیه سورس کدها در [گیت هاب](https://github.com/hiddify/hiddify-config) 
+</details>
+
+<details markdown="1"> <summary>کانفیگ‌های پشتیبانی شده</summary> 
+
+| کانفیگ های پشتیبانی شده | Supported Configs |
+| - | - |
+| ♥ **Telegram Proxy** ♥ | **vless+xtls** |
+| **Web Socket (cdn support)**:<br> - vless+tls+ws <br>- trojan+tls+ws <br> - vmess+tls+ws | **h2+tls**:<br> - vless+tls<br> - trojan+tls<br> - vmess+tls |
+| **grpc+tls**:<br> - vless+grpc+tls<br> - trojan+grpc+tls<br> - vmess+grpc+tls | **http1.1+tls**:  <br>- trojan+tls <br> - vmess+tls|
+| **old configs**: <br> - trojango (cdn support) <br> - v2ray+ws (cdn support) <br> - vmess (cdn support) <br> - ss+faketls| **HTTP** <br> -unsafe, default is disable <br> - vless<br> -vmess |
+
+</details>
+
 <details markdown="1"> <summary>پروکسی هوشمند برای سایت های غیر ایرانی و فیلترشده</summary>
  
 با استفاده از کلاینت کلش و کانفیگ هایدیفای میتوانید در ۳ حالت به اینترنت وصل بشید. 
@@ -27,11 +43,6 @@
  
  سعی شده جلوی حملات معمول به سرور گرفته شود و امکان شناسایی حداقل باشد با این وجود فراموش نکنید که سایر پورت ها به جز 22، 80 و 443 را غیر فعال کنید
 
-</details>
-<details markdown="1"> <summary>پروژه متن‌باز</summary> 
-
-
-کلیه سورس کدها در [گیت هاب](https://github.com/hiddify/hiddify-config) 
 </details>
 
 <details  markdown="1"> <summary>سیستم‌عامل‌های پشتیبانی شده</summary>
@@ -162,11 +173,4 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 
 
 
-
-| کانفیگ های پشتیبانی شده | Supported Configs |
-| - | - |
-| ♥ **Telegram Proxy** ♥ | **vless+xtls** |
-| **Web Socket (cdn support)**:<br> - vless+tls+ws <br>- trojan+tls+ws <br> - vmess+tls+ws | **h2+tls**:<br> - vless+tls<br> - trojan+tls<br> - vmess+tls |
-| **grpc+tls**:<br> - vless+grpc+tls<br> - trojan+grpc+tls<br> - vmess+grpc+tls | **http1.1+tls**:  <br>- trojan+tls <br> - vmess+tls|
-| **old configs**: <br> - trojango (cdn support) <br> - v2ray+ws (cdn support) <br> - vmess (cdn support) <br> - ss+faketls| **HTTP** <br> -unsafe, default is disable <br> - vless<br> -vmess |
 
