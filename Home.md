@@ -134,7 +134,7 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 
 </details>
 
-# [کانال تلگرام ما (کلیک کنید)](https://t.me/hiddify)
+
 
 # آموزش نصب 
 
