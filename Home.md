@@ -1,29 +1,16 @@
+
 <div dir="rtl" markdown="1">
 
 
-به صفحه ویکی هایدفای خوش آمدید
+# به صفحه ویکی هایدفای خوش آمدید
 
+<div dir="ltr" markdown="1">
 
+# [For English version click here](https://github.com/hiddify/hiddify-config/wiki/Home-en)
+</div>
 
 در این مقاله به شما آموزش میدهیم چگونه یک فیلترشکن اختصاصی مالتی پروتوکل در پورت 443 ایجاد کنید.
 موارد پشتیبانی شده:
- <details markdown="1"> <summary><b>راهنمای نصب نسخه چند کاربره با قابلیت تعریف حجم (تست)</b></summary>
-
-راهنمای نصب نسخه جدید به صورت تست
-```
-cd /opt
-apt install git
-git clone  https://github.com/hiddify/hiddify-config
-cd hiddify-config
-git checkout v6
-bash install.sh
-```
-
-نمای ورژن جدید
-
-![image](https://user-images.githubusercontent.com/114227601/214465657-af843292-d87d-4ecf-a992-b4bb2203c49a.png)
-
-</details>
 
 
 | کانفیگ های پشتیبانی شده | Supported Configs |
