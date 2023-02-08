@@ -9,19 +9,16 @@
   - Dogecoin: `DJy27pQKwnhaRxWDbU6dG7UdHHif6yp8Jb`
 
 
-We need several type of helps:
-- Share Hiddify Panel with others
-- Python Developer
-- Rust Developer (We do not want an high level rust developer. We just want to have someone who is familiar with rust and java script for a one day task)
-- Kotlin Developer
-- Content Providers
+
 
 Please contact us at hiddify@gmail.com if you can help us.
 ## ما را در شبکه‌های اجتماعی دنبال کنید
 به کمک شما در توسعه این پروژه نیاز داریم
 
 اگر توانایی برنامه نویسی یا تولید محتوا دارید با ما در تماس باشید
-
 hiddify@gmail.com
+
+
+
 
 ### [کانال تلگرام ما ](https://t.me/hiddify)
