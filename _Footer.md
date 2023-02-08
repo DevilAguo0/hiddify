@@ -26,4 +26,4 @@ We need several type of helps:
 
 Please contact us at hiddify@gmail.com if you can help us.
 ## ما را در شبکه‌های اجتماعی دنبال کنید
-###[کانال تلگرام ما ](https://t.me/hiddify)
+### [کانال تلگرام ما ](https://t.me/hiddify)
