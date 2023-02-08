@@ -1,5 +1,4 @@
-
-همچنین ما برای سرویس هامون نیاز به کمک مالی هم داریم (ما دنبال سود نیستیم)
+ ما برای سرویس هامون نیاز به کمک مالی داریم (ما دنبال سود نیستیم)
 
 Money Supports (we are non profit, however, for buying services, we need money)
 
