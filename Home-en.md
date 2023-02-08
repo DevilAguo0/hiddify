@@ -131,19 +131,19 @@ In this way, you can check the speed of the server without filter breaker and wi
 
 </details>
 
-# [Our Telegram channel (click)] (https://t.me/hiddify)
+# [Our Telegram channel (click)](https://t.me/hiddify)
 
 # learn inistallation
 
 ## Very fast installation training in OVH, Oracle, Hetzner, Vultr without the need for ssh and technical knowledge
 - [Very, very fast installation in Vultr (without ssh)](https://github.com/hiddify/hiddify-config/wiki/Vultr-install-very-very-fast-in-voltr)
-- [Setting up 4 free servers in Oracle Cloud (without ssh)]
-- [Tutorial to install very, very quickly in OVH (without ssh)]
+- [Setting up 4 free servers in Oracle Cloud (without ssh)](https://github.com/hiddify/hiddify-config/wiki/Oracle-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D8%A7%D9%88%D8%B1%D8%A7%DA%A9%D9%84-%DA%A9%D9%84%D9%88%D8%AF)
+- [Tutorial to install very, very quickly in OVH (without ssh)](https://github.com/hiddify/hiddify-config/wiki/OVH-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D8%A7%D9%88-%D9%88%DB%8C-%D8%A7%DA%86)
 - [Tutorial to install very, very quickly in Hetzner (without ssh)](https://github.com/hiddify/hiddify-config/wiki/Hetzner-installation-very-quick-in-Hetzner)
 
 ## How to install on pre-prepared Ubuntu server with ssh
-- [Quick installation with one command on Ubuntu server] (https://github.com/hiddify/hiddify-config/wiki/quick-installation-in-ubuntu)
-- [Install with Docker] (https://github.com/hiddify/hiddify-config/wiki/install-with-docker)
+- [Quick installation with one command on Ubuntu server](https://github.com/hiddify/hiddify-config/wiki/quick-installation-in-ubuntu)
+- [Install with Docker](https://github.com/hiddify/hiddify-config/wiki/install-with-docker)
 
 
 # Help page for users and admin
