@@ -3,24 +3,10 @@
 
 <div dir="ltr" markdown="1">
 
-# [For English version click here](https://github.com/hiddify/hiddify-config/wiki/Home-en)
+### [For English version click here](https://github.com/hiddify/hiddify-config/wiki/Home-en)
 </div>
 
-# به صفحه ویکی هایدفای خوش آمدید
-
-
-
-در این مقاله به شما آموزش میدهیم چگونه یک فیلترشکن اختصاصی مالتی پروتوکل در پورت 443 ایجاد کنید.
-موارد پشتیبانی شده:
-
-
-| کانفیگ های پشتیبانی شده | Supported Configs |
-| - | - |
-| ♥ **Telegram Proxy** ♥ | **vless+xtls** |
-| **Web Socket (cdn support)**:<br> - vless+tls+ws <br>- trojan+tls+ws <br> - vmess+tls+ws | **h2+tls**:<br> - vless+tls<br> - trojan+tls<br> - vmess+tls |
-| **grpc+tls**:<br> - vless+grpc+tls<br> - trojan+grpc+tls<br> - vmess+grpc+tls | **http1.1+tls**:  <br>- trojan+tls <br> - vmess+tls|
-| **old configs**: <br> - trojango (cdn support) <br> - v2ray+ws (cdn support) <br> - vmess (cdn support) <br> - ss+faketls| **HTTP** <br> -unsafe, default is disable <br> - vless<br> -vmess |
-
+## فهرست مطالب
 
 
 <details markdown="1"> <summary>DNS over HTTPS (cdn support)</summary>
@@ -65,6 +51,7 @@
 
 </details>
 <details markdown="1"> <summary>Open Source</summary> 
+
 
 کلیه سورس کدها در [گیت هاب](https://github.com/hiddify/hiddify-config) 
 </details>
@@ -136,6 +123,16 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 
 
 
+
+
+| کانفیگ های پشتیبانی شده | Supported Configs |
+| - | - |
+| ♥ **Telegram Proxy** ♥ | **vless+xtls** |
+| **Web Socket (cdn support)**:<br> - vless+tls+ws <br>- trojan+tls+ws <br> - vmess+tls+ws | **h2+tls**:<br> - vless+tls<br> - trojan+tls<br> - vmess+tls |
+| **grpc+tls**:<br> - vless+grpc+tls<br> - trojan+grpc+tls<br> - vmess+grpc+tls | **http1.1+tls**:  <br>- trojan+tls <br> - vmess+tls|
+| **old configs**: <br> - trojango (cdn support) <br> - v2ray+ws (cdn support) <br> - vmess (cdn support) <br> - ss+faketls| **HTTP** <br> -unsafe, default is disable <br> - vless<br> -vmess |
+
+
 # آموزش نصب 
 
 ## آموزش نصب خیلی سریع در OVH, Oracle, Hetzner, Vultr بدون نیاز به ssh و دانش فنی
@@ -148,18 +145,3 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 - [نصب سریع با یک دستور در سرور اوبونتو](https://github.com/hiddify/hiddify-config/wiki/نصب-سریع-در-اوبونتو)
 - [نصب با داکر](https://github.com/hiddify/hiddify-config/wiki/نصب-با-داکر)
 
-
-# صفحه راهنمای کاربران و ادمین
-
-با امکان تولید qrcode
-
-
-![HiddifyPanel](https://raw.githubusercontent.com/hiddify/hiddify-config/main/docs/HiddifyPanel.webp)
-<!--
-![صفحه راهنمای کاربران](https://user-images.githubusercontent.com/114227601/206908372-db1fc206-4c6a-4206-ad39-e6b6b44a55c4.png)
-
-
-# صفحه مدیریت 
-![image](https://user-images.githubusercontent.com/114227601/209979538-cb3196aa-a832-4b06-95c4-37e9795e00cb.png)
--->
-</div>
