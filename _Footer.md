@@ -1,6 +1,8 @@
 <div dir="rtl" markdown="1">
-## روش‌های حمایت مالی
-ما برای سرویس هامون نیاز به کمک مالی داریم (تمامی فعالیت‌های ما به صورت داوطلبانه انجام می‌شود و حمایت‌های مالی صرف توسعه پروژه می‌شود)
+
+## از ما حمایت کنید
+
+ما برای سرویس هامون نیاز به کمک مالی داریم (تمامی فعالیت‌های ما به صورت داوطلبانه انجام می‌شود و حمایت‌های مالی صرف توسعه پروژه می‌شود.
 
   - [Credit card and PayPal](https://opencollective.com/hiddify/contribute/backer-50556/checkout?interval=month&amount=25)
   - Ton: [`EQCWnykA-YhavOXgH3sf-uxtXLjy83_9n5bJPGRPE8r2247_`](https://tonwhales.com/explorer/address/UQBcMO1OFsfEMZL3PfJpGGVjOan0Dz-eaBdqSaaWicazYT2b)
@@ -11,7 +13,7 @@
 
 
 
-## ما را در شبکه‌های اجتماعی دنبال کنید
+## با ما همکاری کنید
 به کمک شما در توسعه این پروژه نیاز داریم
 اگر در هر یک از زمینه‌های زیر توانایی دارید با ما در تماس باشید:
 
