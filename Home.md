@@ -9,6 +9,22 @@
 ## فهرست مطالب
 
 
+<details markdown="1"> <summary>آموزش نصب خیلی سریع در OVH, Oracle, Hetzner, Vultr بدون نیاز به ssh و دانش فنی</summary>
+
+- [نصب خیلی خیلی سریع در ولتر Vultr (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/Vultr-نصب-خیلی-خیلی-سریع-در-ولتر)
+- [راه اندازی 4 سرور رایگان در اوراکل کلود (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/Oracle-نصب-خیلی-خیلی-سریع-در-اوراکل-کلود)
+- [آموزش نصب خیلی خیلی سریع در OVH (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/OVH-نصب-خیلی-سریع-در-او-وی-اچ)
+- [آموزش نصب خیلی خیلی سریع در هتزنر (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/Hetzner-نصب-خیلی-سریع-در-هتزنر)
+
+</details>
+
+<details markdown="1"> <summary>آموزش نصب در سرور از پیش آماده اوبونتو با ssh</summary>
+
+- [نصب سریع با یک دستور در سرور اوبونتو](https://github.com/hiddify/hiddify-config/wiki/نصب-سریع-در-اوبونتو)
+- [نصب با داکر](https://github.com/hiddify/hiddify-config/wiki/نصب-با-داکر)
+
+</details>
+
 <details markdown="1"> <summary>DNS over HTTPS (cdn support)</summary>
  
  برای استفاده از DNS over HTTPS کافی است در مرورگر از dns زیر استفاده کنید:
@@ -16,6 +32,7 @@
  `https://yourdomain.com/yoursecret/dns/dns-query{?dns}`
  
 </details>
+
 <details markdown="1"> <summary>Redirector (cdn support)</summary> 
  
  نکته این امر آن است که برای مثال وقتی میخواهید پروکسی تلگرام یا پروکسی شدوساکس را از طریق برنامه های دیگر به اشتراک بگذارید امکان آن فراهم می شود. برای مثال اگر کانفیگ شدوساکس را به جای `fullURL` آن قرار دهید باعث میشود با کلیک بر روی این لینک، نرم افزار شدوساکس باز شده و پروکسی بر روی آن فعال شود.
