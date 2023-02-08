@@ -1,6 +1,5 @@
 
 <div dir="rtl" markdown="1">
-
 <div dir="ltr" markdown="1">
 
 ### [For English version click here](https://github.com/hiddify/hiddify-config/wiki/Home-en)
