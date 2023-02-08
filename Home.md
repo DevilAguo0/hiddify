@@ -33,12 +33,45 @@
 
 کلیه سورس کدها در [گیت هاب](https://github.com/hiddify/hiddify-config) 
 </details>
+
 <details  markdown="1"> <summary>سیستم‌عامل‌های پشتیبانی شده</summary>
 هایدیفای روی اوبونتو ۲۰.۰۴ و ۲۲.۰۴ تست شده است.
 Ubuntu arm64 or amd64
 </details>
+
 </details>
 </blockquote>
+
+<details  markdown="1"> <summary>امکانات پنل هایدیفای</summary>
+<blockquote>
+
+<details markdown="1"> <summary>ارائه گزارش وضعیت سرویس </summary>
+نمایش میزان مصرف پروکسی و تعداد کاربران،  بر اساس،پروتوکل، شهر و اپراتور اینترنت با حفظ حریم خصوصی کاربران
+
+از طریق لینک زیر میتوانید مشاهده کنید وضعیت سرور رو
+
+`https://yourdomain.com/yoursecret/stats/` 
+</details>
+
+<details  markdown="1"> <summary>به روز رسانی خودکار</summary>
+
+به صورت پیش فرض به روزرسانی خودکار فعال است
+جهت غیرفعال کردن آن کد زیر را در `config.env` اضافه کنید
+```
+ENABLE_AUTO_UPDATE=false
+```
+</details>
+<details  markdown="1"> <summary>تست سرعت</summary>
+
+از این طریق میتوان سرعت سرور بدون فیلترشکن و با فیلترشکن را بررسی کرد
+
+![image](https://user-images.githubusercontent.com/114227601/210183115-4e1f4186-421e-4316-8082-3ce53275adc7.png)
+
+</details>
+
+</blockquote>
+</details>
+
 <details markdown="1"> <summary>آموزش نصب خیلی سریع در OVH, Oracle, Hetzner, Vultr بدون نیاز به ssh و دانش فنی</summary>
 
 - [نصب خیلی خیلی سریع در ولتر Vultr (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/Vultr-نصب-خیلی-خیلی-سریع-در-ولتر)
@@ -119,34 +152,12 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 </details>
 
 
-<details markdown="1"> <summary>ارائه گزارش وضعیت سرویس </summary>
-نمایش میزان مصرف پروکسی و تعداد کاربران،  بر اساس،پروتوکل، شهر و اپراتور اینترنت با حفظ حریم خصوصی کاربران
-
-از طریق لینک زیر میتوانید مشاهده کنید وضعیت سرور رو
-
-`https://yourdomain.com/yoursecret/stats/` 
-
-</details>
-
-
-<details  markdown="1"> <summary>Auto Up to date (به روز رسانی خودکار)</summary>
-
-به صورت پیش فرض به روزرسانی خودکار فعال است
-جهت غیرفعال کردن آن کد زیر را در `config.env` اضافه کنید
-```
-ENABLE_AUTO_UPDATE=false
-```
-</details>
 
 
 
-<details  markdown="1"> <summary>Built in speed test</summary>
 
-از این طریق میتوان سرعت سرور بدون فیلترشکن و با فیلترشکن را بررسی کرد
 
-![image](https://user-images.githubusercontent.com/114227601/210183115-4e1f4186-421e-4316-8082-3ce53275adc7.png)
 
-</details>
 
 
 
