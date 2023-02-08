@@ -8,6 +8,11 @@
 
 ## فهرست مطالب
 
+<details markdown="1"> <summary>توضیحات پروژه هایدیفای</summary>
+
+توضیحات پروژه باید اینجا بیاد
+
+</details>
 
 <details markdown="1"> <summary>آموزش نصب خیلی سریع در OVH, Oracle, Hetzner, Vultr بدون نیاز به ssh و دانش فنی</summary>
 
@@ -148,17 +153,4 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 | **Web Socket (cdn support)**:<br> - vless+tls+ws <br>- trojan+tls+ws <br> - vmess+tls+ws | **h2+tls**:<br> - vless+tls<br> - trojan+tls<br> - vmess+tls |
 | **grpc+tls**:<br> - vless+grpc+tls<br> - trojan+grpc+tls<br> - vmess+grpc+tls | **http1.1+tls**:  <br>- trojan+tls <br> - vmess+tls|
 | **old configs**: <br> - trojango (cdn support) <br> - v2ray+ws (cdn support) <br> - vmess (cdn support) <br> - ss+faketls| **HTTP** <br> -unsafe, default is disable <br> - vless<br> -vmess |
-
-
-# آموزش نصب 
-
-## آموزش نصب خیلی سریع در OVH, Oracle, Hetzner, Vultr بدون نیاز به ssh و دانش فنی
-- [نصب خیلی خیلی سریع در ولتر Vultr (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/Vultr-نصب-خیلی-خیلی-سریع-در-ولتر)
-- [راه اندازی 4 سرور رایگان در اوراکل کلود (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/Oracle-نصب-خیلی-خیلی-سریع-در-اوراکل-کلود)
-- [آموزش نصب خیلی خیلی سریع در OVH (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/OVH-نصب-خیلی-سریع-در-او-وی-اچ)
-- [آموزش نصب خیلی خیلی سریع در هتزنر (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/Hetzner-نصب-خیلی-سریع-در-هتزنر)
-
-## آموزش نصب در سرور از پیش آماده اوبونتو با ssh 
-- [نصب سریع با یک دستور در سرور اوبونتو](https://github.com/hiddify/hiddify-config/wiki/نصب-سریع-در-اوبونتو)
-- [نصب با داکر](https://github.com/hiddify/hiddify-config/wiki/نصب-با-داکر)
 
