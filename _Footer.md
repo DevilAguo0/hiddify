@@ -1,5 +1,5 @@
 
-### روش های حمایت مالی
+## روش‌های حمایت مالی
 ما برای سرویس هامون نیاز به کمک مالی داریم (ما دنبال سود نیستیم)
 
   - [Credit card and PayPal](https://opencollective.com/hiddify/contribute/backer-50556/checkout?interval=month&amount=25)
@@ -11,7 +11,6 @@
 
 
 
-Please contact us at hiddify@gmail.com if you can help us.
 ## ما را در شبکه‌های اجتماعی دنبال کنید
 به کمک شما در توسعه این پروژه نیاز داریم
 اگر در هر یک از زمینه‌های زیر توانایی دارید با ما در تماس باشید:
@@ -20,8 +19,6 @@ Please contact us at hiddify@gmail.com if you can help us.
 * برنامه‌نویس پایتون
 * برنامه‌نویس Rust (نیاز به سطح بالای دانش در این زمینه نیست. فقط لازم است که آشنایی با این زبان و جاوا اسکریپت برای انجام یک تسک یک روزه وجود داشته باشد)
 * برنامه‌نویس Kotlin
- 
-
 
 
 ### [کانال تلگرام ما ](https://t.me/hiddify)
