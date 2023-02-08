@@ -1,7 +1,8 @@
 
 
 
-Welcome to the wiki page
+# Welcome to Hiddify 
+# [جهت مشاهده توضیحات فارسی کلیک کنید](https://github.com/hiddify/hiddify-config/wiki/Home)
 
 
 
