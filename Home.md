@@ -79,6 +79,12 @@ ENABLE_AUTO_UPDATE=false
 
 </details>
 
+ <details markdown="1"> <summary>صفحات راهنمای کاربران</summary> 
+ با امکان تولید qrcode
+
+ ![صفحه راهنمای کاربران](https://user-images.githubusercontent.com/114227601/206908372-db1fc206-4c6a-4206-ad39-e6b6b44a55c4.png)
+</details>
+
 </blockquote>
 </details>
 
@@ -99,7 +105,7 @@ ENABLE_AUTO_UPDATE=false
 </details>
 <details  markdown="1"> <summary>code for cloud-init</summary>
 
-در بعضی از شرکت ها شما میتوانید با استفاده از اسکریپت زیر به صورت خودکار پروکسی را نصب کنید و از آدرس  `https://yourip.sslip.io/`یا `http://yourip/` لینک صفحه کاربران را مشاهدهد کنید کافی است به جای yourip آی پی خود را قرار دهید.
+در بعضی از شرکت ها شما میتوانید با استفاده از اسکریپت زیر به صورت خودکار پروکسی را نصب کنید و از آدرس  `https://yourip.sslip.io/`یا `http://yourip/` لینک صفحه کاربران را مشاهده کنید کافی است به جای yourip آی پی خود را قرار دهید.
 
 ضمنا این لینک موقت فقط به مدت یک ساعت فعال خواهد بود و پس از آن غیرفعال خواهد شد
 
@@ -153,13 +159,6 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 </details>
 
 
- <details markdown="1"> <summary>صفحات راهنمای کاربران</summary> 
- 
- با امکان تولید qrcode
-
- ![صفحه راهنمای کاربران](https://user-images.githubusercontent.com/114227601/206908372-db1fc206-4c6a-4206-ad39-e6b6b44a55c4.png)
-
-</details>
 
 
 
