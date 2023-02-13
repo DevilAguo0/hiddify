@@ -139,7 +139,7 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 </details>
 
 
-
+### [کانال تلگرام (کلیک کنید)](https://t.me/hiddify)
 ### دموی سیستم
 - بخش کاربران
 ![image](https://user-images.githubusercontent.com/114227601/218550439-52299d0a-3b3e-4054-a742-528ee3cf5810.png)
