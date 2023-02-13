@@ -5,15 +5,12 @@
 ### [For English version click here](https://github.com/hiddify/hiddify-config/wiki/Home-en)
 </div>
 
+پنل گذر از فیلترینگ چند کاربره‌ی هیدیفای، با امکان نصب خیلی راحت و نصب بیش از 20 پروتوکل گذر از فیلترینگ + پروکسی تلگرام
+
 ## فهرست مطالب
 
-<details markdown="1"> <summary>توضیحات پروژه هایدیفای</summary>
-<blockquote>
-<details markdown="1"> <summary>پروژه متن‌باز</summary> 
+### توضیحات پروژه هایدیفای
 
-
-کلیه سورس کدها در [گیت هاب](https://github.com/hiddify/hiddify-config) 
-</details>
 
 <details markdown="1"> <summary>کانفیگ‌های پشتیبانی شده</summary> 
 
@@ -49,28 +46,8 @@
 Ubuntu arm64 or amd64
 </details>
 
-</details>
-</blockquote>
 
-<details  markdown="1"> <summary>امکانات پنل هایدیفای</summary>
-<blockquote>
 
-<details markdown="1"> <summary>ارائه گزارش وضعیت سرویس </summary>
-نمایش میزان مصرف پروکسی و تعداد کاربران،  بر اساس،پروتوکل، شهر و اپراتور اینترنت با حفظ حریم خصوصی کاربران
-
-از طریق لینک زیر میتوانید مشاهده کنید وضعیت سرور رو
-
-`https://yourdomain.com/yoursecret/stats/` 
-</details>
-
-<details  markdown="1"> <summary>به روز رسانی خودکار</summary>
-
-به صورت پیش فرض به روزرسانی خودکار فعال است
-جهت غیرفعال کردن آن کد زیر را در `config.env` اضافه کنید
-```
-ENABLE_AUTO_UPDATE=false
-```
-</details>
 <details  markdown="1"> <summary>تست سرعت</summary>
 
 از این طریق میتوان سرعت سرور بدون فیلترشکن و با فیلترشکن را بررسی کرد
@@ -85,8 +62,30 @@ ENABLE_AUTO_UPDATE=false
  ![صفحه راهنمای کاربران](https://user-images.githubusercontent.com/114227601/206908372-db1fc206-4c6a-4206-ad39-e6b6b44a55c4.png)
 </details>
 
-</blockquote>
+<details markdown="1"> <summary>DNS over HTTPS (cdn support)</summary>
+ 
+ برای استفاده از DNS over HTTPS کافی است در مرورگر از dns زیر استفاده کنید:
+ 
+ `https://yourdomain.com/yoursecret/dns/dns-query{?dns}`
+ 
 </details>
+
+<details markdown="1"> <summary>Redirector (cdn support)</summary> 
+ 
+ نکته این امر آن است که برای مثال وقتی میخواهید پروکسی تلگرام یا پروکسی شدوساکس را از طریق برنامه های دیگر به اشتراک بگذارید امکان آن فراهم می شود. برای مثال اگر کانفیگ شدوساکس را به جای `fullURL` آن قرار دهید باعث میشود با کلیک بر روی این لینک، نرم افزار شدوساکس باز شده و پروکسی بر روی آن فعال شود.
+ 
+ `https://yourdomain.com/yoursecret/redirect/fullURL` 
+ 
+ به عنوان مثال:
+ 
+ `https://yourdomain.com/yoursecret/redirect/ss://secret/` 
+ 
+</details>
+
+
+</details>
+
+### راهنمای نصب
 
 <details markdown="1"> <summary>آموزش نصب خیلی سریع در OVH, Oracle, Hetzner, Vultr بدون نیاز به ssh و دانش فنی</summary>
 
@@ -138,29 +137,15 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 ```
 
 </details>
-<details markdown="1"> <summary>DNS over HTTPS (cdn support)</summary>
- 
- برای استفاده از DNS over HTTPS کافی است در مرورگر از dns زیر استفاده کنید:
- 
- `https://yourdomain.com/yoursecret/dns/dns-query{?dns}`
- 
-</details>
-
-<details markdown="1"> <summary>Redirector (cdn support)</summary> 
- 
- نکته این امر آن است که برای مثال وقتی میخواهید پروکسی تلگرام یا پروکسی شدوساکس را از طریق برنامه های دیگر به اشتراک بگذارید امکان آن فراهم می شود. برای مثال اگر کانفیگ شدوساکس را به جای `fullURL` آن قرار دهید باعث میشود با کلیک بر روی این لینک، نرم افزار شدوساکس باز شده و پروکسی بر روی آن فعال شود.
- 
- `https://yourdomain.com/yoursecret/redirect/fullURL` 
- 
- به عنوان مثال:
- 
- `https://yourdomain.com/yoursecret/redirect/ss://secret/` 
- 
-</details>
 
 
 
+### دموی سیستم
+- بخش کاربران
+![image](https://user-images.githubusercontent.com/114227601/218550439-52299d0a-3b3e-4054-a742-528ee3cf5810.png)
 
+- بخش مدیریت
+![image](https://user-images.githubusercontent.com/114227601/218550551-8caa38b8-6ffc-4c6d-93e2-3d3fe224d362.png)
 
 
 
