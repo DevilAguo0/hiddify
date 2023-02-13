@@ -7,7 +7,7 @@
 
 پنل گذر از فیلترینگ چند کاربره‌ی هیدیفای، با امکان نصب خیلی راحت و نصب بیش از 20 پروتوکل گذر از فیلترینگ + پروکسی تلگرام
 
-[سوالات رایج](https://github.com/hiddify/hiddify-config/discussions) --  [کانال تلگرام ما](https://t.me/hiddify) -- راهنمای نصب
+[سوالات رایج](https://github.com/hiddify/hiddify-config/discussions) --  [کانال تلگرام ما](https://t.me/hiddify) -- [راهنمای نصب](https://github.com/hiddify/hiddify-config/wiki#%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D9%86%D8%B5%D8%A8)
 ## فهرست مطالب
 
 ### توضیحات پروژه هایدیفای
