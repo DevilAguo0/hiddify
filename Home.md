@@ -104,7 +104,7 @@ Ubuntu arm64 or amd64
 </details>
 <details  markdown="1"> <summary>code for cloud-init</summary>
 
-در بعضی از شرکت ها شما میتوانید با استفاده از اسکریپت زیر به صورت خودکار پروکسی را نصب کنید و از آدرس  `https://yourip.sslip.io/`یا `http://yourip/` لینک صفحه کاربران را مشاهده کنید کافی است به جای yourip آی پی خود را قرار دهید.
+در بعضی از شرکت ها شما میتوانید با استفاده از اسکریپت زیر به صورت خودکار پروکسی را نصب کنید (به عنوان نمونه آموزش [هتزنر ](https://github.com/hiddify/hiddify-config/wiki/Hetzner-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D9%87%D8%AA%D8%B2%D9%86%D8%B1) و [OVH ](https://github.com/hiddify/hiddify-config/wiki/OVH-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D8%A7%D9%88-%D9%88%DB%8C-%D8%A7%DA%86) را مشاهده کنید) و از آدرس  `https://yourip.sslip.io`یا `http://yourip` لینک صفحه کاربران را مشاهده کنید کافی است به جای yourip آی پی خود را قرار دهید.
 
 ضمنا این لینک موقت فقط به مدت یک ساعت فعال خواهد بود و پس از آن غیرفعال خواهد شد
 
