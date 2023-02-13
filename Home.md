@@ -1,12 +1,13 @@
-
-<div dir="rtl" markdown="1">
 <div dir="ltr" markdown="1">
 
 ### [For English version click here](https://github.com/hiddify/hiddify-config/wiki/Home-en)
 </div>
 
+<div dir="rtl" markdown="1">
+
 پنل گذر از فیلترینگ چند کاربره‌ی هیدیفای، با امکان نصب خیلی راحت و نصب بیش از 20 پروتوکل گذر از فیلترینگ + پروکسی تلگرام
 
+[سوالات رایج](https://github.com/hiddify/hiddify-config/discussions) --  [کانال تلگرام ما](https://t.me/hiddify) -- راهنمای نصب
 ## فهرست مطالب
 
 ### توضیحات پروژه هایدیفای
@@ -87,7 +88,7 @@ Ubuntu arm64 or amd64
 
 ### راهنمای نصب
 
-<details markdown="1"> <summary>آموزش نصب خیلی سریع در OVH, Oracle, Hetzner, Vultr بدون نیاز به ssh و دانش فنی</summary>
+##### آموزش نصب خیلی سریع در OVH, Oracle, Hetzner, Vultr بدون نیاز به ssh و دانش فنی
 
 - [نصب خیلی خیلی سریع در ولتر Vultr (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/Vultr-نصب-خیلی-خیلی-سریع-در-ولتر)
 - [راه اندازی 4 سرور رایگان در اوراکل کلود (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/Oracle-نصب-خیلی-خیلی-سریع-در-اوراکل-کلود)
@@ -96,7 +97,7 @@ Ubuntu arm64 or amd64
 
 </details>
 
-<details markdown="1"> <summary>آموزش نصب در سرور از پیش آماده اوبونتو با ssh</summary>
+##### آموزش نصب در سرور از پیش آماده اوبونتو با ssh
 
 - [نصب سریع با یک دستور در سرور اوبونتو](https://github.com/hiddify/hiddify-config/wiki/نصب-سریع-در-اوبونتو)
 - [نصب با داکر](https://github.com/hiddify/hiddify-config/wiki/نصب-با-داکر)
@@ -139,7 +140,7 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 </details>
 
 
-### [کانال تلگرام (کلیک کنید)](https://t.me/hiddify)
+
 ### دموی سیستم
 - بخش کاربران
 ![image](https://user-images.githubusercontent.com/114227601/218550439-52299d0a-3b3e-4054-a742-528ee3cf5810.png)
