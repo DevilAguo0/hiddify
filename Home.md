@@ -115,6 +115,8 @@ Ubuntu arm64 or amd64
 
 ضمنا این لینک موقت فقط به مدت یک ساعت فعال خواهد بود و پس از آن غیرفعال خواهد شد
 
+<div dir="ltr" markdown="1">
+
 ```
 #cloud-config
 package_upgrade: true
@@ -131,10 +133,6 @@ runcmd:
   - cd /opt
   - git clone https://github.com/hiddify/hiddify-config/
   - cd hiddify-config
- # uncomment it for using a special secret other wise it will be createed automatically
- # - echo "USER_SECRET=0123456789abcdef0123456789abcdef" >config.env
- # - echo "MAIN_DOMAIN=" >>config.env
-  - echo "TELEGRAM_AD_TAG=" >>config.env
   - bash install.sh
 
 final_message: "The system is finally up, after $UPTIME seconds"
@@ -145,6 +143,7 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 
 </details>
 
+</div>
 
 
 ### دموی سیستم
