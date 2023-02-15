@@ -6,17 +6,17 @@
 
 <div dir="rtl" markdown="1">
 
-<a href="/hiddify/hiddify-config/wiki/Home-en" class="btn">سوالات رایج</a>
+
+[معرفی](https://github.com/hiddify/hiddify-config/discussions/categories/q-a-%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%B1%D8%A7%DB%8C%D8%AC) &nbsp;&nbsp;&nbsp;&nbsp; [سوالات رایج](https://github.com/hiddify/hiddify-config/discussions/categories/q-a-%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%B1%D8%A7%DB%8C%D8%AC) &nbsp;&nbsp;&nbsp;&nbsp; [راهنمای نصب](https://github.com/hiddify/hiddify-config/wiki#%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D9%86%D8%B5%D8%A8) &nbsp;&nbsp;&nbsp;&nbsp; [گزارش اشکالات](https://github.com/hiddify/hiddify-config/issues) &nbsp;&nbsp;&nbsp;&nbsp; [کانال تلگرام](https://t.me/hiddify)
 
 
+[معرفی](https://github.com/hiddify/hiddify-config/discussions/categories/q-a-%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%B1%D8%A7%DB%8C%D8%AC)&nbsp;&nbsp;&nbsp;&nbsp;[سوالات رایج](https://github.com/hiddify/hiddify-config/discussions/categories/q-a-%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%B1%D8%A7%DB%8C%D8%AC)&nbsp;&nbsp;&nbsp;&nbsp;[راهنمای نصب](https://github.com/hiddify/hiddify-config/wiki#%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D9%86%D8%B5%D8%A8)&nbsp;&nbsp;&nbsp;&nbsp;[کانال تلگرام](https://t.me/hiddify)
 
-| [سوالات رایج](https://github.com/hiddify/hiddify-config/discussions/categories/q-a-%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%B1%D8%A7%DB%8C%D8%AC) | [کانال تلگرام ما](https://t.me/hiddify) | [راهنمای نصب](https://github.com/hiddify/hiddify-config/wiki#%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D9%86%D8%B5%D8%A8)|  [گزارش اشکال](https://github.com/hiddify/hiddify-config/issues)
-| -----|----|----|----|
 
 <!--[دموی سیستم](https://github.com/hiddify/hiddify-config/wiki#%D8%AF%D9%85%D9%88%DB%8C-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85)|-->
 
 
-## پنل گذر از فیلترینگ چند کاربره‌ی هیدیفای
+## معرفی
 پنل گذر از فیلترینگ چند کاربره‌ی هیدیفای، با امکان نصب خیلی راحت و نصب بیش از ۲۰ پروتوکل گذر از فیلترینگ + پروکسی تلگرام
 ### توضیحات پروژه
 
@@ -95,7 +95,7 @@ Ubuntu arm64 or amd64
 </details>
 </details>
 
-### راهنمای نصب
+## راهنمای نصب
 ##### راهنمای نصب اگر هیچ دانش کامپیوتری ندارید و نمیدانید از کجا شروع کنید
 - [نصب خیلی خیلی سریع](https://github.com/hiddify/hiddify-config/wiki/Vultr-نصب-خیلی-خیلی-سریع-در-ولتر)
 
