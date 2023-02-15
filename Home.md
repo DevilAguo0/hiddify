@@ -107,7 +107,7 @@ Ubuntu arm64 or amd64
 
 ##### راهنمای نصب در سرور از پیش آماده اوبونتو با ssh
 
-- [نصب سریع با یک دستور در سرور اوبونتو](https://github.com/hiddify/hiddify-config/wiki/نصب-سریع-در-اوبونتو)
+- [نصب با یک دستور در سرور اوبونتو](https://github.com/hiddify/hiddify-config/wiki/نصب-سریع-در-اوبونتو)
 - [نصب با داکر](https://github.com/hiddify/hiddify-config/wiki/نصب-با-داکر)
 
 </details>
