@@ -5,7 +5,8 @@
 
 <div dir="rtl" markdown="1">
 
-<a href="#" class="btn">سوالات رایج</a>
+<a href="/hiddify/hiddify-config/wiki/Home-en.md" class="btn">سوالات رایج</a>
+
 
 
 
