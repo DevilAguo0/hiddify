@@ -1,8 +1,4 @@
-<link rel="stylesheet" type="text/css" href="styles.css">
 
-<style>
-.a{color:black}
-</style>
 <div dir="ltr" markdown="1">
 
 ### [For English version click here](https://github.com/hiddify/hiddify-config/wiki/Home-en)
