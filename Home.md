@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="styles.css">
+
 <div dir="ltr" markdown="1">
 
 ### [For English version click here](https://github.com/hiddify/hiddify-config/wiki/Home-en)
@@ -6,7 +8,6 @@
 <div dir="rtl" markdown="1">
 
 <a href="/hiddify/hiddify-config/wiki/Home-en" class="btn">سوالات رایج</a>
-
 
 
 
