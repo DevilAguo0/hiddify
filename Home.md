@@ -94,6 +94,8 @@ Ubuntu arm64 or amd64
 </details>
 
 ### راهنمای نصب
+##### راهنمای نصب اگر هیچ دانش کامپیوتری ندارید و نمیدانید از کجا شروع کنید
+- [نصب خیلی خیلی سریع](https://github.com/hiddify/hiddify-config/wiki/Vultr-نصب-خیلی-خیلی-سریع-در-ولتر)
 
 ##### آموزش نصب خیلی سریع در OVH, Oracle, Hetzner, Vultr بدون نیاز به ssh و دانش فنی
 
