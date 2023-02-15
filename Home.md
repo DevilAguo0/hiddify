@@ -5,6 +5,8 @@
 
 <div dir="rtl" markdown="1">
 
+<a href="#" class="btn">سوالات رایج</a>
+
 
 
 | [سوالات رایج](https://github.com/hiddify/hiddify-config/discussions/categories/q-a-%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%B1%D8%A7%DB%8C%D8%AC) | [کانال تلگرام ما](https://t.me/hiddify) | [راهنمای نصب](https://github.com/hiddify/hiddify-config/wiki#%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D9%86%D8%B5%D8%A8)|  [گزارش اشکال](https://github.com/hiddify/hiddify-config/issues)
