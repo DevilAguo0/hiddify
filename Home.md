@@ -94,19 +94,18 @@ Ubuntu arm64 or amd64
 </details>
 
 ## راهنمای نصب
-##### راهنمای نصب اگر هیچ دانش کامپیوتری ندارید و نمیدانید از کجا شروع کنید
-- [نصب خیلی خیلی سریع](https://github.com/hiddify/hiddify-config/wiki/Vultr-نصب-خیلی-خیلی-سریع-در-ولتر)
 
-##### آموزش نصب خیلی سریع در OVH, Oracle, Hetzner, Vultr بدون نیاز به ssh و دانش فنی
 
-- [نصب خیلی خیلی سریع در ولتر Vultr (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/Vultr-نصب-خیلی-خیلی-سریع-در-ولتر)
-- [راه اندازی چهار سرور رایگان در اوراکل کلود (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/Oracle-نصب-خیلی-خیلی-سریع-در-اوراکل-کلود)
-- [آموزش نصب خیلی خیلی سریع در OVH (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/OVH-نصب-خیلی-سریع-در-او-وی-اچ)
-- [آموزش نصب خیلی خیلی سریع در هتزنر (بدون ssh)](https://github.com/hiddify/hiddify-config/wiki/Hetzner-نصب-خیلی-سریع-در-هتزنر)
+##### راهنمای نصب سریع و آسان در بدون نیاز  دانش فنی و ssh
+
+- [نصب در ولتر Vultr (گزینه پیشنهادی برای شروع ) ](https://github.com/hiddify/hiddify-config/wiki/Vultr-نصب-خیلی-خیلی-سریع-در-ولتر)
+- [نصب در اوراکل کلود (چهار سرور رایگان)](https://github.com/hiddify/hiddify-config/wiki/Oracle-نصب-خیلی-خیلی-سریع-در-اوراکل-کلود)
+- [نصب در OVH ](https://github.com/hiddify/hiddify-config/wiki/OVH-نصب-خیلی-سریع-در-او-وی-اچ)
+- [نصب در هتزنر](https://github.com/hiddify/hiddify-config/wiki/Hetzner-نصب-خیلی-سریع-در-هتزنر)
 
 </details>
 
-##### آموزش نصب در سرور از پیش آماده اوبونتو با ssh
+##### راهنمای نصب در سرور از پیش آماده اوبونتو با ssh
 
 - [نصب سریع با یک دستور در سرور اوبونتو](https://github.com/hiddify/hiddify-config/wiki/نصب-سریع-در-اوبونتو)
 - [نصب با داکر](https://github.com/hiddify/hiddify-config/wiki/نصب-با-داکر)
