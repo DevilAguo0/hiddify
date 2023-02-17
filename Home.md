@@ -79,7 +79,8 @@ Ubuntu arm64 or amd64
  
  `https://yourdomain.com/yoursecret/redirect/fullURL` 
  
- به عنوان مثال:
+
+"fullURL" را با کانفیگ Shadowsocks جایگزین کنید:
  
  `https://yourdomain.com/yoursecret/redirect/ss://secret/` 
  
