@@ -59,27 +59,22 @@ In this way, you can check the speed of the server with and without anti-filter.
 
 </details>
 
- <details markdown="1"> <summary>صفحات راهنمای کاربران</summary> 
- با امکان تولید qrcode
-
- ![صفحه راهنمای کاربران](https://user-images.githubusercontent.com/114227601/206908372-db1fc206-4c6a-4206-ad39-e6b6b44a55c4.png)
-</details>
-
-<details markdown="1"> <summary>DNS over HTTPS (cdn support)</summary>
  
- برای استفاده از DNS over HTTPS کافی است در مرورگر از dns زیر استفاده کنید:
+
+<details markdown="1"> <summary>DNS over HTTPS (CDN support)</summary>
+ 
+ to use DNS over HTTPS, just use the following DNS in the browser. 
  
  `https://yourdomain.com/yoursecret/dns/dns-query{?dns}`
  
 </details>
 
-<details markdown="1"> <summary>Redirector (cdn support)</summary> 
-  وقتی میخواهید پروکسی تلگرام یا پروکسی شدوساکس را از طریق برنامه های دیگر به اشتراک بگذارید امکان ریدایرکت با پشتیبانی سی دی ان فراهم می شود. برای مثال اگر کانفیگ شدوساکس را به جای fullURL قرار دهید باعث میشود با کلیک بر روی این لینک، اپ شدوساکس باز شده و پروکسی بر روی آن فعال شود. برای مثال:
- 
+<details markdown="1"> <summary>Redirector (CDN support)</summary> 
+When you want to share Telegram proxy or Shadowsocks proxy through other programs, it is possible to redirect with CDN support. For example, if you put the Shadowsocks configuration instead of "fullURL", clicking on this link will open Shadowsocks app and activate the proxy on it. For example:
  `https://yourdomain.com/yoursecret/redirect/fullURL` 
- 
 
-"fullURL" را با کانفیگ Shadowsocks جایگزین کنید:
+ Replace "fullURL" by the Shadowsocks configuration. 
+
  
  `https://yourdomain.com/yoursecret/redirect/ss://secret/` 
  
@@ -89,28 +84,31 @@ In this way, you can check the speed of the server with and without anti-filter.
 </details>
 </details>
 
-## راهنمای نصب
+## Installation Guide
 
 
-##### راهنمای نصب سریع و آسان بدون نیاز به دانش فنی و ssh
+##### Quick and easy installation guide with no technical knowledge and ssh required
 
-- [نصب در ولتر Vultr (گزینه پیشنهادی برای شروع ) ](https://github.com/hiddify/hiddify-config/wiki/Vultr-نصب-خیلی-خیلی-سریع-در-ولتر)
-- [نصب در اوراکل کلود (چهار سرور رایگان)](https://github.com/hiddify/hiddify-config/wiki/Oracle-نصب-خیلی-خیلی-سریع-در-اوراکل-کلود)
-- [نصب در OVH ](https://github.com/hiddify/hiddify-config/wiki/OVH-نصب-خیلی-سریع-در-او-وی-اچ)
-- [نصب در هتزنر](https://github.com/hiddify/hiddify-config/wiki/Hetzner-نصب-خیلی-سریع-در-هتزنر)
+- [Installation in Vultr (Recommended option to start) ](https://github.com/hiddify/hiddify-config/wiki/Vultr-نصب-خیلی-خیلی-سریع-در-ولتر)
+- [Installation in Oracle Cloud (four free servers)](https://github.com/hiddify/hiddify-config/wiki/Oracle-نصب-خیلی-خیلی-سریع-در-اوراکل-کلود)
+- [Installation in OVH ](https://github.com/hiddify/hiddify-config/wiki/OVH-نصب-خیلی-سریع-در-او-وی-اچ)
+- [Installation in Hetzner](https://github.com/hiddify/hiddify-config/wiki/Hetzner-نصب-خیلی-سریع-در-هتزنر)
 
-##### راهنمای نصب در سرور از پیش آماده اوبونتو با ssh
+##### Installation guide on pre-prepared Ubuntu server with ssh
 
-- [نصب با یک دستور در سرور اوبونتو](https://github.com/hiddify/hiddify-config/wiki/نصب-سریع-در-اوبونتو)
-- [نصب با داکر](https://github.com/hiddify/hiddify-config/wiki/نصب-با-داکر)
+- [Installation with one command on Ubuntu server](https://github.com/hiddify/hiddify-config/wiki/نصب-سریع-در-اوبونتو)
+- [Installation with Docker](https://github.com/hiddify/hiddify-config/wiki/نصب-با-داکر)
 
 
 <details  markdown="1"> <summary>code for cloud-init</summary>
+On some server provider websites, you can automatically install the proxy using the following script. For example, see [Hetzner]
 
-در بعضی از سایت‌های ارائه دهنده سرور، میتوانید با استفاده از اسکریپت زیر به صورت خودکار پروکسی را نصب کنید (به عنوان نمونه آموزش [هتزنر ](https://github.com/hiddify/hiddify-config/wiki/Hetzner-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D9%87%D8%AA%D8%B2%D9%86%D8%B1) و [OVH ](https://github.com/hiddify/hiddify-config/wiki/OVH-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D8%A7%D9%88-%D9%88%DB%8C-%D8%A7%DA%86) را مشاهده کنید) و از آدرس  `https://yourip.sslip.io`یا `http://yourip` لینک صفحه کاربران را مشاهده کنید کافی است به جای yourip آی پی خود را قرار دهید.
+(https://github.com/hiddify/hiddify-config/wiki/Hetzner-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D9%87%D8%AA%D8%B2%D9%86%D8%B1) and [OVH ](https://github.com/hiddify/hiddify-config/wiki/OVH-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D8%A7%D9%88-%D9%88%DB%8C-%D8%A7%DA%86)
 
-ضمنا این لینک موقت فقط به مدت یک ساعت فعال خواهد بود و پس از آن غیرفعال خواهد شد
 
+And from `https://yourip.sslip.io`or `http://yourip` you can see the link of the user page, just put your IP instead of "yourip"
+
+Note that this temporary link will only be active for one hour, after which it will be deactivated. 
 <div dir="ltr" markdown="1">
 
 ```
@@ -143,11 +141,11 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 
 
 
-## دموی سیستم
-- بخش کاربران
+## User Interface
+- For users
 ![image](https://user-images.githubusercontent.com/114227601/218550439-52299d0a-3b3e-4054-a742-528ee3cf5810.png)
 
-- بخش مدیریت
+- For admin
 ![image](https://user-images.githubusercontent.com/114227601/218550551-8caa38b8-6ffc-4c6d-93e2-3d3fe224d362.png)
 
 
