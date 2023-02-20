@@ -46,7 +46,7 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 ۲. در قسمت سرور تیک گزینه Enable Cloud-Init User-Data را بزنید و کد کپی شده را در آن قرار دهید. پس از حداکثر ۱۰ تا ۱۵ دقیقه پروکسی شما فعال خواهد بود.
 
 ![image](https://user-images.githubusercontent.com/114227601/206862792-ed30c212-efe4-47cf-8973-c3129a09499f.png)
-
+![](https://github.com/hiddify/hiddify-config/blob/main/wiki_images/Coud%20Init%20Code.jpg)
 
 
 
