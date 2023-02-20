@@ -7,7 +7,7 @@
 
 [![vultr](https://img.youtube.com/vi/hRRg10BURJI/maxresdefault.jpg)](https://www.youtube.com/watch?v=hRRg10BURJI)
 
-## مراحل نصب
+## مراحل نصب پروکسی
 
 ۱. در مرحله انتخاب سیستم عامل، حتما گزینه Ubuntu 22.04 را انتخاب کنید.
 
