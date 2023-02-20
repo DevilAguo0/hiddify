@@ -68,7 +68,7 @@ Ubuntu arm64 or amd64
  ![صفحه راهنمای کاربران](https://user-images.githubusercontent.com/114227601/206908372-db1fc206-4c6a-4206-ad39-e6b6b44a55c4.png)
 </details>
 
-<details markdown="1"> <summary>DNS over HTTPS (cdn support)</summary>
+<details markdown="1"> <summary>DNS over HTTPS (CDN support)</summary>
  
  برای استفاده از DNS over HTTPS کافی است در مرورگر از dns زیر استفاده کنید:
  
@@ -76,7 +76,7 @@ Ubuntu arm64 or amd64
  
 </details>
 
-<details markdown="1"> <summary>Redirector (cdn support)</summary> 
+<details markdown="1"> <summary>Redirector (CDN support)</summary> 
   وقتی میخواهید پروکسی تلگرام یا پروکسی شدوساکس را از طریق برنامه های دیگر به اشتراک بگذارید امکان ریدایرکت با پشتیبانی سی دی ان فراهم می شود. برای مثال اگر کانفیگ شدوساکس را به جای fullURL قرار دهید باعث میشود با کلیک بر روی این لینک، اپ شدوساکس باز شده و پروکسی بر روی آن فعال شود. برای مثال:
  
  `https://yourdomain.com/yoursecret/redirect/fullURL` 
