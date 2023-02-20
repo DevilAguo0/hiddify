@@ -132,7 +132,7 @@ runcmd:
 final_message: "The system is finally up, after $UPTIME seconds"
 output: { all: "| tee -a /root/cloud-init-output.log" }
 
-# you can see the generated link from the website by using http://yourip/ or https://yourip.sslip.io in one hour, after that, it will be disapear. 
+# you can see the generated link from the website by using http://yourip/ or https://yourip.sslip.io in one hour, after that, it will be disappeared. 
 ```
 </div>
 
