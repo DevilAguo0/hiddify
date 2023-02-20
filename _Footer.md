@@ -7,7 +7,7 @@
 </div>
 
   - [Credit card and PayPal](https://opencollective.com/hiddify/contribute/backer-50556/checkout?interval=month&amount=25)
-  - Ton: [`EQCWnykA-YhavOXgH3sf-uxtXLjy83_9n5bJPGRPE8r2247_`](https://tonwhales.com/explorer/address/UQBcMO1OFsfEMZL3PfJpGGVjOan0Dz-eaBdqSaaWicazYT2b)
+  - Ton: [`EQCWnykA-YhavOXgH3sf-uxtXLjy83_9n5bJPGRPE8r2247_`](https://tonwhales.com/explorer/address/EQCWnykA-YhavOXgH3sf-uxtXLjy83_9n5bJPGRPE8r2247_)
   - Ethereum: `0xF15ec158318d7F5236d82d040102340B0974C3E0`
   - Bitcoin: `3Epy7jyUUCVb1w12MNTu2JFVVhmfpr4EGX`
   - Dogecoin: `DJy27pQKwnhaRxWDbU6dG7UdHHif6yp8Jb`
