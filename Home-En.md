@@ -96,7 +96,7 @@ When you want to share Telegram proxy or Shadowsocks proxy through other program
 
 ##### Installation guide on pre-prepared Ubuntu server with ssh
 
-- [Installation with one command on Ubuntu server](https://github.com/hiddify/hiddify-config/wiki/نصب-سریع-در-اوبونتو)
+- [Installation on Ubuntu server (one command)](https://github.com/hiddify/hiddify-config/wiki/نصب-سریع-در-اوبونتو)
 - [Installation with Docker](https://github.com/hiddify/hiddify-config/wiki/نصب-با-داکر)
 
 
