@@ -21,7 +21,7 @@ Hiddify multi-user anti-filtering panel, with an effortless installation and sup
 
 <details markdown="1"> <summary>Supported protocols</summary> 
 
-| کانفیگ های پشتیبانی شده | Supported Configs |
+| Supported Configs | Supported Configs |
 | - | - |
 | ♥ **Telegram Proxy** ♥ | **vless+xtls** |
 | **Web Socket (cdn support)**:<br> - vless+tls+ws <br>- trojan+tls+ws <br> - vmess+tls+ws | **h2+tls**:<br> - vless+tls<br> - trojan+tls<br> - vmess+tls |
@@ -63,7 +63,7 @@ In this way, you can check the speed of the server with and without anti-filter.
 
 <details markdown="1"> <summary>DNS over HTTPS (CDN support)</summary>
  
- to use DNS over HTTPS, just use the following DNS in the browser. 
+To use DNS over HTTPS, just use the following DNS in the browser. 
  
  `https://yourdomain.com/yoursecret/dns/dns-query{?dns}`
  
