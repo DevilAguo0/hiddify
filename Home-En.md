@@ -100,7 +100,7 @@ When you want to share Telegram proxy or Shadowsocks proxy through other program
 - [Installation with Docker](https://github.com/hiddify/hiddify-config/wiki/نصب-با-داکر)
 
 
-<details  markdown="1"> <summary>code for cloud-init</summary>
+<details  markdown="1"> <summary>Code for cloud-init</summary>
 On some server provider websites, you can automatically install the proxy using the following script. For example, see [Hetzner]
 
 (https://github.com/hiddify/hiddify-config/wiki/Hetzner-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D9%87%D8%AA%D8%B2%D9%86%D8%B1) and [OVH ](https://github.com/hiddify/hiddify-config/wiki/OVH-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D8%A7%D9%88-%D9%88%DB%8C-%D8%A7%DA%86)
