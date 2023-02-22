@@ -143,10 +143,10 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 
 ## User Interface
 - For users
-![image](https://user-images.githubusercontent.com/114227601/218550439-52299d0a-3b3e-4054-a742-528ee3cf5810.png)
+![Hiddify User Page](https://user-images.githubusercontent.com/114227601/220698460-c8b56096-f34d-413b-8129-cfd6dd29cc7e.png)
 
 - For admin
-![image](https://user-images.githubusercontent.com/114227601/218550551-8caa38b8-6ffc-4c6d-93e2-3d3fe224d362.png)
+![Hiddify Admin page](https://user-images.githubusercontent.com/114227601/220697943-b25af716-eb26-4220-867d-3c1eee4fc21b.png)
 
 
 
