@@ -30,13 +30,12 @@
 </div>
 
 ***
-<div dir="rtl" markdown="1">
 
 ## Support us
 The easiest way to support us is to click on the star (⭐) at the top of the GitHub page.
 
 We also need financial support for our services (all of our activities are done voluntarily and the financial support will be spent on the development of the project). 
-</div>
+
 
   - [Credit card and PayPal](https://opencollective.com/hiddify/contribute/backer-50556/checkout?interval=month&amount=25)
   - Ton: [`EQCWnykA-YhavOXgH3sf-uxtXLjy83_9n5bJPGRPE8r2247_`](https://tonwhales.com/explorer/address/EQCWnykA-YhavOXgH3sf-uxtXLjy83_9n5bJPGRPE8r2247_)
@@ -46,7 +45,7 @@ We also need financial support for our services (all of our activities are done 
 
 
 
-<div dir="rtl" markdown="1">
+
 
 ## Collaborate with us
 We need your help in developing this project.
@@ -59,4 +58,3 @@ If you have the ability in any of the following fields, contact us:
 ## Contact us
 * email:[hiddify@gmail.com](mailto:hiddify@gmail.com)
 * ### [Telegram channel  ](https://t.me/hiddify)
-</div>
