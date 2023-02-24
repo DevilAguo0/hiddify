@@ -17,7 +17,7 @@
 <div dir="ltr" markdown="1">
 
 ## Introduction
-Hiddify multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy. 
+Hiddify multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.  It is a X-UI replacement.
 
 <details markdown="1"> <summary>Supported protocols</summary> 
 
