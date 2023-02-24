@@ -56,5 +56,5 @@ If you have the ability in any of the following fields, contact us:
 * Kotlin developer
 
 ## Contact us
-* email: [hiddify@gmail.com](mailto:hiddify@gmail.com)
+* Email: [hiddify@gmail.com](mailto:hiddify@gmail.com)
 * ### [Telegram channel  ](https://t.me/hiddify)
