@@ -13,7 +13,9 @@
 `Add-WindowsCapability -Online -Name OpenSSH.Client`
 </div>
 پس از آن چنین چیزی را باید مشاهده کنید:
+
 ![image](https://user-images.githubusercontent.com/114227601/222904870-e709f69e-1a8d-4a6d-ad6a-3d7bdcd917c3.png)
+
 تبریک نصب ssh به پایان رسید
 </details>
 
