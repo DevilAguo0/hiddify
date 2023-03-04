@@ -9,6 +9,7 @@
 
 
 <div dir="ltr">
+
 `Add-WindowsCapability -Online -Name OpenSSH.Client`
 </div>
 پس از آن چنین چیزی را باید مشاهده کنید:
