@@ -21,7 +21,12 @@ $ **ssh root@<IP_Address>**
 
 <div dir="rtl">
 اگر کلاینت شما ویندوز است؛ می توانید از پاورشل استفاده نمایید. ابتدا اگر تا کنون ماژول OpenSSH را نصب ننموده اید؛ پاورشل را با دسترسی ادمین باز کنید و این کامند را اجرا کنید:
- Add-WindowsCapability -Online -Name OpenSSH.Client
+</div>
+
+Add-WindowsCapability -Online -Name OpenSSH.Client
+
+<div dir="rtl">
+
 پس از نصب SSH؛ می توانید با روش قبل به سرور متصل شوید.
 
 </div>
