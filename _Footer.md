@@ -1,14 +1,15 @@
+## Donation and support &nbsp;&nbsp;&nbsp;&nbsp; از ما حمایت کنید
+The easiest way to support us is to click on the star (⭐) at the top of the [GitHub page](https://github.com/hiddify/hiddify-config).
 <div dir="rtl" markdown="1">
 
-## از ما حمایت کنید
-The easiest way to support us is to click on the star (⭐) at the top of the GitHub page.
-
-ساده‌ترین راه حمایت از ما کلیک کردن روی ستاره (⭐) بالای صفحه گیتهاب است.
-
-ما برای سرویس هایمان به کمک مالی هم نیاز داریم (تمامی فعالیت‌های ما به صورت داوطلبانه انجام می‌شود و حمایت‌های مالی صرف توسعه پروژه می‌شود).
+ساده‌ترین راه حمایت از ما کلیک کردن روی ستاره (⭐) بالای صفحه [گیتهاب](https://github.com/hiddify/hiddify-config) است.
 
 </div>
 We also need financial support for our services (all of our activities are done voluntarily and the financial support will be spent on the development of the project). 
+
+<div dir="rtl" markdown="1">
+ما برای سرویس هایمان به کمک مالی هم نیاز داریم (تمامی فعالیت‌های ما به صورت داوطلبانه انجام می‌شود و حمایت‌های مالی صرف توسعه پروژه می‌شود).
+</div>
 
   - [Credit card and PayPal](https://opencollective.com/hiddify/contribute/backer-50556/checkout?interval=month&amount=25)
   - Ton: [`EQCWnykA-YhavOXgH3sf-uxtXLjy83_9n5bJPGRPE8r2247_`](https://tonwhales.com/explorer/address/EQCWnykA-YhavOXgH3sf-uxtXLjy83_9n5bJPGRPE8r2247_)
@@ -18,19 +19,21 @@ We also need financial support for our services (all of our activities are done 
   - Dogecoin: `DJy27pQKwnhaRxWDbU6dG7UdHHif6yp8Jb`
 
 
-
+## Collaborate with us &nbsp;&nbsp;&nbsp;&nbsp; با ما همکاری کنید
+We need your collaboration in order to develop this project. If you are specialists in these areas, please do not hesitate to [contact us](https://github.com/hiddify/hiddify-config/wiki/_Footer/_edit#contact-us):
 <div dir="rtl" markdown="1">
 
-## با ما همکاری کنید
-به کمک شما در توسعه این پروژه نیاز داریم.
-اگر در هر یک از زمینه‌های زیر توانایی دارید، با ما در تماس باشید:
-
-* تولید‌کننده محتوا 
-* برنامه‌نویس پایتون
-* برنامه‌نویس Kotlin
-
-## راه‌های ارتباط با ما
-* ایمیل: [hiddify@gmail.com](mailto:hiddify@gmail.com)
-* ### [کانال تلگرام  ](https://t.me/hiddify)
+اگر در هر یک از زمینه‌های زیر توانایی دارید، با ما در [تماس ](https://github.com/hiddify/hiddify-config/wiki/_Footer/_edit#contact-us)باشید:
 </div>
+
+* media production &nbsp;&nbsp;&nbsp;&nbsp; تولید محتوا
+* Python developing &nbsp;&nbsp;&nbsp;&nbsp; برنامه‌نویسی پایتون 
+* Kotlin developing &nbsp;&nbsp;&nbsp;&nbsp; برنامه‌نویسی کاتلین
+
+## Contact us &nbsp;&nbsp;&nbsp;&nbsp; راه‌های ارتباط با ما
+Email: [hiddify@gmail.com](mailto:hiddify@gmail.com)
+
+Annoncements: [Telegram Channel](https://t.me/hiddify)
+
+Discussion: [Telegram topics](https://t.me/hiddify_board)
 
