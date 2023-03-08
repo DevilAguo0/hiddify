@@ -26,14 +26,12 @@ We need your collaboration in order to develop this project. If you are speciali
 اگر در هر یک از زمینه‌های زیر توانایی دارید، با ما در [تماس ](https://github.com/hiddify/hiddify-config/wiki/_Footer/_edit#contact-us)باشید:
 </div>
 
-* media production &nbsp;&nbsp;&nbsp;&nbsp; تولید محتوا
+* Media production &nbsp;&nbsp;&nbsp;&nbsp; تولید محتوا
 * Python developing &nbsp;&nbsp;&nbsp;&nbsp; برنامه‌نویسی پایتون 
 * Kotlin developing &nbsp;&nbsp;&nbsp;&nbsp; برنامه‌نویسی کاتلین
 
 ## Contact us &nbsp;&nbsp;&nbsp;&nbsp; راه‌های ارتباط با ما
-Email: [hiddify@gmail.com](mailto:hiddify@gmail.com)
-
-Annoncements: [Telegram Channel](https://t.me/hiddify)
-
-Discussion: [Telegram topics](https://t.me/hiddify_board)
+* Email: [hiddify@gmail.com](mailto:hiddify@gmail.com)
+* Annoncements: [Telegram Channel](https://t.me/hiddify)
+* Discussion: [Telegram topics](https://t.me/hiddify_board)
 
