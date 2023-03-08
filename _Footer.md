@@ -1,5 +1,5 @@
 ## Donation and support &nbsp;&nbsp;&nbsp;&nbsp; از ما حمایت کنید
-The easiest way to support us is to click on the star (⭐) at the top of the [GitHub page](https://github.com/hiddify/hiddify-config).
+The easiest way to support us is to click on the star (⭐) at the top of [GitHub page](https://github.com/hiddify/hiddify-config).
 <div dir="rtl" markdown="1">
 
 ساده‌ترین راه حمایت از ما کلیک کردن روی ستاره (⭐) بالای صفحه [گیتهاب](https://github.com/hiddify/hiddify-config) است.
