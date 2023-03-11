@@ -158,8 +158,8 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 ## دموی سیستم
 <div align="center" markdown="1">
 
-<img width="50%" src="https://user-images.githubusercontent.com/114227601/218550439-52299d0a-3b3e-4054-a742-528ee3cf5810.png" />
-<img width="50%" src="https://user-images.githubusercontent.com/114227601/218550551-8caa38b8-6ffc-4c6d-93e2-3d3fe224d362.png" />
+<img width="49%" src="https://user-images.githubusercontent.com/114227601/218550439-52299d0a-3b3e-4054-a742-528ee3cf5810.png" />
+<img width="49%" src="https://user-images.githubusercontent.com/114227601/218550551-8caa38b8-6ffc-4c6d-93e2-3d3fe224d362.png" />
 
 </div>
 
