@@ -5,7 +5,7 @@ The easiest way to support us is to click on the star (⭐) at the top of [GitHu
 ساده‌ترین راه حمایت از ما کلیک کردن روی ستاره (⭐) بالای صفحه [گیتهاب](https://github.com/hiddify/hiddify-config) است.
 
 </div>
-We also need financial support for our services (all of our activities are done voluntarily and the financial support will be spent on the development of the project). 
+We also need financial support for our services (all of our activities are done voluntarily and financial support will be spent on the development of the project). 
 
 <div dir="rtl" markdown="1">
 ما برای سرویس هایمان به کمک مالی هم نیاز داریم (تمامی فعالیت‌های ما به صورت داوطلبانه انجام می‌شود و حمایت‌های مالی صرف توسعه پروژه می‌شود).
