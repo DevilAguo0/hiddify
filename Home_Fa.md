@@ -1,7 +1,7 @@
 
 <div dir="ltr" markdown="1">
 
-### [For English version click here](https://github.com/hiddify/hiddify-config/wiki/Home)
+### [English version](https://github.com/hiddify/hiddify-config/wiki/Home)
 </div>
 
 <div dir="rtl" markdown="1">
