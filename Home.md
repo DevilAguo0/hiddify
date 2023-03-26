@@ -1,7 +1,7 @@
 
 <div dir="rtl" markdown="1">
 
-### [نسخه فارسی](https://github.com/hiddify/hiddify-config/wiki/Home_Fa)
+ [فارسی](https://github.com/hiddify/hiddify-config/wiki/Home_Fa)
 
 
 
