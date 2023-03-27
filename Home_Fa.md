@@ -3,29 +3,19 @@
 
 [English](https://github.com/hiddify/hiddify-config/wiki)
 </div>
+</br>
+<div align=center markdown="1">
 
+
+<img src="https://user-images.githubusercontent.com/125398461/227987559-b4732223-fa47-466c-8323-a8b7b1a5c687.png" />
+</div>
+</br>
 <div dir="rtl" markdown="1">
 
 
-***
-[راهنمای نصب](https://github.com/hiddify/hiddify-config/wiki#%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D9%86%D8%B5%D8%A8) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[دموی سیستم](https://github.com/hiddify/hiddify-config/wiki#%D8%AF%D9%85%D9%88%DB%8C-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[سوالات رایج](https://github.com/hiddify/hiddify-config/discussions/categories/q-a-%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%B1%D8%A7%DB%8C%D8%AC) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[گزارش اشکالات](https://github.com/hiddify/hiddify-config/issues)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
-[کانال تلگرام](https://t.me/hiddify) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[آموزش پنل](https://github.com/hiddify/hiddify-config/wiki/%D9%86%D8%AD%D9%88%D9%87-%D9%BE%DB%8C%DA%A9%D8%B1%D8%A8%D9%86%D8%AF%DB%8C-%D9%BE%D9%86%D9%84-%D9%87%DB%8C%D8%AF%DB%8C%D9%81%D8%A7%DB%8C) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[گروه تلگرام رفع اشکال](https://t.me/hiddify_board)
-***
-
-
-
-## معرفی
-[ویدیو معرفی کامل](https://youtu.be/-a4tfRUsrNY)
-
-پنل گذر از فیلترینگ چند کاربره‌ی هیدیفای، با امکان نصب خیلی راحت و نصب بیش از ۲۰ پروتوکل گذر از فیلترینگ و پروکسی تلگرام
-
+## به هیدیفای خوش آمدید
+هیدیفای یک ابزار قدرتمند و خرفه ای ضدسانسور اینترنت است که دارای پنل چند کاربره و نصب آسان است و به شما کمک می کند با بیش از ۲۰ پروتکل پشتیبانی شده فیلترینگ اینترنت را دور بزنید همچنین می توانید از پروکسی تلگرام استفاده نمایید. این ابزار برای شبکه اینترنت ایران بهینه سازی شده است و توسط [xray](https://github.com/XTLS/Xray-core) توصیه شده است. این پنل یک جایگزین عالی برای X-UI می باشد.
 
 <details markdown="1"> <summary>کانفیگ‌های پشتیبانی شده</summary> 
 
@@ -101,65 +91,53 @@ Ubuntu arm64 or amd64
 </details>
 </details>
 
+</div>
+<div align=center>
+<img width="50%" src="https://user-images.githubusercontent.com/125398461/227990194-e20b67dc-6cda-4b05-bd26-b7147d830a12.png" />
+
+</div>
+
+<div dir="rtl" markdown="1">
+
+
+
 ## راهنمای نصب
 
-
-##### راهنمای نصب سریع و آسان بدون نیاز به دانش فنی و ssh
+<details markdown="1"> <summary><b>راهنمای نصب بدون ssh</b></summary> 
+در این روش به صورت خیلی سریع و آسان بدون نیاز به دانش فنی و ssh و با استفاده از قابلیت cloud-init نصب انجام می شود.
 
 - [نصب در ولتر Vultr (گزینه پیشنهادی برای شروع ) ](https://github.com/hiddify/hiddify-config/wiki/Vultr-%D9%86%D8%B5%D8%A8-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D9%88%D9%84%D8%AA%D8%B1)
 - [نصب در اوراکل کلود (چهار سرور رایگان)](https://github.com/hiddify/hiddify-config/wiki/Oracle-نصب-خیلی-خیلی-سریع-در-اوراکل-کلود)
 - [نصب در OVH ](https://github.com/hiddify/hiddify-config/wiki/OVH-نصب-خیلی-سریع-در-او-وی-اچ)
 - [نصب در هتزنر](https://github.com/hiddify/hiddify-config/wiki/Hetzner-نصب-خیلی-سریع-در-هتزنر)
 
-##### راهنمای نصب در سرور از پیش آماده اوبونتو با ssh
+
+</details>
+
+<details markdown="1"> <summary><b>راهنمای نصب با ssh</b></summary>
+
+در این حالت روی سرور از پیش آماده اوبونتو با ssh نصب انجام می شود.
 
 - [نصب با یک دستور در سرور اوبونتو](https://github.com/hiddify/hiddify-config/wiki/نصب-سریع-در-اوبونتو)
 - [نصب با داکر](https://github.com/hiddify/hiddify-config/wiki/نصب-با-داکر)
 
 
-<details  markdown="1"> <summary>code for cloud-init</summary>
 
-در بعضی از سایت‌های ارائه دهنده سرور، میتوانید با استفاده از اسکریپت زیر به صورت خودکار پروکسی را نصب کنید (به عنوان نمونه آموزش [هتزنر ](https://github.com/hiddify/hiddify-config/wiki/Hetzner-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D9%87%D8%AA%D8%B2%D9%86%D8%B1) و [OVH ](https://github.com/hiddify/hiddify-config/wiki/OVH-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D8%A7%D9%88-%D9%88%DB%8C-%D8%A7%DA%86) را مشاهده کنید) و از آدرس  `https://yourip.sslip.io`یا `http://yourip` لینک صفحه کاربران را مشاهده کنید کافی است به جای yourip آی پی خود را قرار دهید.
-
-ضمنا این لینک موقت فقط به مدت یک ساعت فعال خواهد بود و پس از آن غیرفعال خواهد شد
-
-<div dir="ltr" markdown="1">
-
-```
-#cloud-config
-package_upgrade: true
-packages:
-  - apt-transport-https
-  - ca-certificates
-  - curl
-  - wget
-  - gnupg-agent
-  - software-properties-common
-  - git
-
-runcmd:
-  - cd /opt
-  - git clone https://github.com/hiddify/hiddify-config/
-  - cd hiddify-config
-  - bash install.sh
-
-final_message: "The system is finally up, after $UPTIME seconds"
-output: { all: "| tee -a /root/cloud-init-output.log" }
-
-# you can see the generated link from the website by using http://yourip/ or https://yourip.sslip.io in one hour, after that, it will be disapear. 
-```
-</div>
 
 </details>
 
 
 
 
-## دموی سیستم
-<div align="center" markdown="1">
 
-<img width="49%" src="https://user-images.githubusercontent.com/114227601/218550439-52299d0a-3b3e-4054-a742-528ee3cf5810.png" />
-<img width="49%" src="https://user-images.githubusercontent.com/114227601/218550551-8caa38b8-6ffc-4c6d-93e2-3d3fe224d362.png" />
+
+## راهنمای پیکربندی
+برای اینکه حداکثر استفاده را از مزایای این پنل ببرید؛ این [راهنما](https://github.com/hiddify/hiddify-config/wiki/%D9%86%D8%AD%D9%88%D9%87-%D9%BE%DB%8C%DA%A9%D8%B1%D8%A8%D9%86%D8%AF%DB%8C-%D9%BE%D9%86%D9%84-%D9%87%DB%8C%D8%AF%DB%8C%D9%81%D8%A7%DB%8C) را مطالعه کنید.
+
+
+
+
+
 
 </div>
 
@@ -169,6 +147,11 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 
 
 
+
+
+
+[سوالات رایج](https://github.com/hiddify/hiddify-config/discussions/categories/q-a-%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%B1%D8%A7%DB%8C%D8%AC) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[گزارش اشکالات](https://github.com/hiddify/hiddify-config/issues)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[کانال تلگرام](https://t.me/hiddify) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[گروه تلگرام رفع اشکال](https://t.me/hiddify_board)
 
 
 
