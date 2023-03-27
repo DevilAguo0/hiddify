@@ -1,18 +1,22 @@
-
 <div dir="rtl" markdown="1">
 
- [فارسی](https://github.com/hiddify/hiddify-config/wiki/Home_Fa)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[Installation Guide](https://github.com/hiddify/hiddify-config/wiki#%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D9%86%D8%B5%D8%A8) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[User Interface](https://github.com/hiddify/hiddify-config/wiki#%D8%AF%D9%85%D9%88%DB%8C-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[FAQ](https://github.com/hiddify/hiddify-config/discussions/categories/q-a-%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%B1%D8%A7%DB%8C%D8%AC)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Report Bugs](https://github.com/hiddify/hiddify-config/issues)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Telegram Channel](https://t.me/hiddify) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[English Telegram Group](https://t.me/hiddify_board/5)
-***
+ [فارسی](https://github.com/hiddify/hiddify-config/blob/main/README_fa.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+</br>
+<div align=left markdown="1">
+
+![Hiddify Logo](https://user-images.githubusercontent.com/125398461/227720391-f6360e48-f211-4f56-a5b1-42522c30ecb7.png)
+
+
+</div>
+</br>
 
 
 <div dir="ltr" markdown="1">
 
-## Introduction
-Hiddify multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.  It is a X-UI replacement.
+## Welcome to Hiddify
+
+Hiddify is a powerful and professional anti-censorship toolbox, which is a multi-user panel with an effortless installation and supporting more than 20 protocols to circumvent filtering plus telegram proxy.  It's optimized for censorship circumvention in China, Russia and Iran and recommended by [xray](https://github.com/XTLS/Xray-core). It's a great replacement of X-UI.
 
 <details markdown="1"> <summary>Supported protocols</summary> 
 
@@ -82,66 +86,27 @@ When you want to share Telegram proxy or Shadowsocks proxy through other program
 ## Installation Guide
 
 
-##### Quick and easy installation guide with no technical knowledge and ssh required
+<details markdown="1"> <summary><b>Installation without ssh</b></summary>
+This way you can take advantage of quick and easy installation of this panel using cloud-init scripts with no technical knowledge and even without any ssh connections
 
-- [Installation in Vultr (Recommended option to start) ](https://github.com/hiddify/hiddify-config/wiki/Vultr-نصب-خیلی-خیلی-سریع-در-ولتر)
-- [Installation in Oracle Cloud (four free servers)](https://github.com/hiddify/hiddify-config/wiki/Oracle-نصب-خیلی-خیلی-سریع-در-اوراکل-کلود)
-- [Installation in OVH ](https://github.com/hiddify/hiddify-config/wiki/OVH-نصب-خیلی-سریع-در-او-وی-اچ)
-- [Installation in Hetzner](https://github.com/hiddify/hiddify-config/wiki/Hetzner-نصب-خیلی-سریع-در-هتزنر)
+- [Installation in Vultr (Recommended option to start) ](https://github-com.translate.goog/hiddify/hiddify-config/wiki/Vultr-%D9%86%D8%B5%D8%A8-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D9%88%D9%84%D8%AA%D8%B1?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+- [Installation in Oracle Cloud (four free servers)](https://github-com.translate.goog/hiddify/hiddify-config/wiki/Oracle-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D8%A7%D9%88%D8%B1%D8%A7%DA%A9%D9%84-%DA%A9%D9%84%D9%88%D8%AF?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+- [Installation in OVH ](https://github-com.translate.goog/hiddify/hiddify-config/wiki/OVH-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D8%A7%D9%88-%D9%88%DB%8C-%D8%A7%DA%86?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+- [Installation in Hetzner](https://github-com.translate.goog/hiddify/hiddify-config/wiki/Hetzner-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D9%87%D8%AA%D8%B2%D9%86%D8%B1?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
-##### Installation guide on pre-prepared Ubuntu server with ssh
+</details>
 
-- [Installation on Ubuntu server (one command)](https://github.com/hiddify/hiddify-config/wiki/نصب-سریع-در-اوبونتو)
-- [Installation with Docker](https://github.com/hiddify/hiddify-config/wiki/نصب-با-داکر)
+<details markdown="1"> <summary><b>Installation with ssh</b></summary>
+Here you can use this guide on pre-prepared Ubuntu server with ssh connection
 
-
-<details  markdown="1"> <summary>Code for cloud-init</summary>
-On some server provider websites, you can automatically install the proxy using the following script. For example, see [Hetzner]
-
-(https://github.com/hiddify/hiddify-config/wiki/Hetzner-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D9%87%D8%AA%D8%B2%D9%86%D8%B1) and [OVH ](https://github.com/hiddify/hiddify-config/wiki/OVH-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D8%A7%D9%88-%D9%88%DB%8C-%D8%A7%DA%86)
-
-
-And from `https://yourip.sslip.io`or `http://yourip` you can see the link of the user page, just put your IP instead of "yourip"
-
-Note that this temporary link will only be active for one hour, after which it will be deactivated. 
-<div dir="ltr" markdown="1">
-
-```
-#cloud-config
-package_upgrade: true
-packages:
-  - apt-transport-https
-  - ca-certificates
-  - curl
-  - wget
-  - gnupg-agent
-  - software-properties-common
-  - git
-
-runcmd:
-  - cd /opt
-  - git clone https://github.com/hiddify/hiddify-config/
-  - cd hiddify-config
-  - bash install.sh
-
-final_message: "The system is finally up, after $UPTIME seconds"
-output: { all: "| tee -a /root/cloud-init-output.log" }
-
-# you can see the generated link from the website by using http://yourip/ or https://yourip.sslip.io in one hour, after that, it will be disappeared. 
-```
-</div>
+- [Installation on Ubuntu server](https://github-com.translate.goog/hiddify/hiddify-config/wiki/%D9%86%D8%B5%D8%A8-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D8%A7%D9%88%D8%A8%D9%88%D9%86%D8%AA%D9%88?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+- [Installation with Docker](https://github-com.translate.goog/hiddify/hiddify-config/wiki/%D9%86%D8%B5%D8%A8-%D8%A8%D8%A7-%D8%AF%D8%A7%DA%A9%D8%B1?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
 </details>
 
 
-
-
-## User Interface
-- For users
-![Hiddify User Page](https://user-images.githubusercontent.com/114227601/220698460-c8b56096-f34d-413b-8129-cfd6dd29cc7e.png)
-
-- For admin
-![Hiddify Admin page](https://user-images.githubusercontent.com/114227601/220697943-b25af716-eb26-4220-867d-3c1eee4fc21b.png)
+## Configuration Guide
+**Making best use of this panel via this** [guide](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly).
 
 
 
@@ -149,6 +114,12 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 
 
 
+
+
+
+
+[FAQ](https://github.com/hiddify/hiddify-config/discussions/categories/q-a-%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%B1%D8%A7%DB%8C%D8%AC)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ReportBugs](https://github.com/hiddify/hiddify-config/issues)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Telegram Channel](https://t.me/hiddify) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Telegram Group](https://t.me/hiddify_board/5)
 
 
 
