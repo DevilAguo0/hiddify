@@ -98,13 +98,8 @@ Ubuntu arm64 or amd64
 </a>
 </div>
 
-<!--
-<p dir="rtl" markdown="1">YOUTUBE
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/-a4tfRUsrNY" frameborder="0" allowfullscreen></iframe>
-</p>
--->
 
-<div align=right>
+<div align=right dir="rtl">
 
 ## راهنمای نصب
 
