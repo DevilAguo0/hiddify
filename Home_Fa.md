@@ -5,11 +5,7 @@
 </div>
 </br>
 <div align=right markdown="1">
-
-<a href="https://www.youtube.com/watch?v=-a4tfRUsrNY">
-  <img src="https://user-images.githubusercontent.com/125398461/227987559-b4732223-fa47-466c-8323-a8b7b1a5c687.png" alt="How to Install Hiddify">
-</a>
-
+  <img src="https://user-images.githubusercontent.com/125398461/227987559-b4732223-fa47-466c-8323-a8b7b1a5c687.png"/>
 </div>
 </br>
 <div dir="rtl" markdown="1">
@@ -96,14 +92,19 @@ Ubuntu arm64 or amd64
 </div>
 <div align=center>
 
+<!--
 <a href="https://www.youtube.com/watch?v=-a4tfRUsrNY">
   <img width="50%" src="https://user-images.githubusercontent.com/125398461/227990194-e20b67dc-6cda-4b05-bd26-b7147d830a12.png" />
 </a>
 </div>
 
-<div dir="rtl" markdown="1">
 
+<p dir="rtl" markdown="1">YOUTUBE
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/-a4tfRUsrNY" frameborder="0" allowfullscreen></iframe>
+</p>
+-->
 
+<div align=right>
 
 ## راهنمای نصب
 
