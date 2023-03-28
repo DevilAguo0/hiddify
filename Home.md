@@ -83,6 +83,13 @@ When you want to share Telegram proxy or Shadowsocks proxy through other program
 </details>
 </details>
 
+<div align=center>
+
+<a href="https://www.youtube.com/watch?v=-a4tfRUsrNY">
+  <img width="50%" src="https://user-images.githubusercontent.com/125398461/227990194-e20b67dc-6cda-4b05-bd26-b7147d830a12.png" />
+</a>
+</div>
+
 ## Installation Guide
 
 
@@ -97,7 +104,7 @@ This way you can take advantage of quick and easy installation of this panel usi
 </details>
 
 <details markdown="1"> <summary><b>Installation with ssh</b></summary>
-Here you can use this guide on pre-prepared Ubuntu server with ssh connection
+Here you can use this guide on prepared Ubuntu server with ssh connection
 
 - [Installation on Ubuntu server](https://github-com.translate.goog/hiddify/hiddify-config/wiki/%D9%86%D8%B5%D8%A8-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D8%A7%D9%88%D8%A8%D9%88%D9%86%D8%AA%D9%88?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 - [Installation with Docker](https://github-com.translate.goog/hiddify/hiddify-config/wiki/%D9%86%D8%B5%D8%A8-%D8%A8%D8%A7-%D8%AF%D8%A7%DA%A9%D8%B1?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
@@ -106,7 +113,7 @@ Here you can use this guide on pre-prepared Ubuntu server with ssh connection
 
 
 ## Configuration Guide
-**Making best use of this panel via this** [guide](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly).
+**Making the best use of this panel via this** [guide](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly).
 
 
 
