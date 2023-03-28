@@ -95,8 +95,10 @@ Ubuntu arm64 or amd64
 
 </div>
 <div align=center>
-<img width="50%" src="https://user-images.githubusercontent.com/125398461/227990194-e20b67dc-6cda-4b05-bd26-b7147d830a12.png" />
 
+<a href="https://www.youtube.com/watch?v=-a4tfRUsrNY">
+  <img width="50%" src="https://user-images.githubusercontent.com/125398461/227990194-e20b67dc-6cda-4b05-bd26-b7147d830a12.png" />
+</a>
 </div>
 
 <div dir="rtl" markdown="1">
