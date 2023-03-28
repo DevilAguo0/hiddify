@@ -4,7 +4,7 @@
 [English](https://github.com/hiddify/hiddify-config/wiki)
 </div>
 </br>
-<div align=center markdown="1">
+<div align=right markdown="1">
 
 <a href="https://www.youtube.com/watch?v=-a4tfRUsrNY">
   <img src="https://user-images.githubusercontent.com/125398461/227987559-b4732223-fa47-466c-8323-a8b7b1a5c687.png" alt="How to Install Hiddify">
