@@ -143,7 +143,7 @@ Ubuntu arm64 or amd64
 
 </div>
 
-<div dir="ltr" markdown="1">
+<div dir="rtl" markdown="1">
 
 ## سایر راهنماهای مفید
 ### راهنمای تنظیم دامنه
