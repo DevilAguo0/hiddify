@@ -1,4 +1,8 @@
-## Donation and support &nbsp;&nbsp;&nbsp;&nbsp; از ما حمایت کنید
+<div align=center>
+<h2> Donation and support &nbsp;&nbsp;&nbsp;&nbsp; از ما حمایت کنید </h2>
+</div>
+
+
 The easiest way to support us is to click on the star (⭐) at the top of [GitHub page](https://github.com/hiddify/hiddify-config).
 <div dir="rtl" markdown="1">
 
@@ -11,11 +15,15 @@ We also need financial support for our services. All of our activities are done 
 <div dir="rtl" markdown="1">
 
 ما برای سرویس هایمان به کمک مالی هم نیاز داریم. تمامی فعالیت‌های ما به صورت داوطلبانه انجام می‌شود و حمایت‌های مالی صرف توسعه پروژه می‌شود. شما می توانید روش حمایت از این پروژه را از [اینجا](https://github.com/hiddify/hiddify-config/wiki/support) ملاحظه فرمایید.
+
 </div>
 
+</br>
 
+<div align=center>
+<h2> Collaboration and Contact Information &nbsp;&nbsp;&nbsp;&nbsp; راه های همکاری و ارتباط با ما </h2>
+</div>
 
-## Collaboration and Contact Information &nbsp;&nbsp;&nbsp;&nbsp; راه های همکاری و ارتباط با ما
 We need your collaboration in order to develop this project. If you are specialists in these areas, please do not hesitate to contact us:
 <div dir="rtl" markdown="1">
 
