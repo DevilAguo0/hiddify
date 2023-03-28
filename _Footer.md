@@ -16,18 +16,33 @@ We also need financial support for our services. All of our activities are done 
 
 
 ## Collaborate with us &nbsp;&nbsp;&nbsp;&nbsp; با ما همکاری کنید
-We need your collaboration in order to develop this project. If you are specialists in these areas, please do not hesitate to [contact us](https://github.com/hiddify/hiddify-config/wiki/%D9%85%D9%81%D8%A7%D9%87%DB%8C%D9%85-%D9%BE%D8%A7%DB%8C%D9%87#contact-us--%D8%B1%D8%A7%D9%87%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7-%D8%A8%D8%A7-%D9%85%D8%A7):
+We need your collaboration in order to develop this project. If you are specialists in these areas, please do not hesitate to contact us:
 <div dir="rtl" markdown="1">
 
-اگر در هر یک از زمینه‌های زیر توانایی دارید، با ما در [تماس ](https://github.com/hiddify/hiddify-config/wiki/%D9%85%D9%81%D8%A7%D9%87%DB%8C%D9%85-%D9%BE%D8%A7%DB%8C%D9%87#contact-us--%D8%B1%D8%A7%D9%87%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7-%D8%A8%D8%A7-%D9%85%D8%A7)باشید:
+اگر در هر یک از زمینه‌های زیر توانایی دارید، با ما در تماس باشید:
 </div>
 
 * Media production &nbsp;&nbsp;&nbsp;&nbsp; تولید محتوا
 * Python developing &nbsp;&nbsp;&nbsp;&nbsp; برنامه‌نویسی پایتون 
 * Kotlin developing &nbsp;&nbsp;&nbsp;&nbsp; برنامه‌نویسی کاتلین
 
+
+<div align=center>
+
+<!--
 ## Contact us &nbsp;&nbsp;&nbsp;&nbsp; راه‌های ارتباط با ما
 * Email: [hiddify@gmail.com](mailto:hiddify@gmail.com)
 * Annoncements: [Telegram Channel](https://t.me/hiddify)
 * Discussion: [Telegram Group](https://t.me/hiddify_board)
 
+
+
+
+-->
+[![Email](https://img.shields.io/badge/Email-hiddify@gmail.com-green?style=plastic&logo=gmail)](hiddify@gmail.com)
+[![Telegram Channel](https://img.shields.io/endpoint?label=Telegram&style=plastic&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhiddify)](https://telegram.dog/hiddify)
+[![Telegram Group](https://img.shields.io/endpoint?color=neon&label=Support%20Group&style=plastic&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhiddify_board)](https://telegram.dog/hiddify_board)
+[![Youtube](https://img.shields.io/youtube/channel/views/UCxrmeMvVryNfB4XL35lXQNg?label=Youtube&style=plastic)](https://www.youtube.com/@hiddify)
+[![Twitter](https://img.shields.io/twitter/follow/hiddify1?label=Twitter&style=plastic)](https://twitter.com/intent/follow?screen_name=hiddify)
+
+</div>
