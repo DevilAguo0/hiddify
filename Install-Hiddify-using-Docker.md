@@ -1,3 +1,9 @@
+
+<div dir="rtl">
+
+[فارسی](https://github.com/hiddify/hiddify-config/wiki/%D9%86%D8%B5%D8%A8-%D8%A8%D8%A7-%D8%AF%D8%A7%DA%A9%D8%B1)
+</div>
+
 Please note that Docker version is still experimental and may have some problems, please let us know about bugs. Docker version is not recommended for permanent use.
 
 For installation this way, just use the following code:
