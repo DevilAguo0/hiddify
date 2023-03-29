@@ -1,3 +1,4 @@
+[English](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Oracle-Cloud)
 <div dir="rtl" markdown="1">
 
 
