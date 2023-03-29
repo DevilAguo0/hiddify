@@ -1,6 +1,6 @@
 # Quick Installation on OVH Servers
 
-Firstly you can watch this video in order to do that.
+In the video below, all the steps are described. This video is in Farsi and if you watch the steps you can handle it. We are considering making some English videos for non-Persian people. Till then you can visit this video or follow the instructions in this article.
 
 [![OVH](https://img.youtube.com/vi/06fMizOb-DE/maxresdefault.jpg)](https://www.youtube.com/watch?v=06fMizOb-DE)
 
