@@ -1,3 +1,4 @@
+[English](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-OVH-Servers)
 <div dir="rtl" markdown="1">
 
 فیلم زیر را مشاهده کنید
