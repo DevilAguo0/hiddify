@@ -1,3 +1,5 @@
+[English](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Microsoft-Azure)
+
 <div dir="rtl" markdown="1">
 در این مقاله به شما آموزش میدهیم چگونه یک فیلترشکن اختصاصی ایجاد کنید.
 
