@@ -1,4 +1,4 @@
-[English](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Vultr-Servers/_edit)
+[English](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Vultr-Servers)
 
 <div dir="rtl" markdown="1">
 
