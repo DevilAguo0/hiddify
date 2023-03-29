@@ -13,7 +13,7 @@ This code is only applicable on Ubuntu and has been tested only on version 20.04
 
 Complete installation training video
 
-In the video below, all the steps are described in full detail. This video is in Farsi and if you watch the steps you can handle that. Although We are considering making some English videos for non-Persian people, Till then you can visit this or follow the instructions in this article.
+In the video below, all the steps are described in full detail. This video is in Farsi and if you watch the steps you can handle that. Although We are considering making some English videos for non-Persian people, till then you can visit this or follow the instructions in this article.
 
 <div align=center>
 
