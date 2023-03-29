@@ -1,3 +1,7 @@
+<div dir="rtl">
+[فارسی](https://github.com/hiddify/hiddify-config/wiki/%D9%86%D8%B5%D8%A8-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D8%A7%D9%88%D8%A8%D9%88%D9%86%D8%AA%D9%88)
+</div>
+
 # Before installation
 
 If you have important information or an important service, note that installing this configuration may interfere with your other services. Therefore, please do not install any special service on your server.
@@ -8,7 +12,7 @@ This code is only applicable on Ubuntu and has been tested only on version 20.04
 
 Complete installation training video
 
-In the video below, all the steps, including proxy installation and domain and subdomain settings, are described in full detail. This video is in Farsi and if you watch the steps you can get by that. We are considering making some English videos for non-Persian people. Till then you can visit this or follow the instructions in this article.
+In the video below, all the steps are described in full detail. This video is in Farsi and if you watch the steps you can handle that. Although We are considering making some English videos for non-Persian people, Till then you can visit this or follow the instructions in this article.
 
 <div align=center>
 
