@@ -1,1 +1,0 @@
-# Quick installation on Hetzner server
