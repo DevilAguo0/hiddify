@@ -36,6 +36,6 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 
 Do not forget to wait at least 10 minutes.
 
-2. Now we need to setup the domain and finalize the installation. [(visit this article)](r)
+2. Now we need to setup the domain and finalize the installation. [(visit this article)](https://github.com/hiddify/hiddify-config/wiki/Guide-for-setting-up-the-domain-and-finalizing-the-installation)
 
-For making the best use of this panel please view this [article]().
+For making the best use of this panel please view this [article](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly).
