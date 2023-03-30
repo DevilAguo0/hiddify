@@ -4,8 +4,8 @@
 </div>
 
 # Guide for setting up the domain and finalizing the installation
-- [First step: Setting domain and subdomain]()
-- [Second step: reach the admin page after installing the script]()
+- [First step: Setting domain and subdomain](https://github.com/hiddify/hiddify-config/wiki/Guide-for-setting-up-the-domain-and-finalizing-the-installation#1-how-to-set-domain-and-subdomain)
+- [Second step: reach the admin page after installing the script](https://github.com/hiddify/hiddify-config/wiki/Guide-for-setting-up-the-domain-and-finalizing-the-installation#2-)
 - [Step 3: Finalize the installation]()
 ***
 After [installing the script](https://github.com/hiddify/hiddify-config/wiki#installation-guide) ; You must finalize the installation. This is done in 3 steps. First you need to register a domain.
