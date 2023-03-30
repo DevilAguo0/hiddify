@@ -101,7 +101,7 @@ When you want to share Telegram proxy or Shadowsocks proxy through other program
 This way you can take advantage of quick and easy installation of this panel using cloud-init scripts with no technical knowledge and even without any ssh connections
 
 - [Installation on Vultr (Recommended option to start) ](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Vultr-Servers)
-- [Installation on Oracle Cloud] (https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Oracle-Cloud)
+- [Installation on Oracle Cloud](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Oracle-Cloud)
 - [Installation on OVH](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-OVH-Servers)
 - [Installation on Hetzner](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Hetzner-Servers)
 - [Installation on Microsoft Azure](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Microsoft-Azure)
