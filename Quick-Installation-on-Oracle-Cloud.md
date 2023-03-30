@@ -1,4 +1,5 @@
-</div>
+
+<div dir="rtl">
 
 [فارسی](https://github.com/hiddify/hiddify-config/wiki/Oracle-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D8%A7%D9%88%D8%B1%D8%A7%DA%A9%D9%84-%DA%A9%D9%84%D9%88%D8%AF)
 </div>
@@ -18,6 +19,6 @@ Press the button below:
 
 * Do not forget to wait at least 10 minutes.
 
-* Now we need to setup the domain and finalize the installation. [(visit this article)](https://github.com/hiddify/hiddify-config/wiki/)
+* Now we need to setup the domain and finalize the installation. [(visit this article)](https://github.com/hiddify/hiddify-config/wiki/Guide-for-setting-up-the-domain-and-finalizing-the-installation)
 
-* For making the best use of this panel please view this [article](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-OVH-Servers).
+* For making the best use of this panel please view this [article](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly).
