@@ -10,10 +10,14 @@
 ## ثبت دامنه در حالت auto_cdn_ip
 
 برای این کار به منوی دامنه بروید و دکمه ایجاد را بزنید. صفحه زیر برای شما باز می شود.
+</div>
 
+<div align=center>
 
-![auto_cdn-ip](https://user-images.githubusercontent.com/125398461/228467960-a69e6042-082b-49cb-b89c-512cb08f9fdd.png)
+![auto_cdn-ip](https://user-images.githubusercontent.com/125398461/228748531-5d1fbf3c-b023-4476-b44e-716e8f531825.png)
+</div>
 
+<div dir="rtl">
 در ادامه هر کدام از قسمت ها مطابق با شماره توضیح داده خواهند شد.
 
 ### ۱. دامنه
