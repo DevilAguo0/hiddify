@@ -1,6 +1,6 @@
 <div align=center>
 
-قبل از شروع میتونید این ویدیو را ملاحظه کنید تا با کلیت کار آشنابشید
+قبل از شروع میتونید ویدئوی زیر را مشاهده کنید تا با کلیت کار آشنابشید
 
 <a href="https://www.youtube.com/watch?v=kz_Ih__jS9c">
   <img width="50%" src="https://user-images.githubusercontent.com/125398461/228757045-7d8c83ed-72c2-46a7-b9ff-3ede38def4b3.jpg" />
