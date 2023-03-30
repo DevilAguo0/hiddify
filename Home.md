@@ -52,7 +52,7 @@ Hiddify has been tested on Ubuntu 20.04 and 22.04. Ubuntu arm64 or amd64
 
 <details  markdown="1"> <summary>Speed test</summary>
 
-In this way, you can check the speed of the server with and without anti-filter.
+In this way, you can check the speed of the server with and without VPN connection.
 
 ![image](https://user-images.githubusercontent.com/114227601/210183115-4e1f4186-421e-4316-8082-3ce53275adc7.png)
 
