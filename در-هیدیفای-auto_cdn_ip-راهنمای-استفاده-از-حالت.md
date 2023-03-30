@@ -29,14 +29,61 @@
 
 ### ۴. اجبار به استفاده از آیپی های زیر در کانفیگ CDN
 اگر این فیلد خالی باشد؛ [لیست](https://ircf.space/export.php) آیپی های تمیزی که توسط سایت ircf.space به صورت مرتب بروزرسانی می شوند را تست می کنه و آیپی ای که روی نت کاربر بدون مشکل باشد را برمیگردونه.
+</div>
+
+```
+mci.ircf.space MCI
+mcix.ircf.space MCI
+mtn.ircf.space MTN
+mtnx.ircf.space MTN
+rtl.ircf.space RTL
+mkh.ircf.space MKH
+hwb.ircf.space HWB
+ast.ircf.space AST
+sht.ircf.space SHT
+prs.ircf.space PRS
+mbt.ircf.space MBT
+ask.ircf.space ASK
+rsp.ircf.space RSP
+afn.ircf.space AFN
+ztl.ircf.space ZTL
+psm.ircf.space PSM
+arx.ircf.space ARX
+smt.ircf.space SMT
+```
+
+<div dir="rtl">
+توجه داشته باشید بین ساب دامین و تگ شبکه یک فاصله قرار داره و هر ردیف مشخص کننده آیپی تمیز برای یک اپراتوره. ردیف ها با اینتر از هم جدا میشن.
+
+برای آشنایی تگ ها را معرفی می کنیم
+
+```
+MCI همراه اول
+MTN ایرانسل
+RTL رایتل
+MKH مخابرات
+HWB های وب
+AST عصر تلکام
+SHT شاتل
+PRS پارس آنلاین
+MBT مبین نت
+ASK آسیاتک
+RSP رسپینا
+AFN افرانت
+ZTL زیتل
+PSM پیشگامان
+ARX آراکس
+SMT سامانتل
+```
+
 همچنین شما می تونید این لیست را طبق فرمت زیر محدود کنید.
 
 </div>
 
 ```
-mcix.ircf.space	MCI
-mtnx.ircf.space	MTN
-rtl.ircf.space	RTL
+mcix.ircf.space MCI
+mtnx.ircf.space MTN
+rtl.ircf.space RTL
 ```
 
 <div dir="rtl">
@@ -48,12 +95,23 @@ rtl.ircf.space	RTL
 </div>
 
 ```
-mci.yourdomain.com  MCI
-mtn.yourdomain.com  MTN
-mkb.yourdomain.com  MKB
+mci.yourdomain.com MCI
+mtn.yourdomain.com MTN
+mkb.yourdomain.com MKB
 ```
 
 <div dir="rtl">
+
+یا حتی می تونید این لیست را به صورت آیپی وارد کنید. فرض کنید آیپی های تمیزی که برای شبکه های مختلف همراه اول؛ ایرانسل و مخابرات پیدا کرده اید؛ به ترتیب `1.1.1.1` ؛ `2.2.2.2` و `3.3.3.3` باشند؛ بنابراین اینطوری واردشون کنید
+</div>
+
+```
+1.1.1.1 MCI
+2.2.2.2 MTN
+3.3.3.3 MKB
+```
+<div dir="rtl">
+
 
 <b><i> نکته کلیدی: حتما توجه داشته باشید؛ برای اینکه پنل بتونه آیپی مناسب را تست بگیره و برگردونه ارتباط VPN باید قطع باشه. پس هر وقت اپراتورتون را عوض می کنید یه بار باید ارتباط VPN را قطع کنید تا تست انجام بشه و آیپی مناسب در کانکشن تون تنظیم بشه.</i></b>
 
