@@ -100,10 +100,11 @@ When you want to share Telegram proxy or Shadowsocks proxy through other program
 <details markdown="1"> <summary><b>Installation without ssh</b></summary>
 This way you can take advantage of quick and easy installation of this panel using cloud-init scripts with no technical knowledge and even without any ssh connections
 
-- [Installation in Vultr (Recommended option to start) ](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Vultr-Servers)
-- [Installation in Oracle Cloud (https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Oracle-Cloud)
-- [Installation in OVH ](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-OVH-Servers)
-- [Installation in Hetzner](https://github-com.translate.goog/hiddify/hiddify-config/wiki/Hetzner-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D9%87%D8%AA%D8%B2%D9%86%D8%B1?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+- [Installation on Vultr (Recommended option to start) ](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Vultr-Servers)
+- [Installation on Oracle Cloud] (https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Oracle-Cloud)
+- [Installation on OVH](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-OVH-Servers)
+- [Installation on Hetzner](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Hetzner-Servers)
+- [Installation on Microsoft Azure](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Microsoft-Azure)
 
 </details>
 
