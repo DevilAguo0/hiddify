@@ -4,7 +4,6 @@
 </div>
 
 # Guide to Setting up the Domain and Finalizing the Installation
-***
 - [First step: Setting domain and subdomain]()
 - [Second step: reach the admin page after installing the script]()
 - [Step 3: Finalize the installation]()
@@ -43,5 +42,10 @@ It is better to choose domains with these extensions:
 ![224301533-6743a65d-e45f-475c-a94d-7b6c428ffd84](https://user-images.githubusercontent.com/125398461/228729855-a95334af-a87e-4668-be7e-643a4d6a0a83.png)
 </div>
  - Copy the created subdomain.
-These steps were only for domain direct if you want to know how to register different domains; Click [here](https://github.com/hiddify/hiddify-config/wiki/Domain-types-and-how-to-register-them)
+
+> These steps were only for direct domain if you want to know how to register other types of domain; Click [here](https://github.com/hiddify/hiddify-config/wiki/Domain-types-and-how-to-register-them).
+
+## 2. Reaching the admin page after installing the script
+You have done [the initial installation](https://github-com.translate.goog/hiddify/hiddify-config/wiki?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp#%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D9%86%D8%B5%D8%A8) in 2 ways
+
 
