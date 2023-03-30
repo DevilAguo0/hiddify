@@ -31,7 +31,7 @@ Congratulations, the installation is complete.
 
 
 2. After installation
-At the end, a link will be generated which is the link to setup your proxy. Now we need to set the domain. Click on [this link](https://github-com.translate.goog/hiddify/hiddify-config/wiki/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%88-%D9%86%D9%87%D8%A7%DB%8C%DB%8C-%DA%A9%D8%B1%D8%AF%D9%86-%D9%86%D8%B5%D8%A8?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) to complete the installation.
+At the end, a link will be generated which is the link to setup your proxy. Now we need to set the domain. Click on [this link](https://github.com/hiddify/hiddify-config/wiki/Guide-for-setting-up-the-domain-and-finalizing-the-installation) to complete the installation.
 
 3. How to update 
 For manual update, copy and run the following command in the terminal.
@@ -41,4 +41,4 @@ cd /opt/hiddify-config
 sudo bash update.sh
 ```
 
-For making the best use of this panel please view this [article]().
+For making the best use of this panel please view this [article](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly).
