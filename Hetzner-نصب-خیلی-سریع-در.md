@@ -1,6 +1,11 @@
+[English](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Hetzner-Servers)
+
 <div dir="rtl" markdown="1">
 
-[آموزش گرفتن اکانت هتزنر از صفر تا صد](https://www.youtube.com/watch?v=XfS2Y6hZkqw)
+<!-- [آموزش گرفتن اکانت هتزنر از صفر تا صد](https://www.youtube.com/watch?v=XfS2Y6hZkqw) -->
+
+
+# نصب خیلی سریع در Hetzner
 
 فیلم آموزش هتزنر از صفر تا صد
 [![Hetzner](https://img.youtube.com/vi/vQ-NAfRXTZo/maxresdefault.jpg)](https://www.youtube.com/watch?v=vQ-NAfRXTZo)
