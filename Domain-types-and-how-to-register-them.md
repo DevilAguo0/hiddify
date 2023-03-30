@@ -1,0 +1,1 @@
+# Domain types and how to register them
