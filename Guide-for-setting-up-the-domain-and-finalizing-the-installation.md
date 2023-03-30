@@ -5,10 +5,10 @@
 
 # Guide for setting up the domain and finalizing the installation
 - [First step: Setting domain and subdomain](https://github.com/hiddify/hiddify-config/wiki/Guide-for-setting-up-the-domain-and-finalizing-the-installation#1-how-to-set-domain-and-subdomain)
-- [Second step: reach the admin page after installing the script](https://github.com/hiddify/hiddify-config/wiki/Guide-for-setting-up-the-domain-and-finalizing-the-installation#2-)
+- [Second step: reach the admin page after installing the script](https://github.com/hiddify/hiddify-config/wiki/Guide-for-setting-up-the-domain-and-finalizing-the-installation#2-reaching-the-admin-page-after-installing-the-script)
 - [Step 3: Finalize the installation]()
 ***
-After [installing the script](https://github.com/hiddify/hiddify-config/wiki#installation-guide) ; You must finalize the installation. This is done in 3 steps. First you need to register a domain.
+After [installing the script](https://github.com/hiddify/hiddify-config/wiki#installation-guide); You must finalize the installation. This is done in 3 steps. First you need to register a domain.
 
 ## 1. How to set domain and subdomain
 In the video below, all the steps of setting up the domain and subdomain are described in full detail. This video is in Farsi and if you watch the steps you can handle that. Although We are considering making some English videos for non-Persian people, till then you can visit this or follow the instructions in this article.
@@ -49,3 +49,4 @@ It is better to choose domains with these extensions:
 You have done [the initial installation](https://github-com.translate.goog/hiddify/hiddify-config/wiki?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp#%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D9%86%D8%B5%D8%A8) in 2 ways
 
 
+## Step 3: Finalize the installation
