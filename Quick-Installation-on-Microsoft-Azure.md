@@ -33,3 +33,7 @@ And copy the link for Telegram proxy from the `output` section. Don't forget tha
 Click on this icon <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fhiddify%2Fconfig%2Fmain%2Fshadowsocks%2Fss-azure-template.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton"/></a> and continue the steps according to the previous gif.
  And copy the proxy link from `output` section. Don't forget that this link will be deleted, so save it in a safe place
 Then open the link to display the tutorial on how to use the proxy.
+
+You can finalize the installation using [this link](https://github.com/hiddify/hiddify-config/wiki/Guide-for-setting-up-the-domain-and-finalizing-the-installation)
+
+For making the best use of this panel please view this [article](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly).
