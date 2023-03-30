@@ -100,9 +100,9 @@ When you want to share Telegram proxy or Shadowsocks proxy through other program
 <details markdown="1"> <summary><b>Installation without ssh</b></summary>
 This way you can take advantage of quick and easy installation of this panel using cloud-init scripts with no technical knowledge and even without any ssh connections
 
-- [Installation in Vultr (Recommended option to start) ](https://github-com.translate.goog/hiddify/hiddify-config/wiki/Vultr-%D9%86%D8%B5%D8%A8-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D9%88%D9%84%D8%AA%D8%B1?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
-- [Installation in Oracle Cloud (four free servers)](https://github-com.translate.goog/hiddify/hiddify-config/wiki/Oracle-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D8%A7%D9%88%D8%B1%D8%A7%DA%A9%D9%84-%DA%A9%D9%84%D9%88%D8%AF?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
-- [Installation in OVH ](https://github-com.translate.goog/hiddify/hiddify-config/wiki/OVH-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D8%A7%D9%88-%D9%88%DB%8C-%D8%A7%DA%86?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+- [Installation in Vultr (Recommended option to start) ](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Vultr-Servers)
+- [Installation in Oracle Cloud (https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Oracle-Cloud)
+- [Installation in OVH ](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-OVH-Servers)
 - [Installation in Hetzner](https://github-com.translate.goog/hiddify/hiddify-config/wiki/Hetzner-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D9%87%D8%AA%D8%B2%D9%86%D8%B1?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
 </details>
@@ -110,8 +110,8 @@ This way you can take advantage of quick and easy installation of this panel usi
 <details markdown="1"> <summary><b>Installation with ssh</b></summary>
 Here you can use this guide on prepared Ubuntu server with ssh connection
 
-- [Installation on Ubuntu server](https://github-com.translate.goog/hiddify/hiddify-config/wiki/%D9%86%D8%B5%D8%A8-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D8%A7%D9%88%D8%A8%D9%88%D9%86%D8%AA%D9%88?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
-- [Installation with Docker](https://github-com.translate.goog/hiddify/hiddify-config/wiki/%D9%86%D8%B5%D8%A8-%D8%A8%D8%A7-%D8%AF%D8%A7%DA%A9%D8%B1?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+- [Installation on Ubuntu server](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-On-Ubuntu)
+- [Installation with Docker](https://github.com/hiddify/hiddify-config/wiki/Install-Hiddify-using-Docker)
 
 </details>
 
