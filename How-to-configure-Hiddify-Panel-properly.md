@@ -64,6 +64,18 @@ In this part, you can define accounts for users. Click on the Create button. You
 After creating accounts, you can browse dedicated page to each user via links next to them in which you can find all configs 
 
 
-
+## Proxies
+## Settings
+## Actions
+### Status
+### View Logs
+### Apply Configs
+### Update System
+### Reinstall System
+### Restart System
+## Backup
+## Support
+## Telegram
+## Donation 
 
 
