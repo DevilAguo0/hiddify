@@ -67,8 +67,12 @@ IP is a 4-part number separated by dot. `http://ip`
 For example, if your IP is 1.1.1.1, you should enter the following address in your browser: `http://1.1.1.1`
 
 Note: that temporary address is only active for one hour and after that it becomes inactive.
+<div align=center>
 
-You will reach the admin page by opening the temporary link.
+![Screenshot_20230325_144941en](https://user-images.githubusercontent.com/125398461/228808969-e289d4da-8857-45ec-96e6-353729e129ec.png)
+</div>
+
+You will reach the admin page by opening one time link.
 
 </details>
 
