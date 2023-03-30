@@ -18,7 +18,7 @@
 
 Hiddify is a powerful and professional anti-censorship toolbox, which is a multi-user panel with an effortless installation and supporting more than 20 protocols to circumvent filtering plus telegram proxy.  It's optimized for censorship circumvention in China, Russia and Iran and recommended by [xray](https://github.com/XTLS/Xray-core). It's a great replacement of X-UI.
 
-<details markdown="1"> <summary>Supported protocols</summary> 
+<details markdown="1"> <summary><b>Supported protocols</b></summary> 
 
 | Supported Configs | Supported Configs |
 | - | - |
@@ -30,7 +30,7 @@ Hiddify is a powerful and professional anti-censorship toolbox, which is a multi
 </details>
 
 
-<details markdown="1"> <summary>Smart proxy for non-Iranian and filtered sites</summary>
+<details markdown="1"> <summary><b>Smart proxy for domestic and filtered sites</b></summary>
  
 You can connect to the internet in 3 modes using Clash client and Hiddify panel. 
 1. This method only circumvents the filtered websites via the anti-filter.
@@ -41,7 +41,7 @@ At the same time, the proposed solution is resistant to detection by the interne
 
 </details>
 
-<details markdown="1"><summary>Other features</summary>
+<details markdown="1"><summary><b>Other Fantastic Features</b></summary>
 
 
 <details  markdown="1"> <summary>Supported operating systems</summary>
