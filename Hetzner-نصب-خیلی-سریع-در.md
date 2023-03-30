@@ -7,14 +7,30 @@
 
 # نصب خیلی سریع در Hetzner
 
-فیلم آموزش هتزنر از صفر تا صد
+</div>
+
+<div align=center>
+
+**فیلم آموزش هتزنر از صفر تا صد**
 [![Hetzner](https://img.youtube.com/vi/vQ-NAfRXTZo/maxresdefault.jpg)](https://www.youtube.com/watch?v=vQ-NAfRXTZo)
 
-مراحل:
+</div>
+
+<div dir="rtl">
+مراحل نصب:
+
+- ابتدا وارد اکانت خود شوید و یک سرور جدید درست کنید.
+</div>
+
+<div align=center>
+
 ![image](https://user-images.githubusercontent.com/114227601/206861285-58832cec-a2a3-441e-91d4-8300d16584d6.png)
 
-حالا کد زیر را کپی کنید
+</div>
+<div dir="rtl">
 
+- حالا کد زیر را کپی کنید
+</div>
 <div dir="ltr" markdown="1">
 
 ```
@@ -43,17 +59,36 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 
 </div>
 
-کد بالا را در محل نشان داده در عکس قرار دهید.
+<div dir="rtl">
+
+- کد بالا را در محل نشان داده در عکس قرار دهید.
+
+</div>
+
+<div align=center>
+
 ![image](https://user-images.githubusercontent.com/114227601/206861304-656682b4-17a3-44c1-89f9-7b0d89566728.png)
 
-پس از حداکثر 10 تا 15 دقیقه سرور شما آماده و پروکسی فعال خواهد بود
-مطابق عکس آی پی خود را کپی کنید و در مرورگر باز کنید
+</div>
+
+<div dir="rtl">
+
+* پس از حداکثر 10 تا 15 دقیقه سرور شما آماده و پروکسی فعال خواهد بود. مطابق عکس آی پی خود را کپی کنید و در مرورگر باز کنید.
+
+</div>
+
+<div align=center>
 
 ![image](https://user-images.githubusercontent.com/114227601/206861323-1de41700-6ce4-403a-a644-0836e2a22876.png)
 
+</div>
 
-یادتون نره حداقل 10 دقیقه  صبر کنیدا
+<div dir="rtl">
 
-حالا باید دامنه را تنظیم کنیم. بر روی [این لینک](https://github.com/hiddify/hiddify-config/wiki/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%88-%D9%86%D9%87%D8%A7%DB%8C%DB%8C-%DA%A9%D8%B1%D8%AF%D9%86-%D9%86%D8%B5%D8%A8) کلیک کنید تا نصب را نهایی کنید.
+یادتون نره حداقل 10 دقیقه  صبر کنید
+
+* حالا باید دامنه را تنظیم کنیم. بر روی [این لینک](https://github.com/hiddify/hiddify-config/wiki/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%88-%D9%86%D9%87%D8%A7%DB%8C%DB%8C-%DA%A9%D8%B1%D8%AF%D9%86-%D9%86%D8%B5%D8%A8) کلیک کنید تا نصب را نهایی کنید.
+
+برای اینکه حداکثر استفاده را از مزایای این پنل ببرید؛ این [راهنما](https://github.com/hiddify/hiddify-config/wiki/%D9%86%D8%AD%D9%88%D9%87-%D9%BE%DB%8C%DA%A9%D8%B1%D8%A8%D9%86%D8%AF%DB%8C-%D9%BE%D9%86%D9%84-%D9%87%DB%8C%D8%AF%DB%8C%D9%81%D8%A7%DB%8C) را مطالعه کنید.
 
 </div>
