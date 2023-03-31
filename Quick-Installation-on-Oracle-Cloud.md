@@ -17,6 +17,8 @@ Press the button below:
 
 * And at the end, copy the link from below. Note that you have to wait at least 15 minutes for the link to be activated.
 
+![image](https://user-images.githubusercontent.com/114227601/206861477-7967ac8d-ea9f-4742-b414-e848898668c7.png)
+
 * Do not forget to wait at least 10 minutes.
 
 * Now we need to setup the domain and finalize the installation. [(visit this article)](https://github.com/hiddify/hiddify-config/wiki/Guide-for-setting-up-the-domain-and-finalizing-the-installation)
