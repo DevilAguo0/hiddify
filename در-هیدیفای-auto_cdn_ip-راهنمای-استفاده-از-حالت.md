@@ -3,8 +3,9 @@
 قبل از شروع میتونید ویدئوی زیر را مشاهده کنید تا با کلیت کار آشنابشید.
 
 <a href="https://www.youtube.com/watch?v=kz_Ih__jS9c">
-  <img width="50%" src="https://user-images.githubusercontent.com/125398461/229032848-fd0f4b18-6233-4971-ae06-1dd541e677e8.png" />
+  <img width="50%" src="https://user-images.githubusercontent.com/125398461/229042162-9182ca9b-f69c-44ea-ac50-af817f0af88c.png" />
 </a>
+
 
 
 برای جزییات بیشتر حتما این مقاله را تا آخر مطالعه کنید.
