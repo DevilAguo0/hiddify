@@ -1,6 +1,6 @@
 <div align=center dir="rtl">
 
-قبل از شروع میتونید ویدئوی زیر را مشاهده کنید تا با کلیت کار آشنابشید.
+قبل از شروع میتونید ویدئوی زیر را مشاهده کنید تا با کلیت کار آشنا بشید.
 
 <a href="https://www.youtube.com/watch?v=kz_Ih__jS9c">
   <img width="50%" src="https://user-images.githubusercontent.com/125398461/229042162-9182ca9b-f69c-44ea-ac50-af817f0af88c.png" />
