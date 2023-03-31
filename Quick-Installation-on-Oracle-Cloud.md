@@ -9,7 +9,7 @@ If you do not have an Oracle account, the following video explains how to setup 
 
 [![oracle](https://img.youtube.com/vi/s1QZD1Ujdds/maxresdefault.jpg)](https://www.youtube.com/watch?v=s1QZD1Ujdds)
 
-Press the button below:
+- Press the button below:
 
 [![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/hiddify/hiddify-config/archive/refs/heads/main.zip)
 
