@@ -1,4 +1,4 @@
-[English](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Vultr-Servers)
+[**![World Learning Splash Image](https://user-images.githubusercontent.com/125398461/229074810-599bd7f9-0bc1-44a9-b76e-90bf7e182314.png) English**](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Vultr-Servers)
 
 <div dir="rtl" markdown="1">
 
