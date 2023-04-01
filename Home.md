@@ -94,10 +94,10 @@ When you want to share Telegram proxy or Shadowsocks proxy through other program
 
 -->
 
-## Installation Guide
+## Installation Guide ![](https://img.shields.io/badge/Install-hiddify-blue)
 
 
-<details markdown="1"> <summary><b>Installation without ssh</b></summary>
+<details markdown="1"> <summary><img src="https://img.shields.io/badge/Install-Beginner-blue"/> <b>Installation without ssh</b></summary>
 This way you can take advantage of quick and easy installation of this panel using cloud-init scripts with no technical knowledge and even without any ssh connections
 
 - [Installation on Vultr (Recommended option to start) ](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Vultr-Servers)
@@ -108,7 +108,7 @@ This way you can take advantage of quick and easy installation of this panel usi
 
 </details>
 
-<details markdown="1"> <summary><b>Installation with ssh</b></summary>
+<details markdown="1"> <summary><img src="https://img.shields.io/badge/Install-General-blue"/> <b>Installation with ssh</b></summary>
 Here you can use this guide on prepared Ubuntu server with ssh connection
 
 - [Installation on Ubuntu server](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-On-Ubuntu)
