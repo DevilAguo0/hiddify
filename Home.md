@@ -94,30 +94,27 @@ When you want to share Telegram proxy or Shadowsocks proxy through other program
 
 -->
 
-## Installation Guide ![](https://img.shields.io/badge/Install-hiddify-blue)
+## Installation Guide ![](https://img.shields.io/badge/Install-Hiddify-004E9F?style=flat-square&logo=Azure-Data-Explorer)
 
 
-<details markdown="1"> <summary><img src="https://img.shields.io/badge/Install-Beginner-blue"/> <b>Installation without ssh</b></summary>
-This way you can take advantage of quick and easy installation of this panel using cloud-init scripts with no technical knowledge and even without any ssh connections
+<details markdown="1"> <summary><img src="https://img.shields.io/badge/Install-Beginner-orange?style=flat-square&logo=AddThis"/> <b>Installation without SSH</b></summary>
+This way you can take advantage of quick and easy installation of this panel using cloud-init scripts with no technical knowledge and even without any SSH connections
 
-- [Installation on Vultr (Recommended option to start) ](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Vultr-Servers)
-- [Installation on Oracle Cloud](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Oracle-Cloud)
-- [Installation on OVH](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-OVH-Servers)
-- [Installation on Hetzner](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Hetzner-Servers)
-- [Installation on Microsoft Azure](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Microsoft-Azure)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Install%20On-Hetzner-D50C2D?style=flat-square&logo=Hetzner)](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Hetzner-Servers)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Install%20On-Vultr-007BFC?style=flat-square&logo=vultr)](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Vultr-Servers)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Install%20On-Oracle%20Cloud-F80000?style=flat-square&logo=oracle)](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Oracle-Cloud)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Install%20On-OVH-123F6D?style=flat-square&logo=ovh)](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-OVH-Servers)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Install%20On-Azure-0078D4?style=flat-square&logo=microsoft-azure)](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Microsoft-Azure)
 
 </details>
 
-<details markdown="1"> <summary><img src="https://img.shields.io/badge/Install-General-blue"/> <b>Installation with ssh</b></summary>
-Here you can use this guide on prepared Ubuntu server with ssh connection
+<details markdown="1"> <summary><img src="https://img.shields.io/badge/Install-Professional-orange?style=flat-square&logo=addthis"/> <b>Installation with SSH</b></summary>
+Here you can use this guide on prepared Ubuntu server with SSH connection
+<div dir="ltr">
+</br>
 
-- [Installation on Ubuntu server](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-On-Ubuntu)
-- [Installation with Docker](https://github.com/hiddify/hiddify-config/wiki/Install-Hiddify-using-Docker)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Install%20On-Ubuntu-E95420?style=flat-square&logo=ubuntu)](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-On-Ubuntu)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Install%20On-Docker-2496ED?style=flat-square&logo=docker)](https://github.com/hiddify/hiddify-config/wiki/Install-Hiddify-using-Docker)
 
 </details>
 
 
-## Configuration Guide
+## Configuration Guide ![](https://img.shields.io/badge/Config-Hiddify-009688?style=flat-square&logo=Azure-Functions)
 <b>Making the best use of this panel via [this guide](https://github-com.translate.goog/hiddify/hiddify-config/wiki/%D9%86%D8%AD%D9%88%D9%87-%D9%BE%DB%8C%DA%A9%D8%B1%D8%A8%D9%86%D8%AF%DB%8C-%D9%BE%D9%86%D9%84-%D9%87%DB%8C%D8%AF%DB%8C%D9%81%D8%A7%DB%8C?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp).</b>
 
 ## Other Useful Guides
@@ -135,7 +132,7 @@ If you need to find clean IPs of Coldflare; Consider [this topic](https://github
 To use Workers service of Cloudflare, read [this guide](https://github-com.translate.goog/hiddify/hiddify-config/wiki/%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%88-%D9%86%D8%AD%D9%88%D9%87-%D8%AB%D8%A8%D8%AA-%E2%80%8C%D8%A2%D9%86%E2%80%8C%D9%87%D8%A7?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp).
 
 #### Guide for Connecting and Setting up the Server through SSH
-If you need to get information about how to connect to the server through ssh and configure it, see [this article](https://github-com.translate.goog/hiddify/hiddify-config/wiki/SSH-%D9%86%D8%AD%D9%88%D9%87-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D9%88-%D8%B1%D9%81%D8%B9-%D8%B9%DB%8C%D8%A8-%D8%A7%D8%B2-%D8%B7%D8%B1%DB%8C%D9%82?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp).
+If you need to get information about how to connect to the server through SSH and configure it, see [this article](https://github-com.translate.goog/hiddify/hiddify-config/wiki/SSH-%D9%86%D8%AD%D9%88%D9%87-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D9%88-%D8%B1%D9%81%D8%B9-%D8%B9%DB%8C%D8%A8-%D8%A7%D8%B2-%D8%B7%D8%B1%DB%8C%D9%82?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp).
 
 </br>
 
