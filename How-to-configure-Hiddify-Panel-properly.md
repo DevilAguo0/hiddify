@@ -58,13 +58,25 @@ In this menu, you can find information related to system resources displayed gra
 For showing these graphs you need to enable Netdata in [General settings](https://).
 
 ## Dashboard
+In this menu, information related to system resources is displayed graphically.
+
+To display this section, NetData must be enabled in the general settings section.
+
 ## Users
 In this part, you can define accounts for users. Click on the Create button. You can specify Usage Limit, Package days, Mode etc.
 
 
-After creating accounts, you can browse dedicated page to each user via links next to them in which you can find all configs 
+After creating accounts, you can browse dedicated page to each user via links next to them in which you can find all applications and configs. On to top of the page you can find and download client applications based on your OS.
 
+At the bottom of this page, you can see the configurations related to the user.
 
+Several methods are suggested for providing links to users:
+
+> 1. The link of the related page should be provided to the user: this link can be accessed from the user page in the management panel.
+> 2. The link related to the user's subscription should be provided to them: in this case, it will be possible to update the scanners in case of changes.
+> 3. The connection link should be provided to the user: in this case, it is not possible to update the connections
+
+If you need more information about how to connect the client to the server, please visit our [YouTube Channel](www.youtube.com/@hiddify) in order to find a series of videos regarding to client apps.
 ## Proxies
 ## Settings
 ## Actions
