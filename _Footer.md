@@ -3,7 +3,7 @@
 </div>
 
 
-The easiest way to support us is to click on the star (⭐) at the top of [![](https://badgen.net/badge/icon/github?icon=github&label&style=flat-square)](https://github.com/hiddify/hiddify-config).
+The easiest way to support us is to click on the star (⭐) at the top of [![](https://badgen.net/badge/icon/github?icon=github&label&style=flat-square)](https://github.com/hiddify/hiddify-config) .
 <div dir="rtl" markdown="1">
 
 ساده‌ترین راه حمایت از ما کلیک کردن روی ستاره (⭐) بالای صفحه [![](https://badgen.net/badge/icon/github?icon=github&label&style=flat-square)](https://github.com/hiddify/hiddify-config) است.
