@@ -9,16 +9,16 @@
 * [Prerequisites](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#prerequisites)
 * [Getting started](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#getting-started)
 * [Quick installation](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#quick-installation)
-* [Admin dashboard]()
-* Users
-* Domains
-* Proxies
-* Settings
-* Actions
-* Backup
-* Support
-* Telegram
-* Donation 
+* [Dashboard](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#dashboard)
+* [Users](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#users)
+* [Domains](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#domains)
+* [Proxies](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#proxies)
+* [Settings](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#settings)
+* [Actions](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#actions)
+* [Backup](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#backup)
+* [Support](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#support)
+* [Telegram](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#telegram)
+* [Donation](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#donation) 
 ***
 
 # How to configure Hiddify Panel properly
