@@ -80,7 +80,7 @@ If you need more information about how to connect the client to the server, plea
 
 ## Domains
 Go to the Domains menu to add your domains. There are 5 modes here.
-### Direct domain
+<details><summary><h3> Direct domain</h3></summary>
 Click the Create button. In the opened page, act according to the figure.
 
 
@@ -92,8 +92,9 @@ Be careful:
 
 > In the domain configuration display field from these settings, you can specify the configurations of which domains the users who view the user panel with this domain can view.
 
+</details>
 
-### CDN domain
+<details><summary><h3> CDN domain</h3></summary>
 Click on the create button and follow the instructions on the page that opens.
 
 
@@ -106,7 +107,9 @@ Pay attention:
 
 >In the domain configuration display field , you can specify which domains users who view the user panel with this domain should see.
 
-### AUTO_CDN_IP domain
+</details>
+
+<details><summary><h3> AUTO_CDN_IP domain</h3></summary>
 As you know, one of the constant concerns of users when using Cloudflare cdn; Finding clean IPs everyday. We have previously provided tutorials in this regard, which were a step-by-step guide to finding these IPs. You can see it from this link. Many times it is not possible to find these IPs for many reasons. We also provided a solution to solve this problem.
 
 The auto_cdn_ip feature was created to solve this problem for you. Read the description carefully to learn how to set this feature.
@@ -129,7 +132,10 @@ Set the mode to auto_cdn_ip as specified.
 If this field is empty; [It tests the list](https://ircf.space/export.php) of clean IPs that are regularly updated by the ircf.space site and returns the IP that is on the user's net without problems. You can also limit this list according to the following format.
 
 ### 5. Show Configs of Domains
-### Relay domain
+
+</details>
+
+<details><summary><h3> Relay domain</h3></summary>
 Click on the create button and follow the instructions on the page that opens.
 
 
@@ -141,17 +147,21 @@ Note:
 
     In the domain configuration display field , you can specify which domains users who view the user panel with this domain should see.
 
-### Fake domain
+</details>
+
+<details><summary><h3> Fake domain</h3></summary>
 Click on the create button and follow the instructions on the page that opens.
 
 
 Pay attention:
 
-    You can enter a custom name in the display name field.
+* You can enter a custom name in the display name field.
 
-    The field to force the use of the host and display the domain configs do not need to be completed here.
+* The field to force the use of the host and display the domain configs do not need to be completed here.
 
-    If you use several domains and also a large number of users connect to the panel and you need to assign a specific domain to each user; It is recommended to read [this topic]
+* If you use several domains and also a large number of users connect to the panel and you need to assign a specific domain to each user; It is recommended to read [this topic]
+
+</details>
 
 ## Proxies
 In this part of the panel, you can specify general and detailed settings for proxies and enable or disable each of them. General settings include the following: 
