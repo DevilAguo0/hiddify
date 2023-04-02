@@ -78,6 +78,19 @@ Several methods are suggested for providing links to users:
 
 If you need more information about how to connect the client to the server, please visit our [YouTube Channel](https://www.youtube.com/watch?v=5CyktpUePf0&list=PL2DSfh6Z6tTK0fhT_koc8BlxV95GfzCje) in order to find a playlist in this regard.
 
+## Domains
+Go to the Domains menu to add your domains. There are 5 modes here.
+### Direct domain
+Click the Create button. In the opened page, act according to the figure.
+
+### CDN domain
+
+### AUTO_CDN_IP domain
+
+### Relay domain
+
+### Fake domain
+
 ## Proxies
 ## Settings
 ## Actions
