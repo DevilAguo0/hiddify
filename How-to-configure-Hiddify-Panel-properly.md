@@ -83,15 +83,87 @@ Go to the Domains menu to add your domains. There are 5 modes here.
 ### Direct domain
 Click the Create button. In the opened page, act according to the figure.
 
+
+Be careful:
+
+> If you want the desired domain not to be displayed in the configurations; Enter a custom name in the Display Name field.
+
+> In this case, there is no need to complete the forced use of host field. This field is only used for CDN domains.
+
+> In the domain configuration display field from these settings, you can specify the configurations of which domains the users who view the user panel with this domain can view.
+
+
 ### CDN domain
+Click on the create button and follow the instructions on the page that opens.
+
+
+
+Pay attention:
+
+ >If you want the desired domain not to be displayed in the configurations; Enter a custom name in the Display Name field. If you want the desired domain not to be displayed in the configurations; Enter a custom name in the Display Name field. In the forced to use host field , it is suggested to use a normal domain record (without proxy). In this way, panel settings and configurations remain constant. When changing a new clean IP, it is enough to update the desired DNS record with the new IP (for example, in Cloudflare).
+
+>If you need more information about how to find clean Cloudflare IPs, read [this article .](https://github-com.translate.goog/hiddify/hiddify-config/wiki/%DA%86%DA%AF%D9%88%D9%86%DA%AF%DB%8C-%DB%8C%D8%A7%D9%81%D8%AA%D9%86-%D8%A2%DB%8C%D9%BE%DB%8C-%D8%AA%D9%85%DB%8C%D8%B2-%DA%A9%D9%84%D8%A7%D8%AF%D9%81%D9%84%D8%B1?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+
+>In the domain configuration display field , you can specify which domains users who view the user panel with this domain should see.
 
 ### AUTO_CDN_IP domain
+As you know, one of the constant concerns of users when using Cloudflare cdn; Finding clean IPs everyday. We have previously provided tutorials in this regard, which were a step-by-step guide to finding these IPs. You can see it from this link. Many times it is not possible to find these IPs for many reasons. We also provided a solution to solve this problem.
 
+The auto_cdn_ip feature was created to solve this problem for you. Read the description carefully to learn how to set this feature.
+
+To do this, go to the domain menu and click the create button. The following page will open for you.
+
+
+In the following, each part will be explained according to the number.
+
+### 1. Domain
+Here you enter your subdomain registered in Cloudflare. It is necessary to explain that the proxy must be turned on. If you need more information about domain registration, see [this link.]
+
+### 2. Alias
+Using this field you can choose a custom name for this domain. Make sure that the chosen name is not already registered for other domains in the panel. It is better to use standard font characters (letters and numbers) for this field.
+
+### 3. Mode
+Set the mode to auto_cdn_ip as specified.
+
+### 4. Force CDN Config to use following IPs
+If this field is empty; [It tests the list](https://ircf.space/export.php) of clean IPs that are regularly updated by the ircf.space site and returns the IP that is on the user's net without problems. You can also limit this list according to the following format.
+
+### 5. Show Configs of Domains
 ### Relay domain
+Click on the create button and follow the instructions on the page that opens.
+
+
+Note:
+
+    If you want the desired domain not to be displayed in the configurations; Enter a custom name in the Display Name field.
+
+    In this case, there is no need to complete the forced use of host field. This field is only used for CDN domains.
+
+    In the domain configuration display field , you can specify which domains users who view the user panel with this domain should see.
 
 ### Fake domain
+Click on the create button and follow the instructions on the page that opens.
+
+
+Pay attention:
+
+    You can enter a custom name in the display name field.
+
+    The field to force the use of the host and display the domain configs do not need to be completed here.
+
+    If you use several domains and also a large number of users connect to the panel and you need to assign a specific domain to each user; It is recommended to read [this topic]
 
 ## Proxies
+In this part of the panel, you can specify general and detailed settings for proxies and enable or disable each of them. General settings include the following: 
+
+
+In detailed settings, you can enable or disable individual proxies (connections). Connections are grouped.
+
+
+Pay attention:
+
+> HTTP connections are unencrypted, but TLS is.
+
 ## Settings
 ### Admin settings
 Here are the admin settings.
