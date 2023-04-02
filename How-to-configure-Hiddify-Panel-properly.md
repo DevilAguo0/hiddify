@@ -6,10 +6,10 @@
 # Table of contents
 
 ***
-* Prerequisites
-* Getting started
-* Quick installation
-* Admin dashboard
+* [Prerequisites](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#prerequisites)
+* [Getting started](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#getting-started)
+* [Quick installation](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#quick-installation)
+* [Admin dashboard]()
 * Users
 * Domains
 * Proxies
@@ -45,7 +45,7 @@ Before configuring the panel, you must have a registered domain. If you are wond
 
 In both cases, when you enter the admin page for the first time, the quick installation page will open.
 
-## Quick installation
+## Quick Setup
 
 Here is a parameter that is very critical; Enter your registered domain in the specified field. You can make other settings later. So enter your domain and click the register button. 
 
@@ -57,6 +57,7 @@ In this menu, you can find information related to system resources displayed gra
 
 For showing these graphs you need to enable Netdata in [General settings](https://).
 
+## Dashboard
 ## Users
 In this part, you can define accounts for users. Click on the Create button. You can specify Usage Limit, Package days, Mode etc.
 
