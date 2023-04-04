@@ -84,7 +84,7 @@ In both cases, when you enter the admin page for the first time, the quick insta
 
 Here is a parameter that is very critical; Enter your registered domain in the specified field. You can make other settings later. So enter your domain and click the register button. 
 
-Then click apply changes for saving configurations. If you face with a problem, [Go here](https://https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#apply-configs). If the changes are applied successfully; The panel is almost ready to use, but it is recommended to read the following contents till the end so that you can get the maximum advantages of this panel.
+Then click apply changes for saving configurations. If you face with a problem, [Go here](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#apply-configs). If the changes are applied successfully; The panel is almost ready to use, but it is recommended to read the following contents till the end so that you can get the maximum advantages of this panel.
 
 
 In this menu, you can find information related to system resources displayed graphically.
