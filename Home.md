@@ -142,19 +142,19 @@ For making the best use of this panel, read [this guide ![](https://img.shields.
 ## Other Useful Guides
 
 #### Guide to Domain Registration and Setup
-For information on how to register a domain and set it up in Hidify, see [this link](https://github-com.translate.goog/hiddify/hiddify-config/wiki/%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%88-%D9%86%D8%AD%D9%88%D9%87-%D8%AB%D8%A8%D8%AA-%E2%80%8C%D8%A2%D9%86%E2%80%8C%D9%87%D8%A7?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp).
+For information on how to register a domain and set it up in Hidify, see [this link](https://github.com/hiddify/hiddify-config/wiki/Domain-types-and-how-to-register-them).
 
 #### Guide to ensure the server IP is clean
-If you want to make sure that the server's IP or domain is clean, read [this article](https://github-com.translate.goog/hiddify/hiddify-config/wiki/%D9%86%D8%AD%D9%88%D9%87-%D8%A7%D8%B7%D9%85%DB%8C%D9%86%D8%A7%D9%86-%D8%A7%D8%B2-%D8%AA%D9%85%DB%8C%D8%B2-%D8%A8%D9%88%D8%AF%D9%86-%D8%A2%DB%8C%D9%BE%DB%8C-%DB%8C%D8%A7-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D8%B3%D8%B1%D9%88%D8%B1?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) in the wiki.
+If you want to make sure that the server's IP or domain is clean, read [this article](https://github.com/hiddify/hiddify-config/wiki/How-to-make-sure-the-server's-IP-or-domain-is-clean) in the wiki.
 
 #### Guide to find a clean Cloudflare IP
-If you need to find clean IPs of Coldflare; Consider [this topic](https://github-com.translate.goog/hiddify/hiddify-config/wiki/%DA%86%DA%AF%D9%88%D9%86%DA%AF%DB%8C-%DB%8C%D8%A7%D9%81%D8%AA%D9%86-%D8%A2%DB%8C%D9%BE%DB%8C-%D8%AA%D9%85%DB%8C%D8%B2-%DA%A9%D9%84%D8%A7%D8%AF%D9%81%D9%84%D8%B1?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp).
+If you need to find clean IPs of Coldflare; Consider [this topic](https://github.com/hiddify/hiddify-config/wiki/Guide-for-finding-a-clean-Cloudflare-IP).
 
 #### Guide for setting up and using Workers
-To use Workers service of Cloudflare, read [this guide](https://github-com.translate.goog/hiddify/hiddify-config/wiki/%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%88-%D9%86%D8%AD%D9%88%D9%87-%D8%AB%D8%A8%D8%AA-%E2%80%8C%D8%A2%D9%86%E2%80%8C%D9%87%D8%A7?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp).
+To use Workers service of Cloudflare, read [this guide](https://github.com/hiddify/hiddify-config/wiki/How-to-set-up-and-use-workers).
 
 #### Guide for Connecting and Setting up the Server through SSH
-If you need to get information about how to connect to the server through SSH and configure it, see [this article](https://github-com.translate.goog/hiddify/hiddify-config/wiki/SSH-%D9%86%D8%AD%D9%88%D9%87-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D9%88-%D8%B1%D9%81%D8%B9-%D8%B9%DB%8C%D8%A8-%D8%A7%D8%B2-%D8%B7%D8%B1%DB%8C%D9%82?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp).
+If you need to get information about how to connect to the server through SSH and configure it, see [this article](https://github.com/hiddify/hiddify-config/wiki/How-to-connect-and-troubleshoot-via-SSH).
 
 </br>
 
