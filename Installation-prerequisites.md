@@ -13,7 +13,10 @@ Before installation, you need a series of prerequisites:
 
   - You can also provide your own server using crypto currency. For this, just search on [Google](https://www.google.com/search?q=purchase+vps+using+crypto). There are many providers that support cryptocurrency. See our [list](https://github.com/hiddify/awesome-freedom/blob/main/vps-providers.md). Some of these data centers support cryptocurrencies that are specified in the list.
         
-- You 
+- Minimum resource requirements:
+  - 1 GB Ram
+  - 1 Core CPU
+  - 10 GB Storage
 - The operating system of this virtual server must be Ubuntu 22.04 or 20.04. Ubuntu is a distribution of Linux operating system whose logo is like this. ![](https://img.shields.io/badge/Ubuntu--E95420?style=flat-square&logo=ubuntu)
 
 
