@@ -52,7 +52,7 @@ You have successfully installed the panel using the methods mentioned in the [in
 
 
 ### The domain is registered and accessible
-Before configuring the panel, you must have a registered domain. If you are wondering about domain types and their registration ways, click [here](https://github-com.translate.goog/hiddify/hiddify-config/wiki/%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%88-%D9%86%D8%AD%D9%88%D9%87-%D8%AB%D8%A8%D8%AA-%E2%80%8C%D8%A2%D9%86%E2%80%8C%D9%87%D8%A7?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp). You should also make sure that the registered domain is accessible. [how to test](https://github-com.translate.goog/hiddify/hiddify-config/wiki/%D9%86%D8%AD%D9%88%D9%87-%D8%A7%D8%B7%D9%85%DB%8C%D9%86%D8%A7%D9%86-%D8%A7%D8%B2-%D8%AA%D9%85%DB%8C%D8%B2-%D8%A8%D9%88%D8%AF%D9%86-%D8%A2%DB%8C%D9%BE%DB%8C-%DB%8C%D8%A7-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D8%B3%D8%B1%D9%88%D8%B1?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+Before configuring the panel, you must have a registered domain. If you are wondering about domain types and their registration ways, click [here](https://github-com.translate.goog/hiddify/hiddify-config/wiki/%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%88-%D9%86%D8%AD%D9%88%D9%87-%D8%AB%D8%A8%D8%AA-%E2%80%8C%D8%A2%D9%86%E2%80%8C%D9%87%D8%A7?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp). You should also make sure that the registered domain is accessible. [how to test](https://github-com/hiddify/hiddify-config/wiki/%D9%86%D8%AD%D9%88%D9%87-%D8%A7%D8%B7%D9%85%DB%8C%D9%86%D8%A7%D9%86-%D8%A7%D8%B2-%D8%AA%D9%85%DB%8C%D8%B2-%D8%A8%D9%88%D8%AF%D9%86-%D8%A2%DB%8C%D9%BE%DB%8C-%DB%8C%D8%A7-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D8%B3%D8%B1%D9%88%D8%B1)
 
 ## Getting started
 * If you have used the quick installation links for famous data centers such as Vultr, OVH etc; At the end after about 10 minutes, a one-time link will be generated for you, by which you will reach the admin page.
@@ -113,7 +113,7 @@ Be careful:
 
 </details>
 
-<details><summary><h3> CDN domain</h3></summary>
+<details><summary><h3>CDN domain</h3></summary>
 Click on the create button and follow the instructions on the page that opens.
 
 
@@ -122,7 +122,7 @@ Pay attention:
 
  >If you want the desired domain not to be displayed in the configurations; Enter a custom name in the Display Name field. If you want the desired domain not to be displayed in the configurations; Enter a custom name in the Display Name field. In the forced to use host field , it is suggested to use a normal domain record (without proxy). In this way, panel settings and configurations remain constant. When changing a new clean IP, it is enough to update the desired DNS record with the new IP (for example, in Cloudflare).
 
->If you need more information about how to find clean Cloudflare IPs, read [this article .](https://github-com.translate.goog/hiddify/hiddify-config/wiki/%DA%86%DA%AF%D9%88%D9%86%DA%AF%DB%8C-%DB%8C%D8%A7%D9%81%D8%AA%D9%86-%D8%A2%DB%8C%D9%BE%DB%8C-%D8%AA%D9%85%DB%8C%D8%B2-%DA%A9%D9%84%D8%A7%D8%AF%D9%81%D9%84%D8%B1?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+>If you need more information about how to find clean Cloudflare IPs, read [this article](https://github.com/hiddify/hiddify-config/wiki/Guide-for-finding-a-clean-Cloudflare-IP).
 
 >In the domain configuration display field , you can specify which domains users who view the user panel with this domain should see.
 
@@ -145,7 +145,7 @@ Note:
 
 </details>
 
-<details><summary><h3> Fake domain</h3></summary>
+<details><summary><h3>Fake domain</h3></summary>
 Click on the create button and follow the instructions on the page that opens.
 
 
