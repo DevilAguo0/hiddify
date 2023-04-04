@@ -1,3 +1,6 @@
+<div dir="rtl">
+[**![lang_logo](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ir.png) فارسی**](https://github.com/hiddify/hiddify-config/wiki/%DA%AF%D8%B1%D9%81%D8%AA%D9%86-%DA%A9%D9%84%DB%8C%D8%AF-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%DA%A9%D9%84%D9%88%D8%AF%D9%81%D9%84%D8%B1)
+</div>
 1.  From the [Cloudflare dashboardExternal link icon Open external link](https://dash.cloudflare.com/profile/api-tokens/) , go to **My Profile** > **API Tokens**.
     
 2.  Select **Create Token**.
