@@ -13,11 +13,11 @@
 * [Users](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#users)
 * <details><summary><a href="https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#domains">Domains</summary>
 
-  - [Direct domains](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#direct-domain)
-  - [CDN domains](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#direct-cdn)
-  - [Auto_CDN_IP domains](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#auto_cdn_ip-domain)
-  - [Relay domains](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#relay-domain)
-  - [Fake domains](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#fake-domain)
+  - [Direct domain](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#direct-domain)
+  - [CDN domain](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#direct-cdn)
+  - [Auto_CDN_IP domain](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#auto_cdn_ip-domain)
+  - [Relay domain](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#relay-domain)
+  - [Fake domain](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#fake-domain)
 
 </details>
 
