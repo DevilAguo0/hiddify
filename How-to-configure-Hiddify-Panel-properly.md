@@ -115,7 +115,7 @@ If you need more information about how to connect the client to the server, plea
 
 ## Domains
 Go to the Domains menu to add your domains. There are 5 modes here.
-<details><summary><h3> Direct domain</h3></summary>
+<details><summary><h3>Direct domain</h3></summary>
 Click the Create button. In the opened page, act according to the figure.
 
 
