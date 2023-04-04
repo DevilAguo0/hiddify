@@ -11,9 +11,28 @@
 * [Quick installation](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#quick-installation)
 * [Dashboard](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#dashboard)
 * [Users](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#users)
-* [Domains](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#domains)
+* <details><summary><a href="https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#domains">Domains</summary>
+
+  - [Direct domains](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#direct-domains)
+  - [CDN domains](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#direct-domains)
+  - [Auto_CDN_IP domains](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#auto_cdn_ip-domains)
+  - [Relay domains](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#relay-domains)
+  - [Fake domains](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#fake-domains)
+
+</details>
+
 * [Proxies](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#proxies)
-* [Settings](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#settings)
+- <details><summary><a href="https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#settings">Settings</a></summary>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+</details>
+
 * [Actions](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#actions)
 * [Backup](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#backup)
 * [Support](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#support)
@@ -109,33 +128,10 @@ Pay attention:
 
 </details>
 
-<details><summary><h3> AUTO_CDN_IP domain</h3></summary>
-As you know, one of the constant concerns of users when using Cloudflare cdn; Finding clean IPs everyday. We have previously provided tutorials in this regard, which were a step-by-step guide to finding these IPs. You can see it from this link. Many times it is not possible to find these IPs for many reasons. We also provided a solution to solve this problem.
+### AUTO_CDN_IP domain
+Due to the long and detailed description of this mode; You can read [this article](https://github.com/hiddify/hiddify-config/wiki/Guide-for-using-mode-Auto_CDN_IP-in-Hidify) to learn how to set it up.
 
-The auto_cdn_ip feature was created to solve this problem for you. Read the description carefully to learn how to set this feature.
-
-To do this, go to the domain menu and click the create button. The following page will open for you.
-
-
-In the following, each part will be explained according to the number.
-
-### 1. Domain
-Here you enter your subdomain registered in Cloudflare. It is necessary to explain that the proxy must be turned on. If you need more information about domain registration, see [this link.]
-
-### 2. Alias
-Using this field you can choose a custom name for this domain. Make sure that the chosen name is not already registered for other domains in the panel. It is better to use standard font characters (letters and numbers) for this field.
-
-### 3. Mode
-Set the mode to auto_cdn_ip as specified.
-
-### 4. Force CDN Config to use following IPs
-If this field is empty; [It tests the list](https://ircf.space/export.php) of clean IPs that are regularly updated by the ircf.space site and returns the IP that is on the user's net without problems. You can also limit this list according to the following format.
-
-### 5. Show Configs of Domains
-
-</details>
-
-<details><summary><h3> Relay domain</h3></summary>
+<details><summary><h3>Relay domain</h3></summary>
 Click on the create button and follow the instructions on the page that opens.
 
 
