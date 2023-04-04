@@ -28,7 +28,7 @@
 
 <div align=center>
 
-![auto_cdn-ip](https://user-images.githubusercontent.com/125398461/228748531-5d1fbf3c-b023-4476-b44e-716e8f531825.png)
+![](https://user-images.githubusercontent.com/125398461/229826711-c11f34a4-11dc-4563-9f86-87af2b2bb36a.png)
 </div>
 
 <div dir="rtl">
