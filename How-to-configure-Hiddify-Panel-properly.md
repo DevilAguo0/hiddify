@@ -24,16 +24,32 @@
 * [Proxies](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#proxies)
 - <details><summary><a href="https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#settings">Settings</a></summary>
 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - [Admin settings](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#admin-settings)
+  - [Personalization of the user page](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#personalization-of-the-user-page)
+  - [General settings](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#general-settings)
+  - [Proxy settings](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#proxy-settings)
+  - [Domain Fronting](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#domain-fronting)
+  - [Telegram proxy](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#telegram-proxy)
+  - [HTTP settings](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#http-settings)
+  - [TLS settings](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#tls-settings)
+  - [Shadowsocks settings](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#shadowsocks-settings)
+  - [TUIC settings](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#tuic-settings)
+  - [Advanced settings](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#advanced-settings)
+  - [Very advanced settings](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#very-advanced-settings)
 
 </details>
 
-* [Actions](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#actions)
+- <details><summary><a href="https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#actions">Actions</a></summary>
+
+  - [Status](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#status)
+  - [View Logs](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#view-logs)
+  - [Apply Configs](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#apply-configs)
+  - [Update System](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#update-system)
+  - [Reinstall System](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#reinstall-system)
+  - [Restart System](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#restart-system)
+
+</details>
+
 * [Backup](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#backup)
 * [Support](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#support)
 * [Telegram](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#telegram)
