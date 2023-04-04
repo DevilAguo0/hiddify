@@ -12,13 +12,16 @@ This code is only applicable on Ubuntu and has been tested only on version 20.04
 
 
 
+
 Complete installation training video
 
 In the video below, all the steps are described in full detail. This video is in Farsi and if you watch the steps you can handle that. Although We are considering making some English videos for non-Persian people, till then you can visit this or follow the instructions in this article.
 
 <div align=center>
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_LYFqrXVupI/0.jpg)](https://www.youtube.com/watch?v=_LYFqrXVupI)
+<a href="https://www.youtube.com/watch?v=_LYFqrXVupI" >
+ <img width="60%" src="https://user-images.githubusercontent.com/125398461/229776443-bde03106-275d-4eeb-8f37-a300ed96d55d.png" />
+</a>
 </div>
 
 # Installation steps on Ubuntu
