@@ -11,6 +11,7 @@ For installation this way, just use the following code:
 ```
 git clone https://github.com/hiddify/hiddify-config
 cd hiddify-config
+touch hiddify-panel/hiddifypanel.db
 docker-compose up -d
 ```
 Please note that the Docker version is still experimental and may have some bugs, please let us know about errors using [this link](https://github.com/hiddify/hiddify-config/issues). 
