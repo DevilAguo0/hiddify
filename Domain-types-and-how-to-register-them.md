@@ -20,7 +20,7 @@ This domain is used to use the [Header trick](https://github.com/iranxray/hope/b
 # How to register a domain
 Now that we are familiar with the types of domains, how to register these domains will be checked
 
-## Direct domain registration
+<details><summary><h2>Direct domain registration</h2></summary>
 You can register the direct domain in several ways. 
 
 ### Direct domain registration for free
@@ -87,7 +87,9 @@ All the things mentioned about IP version 4 also apply in this case. The only di
 #### How to  direct domain registration
 The easiest test to ensure domain registration is to use the ping command. Thus, in a terminal, if the desired domain is pinged, the above registered IP must appear in the response. Usually, the DNS record registration process takes some time. More advanced tools such as nslookup and dig can also be used for this test. If you need more information, you can read [this article](https://wikicensorship.github.io/fa/docs/measure-internet-censorship/DNS/).
 
-## CDN domain registration
+</details>
+
+<details><summary><h2>CDN domain registration</h2></summary>
 This domain is registered behind the servers of a CDN provider or so-called proxy. For this, the services of one of these sites should be used.
 ### CDN domain registration in Cloudflare
 For example, you can use Cloudflare service. So after following the steps mentioned above; Your domain was activated on the site; You should go to the DNS section and register the desired record. This record is type A for IP version 4 and type AAAA for IP version 6. The only difference with the previous step is that you must turn on the proxy.
@@ -122,6 +124,8 @@ Checking security status of CDN domain traffic
 To do this, go to the SSL/TLS section of the Cloudflare site. A graph is displayed for passing traffic, the more traffic passed based on the higher version TLS; Communication security has been higher. http traffic passes without using TLS encryption.
 
 PICTURE
+
+</details>
 
 ## Relay domain registration
 In fact, it is a direct domain that is considered for intermediate servers, and therefore the way to register such domains is the same as the direct domain.
