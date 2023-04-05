@@ -3,4 +3,130 @@
 [**![lang_logo](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ir.png) فارسی**](https://github.com/hiddify/hiddify-config/wiki/%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%88-%D9%86%D8%AD%D9%88%D9%87-%D8%AB%D8%A8%D8%AA-%E2%80%8C%D8%A2%D9%86%E2%80%8C%D9%87%D8%A7)
 </div>
 
-# Domain types and how to register them
+# Domain types
+
+## Direct domain
+It means you want to use your server directly (for normal use). In fact, this domain name (subdomain) directly points to the IP address of the server. That is, if you ping it, the IP of the server will be answered.
+
+## CDN domain
+It means you are using your server behind a CDN provider. In other words, you register your domain (subdomain) with a CDN provider and then proxy it.
+
+## Replay domain
+This domain is used when you want to use intermediate servers to send user traffic. For example, you have a server in Iran and you have registered a domain (subdomain) for it. You can register this domain in this section so that the relevant settings are applied in the configurations. [More information](https://github.com/hiddify/hiddify-config/discussions/129)
+
+## Fake domain
+This domain is used to use the [Header trick](https://github.com/iranxray/hope/blob/main/cloudflare-cdn.md#%D8%B1%D9%88%D8%B4-%D8%A7%D9%88%D9%84-%D8%AD%D9%82%D9%87-%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C). A fake domain is used to bypass the SNI whitelist proxy. In this case, you can see the configurations related to this trick by defining this domain. If you use this trick, there is a possibility that the server will be filtered.
+
+# How to register a domain
+Now that we are familiar with the types of domains, how to register these domains will be checked
+
+## Direct domain registration
+You can register the direct domain in several ways. 
+
+### Direct domain registration for free
+Using sites that offer free subdomains: [afarid](https://freedns.afraid.org/) is recommended.
+A number of public domains have already been registered on this site. You can register your desired subdomain on these domains.
+For this, you must first create a profile from [here](https://freedns.afraid.org/signup/?plan=starter). A real email is required.
+
+PICTURE
+
+After that, the list of domains registered on this site can be seen from [here](http://freedns.afraid.org/domain/registry/). You can choose one of the domains that has fewer hosts. Note that the domain must be public. It is recommended to use `.com`, `.org`, `.net` domains.
+
+PICTURE
+
+### Register the purchased direct domain
+After buying the domain, you can use the sites that provide DNS services. e.g. Cloudflare
+
+#### Direct domain registration purchased on Cloudflare
+First, you register using [this link](https://dash.cloudflare.com/signup).
+
+PICTURE
+
+Log in after creating a profile. You must add your domain here. For this, click on Add a site button and add your domain.
+
+PICTURE
+
+In the next step, choose your desired plan. The free plan is enough for this. So you choose according to the photo.
+
+PICTURE
+
+In the next step, we do next according to the figure.
+
+PICTURE
+
+In the last step, put the given DNS servers in your domain settings.
+
+PICTURE
+
+Enter a number to register the domain settings. After that, the domain will be activated on the cloudflare server.
+
+PICTURE
+
+Now you need to go to the registration section of DNS records.
+
+PICTURE
+
+In this case, to record records related to IP version 4, follow the figure.
+
+PICTURE
+
+After clicking on Add record, register the details of the desired subdomain by entering the server IP. Note that the proxy must be turned off for the direct domain.
+
+PICTURE
+
+If needed, you can change the TTL from automatic mode. The lower this value is; DNS records cached on the user's system are refreshed sooner.
+
+PICTURE
+
+To record the records related to IP version 6 of the server, follow the figure.
+
+PICTURE
+
+All the things mentioned about IP version 4 also apply in this case. The only difference is the record type, which is AAAA.
+
+#### How to  direct domain registration
+The easiest test to ensure domain registration is to use the ping command. Thus, in a terminal, if the desired domain is pinged, the above registered IP must appear in the response. Usually, the DNS record registration process takes some time. More advanced tools such as nslookup and dig can also be used for this test. If you need more information, you can read [this article](https://wikicensorship.github.io/fa/docs/measure-internet-censorship/DNS/).
+
+## CDN domain registration
+This domain is registered behind the servers of a CDN provider or so-called proxy. For this, the services of one of these sites should be used.
+### CDN domain registration in Cloudflare
+For example, you can use Cloudflare service. So after following the steps mentioned above; Your domain was activated on the site; You should go to the DNS section and register the desired record. This record is type A for IP version 4 and type AAAA for IP version 6. The only difference with the previous step is that you must turn on the proxy.
+
+PICTURE
+
+### How to verify CDN domain registration
+When you test this domain using various tools such as ping, nslookup, dig; In response, one of the IPs randomly assigned by Cloudflare will return to your domain and there is no more information about your IP. This provides a level of security for your server.
+
+It should be noted that this IP changes in different periods of time and is not fixed.
+Sometimes it happens that the IP assigned by Cloudflare is blocked or disrupted in Iran, and in this regard, methods to bypass this type of filtering should be used.
+
+### Certificate settings of CDN domain  
+TLS is an algorithm that encrypts all internet traffic and helps the user stay safe online.
+
+to describe precisely; TLS encrypts the communication between the client and the server in the web platform, which uses a set of cryptographic algorithms such as alpn, uTLS, allowInsecure.
+
+Certificates assigned to domains are also based on the TLS protocol.
+
+To do this, go to the SSL/TLS section on the Cloudflare site and set the certificate mode to Full or Full (strict).
+
+PICTURE
+
+Also, activate the SSL/TLS Recommender option to increase connection security. This option checks the connection and gives you security suggestions if it is possible to upgrade the TLS version.
+
+Then go to the Network menu. Here you should check that QUIC, gRPC and WebSockets options are enabled.
+
+PICTURE
+PICTURE
+
+Checking security status of CDN domain traffic
+To do this, go to the SSL/TLS section of the Cloudflare site. A graph is displayed for passing traffic, the more traffic passed based on the higher version TLS; Communication security has been higher. http traffic passes without using TLS encryption.
+
+PICTURE
+
+## Relay domain registration
+In fact, it is a direct domain that is considered for intermediate servers, and therefore the way to register such domains is the same as the direct domain.
+
+PICTURE
+
+## Fake domain registration
+As the name suggests, we want to use a fake domain that is not related to us, so we don't need to register it in advance. But we can only use it in the panel.
