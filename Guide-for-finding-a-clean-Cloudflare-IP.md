@@ -20,7 +20,7 @@ This program is published in two versions, Linux and Windows. To do this, first 
 
 
 ### Run on Linux version
-Download the program files and first see Mr. Bashsiz's explanation of how to run it in the video below. 
+Download the program files and first see Mr. Bashsiz's explanation of how to run it in the video below (persian).
 
 [![](https://user-images.githubusercontent.com/125398461/229997889-eaf51d2c-e5e1-4899-aa34-6c2c73375f10.png)](https://www.youtube.com/watch?v=BKLRAHolhvM)
 
@@ -33,3 +33,88 @@ Then first clone it on your system with the following code.
 ```
 git clone https://github.com/MortezaBashsiz/CFScanner.git 
 ```
+Go to the app download folder and run access to it. 
+```
+cd CFScanner/bash
+chmod +x ../bin/*
+```
+Download the config.real file. 
+```
+curl -s https://raw.githubusercontent.com/MortezaBashsiz/CFScanner/main/bash/ClientConfig.json -o config.real
+```
+It is recommended to change the config.real file based on your configuration.
+
+PICTURE
+
+If you want to have your own configuration file, save it under a different name that will not change when the script is updated.
+
+#### Run the script
+Go to the location of the downloaded script file and then run the script as shown below.
+
+```
+bash cfScanner.sh SUBNET DOWN threads tryCount config.real speed custom.subnets
+```
+
+PICTURE
+
+For example:
+```
+bash cfScanner.sh SUBNET DOWN 8 1 config.real 100 custom.subnets
+```
+Finally, the test result is placed in the `result` folder, which you can view and use. More information on the program [wiki](https://github.com/MortezaBashsiz/CFScanner/tree/main/bash).
+
+## Run on Windows version
+For the Windows version, install it after downloading the app.
+
+PICTURE
+
+There are some important files and folders that we need to know for running. See the picture below.
+
+PICTURE
+
+The contents of `v2ray-config` folder here is our config for testing.
+
+PICTURE
+
+>config.real file which is the main configuration information.
+
+>The config.json.template file is the config template file.
+
+>In the generated folder, a structure corresponding to our config is created and tested for each cloudflare IP.
+
+>It should be noted that the structure of this test is based on the vmess configuration, but vless and trojan can also be tested with it.
+
+>So complete the config.real file based on a vmess_ws config in your panel.
+
+PICTURE
+
+Finally, to start the test, you can specify the simultaneous test of IPs and press the Start Scan button.
+
+PICTURE
+
+In the Fastest IP found section, it shows the fastest available IP based on the lowest delay.
+
+Recommendations:
+- Be sure to edit the config.real file based on your server. It is also recommended
+- Do not set the number of IP concurrency more than 8 to give a more accurate output.
+
+Sometimes you may open the app and scan, but nothing is displayed; In this case, there are two modes:
+>1. Host address or SNI related to the filtered configuration.
+>2. You did not enter the configuration information correctly. For this case, you should open one of the structures placed in the generated folder and check whether the information of this structure is the same as your configuration or not.
+
+PICTURE
+
+To see the new settings of the Windows version, see [this topic](https://github.com/MortezaBashsiz/CFScanner/discussions/210).
+
+### What to do after finding a clean IP?
+After finding a clean IP; You can register it with a dns record without a proxy. That is, create a subdomain on Cloudflare. Turn off the proxy and enter the IP.
+
+PICTURE
+
+If you need more information about the domain, [click here](https://github.com/hiddify/hiddify-config/wiki/Domain-types-and-how-to-register-them).
+
+PICTURE
+
+Then in the Hiddify panel, you can put it in the CDN domain settings in the `Force to use host field in the CDN configuration`. [More details](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#cdn-domain)
+
+PICTURE
