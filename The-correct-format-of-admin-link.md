@@ -9,7 +9,8 @@ Or note that the admin link and other program links are made up of different par
 In general, the admin link has the following format:
 
 https://sub.domain.com/DrtGho0n4b8H9D/8bncvfb5-8193-vv76-ab97-4c35965l250m/admin/
-![Screenshot_20230304_101425](https://user-images.githubusercontent.com/125398461/222881480-87fe5d45-2115-4a8d-89eb-45c8889e2d96.png)
+![](https://user-images.githubusercontent.com/125398461/230102115-65b21ce7-bc9f-4a6f-a450-bc531ce19a31.png)
+
 
 Each part is separated from each other with "/" which will be explained below.
 
