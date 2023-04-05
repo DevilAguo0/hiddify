@@ -9,10 +9,11 @@ As you know, one of the constant concerns of users when using Cloudflare cdn; Fi
 
 The auto_cdn_ip feature was created to solve this problem for you. Read the description carefully to learn how to set this feature.
 
+
 ## Domain registration in auto_cdn_ip mode
 To do this, go to the domains menu and click the create button. The following page will open for you.
 
-PICTURE
+![Auto_CDB_IP](https://user-images.githubusercontent.com/125398461/229987959-eab8a7c8-1eec-416d-a543-c6af3385d636.png)
 
 In the following, each part will be explained according to the numbers above.
 
