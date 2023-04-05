@@ -4,18 +4,18 @@
 
 </div>
 
-# How to set up and use workers
-## What are workers?
+# How to set up and use Workers
+## What are Workers?
 
 Workers is one of Cloudflare's famous CDN services, which is actually a server-less service, through which programming codes can be executed without the need to configure a server or infrastructure. In fact, this service is a type of cloud computing based on SaaS.
 
-In other words, the working method of Workers is that instead of trying to open your website directly (here Hiddify's panel); You send requests to workers and then workers re-send requests to your domain and server.
+In other words, the working method of Workers is that instead of trying to open your website directly (here Hiddify panel); You send requests to Workers and then Workers re-send requests to your domain and server.
 
 ![](https://user-images.githubusercontent.com/125398461/224561104-dafc3e89-1c0d-4afc-82eb-cce1cec6933a.png)
 
-The purpose here is to hide the domain behind the workers.
+The purpose here is to hide the domain behind the Workers.
 
-## How to use workers?
+## How to use Workers?
 To use Workers, you need to have an active domain on Cloudflare.
 
 ### Domain and subdomain registration on Cloudflare
@@ -44,13 +44,13 @@ Then select `Create a Service` option.
 
 ![Screenshot_20230312_211625](https://user-images.githubusercontent.com/125398461/224562813-20dc1a02-8d93-446b-a7d9-d90fbae3cda3.png)
 
-Here you can choose the name of your service workers. Cloudflare itself also suggests a name for you. You can change it but note that this name must be unique.
+Here you can choose the name of your service Workers. Cloudflare itself also suggests a name for you. You can change it but note that this name must be unique.
 
 ![Screenshot_20230312_212008](https://user-images.githubusercontent.com/125398461/224563236-dc4c5497-b179-46f4-ae53-9c003d3789d6.png)
 
-`Starter` option should also be on `HTTP handler`. Finally, by selecting `Create service`, your workers service will be created.
+`Starter` option should also be on `HTTP handler`. Finally, by selecting `Create service`, your Workers service will be created.
 
-After that, you need to click on the `Quick edit` button so that you can put your desired code in the workers.
+After that, you need to click on the `Quick edit` button so that you can put your desired code in the Workers.
 
 ![Screenshot_20230312_213000](https://user-images.githubusercontent.com/125398461/224563711-3675b1dc-5f50-4c34-94b3-d47f5a00f7c8.png)
 
@@ -83,11 +83,11 @@ That is, for example, you have registered the subdomain `sub.domain.com` in Clou
 
 Click the `Save and deploy` button. This step was completed successfully.
 
-On the workers page, copy your workers address without `http`. For example, like this:
+On the Workers page, copy your Workers address without `http`. For example, like this:
 
 ![Screenshot_20230314_080208](https://user-images.githubusercontent.com/125398461/224895042-d6a4e78b-f98f-4b9f-b6ad-a733eff3213a.png)
 
-This step was completed successfully. Now you have to register the address of your service workers in Hiddify panel.
+This step was completed successfully. Now you have to register the address of your service Workers in Hiddify panel.
 
 ### Registration of Workers in Hiddify
 Go to the Domains menu and click Create.
@@ -95,7 +95,7 @@ Go to the Domains menu and click Create.
 
 Make the settings according to the picture above and save.
 
-Work is finished. A CDN domain with the profile of your workers has been added to your previous domains and you can use its connections.
+Work is finished. A CDN domain with the profile of your Workers has been added to your previous domains and you can use its connections.
 
 > Final and important point:
 * Workers in the free plan only processes 100,000 requests per day, so this service is useful for those who do not have high traffic on their server.
