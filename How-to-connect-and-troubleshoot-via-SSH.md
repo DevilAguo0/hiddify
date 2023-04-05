@@ -114,3 +114,37 @@ By selecting this option, the program will be updated according to the setting o
 By selecting this option, the program will be updated to the latest stable version.
 ### Develop
 By selecting this option, the program will be updated to the latest development version.
+
+In all three cases, you will see something like this in the terminal.
+
+![Screenshot_20230304_112008](https://user-images.githubusercontent.com/125398461/222898474-0d72f442-f19a-40a9-9f35-fcad96807fc4.png)
+
+Most used:
+> > > If you lost access during the update through the panel.
+
+## Install
+If you need to reinstall the system, use this option. At the end, the system status and admin links are displayed.
+
+![Screenshot_20230304_111851](https://user-images.githubusercontent.com/125398461/222899750-3392fdde-95b0-4101-9e94-365c3c5c1eb7.png)
+
+To return to the main menu, you must press the `q` key.
+
+Most used:
+> > > If during installation one of the scripts is not executed correctly and the panel does not open.
+
+### Submenu
+This submenu contains several options.
+
+![Screenshot_20230405_160357](https://user-images.githubusercontent.com/125398461/230084850-c874bcb2-1843-46fb-8b9d-0ae271165dad.png)
+
+### Enable
+This option is for when you have previously disabled the display of this window and want to re-enable its automatic display at server startup.
+
+### Disable
+By selecting this option, the display of this window will be disabled at startup. That is, if the server is restarted, this window will no longer be displayed automatically.
+
+### Uninstall
+If you need to remove the installed panel from the server, use this option. Also, keep in mind that this option does not remove all uninstalled items. If you need the server to return to the default settings before installation; It is better to rebuild it.
+
+### Purge
+Select this option to completely remove the program and database from the server.
