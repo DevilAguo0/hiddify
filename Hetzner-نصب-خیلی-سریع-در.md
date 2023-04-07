@@ -1,7 +1,7 @@
 [**![World Learning Splash Image](https://user-images.githubusercontent.com/125398461/229074810-599bd7f9-0bc1-44a9-b76e-90bf7e182314.png) English**](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Hetzner-Servers)
 
 <div dir="rtl" markdown="1">
- <!-- [آموزش گرفتن اکانت هتزنر از صفر تا صد](https://www.youtube.com/watch?v=XfS2Y6hZkqw) -->
+<!-- [آموزش گرفتن اکانت هتزنر از صفر تا صد](https://www.youtube.com/watch?v=XfS2Y6hZkqw) -->
 
 
 # نصب خیلی سریع در Hetzner
@@ -12,12 +12,16 @@
 
 <div align=center>
 
+
 **فیلم آموزش هتزنر از صفر تا صد**
 [![Hetzner](https://img.youtube.com/vi/vQ-NAfRXTZo/maxresdefault.jpg)](https://www.youtube.com/watch?v=vQ-NAfRXTZo)
 
 </div>
-—->
+
+-->
+
 <div dir="rtl">
+
 مراحل نصب:
 
 - ابتدا وارد اکانت خود شوید و یک سرور جدید درست کنید.
