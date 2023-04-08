@@ -41,6 +41,13 @@ Usually, when you purchase a VPS you get the user ``root'' on the server. suppos
 ```
 ssh root@1.1.1.1
 ```
+If you have changed the default SSH port, then you should change the above command like this.
 
-
+```
+ssh root@<IP_Address> -p <port_number>
+```
+For example, if your IP is `1.1.1.1` and the port is `2222`, you should execute the command in this way.
+```
+ssh root@1.1.1.1 -p 2222
+```
 
