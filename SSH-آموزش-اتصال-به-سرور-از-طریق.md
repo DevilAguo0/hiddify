@@ -1,4 +1,4 @@
-[English](https://github.com/hiddify/hiddify-config/wiki/How-to-connect-to-server-via-SSH/_edit)
+[English](https://github.com/hiddify/hiddify-config/wiki/How-to-connect-to-server-via-SSH)
 
 <div dir="rtl">
 
