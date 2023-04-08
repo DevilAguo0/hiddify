@@ -1,3 +1,5 @@
+[English](https://github.com/hiddify/hiddify-config/wiki/How-to-connect-to-server-via-SSH/_edit)
+
 <div dir="rtl">
 
 # آموزش اتصال به سرور از طریق SSH
