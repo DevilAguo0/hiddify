@@ -17,9 +17,7 @@
 ## Welcome to Hiddify
 
 Hiddify is a powerful and professional anti-censorship toolbox, which is a multi-user panel with an effortless installation and supporting more than 20 protocols to circumvent filtering plus telegram proxy.  It's optimized for censorship circumvention in China, Russia and Iran and recommended by [**Xray**](https://github.com/XTLS/Xray-core). It's a great replacement of X-UI.
-
-<details markdown="1"> <summary><b>Attractive features and supported protocols</b></summary> 
-
+### Attractive features
 - Quick installation
 - Smart proxy (Hidify and Clash client)
 - Automatic update
@@ -35,12 +33,26 @@ Hiddify is a powerful and professional anti-censorship toolbox, which is a multi
 
 And dozens of other features that you will notice after installation
 
+<details markdown="1"> <summary><b>Supported protocols</b></summary> 
+
+
+| Supported Configs | Supported Configs | Supported Configs |
+| - | - | - |
+| **Direct** | **CDN** | **Domain Fronting** |
+|Trojan:<br>- TLS WS<br>- TLS TCP<br>- TLS gRPC<br>- TLS H2 WS<br>- TLS H2 TCP<br>- TLS H2 gRPC<br> |  Trojan:<br>- TLS WS<br>- TLS gRPC<br>- TLS H2 WS<br>- TLS H2 gRPC<br><br><br>| Trojan:<br>- TLS WS Fake<br><br><br><br><br><br> |
+| Vless:<br>- TLS WS<br>- HTTP WS<br>- TLS TLS<br>- TLS gRPC<br>- TLS H2 TLS<br>- TLS H2 WS<br>- TLS H2 gRPC | Vless:<br>- TLS WS<br>- TLS gRPC<br>- HTTP WS<br>- TLS H2 WS<br>- TLS H2 gRPC<br><br><br>| Vless:<br>- TLS WS Fake<br>- HTTP WS Fake<br><br><br><br><br><br> |
+| Vmess:<br>- TLS WS<br>- TLS TCP<br>- HTTP WS<br>- HTTP TCP<br>- TLS gRPC<br>- TLS H2 WS<br>- TLS H2 TCP<br> | Vmess:<br>- TLS WS<br>- TLS gRPC<br>- HTTP WS<br>- TLS H2 WS<br>- TLS H2 gRPC<br><br><br> | Vmess:<br>- TLS WS Fake<br>- HTTP WS Fake<br><br><br><br><br><br> |
+| V2ray:<br>- TLS WS<br>- HTTP WS<br>- TLS H2 |  V2ray:<br>- TLS WS<br>- HTTP WS<br>- TLS H2 | |
+| Shadowsocks:<br>- TLS Shadowtls<br>- HTTP Shadowtls<br>- TLS H2 Shadowtls | | |
+
+<!--
 | Supported Configs | Supported Configs |
 | - | - |
 | ♥ **Telegram Proxy** ♥ | **vless+xtls** |
 | **Web Socket (cdn support)**:<br> - vless+tls+ws <br>- trojan+tls+ws <br> - vmess+tls+ws | **h2+tls**:<br> - vless+tls<br> - trojan+tls<br> - vmess+tls |
 | **grpc+tls**:<br> - vless+grpc+tls<br> - trojan+grpc+tls<br> - vmess+grpc+tls | **http1.1+tls**:  <br>- trojan+tls <br> - vmess+tls|
 | **old configs**: <br> - trojango (cdn support) <br> - v2ray+ws (cdn support) <br> - vmess (cdn support) <br> - ss+faketls| **HTTP** <br> -unsafe, default is disable <br> - vless<br> -vmess |
+-->
 
 </details>
 
@@ -62,8 +74,6 @@ At the same time, the proposed solution is resistant to detection by the interne
 <details  markdown="1"> <summary>Supported operating systems</summary>
 Hiddify has been tested on Ubuntu 20.04 and 22.04. Ubuntu arm64 or amd64
 </details>
-
-
 
 <details  markdown="1"> <summary>Speed test</summary>
 
@@ -111,7 +121,7 @@ When you want to share Telegram proxy or Shadowsocks proxy through other program
 
 ## Installation Guide ![](https://img.shields.io/badge/Install-Hiddify-004E9F?style=flat-square&logo=Azure-Data-Explorer)
 
-### prerequisites
+### Prerequisites
 Before you start the installation; You need a series of prerequisites. Click [here](https://github.com/hiddify/hiddify-config/wiki/Installation-prerequisites) to get to know them.
 
 ### Quick installation
