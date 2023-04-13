@@ -6,17 +6,17 @@
 
 
 </div>
-</br>
+<br>
 <div align=center markdown="1">
 
 ![Hiddify Logo](https://user-images.githubusercontent.com/125398461/227777845-a4d0f86b-faa2-4f2b-a410-4aa5f68bfe19.png)
 
 </div>
-</br>
+<br>
 <div align=center>
 
 <!--[![Total Downloads](https://img.shields.io/github/downloads/hiddify/hiddify-config/total?label=downloads%20after%202023%2F03%2F27%2011%3A00%20&style=flat-square)](https://github.com/hiddify/hiddify-config/)-->
- [![Downloads](https://static.pepy.tech/badge/hiddifypanel?style=flat-square&v3)](https://pepy.tech/project/hiddifypanel?display=monthly&versions=2.*&versions=1.*&versions=3.*)[![Last Version](https://img.shields.io/github/release/hiddify/hiddify-config/all.svg?style=flat-square)](https://github.com/hiddify/hiddify-config/)[![Last Release Date](https://img.shields.io/github/release-date/hiddify/hiddify-config.svg?style=flat-square)](https://github.com/hiddify/hiddify-config/)![commits](https://img.shields.io/github/commit-activity/m/hiddify/hiddify-config?style=flat-square)[![Youtube](https://img.shields.io/youtube/channel/views/UCxrmeMvVryNfB4XL35lXQNg?label=Youtube&style=flat-square&logo=youtube)](https://www.youtube.com/@hiddify)[![Telegram Channel](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhiddify&color=blue)](https://telegram.dog/hiddify)[![Telegram Group](https://img.shields.io/endpoint?color=neon&label=Support%20Group&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhiddify_board)](https://telegram.dog/hiddify_board)
+[![Downloads](https://img.shields.io/pypi/dm/hiddifypanel?style=flat-square)](https://pypistats.org/packages/hiddifypanel)[![Last Version](https://img.shields.io/github/release/hiddify/hiddify-config/all.svg?style=flat-square)](https://github.com/hiddify/hiddify-config/)[![Last Release Date](https://img.shields.io/github/release-date/hiddify/hiddify-config.svg?style=flat-square)](https://github.com/hiddify/hiddify-config/)![commits](https://img.shields.io/github/commit-activity/m/hiddify/hiddify-config?style=flat-square)[![Youtube](https://img.shields.io/youtube/channel/views/UCxrmeMvVryNfB4XL35lXQNg?label=Youtube&style=flat-square&logo=youtube)](https://www.youtube.com/@hiddify)[![Telegram Channel](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhiddify&color=blue)](https://telegram.dog/hiddify)[![Telegram Group](https://img.shields.io/endpoint?color=neon&label=Support%20Group&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhiddify_board)](https://telegram.dog/hiddify_board)
 <!--
 [![GitHub Stars](https://img.shields.io/tokei/lines/github/hiddify/hiddify-config.svg)](https://github.com/hiddify/hiddify-config/)
 [![GitHub Stars](https://img.shields.io/github/stars/hiddify/hiddify-config.svg)](https://github.com/hiddify/hiddify-config/)
@@ -27,15 +27,32 @@
 
 </div>
 
-</br>
 <div dir="rtl" markdown="1">
 
-
-
 ## به هیدیفای خوش آمدید
-هیدیفای یک ابزار قدرتمند و حرفه‌ای ضدسانسور اینترنت است که دارای پنل چند کاربره و نصب آسان است و به شما کمک می کند با بیش از ۲۰ پروتکل پشتیبانی شده فیلترینگ اینترنت را دور بزنید همچنین می توانید از پروکسی تلگرام استفاده نمایید. این ابزار برای شبکه اینترنت ایران بهینه سازی شده است و توسط [**Xray**](https://github.com/XTLS/Xray-core) توصیه شده است. این پنل یک جایگزین عالی برای X-UI می باشد.
+هیدیفای یک ابزار قدرتمند و حرفه ای ضدسانسور اینترنت است که دارای پنل چند کاربره و نصب آسان است و به شما کمک می‌کند با بیش از ۲۰ پروتکل پشتیبانی شده فیلترینگ اینترنت را دور بزنید همچنین می‌توانید از پروکسی تلگرام استفاده نمایید. این ابزار برای شبکه اینترنت ایران بهینه سازی شده است و توسط <a href="https://github.com/XTLS/Xray-core#installation" target="_blank">**Xray**</a> توصیه شده است. این پنل یک جایگزین عالی برای پنل X-UI می‌باشد.
+
+
 
 ![farsi_demo](https://user-images.githubusercontent.com/114227601/228013297-240d6945-874f-4836-9b0d-0e1ba072481f.png)
+
+
+***
+### فهرست مطالب
+- [چرا هیدیفای؟](https://github.com/hiddify/hiddify-config/blob/main/README_fa.md#%DA%86%D8%B1%D8%A7-%D9%87%DB%8C%D8%AF%DB%8C%D9%81%D8%A7%DB%8C)
+- [راهنمای نصب](https://github.com/hiddify/hiddify-config/blob/main/README_fa.md#%D9%86%D8%AD%D9%88%D9%87-%D9%86%D8%B5%D8%A8) 
+  - [پیش نیازها](https://github.com/hiddify/hiddify-config/blob/main/README_fa.md#%D9%BE%DB%8C%D8%B4-%D9%86%DB%8C%D8%A7%D8%B2%D9%87%D8%A7)
+  - [نصب سریع](https://github.com/hiddify/hiddify-config/blob/main/README_fa.md#%D9%86%D8%B5%D8%A8-%D8%B3%D8%B1%DB%8C%D8%B9)
+  - [نصب معمول](https://github.com/hiddify/hiddify-config/blob/main/README_fa.md#%D9%86%D8%B5%D8%A8-%D9%85%D8%B9%D9%85%D9%88%D9%84)
+- [راهنمای پیکربندی](https://github.com/hiddify/hiddify-config/blob/main/README_fa.md#%D9%86%D8%AD%D9%88%D9%87-%D9%BE%DB%8C%DA%A9%D8%B1%D8%A8%D9%86%D8%AF%DB%8C)
+- [ویکی](https://github.com/hiddify/hiddify-config/blob/main/README_fa.md#%D9%88%DB%8C%DA%A9%DB%8C-%D9%BE%D8%B1%D9%88%DA%98%D9%87)
+- [حمایت از پروژه](https://github.com/hiddify/hiddify-config/blob/main/README_fa.md#%D8%AF%D9%88%D9%86%DB%8C%D8%AA-%D9%88-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%D8%A7%D8%B2-%D9%BE%D8%B1%D9%88%DA%98%D9%87)
+- [همکاری با ما](https://github.com/hiddify/hiddify-config/blob/main/README_fa.md#%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C-%D8%A8%D8%A7-%D9%85%D8%A7)
+- [راه های همکاری و ارتباط با ما](https://github.com/hiddify/hiddify-config/blob/main/README_fa.md#%D8%B1%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C-%D9%88-%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7-%D8%A8%D8%A7-%D9%85%D8%A7)
+***
+## چرا هیدیفای؟
+هیدیفای تلفیقی از دو کلمه Hidden (مخفی شده) و Simplify (ساده سازی) است. پنلی با ويژگی های فراوان و تعداد قابل توجهی از قابلیت ها که به شما کمک می کند با خیالی راحت و آسوده از اینترنت آزاد بهره ببرید.
+
 ### ویژگی های جذاب 
 
 - نصب سریع
@@ -143,13 +160,13 @@ Ubuntu arm64 or amd64
 </details>
 
 </div>
-<div align=center>
+
 
 <!--
 <a href="https://www.youtube.com/watch?v=-a4tfRUsrNY">
   <img width="50%" src="https://user-images.githubusercontent.com/125398461/227990194-e20b67dc-6cda-4b05-bd26-b7147d830a12.png" />
 </a>
-</div>
+
 -->
 
 <div align=right dir="rtl">
