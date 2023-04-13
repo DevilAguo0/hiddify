@@ -33,7 +33,7 @@ Hiddify is a powerful and professional anti-censorship toolbox, which is a multi
 
 And dozens of other features that you will notice after installation
 
-<details markdown="1"> <summary><b>Supported protocols</b></summary> 
+<details markdown="1"> <summary><h3>Supported protocols</h3> (Click here)</summary> 
 
 
 | Supported Configs | Supported Configs | Supported Configs |
