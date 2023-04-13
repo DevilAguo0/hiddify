@@ -97,7 +97,7 @@
 </details>
 
 
-<details markdown="1"> <summary><b>پروکسی هوشمند برای سایت های غیر ایرانی و فیلترشده</b></summary>
+<details markdown="1"> <summary><h3>پروکسی هوشمند برای سایت های غیر ایرانی و فیلترشده</h3></summary>
  
 با استفاده از کلاینت کلش و پنل هایدیفای می‌تونین در ۳ حالت به اینترنت وصل بشید. 
 
@@ -111,7 +111,7 @@
 
 </details>
 
-<details markdown="1"><summary><b>سایر امکانات فوق العاده</b></summary>
+<details markdown="1"><summary><h3>سایر امکانات فوق العاده</h3></summary>
 
 
 <details  markdown="1"> <summary>سیستم‌عامل‌های پشتیبانی شده</summary>
