@@ -57,7 +57,7 @@ And dozens of other features that you will notice after installation
 </details>
 
 
-<details markdown="1"> <summary><b>Smart proxy for domestic and filtered sites</b></summary>
+<details markdown="1"> <summary><h3>Smart proxy for domestic and filtered sites</h3></summary>
  
 You can connect to the internet in 3 modes using Clash client and Hiddify panel. 
 1. This method only circumvents the filtered websites via the anti-filter.
@@ -68,7 +68,7 @@ At the same time, the proposed solution is resistant to detection by the interne
 
 </details>
 
-<details markdown="1"><summary><b>Other Fantastic Features</b></summary>
+<details markdown="1"><summary><h3>Other Fantastic Features</h3></summary>
 
 
 <details  markdown="1"> <summary>Supported operating systems</summary>
