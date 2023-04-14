@@ -33,6 +33,7 @@ Hiddify is a powerful and professional anti-censorship toolbox, which is a multi
 - **Dedicated client software**
 - **Telegram proxy** using different libraries
 - **DNS over HTTPS** (DoH)
+- User management using **Telegram Bot**
 
 And dozens of other features that you will notice after installation
 
