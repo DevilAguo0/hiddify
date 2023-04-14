@@ -17,19 +17,22 @@
 ## Welcome to Hiddify
 
 Hiddify is a powerful and professional anti-censorship toolbox, which is a multi-user panel with an effortless installation and supporting more than 20 protocols to circumvent filtering plus telegram proxy.  It's optimized for censorship circumvention in China, Russia and Iran and recommended by [**Xray**](https://github.com/XTLS/Xray-core). It's a great replacement of X-UI.
+
 ### Attractive features
-- Quick installation
-- Smart proxy (Hidify and Clash client)
-- Automatic update
-- Automatic backup (every 6 hours)
-- Using multiple domains
-- Auto CDN IP configuration capability
-- Management of active configurations
-- User management
-- Definition of time and traffic limit for each user
-- Dedicated pages for users to view consumption and configurations
-- Dedicated and intelligent configurations
-- Dedicated client software
+- **Quick installation**
+- **Smart proxy** (Hiddify and Clash client)
+- **Automatic update**
+- **Automatic backup** (every 6 hours)
+- Using **multiple domains**
+- **Auto CDN IP** configuration capability
+- Management of **active configurations**
+- **User management**
+- Applying **time and traffic limit** for each user
+- **Dedicated pages for users** to view consumption and configurations
+- Dedicated and **intelligent configurations**
+- **Dedicated client software**
+- **Telegram proxy** using different libraries
+- **DNS over HTTPS** (DoH)
 
 And dozens of other features that you will notice after installation
 
