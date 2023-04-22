@@ -1,4 +1,16 @@
+English
 
+<div dir=rtl align=center>
+
+قبل از شروع می‌توانید ویدئوی Reality در هیدیفای را با کلیک روی تصویر زیر مشاهده کنید.
+
+<a href="https://www.youtube.com/watch?v=N819QPAtkrk">
+<img width="50%"src="https://user-images.githubusercontent.com/125398461/233791848-954e03f8-5aaa-465d-bffb-71ea2649427f.png" /> </a>
+
+
+برای مشاهده جزییات این موضوع این مقاله را تا انتها مطالعه نمایید.
+
+</div>
 
 <div dir="rtl">
 
