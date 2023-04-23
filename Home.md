@@ -156,9 +156,9 @@ To install, you only need to have a server according to the prerequisites, and t
 ## Configuration Guide 
 For making the best use of this panel, read [this guide ![](https://img.shields.io/badge/Config-Hiddify-009688?style=flat-square&logo=Azure-Functions)](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly) .
 
-All the contents of this wiki is accessible in Pages section. Please find it right-up corner in Desktop mode or in the bottom of this page in mobile mode.
-
 ## Other Useful Guides
+
+**All the contents of this wiki is accessible in Pages section. Please find it right-up corner in Desktop mode or in the bottom of this page in mobile mode.**
 
 #### Guide to Domain Registration and Setup
 For information on how to register a domain and set it up in Hidify, see [this link](https://github.com/hiddify/hiddify-config/wiki/Domain-types-and-how-to-register-them).
