@@ -158,7 +158,7 @@ For making the best use of this panel, read [this guide ![](https://img.shields.
 
 ## Other Useful Guides
 
-**All the contents of this wiki are accessible in "Pages" section. Please find it in the up-right corner on Desktop or in the bottom of this page on mobile.**
+**All the contents of this wiki are accessible in `Pages` section. Please find it in the up-right corner on Desktop or in the bottom of this page on mobile.**
 
 #### Guide to Domain Registration and Setup
 For information on how to register a domain and set it up in Hidify, see [this link](https://github.com/hiddify/hiddify-config/wiki/Domain-types-and-how-to-register-them).
