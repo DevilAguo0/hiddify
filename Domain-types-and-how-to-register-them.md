@@ -11,7 +11,7 @@ It means you want to use your server directly (for normal use). In fact, this do
 ## CDN domain
 It means you are using your server behind a CDN provider. In other words, you register your domain (subdomain) with a CDN provider and then proxy it.
 
-## Replay domain
+## Relay domain
 This domain is used when you want to use intermediate servers to send user traffic. For example, you have a server in Iran and you have registered a domain (subdomain) for it. You can register this domain in this section so that the relevant settings are applied in the configurations. [More information](https://github.com/hiddify/hiddify-config/discussions/129)
 
 ## Fake domain
@@ -28,7 +28,7 @@ Using sites that offer free subdomains: [afarid](https://freedns.afraid.org/) is
 A number of public domains have already been registered on this site. You can register your desired subdomain on these domains.
 For this, you must first create a profile from [here](https://freedns.afraid.org/signup/?plan=starter). A real email is required.
 
-PICTURE
+![](https://user-images.githubusercontent.com/125398461/221342760-12dc14ed-9a19-45f3-a3f1-bf7d3f969792.png)
 
 After that, the list of domains registered on this site can be seen from [here](http://freedns.afraid.org/domain/registry/). You can choose one of the domains that has fewer hosts. Note that the domain must be public. It is recommended to use `.com`, `.org`, `.net` domains.
 
