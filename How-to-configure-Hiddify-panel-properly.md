@@ -362,10 +362,12 @@ After performing this operation, because the system will be restarted once; The 
 ## Backup
 In this menu, you can take a backup from the panel or restore your previous backup.
 
-* The output format of the backup file is json.
+* The output format of the backup file is Json.
 * When restoring the backup on the panel, it is possible to choose the type of restoration from the options of restoring settings, restoring users and restoring domains.
+
 ## Support
 If there is a problem with the settings and performance of the panel, you can raise your problems in the project-related [problems section .](https://github-com.translate.goog/hiddify/hiddify-config/issues?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+
 ## Telegram
 Notifications related to this project are made on [the Telegram channel .](https://translate.google.com/website?sl=fa&tl=en&hl=en&client=webapp&u=https://t.me/hiddify)
 
@@ -373,14 +375,14 @@ Notifications related to this project are made on [the Telegram channel .](https
 
 You can do this in different ways to support the project.
 
-    1. Star the [project](https://github-com.translate.goog/hiddify/hiddify-config/?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) on GitHub.
+1. The easiest way to support us is to click on the star () at the top of this page.
 
-    2. If you have programming skills, you can [join](https://github-com.translate.goog/hiddify/hiddify-config/blob/ec57cd10d1f56e6853818e9df163f7c4093981e5/README.md?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp#%D8%A8%D8%A7-%D9%85%D8%A7-%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C-%DA%A9%D9%86%DB%8C%D8%AF) the project .
+2. If you have programming skills, you can [join the project ](https://github.com/hiddify/hiddify-config/#collaboration-and-contact-information) .
 
-    3. If you have content creation skills, you can contact the [admin](https://github-com.translate.goog/hiddify/hiddify-config/blob/ec57cd10d1f56e6853818e9df163f7c4093981e5/README.md?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp#%D8%A8%D8%A7-%D9%85%D8%A7-%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C-%DA%A9%D9%86%DB%8C%D8%AF) .
+3. If you have content creation skills, you can [contact the us]((https://github.com/hiddify/hiddify-config/#collaboration-and-contact-information) .
 
-    4. You can [support](https://github-com.translate.goog/hiddify/hiddify-config/blob/ec57cd10d1f56e6853818e9df163f7c4093981e5/README.md?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp#%D8%A7%D8%B2-%D9%85%D8%A7-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%DA%A9%D9%86%DB%8C%D8%AF) the project with Donit .
+4. You can [support](https://github.com/hiddify/hiddify-config/wiki/Support) the project with Donate.
 
-    5. The last form of support is to introduce the panel to others.
+5. The last form of support is to introduce the panel to others.
 
 
