@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-[**![lang_logo](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ir.png) فارسی**](https://github.com/hiddify/hiddify-config/wiki/%D9%86%D8%AD%D9%88%D9%87-%D9%BE%DB%8C%DA%A9%D8%B1%D8%A8%D9%86%D8%AF%DB%8C-%D9%BE%D9%86%D9%84-%D9%87%DB%8C%D8%AF%DB%8C%D9%81%D8%A7%DB%8C)
+[**![flag_of_Iran](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) &nbsp;فارسی**](https://github.com/hiddify/hiddify-config/wiki/%D9%86%D8%AD%D9%88%D9%87-%D9%BE%DB%8C%DA%A9%D8%B1%D8%A8%D9%86%D8%AF%DB%8C-%D9%BE%D9%86%D9%84-%D9%87%DB%8C%D8%AF%DB%8C%D9%81%D8%A7%DB%8C)
 </div>
 
 # Table of contents
@@ -343,7 +343,7 @@ Important points related to applying changes:
 
     When the changes are applied, a green message will appear indicating that the operation was successful. If for any reason this message does not appear; And the panel won't open anymore; Use the emergency link to access the server.
 
-    If you have lost the emergency link, you should solve the problem through ssh. [more information](https://github-com.translate.goog/hiddify/hiddify-config/wiki/SSH-%D9%86%D8%AD%D9%88%D9%87-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D9%88-%D8%B1%D9%81%D8%B9-%D8%B9%DB%8C%D8%A8-%D8%A7%D8%B2-%D8%B7%D8%B1%DB%8C%D9%82?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+    If you have lost the emergency link, you should solve the problem through ssh. [more information](https://github.com/hiddify/hiddify-config/wiki/How-to-connect-and-troubleshoot-via-SSH)
 
 ### Update System
 It is possible to install the update panel in this way.
@@ -353,6 +353,7 @@ which usually should be done between 5 and 10 minutes. As a precaution, be sure 
 The panel startup script will be executed again and the corresponding log will be displayed. By doing this, the database of users and links will not change, so there is no need to worry, but be sure to copy the emergency link as a precaution.
 
 Sometimes the green message that the operation is successful may not be shown, but through the simulated terminal, you can see the completion of the operation.
+
 ### Restart System
 If you need to reset the server, you can do it from this section.
 
@@ -367,7 +368,9 @@ In this menu, you can take a backup from the panel or restore your previous back
 If there is a problem with the settings and performance of the panel, you can raise your problems in the project-related [problems section .](https://github-com.translate.goog/hiddify/hiddify-config/issues?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 ## Telegram
 Notifications related to this project are made on [the Telegram channel .](https://translate.google.com/website?sl=fa&tl=en&hl=en&client=webapp&u=https://t.me/hiddify)
-## Donation 
+
+## Donation
+
 You can do this in different ways to support the project.
 
     1. Star the [project](https://github-com.translate.goog/hiddify/hiddify-config/?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) on GitHub.
