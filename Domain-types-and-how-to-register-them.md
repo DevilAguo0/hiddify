@@ -75,15 +75,15 @@ In this case, to record records related to IP version 4, follow the figure.
 
 After clicking on Add record, register the details of the desired subdomain by entering the server IP. Note that the proxy must be turned off for the direct domain.
 
-PICTURE
+![PICTURE](https://user-images.githubusercontent.com/125398461/234167251-ceebd61b-5147-4198-98dc-1c5bcd0d9124.png)
+
 
 If needed, you can change the TTL from automatic mode. The lower this value is; DNS records cached on the user's system are refreshed sooner.
 
-PICTURE
-
 To record the records related to IP version 6 of the server, follow the figure.
 
-PICTURE
+![PICTURE](https://user-images.githubusercontent.com/125398461/234167507-996c8480-5cf5-4ede-999f-05f74b22499f.png)
+
 
 All the things mentioned about IP version 4 also apply in this case. The only difference is the record type, which is AAAA.
 
@@ -97,7 +97,8 @@ This domain is registered behind the servers of a CDN provider or so-called prox
 ### CDN domain registration in Cloudflare
 For example, you can use Cloudflare service. So after following the steps mentioned above; Your domain was activated on the site; You should go to the DNS section and register the desired record. This record is type A for IP version 4 and type AAAA for IP version 6. The only difference with the previous step is that you must turn on the proxy.
 
-PICTURE
+![PICTURE](https://user-images.githubusercontent.com/125398461/234167748-7121af19-f624-4659-9922-50f8e6d3ea2c.png)
+
 
 ### How to verify CDN domain registration
 When you test this domain using various tools such as ping, nslookup, dig; In response, one of the IPs randomly assigned by Cloudflare will return to your domain and there is no more information about your IP. This provides a level of security for your server.
@@ -112,28 +113,29 @@ to describe precisely; TLS encrypts the communication between the client and the
 
 Certificates assigned to domains are also based on the TLS protocol.
 
-To do this, go to the SSL/TLS section on the Cloudflare site and set the certificate mode to Full or Full (strict).
+To do this, go to the SSL/TLS section on the Cloudflare site and set the certificate mode to Full.
 
-PICTURE
+![PICTURE](https://user-images.githubusercontent.com/125398461/234168806-26bb12cf-78ad-45a9-89b5-c2f005a9fb86.png)
+
 
 Also, activate the SSL/TLS Recommender option to increase connection security. This option checks the connection and gives you security suggestions if it is possible to upgrade the TLS version.
 
 Then go to the Network menu. Here you should check that QUIC, gRPC and WebSockets options are enabled.
 
-PICTURE
-PICTURE
+![PICTURE](https://user-images.githubusercontent.com/125398461/223041843-7b441805-4aab-4547-b318-7dbbda4cc893.png)
+
+![PICTURE](https://user-images.githubusercontent.com/125398461/223042286-e597f169-001e-40a5-b0e8-d34d1b110eab.png)
 
 Checking security status of CDN domain traffic
 To do this, go to the SSL/TLS section of the Cloudflare site. A graph is displayed for passing traffic, the more traffic passed based on the higher version TLS; Communication security has been higher. http traffic passes without using TLS encryption.
 
-PICTURE
+![PICTURE](https://user-images.githubusercontent.com/125398461/223042939-897b7ec0-9700-4bec-8e28-6d8f961657b6.png)
 
 </details>
 
 ## Relay domain registration
 In fact, it is a direct domain that is considered for intermediate servers, and therefore the way to register such domains is the same as the direct domain.
 
-PICTURE
 
 ## Fake domain registration
 As the name suggests, we want to use a fake domain that is not related to us, so we don't need to register it in advance. But we can only use it in the panel.
