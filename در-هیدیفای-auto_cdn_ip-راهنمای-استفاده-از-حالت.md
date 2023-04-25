@@ -1,3 +1,5 @@
+[English](https://github.com/hiddify/hiddify-config/wiki/Guide-for-using-mode-Auto_CDN_IP-on-Hiddify)
+
 <div align=center dir="rtl">
 
 قبل از شروع میتونید ویدئوی زیر را مشاهده کنید تا با کلیت کار آشنا بشید.
