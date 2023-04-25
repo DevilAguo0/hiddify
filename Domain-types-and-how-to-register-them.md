@@ -32,7 +32,7 @@ For this, you must first create a profile from [here](https://freedns.afraid.org
 
 After that, the list of domains registered on this site can be seen from [here](http://freedns.afraid.org/domain/registry/). You can choose one of the domains that has fewer hosts. Note that the domain must be public. It is recommended to use `.com`, `.org`, `.net` domains.
 
-PICTURE
+![221343189-1fe98d0d-7f05-4639-9b51-fb6926f76f2b2](https://user-images.githubusercontent.com/125398461/234033584-1c26c485-6ceb-4aa9-a6b6-c1b781e767d1.png)
 
 ### Register the purchased direct domain
 After buying the domain, you can use the sites that provide DNS services. e.g. Cloudflare
@@ -40,35 +40,38 @@ After buying the domain, you can use the sites that provide DNS services. e.g. C
 #### Direct domain registration purchased on Cloudflare
 First, you register using [this link](https://dash.cloudflare.com/signup).
 
-PICTURE
+![](https://user-images.githubusercontent.com/125398461/221563866-d520a39d-15c8-4f88-a756-90e5e08c074a.png)
 
-Log in after creating a profile. You must add your domain here. For this, click on Add a site button and add your domain.
 
-PICTURE
+Log in after creating a profile. You must add your domain here. For this, click on `Add Site` button and add your domain.
+
+
+
+![PICTURE](https://user-images.githubusercontent.com/125398461/221566504-5ecf714b-940d-4fd5-bc54-be8c37b7c292.png)
 
 In the next step, choose your desired plan. The free plan is enough for this. So you choose according to the photo.
 
-PICTURE
+![PICTURE](https://user-images.githubusercontent.com/125398461/221567803-26850724-1bc8-480a-8c6f-29b32a6fcfa6.png)
 
 In the next step, we do next according to the figure.
 
-PICTURE
+![PICTURE](https://user-images.githubusercontent.com/125398461/222444475-5596de54-3e7f-4fae-a0f0-94c046a21969.png)
 
 In the last step, put the given DNS servers in your domain settings.
 
-PICTURE
+![PICTURE](https://user-images.githubusercontent.com/125398461/221569269-1f4027c7-5815-4dea-876e-326dc0645fe1.png)
 
-Enter a number to register the domain settings. After that, the domain will be activated on the cloudflare server.
+Wait a while to register the domain settings. After that, the domain will be activated on the Cloudflare server.
 
-PICTURE
+![PICTURE](https://user-images.githubusercontent.com/125398461/221572305-50e819ea-0fa4-4548-8851-aab91b797f57.png)
 
 Now you need to go to the registration section of DNS records.
 
-PICTURE
+![PICTURE](https://user-images.githubusercontent.com/125398461/222436778-f80de97b-7d66-4621-8be3-b856fc4e2c75.png)
 
 In this case, to record records related to IP version 4, follow the figure.
 
-PICTURE
+![PICTURE](https://user-images.githubusercontent.com/125398461/222444012-2fa4a2c2-ff89-493e-b92c-01a26d7788b7.png)
 
 After clicking on Add record, register the details of the desired subdomain by entering the server IP. Note that the proxy must be turned off for the direct domain.
 
