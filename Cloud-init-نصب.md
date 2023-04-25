@@ -1,10 +1,10 @@
-[**![World Learning Splash Image](https://user-images.githubusercontent.com/125398461/229074810-599bd7f9-0bc1-44a9-b76e-90bf7e182314.png) English**]()
+[**![World Learning Splash Image](https://user-images.githubusercontent.com/125398461/229074810-599bd7f9-0bc1-44a9-b76e-90bf7e182314.png) English**](https://github.com/hiddify/hiddify-config/wiki/Cloud-init-installation)
 
 <div dir="rtl">
 
 
-این بخش مناسب برای هاستینگ هایی هست که کلود کانفیگ را ساپورت میکنه
-این را کپی کنید و در قسمت مربوطه قرار دهید
+این بخش مناسب برای هاستینگ‌هایی هست که کلود کانفیگ را ساپورت می‌کنه
+این کد را کپی کنید و در قسمت مربوطه قرار دهید
 
 </div>
 
