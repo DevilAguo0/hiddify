@@ -1,13 +1,15 @@
 <div dir="rtl">
 
-[**![lang_logo](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ir.png) فارسی**](https://github.com/hiddify/hiddify-config/wiki/Hetzner-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1)
+[**![flag_of_Iran](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) &nbsp;فارسی**](https://github.com/hiddify/hiddify-config/wiki/Hetzner-%D9%86%D8%B5%D8%A8-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1)
 </div>
 
 # Quick installation on Hetzner Servers
 
+<!--
 In the video below, all the steps are described in full detail. This video is in Farsi and if you watch the steps you can handle that. Although We are considering making some English videos for non-Persian people, till then you can visit this or follow the instructions in this article.
 
 [![Hetzner](https://img.youtube.com/vi/vQ-NAfRXTZo/maxresdefault.jpg)](https://www.youtube.com/watch?v=vQ-NAfRXTZo)
+-->
 
 ## Installation Steps
 - First of all, login to your Hetzner account and click on `ADD SERVER` button.
