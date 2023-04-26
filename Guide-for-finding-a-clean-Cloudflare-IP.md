@@ -43,8 +43,9 @@ Download the config.real file.
 curl -s https://raw.githubusercontent.com/MortezaBashsiz/CFScanner/main/bash/ClientConfig.json -o config.real
 ```
 It is recommended to change the config.real file based on your configuration.
+ 
+![PICTURE](https://user-images.githubusercontent.com/125398461/234565256-4ebeb511-4876-483a-84c5-cb39d62a12ae.png)
 
-PICTURE
 
 If you want to have your own configuration file, save it under a different name that will not change when the script is updated.
 
@@ -66,7 +67,7 @@ Finally, the test result is placed in the `result` folder, which you can view an
 ## Run on Windows version
 For the Windows version, install it after downloading the app.
 
-PICTURE
+![PICTURE](https://user-images.githubusercontent.com/125398461/222939844-0d312508-d15c-4fe8-b3d9-283e44704339.png)
 
 There are some important files and folders that we need to know for running. See the picture below.
 
@@ -102,7 +103,7 @@ Sometimes you may open the app and scan, but nothing is displayed; In this case,
 >1. Host address or SNI related to the filtered configuration.
 >2. You did not enter the configuration information correctly. For this case, you should open one of the structures placed in the generated folder and check whether the information of this structure is the same as your configuration or not.
 
-PICTURE
+![PICTURE](https://user-images.githubusercontent.com/125398461/222940830-906481cb-f8dc-4e3a-abf9-61528f844435.png)
 
 To see the new settings of the Windows version, see [this topic](https://github.com/MortezaBashsiz/CFScanner/discussions/210).
 
@@ -113,7 +114,9 @@ PICTURE
 
 If you need more information about the domain, [click here](https://github.com/hiddify/hiddify-config/wiki/Domain-types-and-how-to-register-them).
 
-PICTURE
+![PICTURE](https://user-images.githubusercontent.com/125398461/234565984-a2560018-7106-421f-850d-fb9db5687b26.png)
+
+
 
 Then in the Hiddify panel, you can put it in the CDN domain settings in the `Force to use host field in the CDN configuration`. [More details](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#cdn-domain)
 
