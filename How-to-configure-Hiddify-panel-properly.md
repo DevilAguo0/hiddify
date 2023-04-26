@@ -189,7 +189,8 @@ Pay attention:
 
 > HTTP connections are unencrypted, but TLS is.
 
-## Settings
+<details><summary><h2>Settings</summary></h2>
+
 ### Admin settings
 Here are the admin settings.
 
@@ -331,6 +332,10 @@ In this menu, a simulated terminal is displayed, through which a series of actio
 ### Reality
 For view more information about this protocol, please view [this article](https://github.com/hiddify/hiddify-config/wiki/How-to-use-Reality-on-Hiddify).
 
+</details>
+
+<details><summary><h2>Actions</h2></summary>
+
 ### Status
 This menu executes the system status display script and displays the related logs.
 
@@ -355,6 +360,7 @@ Important points related to applying changes:
 It is possible to install the update panel in this way.
 
 which usually should be done between 5 and 10 minutes. As a precaution, be sure to copy the emergency link to use in case of a problem.
+
 ### Reinstall System
 The panel startup script will be executed again and the corresponding log will be displayed. By doing this, the database of users and links will not change, so there is no need to worry, but be sure to copy the emergency link as a precaution.
 
@@ -364,6 +370,8 @@ Sometimes the green message that the operation is successful may not be shown, b
 If you need to reset the server, you can do it from this section.
 
 After performing this operation, because the system will be restarted once; The page format may be messed up, so don't rush at all and wait at least 5 minutes for the service to be restored
+
+</details>
 
 ## Backup
 In this menu, you can take a backup from the panel or restore your previous backup.
