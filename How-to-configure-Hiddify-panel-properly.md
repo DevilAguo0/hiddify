@@ -328,6 +328,9 @@ This is done automatically by the panel, but you can change it if you want
 ## Actions
 In this menu, a simulated terminal is displayed, through which a series of actions related to maintenance, troubleshooting and installation of the panel can be performed.
 
+### Reality
+For view more information about this protocol, please view [this article](https://github.com/hiddify/hiddify-config/wiki/How-to-use-Reality-on-Hiddify).
+
 ### Status
 This menu executes the system status display script and displays the related logs.
 
