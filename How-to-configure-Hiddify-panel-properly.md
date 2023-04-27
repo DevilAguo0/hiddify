@@ -116,7 +116,8 @@ Several methods are suggested for providing links to users:
 
 If you need more information about how to connect the client to the server, please visit our [YouTube Channel](https://www.youtube.com/watch?v=5CyktpUePf0&list=PL2DSfh6Z6tTK0fhT_koc8BlxV95GfzCje) in order to find a playlist in this regard.
 
-## Domains
+<details><summary><h2>Domains</h2></summary>
+
 Go to the Domains menu to add your domains. There are 5 modes here.
 <details><summary><h3>Direct domain</h3></summary>
 Click the Create button. In the opened page, act according to the figure.
@@ -175,6 +176,8 @@ Pay attention:
 * The field to force the use of the host and display the domain configs do not need to be completed here.
 
 * If you use several domains and also a large number of users connect to the panel and you need to assign a specific domain to each user; It is recommended to read [this topic]
+
+</details>
 
 </details>
 
