@@ -1,7 +1,7 @@
 
 <div dir="rtl">
 
-[**![flag_of_Iran](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) &nbsp;فارسی**](https://github.com/hiddify/hiddify-config/wiki/%DA%86%DA%AF%D9%88%D9%86%DA%AF%DB%8C-%DB%8C%D8%A7%D9%81%D8%AA%D9%86-%D8%A2%DB%8C%D9%BE%DB%8C-%D8%AA%D9%85%DB%8C%D8%B2-%DA%A9%D9%84%D8%A7%D8%AF%D9%81%D9%84%D8%B1)
+[**![persian_lang](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) &nbsp;فارسی**](https://github.com/hiddify/hiddify-config/wiki/%DA%86%DA%AF%D9%88%D9%86%DA%AF%DB%8C-%DB%8C%D8%A7%D9%81%D8%AA%D9%86-%D8%A2%DB%8C%D9%BE%DB%8C-%D8%AA%D9%85%DB%8C%D8%B2-%DA%A9%D9%84%D8%A7%D8%AF%D9%81%D9%84%D8%B1)
 </div>
 
 # Guide for finding a clean Cloudflare IP
@@ -56,11 +56,12 @@ Go to the location of the downloaded script file and then run the script as show
 bash cfScanner.sh SUBNET DOWN threads tryCount config.real speed custom.subnets
 ```
 
-
-![PICTURE](https://user-images.githubusercontent.com/125398461/234597400-41da7a68-a5db-4c09-a15f-41e43b0ea0f6.png)
+![222946688-bcec3d65-7bf1-495a-b1bf-fe517f69f8822](https://user-images.githubusercontent.com/125398461/234751332-e0fa6e6b-5b97-445b-bd50-12c9d603d556.png)
 
 
 For example:
+
+
 ```
 bash cfScanner.sh SUBNET DOWN 8 1 config.real 100 custom.subnets
 ```
@@ -117,14 +118,12 @@ To see the new settings of the Windows version, see [this topic](https://github.
 ### What to do after finding a clean IP?
 After finding a clean IP; You can register it with a DNS record without . That is, create a subdomain on Cloudflare. Turn off the proxy and enter the IP.
 
-PICTURE
+![PICTURE](https://user-images.githubusercontent.com/125398461/234565984-a2560018-7106-421f-850d-fb9db5687b26.png)
 
 If you need more information about the domain, [click here](https://github.com/hiddify/hiddify-config/wiki/Domain-types-and-how-to-register-them).
-
-![PICTURE](https://user-images.githubusercontent.com/125398461/234565984-a2560018-7106-421f-850d-fb9db5687b26.png)
 
 
 
 Then in the Hiddify panel, you can put it in the CDN domain settings in the `Force to use host field in the CDN configuration`. [More details](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#cdn-domain)
 
-PICTURE
+![Screenshot_20230427_0656192](https://user-images.githubusercontent.com/125398461/234752684-280b90e8-0b00-4106-b744-b06117821b0f.png)
