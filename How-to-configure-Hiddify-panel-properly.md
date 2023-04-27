@@ -306,7 +306,7 @@ ShadowSax FakeTLS is a simple obfuscation method that encapsulates data in a TLS
 ### TUIC Settings
 Delicately-TUICed high-performance UDP-based proxy similar to quic. The goal of TUIC is to minimize the handshake delay as much as possible. You can activate it in this section.
 
-### advanced settings
+### Advanced settings
 In this section, there are configurations that are needed by a few users and are designed for professional users
 
 
@@ -326,15 +326,16 @@ In this section, you can set the proxy path.
 This is especially important when you use proxies with lower security (http and vmess).
 
 This is done automatically by the panel, but you can change it if you want
-## Actions
-In this menu, a simulated terminal is displayed, through which a series of actions related to maintenance, troubleshooting and installation of the panel can be performed.
 
 ### Reality
 For view more information about this protocol, please view [this article](https://github.com/hiddify/hiddify-config/wiki/How-to-use-Reality-on-Hiddify).
 
 </details>
 
+
 <details><summary><h2>Actions</h2></summary>
+
+In this menu, a simulated terminal is displayed, through which a series of actions related to maintenance, troubleshooting and installation of the panel can be performed.
 
 ### Status
 This menu executes the system status display script and displays the related logs.
