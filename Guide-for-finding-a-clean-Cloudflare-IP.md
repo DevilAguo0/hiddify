@@ -56,7 +56,9 @@ Go to the location of the downloaded script file and then run the script as show
 bash cfScanner.sh SUBNET DOWN threads tryCount config.real speed custom.subnets
 ```
 
-PICTURE
+
+![PICTURE](https://user-images.githubusercontent.com/125398461/234597400-41da7a68-a5db-4c09-a15f-41e43b0ea0f6.png)
+
 
 For example:
 ```
@@ -71,11 +73,12 @@ For the Windows version, install it after downloading the app.
 
 There are some important files and folders that we need to know for running. See the picture below.
 
-PICTURE
+![222940073-b4263585-8116-4527-84ea-ec6ab22148ae2](https://user-images.githubusercontent.com/125398461/234599115-60ac8552-23d2-4f10-8734-d999680d884a.png)
+
 
 The contents of `v2ray-config` folder here is our config for testing.
 
-PICTURE
+![222940243-f84e7a8e-45c9-40a8-bc8d-72202ee00fd62](https://user-images.githubusercontent.com/125398461/234599306-eb9a5edb-ca53-4be2-b74b-aeec3d3e2a5f.png)
 
 >config.real file which is the main configuration information.
 
@@ -87,11 +90,15 @@ PICTURE
 
 >So complete the config.real file based on a vmess_ws config in your panel.
 
-PICTURE
+
+![222940550-a2739cc8-c282-41ea-b193-9374d0ec29ff2](https://user-images.githubusercontent.com/125398461/234599586-789e2a5c-8813-410c-b4f3-316a0707a1ab.png)
+
 
 Finally, to start the test, you can specify the simultaneous test of IPs and press the Start Scan button.
 
-PICTURE
+
+![222940595-8d84cbfb-e391-4762-8da5-c8cd0768579b2](https://user-images.githubusercontent.com/125398461/234599700-ce52e975-3177-457f-9dc1-cac597c6d087.png)
+
 
 In the Fastest IP found section, it shows the fastest available IP based on the lowest delay.
 
@@ -108,7 +115,7 @@ Sometimes you may open the app and scan, but nothing is displayed; In this case,
 To see the new settings of the Windows version, see [this topic](https://github.com/MortezaBashsiz/CFScanner/discussions/210).
 
 ### What to do after finding a clean IP?
-After finding a clean IP; You can register it with a dns record without a proxy. That is, create a subdomain on Cloudflare. Turn off the proxy and enter the IP.
+After finding a clean IP; You can register it with a DNS record without . That is, create a subdomain on Cloudflare. Turn off the proxy and enter the IP.
 
 PICTURE
 
