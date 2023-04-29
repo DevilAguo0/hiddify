@@ -8,18 +8,32 @@ English
 
 ۱. ابتدا یک اکانت در این سایت درست کنید. به [اینجا](https://gcore.com) بروید و اکانت خود را بسازید. سپس وارد اکانت ساخته شده بشوید و در داشبورد خود گزینه CDN را بزنید.
 
+![1](https://user-images.githubusercontent.com/125398461/235283540-83a44dbc-6b81-45d2-a04f-be2749cf0429.jpg)
+
 ۲. در مرحله بعد پلن رایگان را انتخاب نمایید و `Next` کنید.
+
+![2](https://user-images.githubusercontent.com/125398461/235283581-a392f93e-4d8a-44d9-9521-be83fb09564b.jpg)
 
 ۳. پس از تکمیل مشخصات خواسته شده بر روی گزینه `Get started` کلیک کنید.
 
+![3](https://user-images.githubusercontent.com/125398461/235283590-6654cae1-cc3b-42c6-ae8c-d4cc26b71a15.jpg)
+
 ۴. در مرحله بعد بر روی `Create CDN resource` بزنید.
+
+![4](https://user-images.githubusercontent.com/125398461/235283617-042ee013-e1a1-4567-aa6c-fcbf1080fa99.jpg)
 
 ۵. حال در صفحه باز شده بر روی `Confirm` کلیک کنید.
 
+![5](https://user-images.githubusercontent.com/125398461/235283626-b7923519-ffbc-425b-a65b-3063e19595a1.jpg)
+
 ۶. در این مرحله دامنه‌ای را که در کلاد فلر ثبت نموده‌اید را به همراه ساب‌دامنین دلخواه وارد کنید.
+
+![6](https://user-images.githubusercontent.com/125398461/235283639-ef21b5ba-5efd-48d5-a852-7aa8050b4316.jpg)
 
 ۷. سپس آیپی سرور خود را وارد کنید و بر روی گزینه Add بزنید.
 
-۸. در مرحله بعد مجددا بر روی 
+۸. در مرحله بعد مجددا بر روی Confirm کلیک کنید.
 
+۹.  از آنجایی که ما قصد استفاده از CDN GCore را داریم، نیازی به ثبت nameserverهای GCore بر روی دامنه خود نداریم و فقط بر روی `Confirm` کلیک کنید.
 
+۱۰.
