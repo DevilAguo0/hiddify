@@ -38,7 +38,7 @@ English
 
 ![8](https://user-images.githubusercontent.com/125398461/235283679-fbb415e0-5b12-4880-be94-3f2a17ba5895.jpg)
 
-۹.  از آنجایی که شما قصد استفاده از CDN GCore را دارید، نیازی به ثبت nameserverهای GCore بر روی دامنه خود نداریم و فقط بر روی `Confirm` کلیک کنید.
+۹.  از آنجایی که شما قصد استفاده از CDN GCore را دارید، نیازی به ثبت nameserverهای GCore بر روی دامنه خود ندارید و فقط بر روی `Confirm` کلیک کنید.
 
 ![9](https://user-images.githubusercontent.com/125398461/235283686-69d71bb4-2c27-4375-8a04-3a7f2f1fac21.jpg)
 
