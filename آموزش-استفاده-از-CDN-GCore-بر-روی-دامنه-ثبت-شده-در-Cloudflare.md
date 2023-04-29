@@ -54,7 +54,7 @@ English
 
 ![12](https://user-images.githubusercontent.com/125398461/235283814-711cf947-256c-4cda-8cc5-236abe8a6b31.jpg)
 
-۱۳. حالا روی دامنه خود کلیک کنید تا لیست رکوردهای ثبت زا نمایش دهد.
+۱۳. حالا روی دامنه خود کلیک کنید تا لیست رکوردهای ثبت شده را نمایش دهد.
 
 ![13](https://user-images.githubusercontent.com/125398461/235283822-62ce802c-d7c2-44e8-8fd6-a418fe6a04c2.jpg)
 
