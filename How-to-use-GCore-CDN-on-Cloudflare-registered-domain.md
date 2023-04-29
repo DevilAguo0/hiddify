@@ -7,7 +7,7 @@
 
 As you probably know, in order to use the Hiddify panel optimally, you need to use a CDN provider so that filtering can be bypassed using its services. In other articles, we introduced Cloudflare and taught how to work with it. This service is due to widespread disruptions that are created on it; Sometimes it makes things difficult for users. An alternative way is to use GCore's CDN service. Read this article to the end to learn how to set it up.
 
-1. First go [here](https://gcore.com/) and create your account on GCore website. Then log in to the created account and click on the CDN option in your dashboard.
+1. First, go [here](https://gcore.com/) and create your account on GCore website. Then log in to the created account and click on the CDN option in your dashboard.
 
 ![](https://user-images.githubusercontent.com/125398461/235283540-83a44dbc-6b81-45d2-a04f-be2749cf0429.jpg)
 
