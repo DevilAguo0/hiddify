@@ -62,28 +62,28 @@ English
 
 ![14](https://user-images.githubusercontent.com/125398461/235283921-81cfdb21-b00b-4e94-907d-3a6b95f7b650.jpg)
 
-۱۵. و بعد بر روی گزینه CDN Integration را بزنید تا یکپارچه سازی CDNها را شروع شود. 
+۱۵. در این مرحله بر روی گزینه `CDN Integration` را بزنید تا یکپارچه سازی CDNها را انجام دهید. 
 
 ![15](https://user-images.githubusercontent.com/125398461/235284019-0301d8e3-d882-4482-9c75-23a30e4fb2f1.jpg)
 
-۱۶. در این مرحله دامنه‌ای که در بخش `CDN Integration` وجود دارد را کپی کنید.
+۱۶. حالا دامنه‌ای که در بخش `CDN Integration` وجود دارد را کپی کنید.
 
 ![16](https://user-images.githubusercontent.com/125398461/235284138-6355a421-a7da-46c8-803a-b4b65cdc8fb1.jpg)
 
-۱۷. حالا وارد اکانت کلادفلر خود شوید، وارد تنظیمات دامنه‌ی خود شوید و در بخش DNS یک رکورد CNAME با استفاده از دامنه‌ای که خود در بخش قبل کپی کرده بودید، ثبت نمایید.
+۱۷. حالا وارد اکانت کلادفلر خود شوید، وارد تنظیمات دامنه‌ی خود شوید و در بخش DNS یک رکورد `CNAME` با استفاده از دامنه‌ای که خود در بخش قبل کپی کرده بودید، ثبت نمایید.
 ![17](https://user-images.githubusercontent.com/125398461/235284172-560987a3-8528-497a-89c9-58927fddc327.jpg)
 
 ۱۸. مجدد وارد داشبورد خود در سایت GCore شده و در بخش CDN پس از اطمینان از Active بودن آن، بر روی دامنه‌ی بر روی دامنه‌ی خود کلیک کنید.
 
-> نکته: ممکن است Actiive شدن کمی زمان بگیرد.
+> نکته: ممکن است `Active` شدن کمی زمان بگیرد.
 
 ![18](https://user-images.githubusercontent.com/125398461/235284405-71b9fe26-e25c-4750-b349-1fac9cd34efb.jpg)
 
-۱۹. سپس در بخش Origin، تنظیمات Origin pull protocol را بر روی HTTPS تنظیم نمایید.
+۱۹. سپس در بخش `Origin`، تنظیمات `Origin pull protocol` را بر روی `HTTPS` تنظیم نمایید.
 
 ![19](https://user-images.githubusercontent.com/125398461/235284438-6d4e0c6e-79dc-4175-8718-8a85b68b46d1.jpg)
 
-۲۰. حالا برای گرفتن سرتیفیکت در سربرگ SSL، بر روی گزینه Get SSL certificate بزنید.
+۲۰. حالا برای گرفتن سرتیفیکت در سربرگ `SSL`، بر روی گزینه `Get SSL certificate` بزنید.
 
 ![20](https://user-images.githubusercontent.com/125398461/235284577-e0ee7fbb-31d9-476b-9901-f2fb78c5c22d.jpg)
 
@@ -92,3 +92,5 @@ English
 ![21](https://user-images.githubusercontent.com/125398461/235284579-898335c0-28d3-477f-b900-3f8a381bcdda.jpg)
 
 ۲۲. حالا می‌توانیم از این ساب‌دامین به عنوان دامنه CDN در پنل هیدیفای استفاده کنید.
+
+![22](https://user-images.githubusercontent.com/125398461/235284966-63477444-51d0-45dd-be27-2307f43df54f.jpg)
