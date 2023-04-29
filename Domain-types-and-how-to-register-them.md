@@ -9,7 +9,7 @@
 It means you want to use your server directly (for normal use). In fact, this domain name (subdomain) directly points to the IP address of the server. That is, if you ping it, the IP of the server will be answered.
 
 ## CDN domain
-It means you are using your server behind a CDN provider. In other words, you register your domain (subdomain) with a CDN provider and then proxy it.
+It means you are using your server behind a CDN provider. In other words, you register your domain (subdomain) with a CDN provider and then proxy it. Here we discuss how to register on cloudflare. If you want to see a tutorial on how to use GCore CDN on a Cloudflare registered domain, see [this link](https://github.com/hiddify/hiddify-config/wiki/How-to-use-GCore-CDN-on-Cloudflare-registered-domain).
 
 ## Relay domain
 This domain is used when you want to use intermediate servers to send user traffic. For example, you have a server in Iran and you have registered a domain (subdomain) for it. You can register this domain in this section so that the relevant settings are applied in the configurations. [More information](https://github.com/hiddify/hiddify-config/discussions/129)
