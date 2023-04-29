@@ -96,3 +96,5 @@ As you probably know, in order to use the Hiddify panel optimally, you need to u
 22. Now we can use this subdomain as a CDN domain in Hiddify panel.
 
 ![](https://user-images.githubusercontent.com/125398461/235284966-63477444-51d0-45dd-be27-2307f43df54f.jpg)
+
+* Final and important point: Don't forget that CDN GCore has a limit of 1000 GB in the free plan.
