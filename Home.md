@@ -23,9 +23,11 @@ Hiddify is a powerful and professional anti-censorship toolbox, which is a multi
 - **Smart proxy** (Hiddify and Clash client)
 - **Automatic update**
 - **Automatic backup** (every 6 hours)
+- **Automatic connection to Cloudflare**
 - Using **multiple domains**
 - **Auto CDN IP** configuration capability
 - Management of **active configurations**
+- **Multiple admin privileges**
 - **User management**
 - Applying **time and traffic limit** for each user
 - **Dedicated pages for users** to view consumption and configurations
