@@ -13,6 +13,7 @@ Quick access to each section
 - [Contents related to domain and CDN](#contents-related-to-domain-and-cdn)
 - [Contents related to Workers and Tunneling](#contents-related-to-workers-and-tunneling)
 - [Contents related to check and troubleshooting](#contents-related-to-check-and-troubleshooting)
+- [Contents related to client software](#contents-related-to-client-software)
 
 <br>
 <br>
@@ -111,3 +112,28 @@ Quick access to each section
 
 - [How to make sure the server's IP or domain is clean](https://github.com/hiddify/hiddify-config/wiki/How-to-make-sure-the-server's-IP-or-domain-is-clean)
 - [How to check DNS leakage and the way to solve it](https://github-com.translate.goog/hiddify/hiddify-config/discussions/859?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+
+
+<br>
+<br>
+
+***
+<br>
+<br>
+<div dir="ltr" align=center>
+
+## Contents related to client software
+</div>
+
+- [Comprehensive guide for client software](https://github.com/hiddify/hiddify-config/wiki/Comprehensive-guide-for-connecting-to-client-software-for-bypassing-the-filtering)
+
+
+<div dir="ltr" align="center">
+
+**Videos related to client software**
+
+
+<a href="https://www.youtube.com/watch?v=XSwCE35lqmU"><img width="32%" src="https://user-images.githubusercontent.com/125398461/235692699-f6cc0a42-3742-44d5-be20-783ac0e50fdc.png" /></a>
+
+
+</div>
