@@ -133,7 +133,12 @@ Quick access to each section
 **Videos related to client software**
 
 
-<a href="https://www.youtube.com/watch?v=XSwCE35lqmU"><img width="32%" src="https://user-images.githubusercontent.com/125398461/235692699-f6cc0a42-3742-44d5-be20-783ac0e50fdc.png" /></a>
+<a href="https://www.youtube.com/watch?v=hVcWJ8Qg1GQ"><img width="32%" src="https://user-images.githubusercontent.com/125398461/235705873-4f6730b7-a23a-4717-95c3-a5a667db1c59.png" /></a>
+<a href="https://www.youtube.com/watch?v=mUTfYd1_UCM"><img width="32%" src="https://user-images.githubusercontent.com/125398461/235706386-047d5713-2b07-4aa6-bb6b-6464bdc105ef.png" /></a>
+<a href="https://www.youtube.com/watch?v=5AQgbCwHujk"><img width="32%" src="https://user-images.githubusercontent.com/125398461/235707818-ea5ad5dc-8492-4338-8ec0-fc14993fbaaa.png" /></a>
+<a href="https://www.youtube.com/watch?v=Ml7XeYp70mM"><img width="32%" src="https://user-images.githubusercontent.com/125398461/235707725-a6d73e32-178b-4163-9fe8-8aab4e4458fe.png" /></a>
+
+
 
 
 </div>
