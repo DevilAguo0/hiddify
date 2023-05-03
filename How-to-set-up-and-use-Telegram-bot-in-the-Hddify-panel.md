@@ -55,6 +55,7 @@ To do this, go to the settings section and then in advanced settings; Enter the 
 <div align=center>
 
 ![](https://user-images.githubusercontent.com/125398461/235904497-84682dd3-8774-4d06-9391-d662d884b64e.png)
+
 </div>
 
 Then hit register and apply changes.
@@ -63,7 +64,10 @@ Telegram bot is available. You can see it in menu.
 
 <div align=center>
 
-![](https://user-images.githubusercontent.com/125398461/235904573-7f94760f-23ee-475f-af51-9f4ab7a9811f.png)
+
+![](https://user-images.githubusercontent.com/125398461/235912447-776ce7fd-65ed-4c4a-b6c8-b7b828ab8aea.png)
+
+
 </div>
 
 
