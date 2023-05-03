@@ -166,9 +166,13 @@ All the contents of this wiki are accessible in `Pages` section. Please find it 
 For information on how to register a domain and set it up in Hidify, see [this link](https://github.com/hiddify/hiddify-config/wiki/Domain-types-and-how-to-register-them).
 
 Also, all tutorials and videos can be accessed by clicking on the image below.
+</div>
 
-[![](https://user-images.githubusercontent.com/125398461/235845087-645212c1-097f-4f93-a924-7a40828891e7.png)]()
+<div align=center>
 
+<a href="https://github.com/hiddify/hiddify-config/wiki/All-tutorials-and-videos"><img width="70%" src="https://user-images.githubusercontent.com/125398461/235845087-645212c1-097f-4f93-a924-7a40828891e7.png"></a>
+
+</div>
 
 <br>
 
