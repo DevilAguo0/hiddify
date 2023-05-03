@@ -77,7 +77,7 @@ Quick access to each section
 
 - [Domain types and how to register them](https://github.com/hiddify/hiddify-config/wiki/Domain-types-and-how-to-register-them)
 - [Guide for finding a clean Cloudflare IP](https://github.com/hiddify/hiddify-config/wiki/Guide-for-finding-a-clean-Cloudflare-IP)
-- [Tutorial on automating subdomain creation on Cloudflare](https://github.com/hiddify/hiddify-config/wiki/Get-Cloudflare-API)
+- [Tutorial on automating subdomain registeration on Cloudflare](https://github.com/hiddify/hiddify-config/wiki/Get-Cloudflare-API)
 - [Tutorial for Automatic CDN IP configuration](https://github.com/hiddify/hiddify-config/wiki/Guide-for-using-mode-Auto_CDN_IP-on-Hiddify)
 - [Tutorial for using wildcard subdomains on Hiddify](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-using-wildcard-subdomains-on-Hiddify)
 - [How to use GCore CDN on Cloudflare registered domain](https://github.com/hiddify/hiddify-config/wiki/How-to-use-GCore-CDN-on-Cloudflare-registered-domain)
