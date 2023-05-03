@@ -31,9 +31,9 @@ Quick access to each section
 - [How to connect and troubleshoot via SSH](https://github.com/hiddify/hiddify-config/wiki/How-to-connect-to-server-via-SSH)
 - [Quick installation on Hetzner Servers](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Hetzner-Servers)
 - [Quick installation on Vultr Servers](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Vultr-Servers)
-- [Quick Installation on Oracle Cloud](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Oracle-Cloud)
-- [Quick Installation on OVH Servers](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-OVH-Servers)
-- [https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Microsoft-Azure](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Microsoft-Azure)
+- [Quick installation on Oracle Cloud](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Oracle-Cloud)
+- [Quick installation on OVH Servers](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-OVH-Servers)
+- [Quick installation on Microsoft Azure](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Microsoft-Azure)
 - [Quick installation on Ubuntu](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-On-Ubuntu)
 - [Guide for setting up the domain and finalizing the installation](https://github.com/hiddify/hiddify-config/wiki/Guide-for-Setting-up-the-Domain-and-Finalizing-the-Installation)
 
