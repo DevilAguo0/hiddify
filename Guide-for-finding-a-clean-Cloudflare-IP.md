@@ -11,9 +11,15 @@ Here, if you also use CDN Cloudflare services; You will be affected by these dis
 Here are some ways of working for this issue. 
 
 Tip:
-Before starting, it is emphasized that all these tests must be done on the client system without connecting to VPN.
+> Before starting, it is emphasized that all these tests must be done on the client system without connecting to VPN.
 
-## Using the script of Mr. Morteza Bashsiz
+**Tables of contents:**
+- [Using Bashsiz scanner](#using-bashsizs-scanner)
+- [Using Farid scanner](#using-vahid-farids-scanner)
+- [Using Safarian scanner](#using-safa-safarians-scanner)
+- [What to do after finding a clean IP](#what-to-do-after-finding-a-clean-ip)
+
+## Using Bashsiz's scanner
 Mr. Bashsiz is an Iranian engineer who has developed a program called CFScanner, which can be used to test the list of Cloudflare IPs on different networks and reach the clean Cloudflare IPs.
 
 This program is published in two versions, Linux and Windows. To do this, first download the desired version from here and then follow how to run it based on the desired operating system.
@@ -115,7 +121,13 @@ Sometimes you may open the app and scan, but nothing is displayed; In this case,
 
 To see the new settings of the Windows version, see [this topic](https://github.com/MortezaBashsiz/CFScanner/discussions/210).
 
-### What to do after finding a clean IP?
+## Using Vahid Farid's scanner
+
+
+## Using Safa Safarian's scanner
+
+
+## What to do after finding a clean IP?
 After finding a clean IP; You can register it with a DNS record without . That is, create a subdomain on Cloudflare. Turn off the proxy and enter the IP.
 
 ![PICTURE](https://user-images.githubusercontent.com/125398461/234565984-a2560018-7106-421f-850d-fb9db5687b26.png)
