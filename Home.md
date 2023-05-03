@@ -162,22 +162,15 @@ For making the best use of this panel, read [this guide ![](https://img.shields.
 
 All the contents of this wiki are accessible in `Pages` section. Please find it in the up-right corner on Desktop or in the bottom of this page on mobile.
 
-#### Guide to Domain Registration and Setup
+#### All tutorials and videos
 For information on how to register a domain and set it up in Hidify, see [this link](https://github.com/hiddify/hiddify-config/wiki/Domain-types-and-how-to-register-them).
 
-#### Guide to ensure the server IP is clean
-If you want to make sure that the server's IP or domain is clean, read [this article](https://github.com/hiddify/hiddify-config/wiki/How-to-make-sure-the-server's-IP-or-domain-is-clean) in the wiki.
+Also, all tutorials and videos can be accessed by clicking on the image below.
 
-#### Guide to find a clean Cloudflare IP
-If you need to find clean IPs of Coldflare; Consider [this topic](https://github.com/hiddify/hiddify-config/wiki/Guide-for-finding-a-clean-Cloudflare-IP).
+[![](https://user-images.githubusercontent.com/125398461/235845087-645212c1-097f-4f93-a924-7a40828891e7.png)]()
 
-#### Guide for setting up and using Workers
-To use Workers service of Cloudflare, read [this guide](https://github.com/hiddify/hiddify-config/wiki/How-to-set-up-and-use-workers).
 
-#### Guide for Connecting and Setting up the Server through SSH
-If you need to get information about how to connect to the server through SSH and configure it, see [this article](https://github.com/hiddify/hiddify-config/wiki/How-to-connect-and-troubleshoot-via-SSH).
-
-</br>
+<br>
 
 </div>
 
