@@ -231,8 +231,9 @@ Ubuntu arm64 or amd64
 </div>
 
 <div align=center>
-<a href="https://github.com/hiddify/hiddify-config/wiki/%D9%87%D9%85%D9%87-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%E2%80%8C%D9%87%D8%A7-%D9%88-%D9%88%DB%8C%D8%AF%D8%A6%D9%88%D9%87%D8%A7"><img width="50%" src="https://user-images.githubusercontent.com/125398461/235833352-fe7d0406-1d63-4870-bbd8-c5e49ea1729d.png" />
+<a href="https://github.com/hiddify/hiddify-config/wiki/%D9%87%D9%85%D9%87-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%E2%80%8C%D9%87%D8%A7-%D9%88-%D9%88%DB%8C%D8%AF%D8%A6%D9%88%D9%87%D8%A7"><img width="50%" src="https://user-images.githubusercontent.com/125398461/235838778-4f2b2740-6296-4c5e-b2f8-aacdff2da919.png" />
 </a>
+
 
 
 </div>
