@@ -18,6 +18,12 @@ Tip:
 - [Using Farid scanner](#using-vahid-farids-scanner)
 - [Using Safarian scanner](#using-safa-safarians-scanner)
 - [What to do after finding a clean IP](#what-to-do-after-finding-a-clean-ip)
+<br>
+<br>
+
+***
+<br>
+<br>
 
 ## Using Bashsiz's scanner
 Mr. Bashsiz is an Iranian engineer who has developed a program called CFScanner, which can be used to test the list of Cloudflare IPs on different networks and reach the clean Cloudflare IPs.
@@ -120,12 +126,30 @@ Sometimes you may open the app and scan, but nothing is displayed; In this case,
 ![PICTURE](https://user-images.githubusercontent.com/125398461/222940830-906481cb-f8dc-4e3a-abf9-61528f844435.png)
 
 To see the new settings of the Windows version, see [this topic](https://github.com/MortezaBashsiz/CFScanner/discussions/210).
+<br>
+<br>
+
+***
+<br>
+<br>
 
 ## Using Vahid Farid's scanner
 
+<br>
+<br>
+
+***
+<br>
+<br>
 
 ## Using Safa Safarian's scanner
 
+<br>
+<br>
+
+***
+<br>
+<br>
 
 ## What to do after finding a clean IP?
 After finding a clean IP; You can register it with a DNS record without . That is, create a subdomain on Cloudflare. Turn off the proxy and enter the IP.
