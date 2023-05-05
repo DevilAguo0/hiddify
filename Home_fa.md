@@ -2,8 +2,7 @@
 <div align="left" markdown="1">
 
 [**![Lang_English](https://user-images.githubusercontent.com/125398461/229074810-599bd7f9-0bc1-44a9-b76e-90bf7e182314.png) English**](https://github.com/hiddify/hiddify-config/wiki)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
@@ -31,8 +30,8 @@
 
 <div dir="rtl" markdown="1">
 
-## به هیدیفای خوش آمدید
-هیدیفای یک ابزار قدرتمند و حرفه‌ای ضد سانسور اینترنت است که دارای پنل چند کاربره و نصب آسان است و به شما کمک می‌کند با **بیش از ۲۰ پروتکل پشتیبانی شده** شامل **ریالیتی** فیلترینگ اینترنت را دور بزنید همچنین می‌توانید از **پروکسی تلگرام** استفاده نمایید. این ابزار برای شبکه اینترنت **ایران** بهینه سازی شده است و توسط <a href="https://github.com/XTLS/Xray-core#installation" target="_blank">**Xray**</a> توصیه شده است. این پنل یک جایگزین عالی برای پنل X-UI می‌باشد.
+## به صفحه ویکی هیدیفای خوش آمدید
+هیدیفای یک ابزار قدرتمند و حرفه‌ای ضد سانسور اینترنت است. اطلاعات دقیق و جزییات ویژگی‌ها و پروتکل‌های این پنل در [صفحه اصلی پروژه در اینجا](https://github.com/hiddify/hiddify-config/blob/main/README_fa.md) قابل مشاهده است. در صفحه ویکی آموزش‌های نصب و راهنماهای مرتبط با این پروژه قرار داده می‌شوند.
 
 ![Persian new 2](https://user-images.githubusercontent.com/125398461/234265877-56660d3c-6185-4948-b676-77f317834372.png)
 
