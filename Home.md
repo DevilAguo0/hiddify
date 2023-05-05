@@ -68,8 +68,6 @@ To install, you only need to have a server according to the prerequisites, and t
 </div>
 
 
-## Configuration Guide 
-For making the best use of this panel, read [this guide ![](https://img.shields.io/badge/Config-Hiddify-009688?style=flat-square&logo=Azure-Functions)](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly) .
 
 ## All tutorials and videos
 
