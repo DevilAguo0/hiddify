@@ -16,6 +16,7 @@ Warp has several levels of service, the free service of which has a traffic volu
 Go to the panel settings section, in this section you can see the WARP settings. Open it.
 
 <div align=center>
+
 ![Warp_settings](https://user-images.githubusercontent.com/125398461/236473988-c194771e-c6c5-4ee2-ade6-4eff2c84db8b.png)
 
 
