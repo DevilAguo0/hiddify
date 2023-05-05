@@ -21,15 +21,6 @@
 ## به صفحه ویکی هیدیفای خوش آمدید
 هیدیفای یک ابزار قدرتمند و حرفه‌ای ضد سانسور اینترنت است. اطلاعات دقیق و جزییات ویژگی‌ها و پروتکل‌های این پنل در [صفحه اصلی پروژه](https://github.com/hiddify/hiddify-config/blob/main/README_fa.md) قابل مشاهده است. در اینجا آموزش‌های نصب و راهنماهای مرتبط با این پروژه قرار داده می‌شوند.
 
-![Persian new 2](https://user-images.githubusercontent.com/125398461/234265877-56660d3c-6185-4948-b676-77f317834372.png)
-
-<!--
-![Persian new](https://user-images.githubusercontent.com/125398461/234179101-0dec8ade-29f7-49a4-8a77-4ce1ead1e04f.png)
-![farsi_demo](https://user-images.githubusercontent.com/114227601/228013297-240d6945-874f-4836-9b0d-0e1ba072481f.png)
-
-![farsi_demo](https://user-images.githubusercontent.com/125398461/233846669-9a18a866-6c6e-49bd-9513-b2caa74be01d.png)
--->
-
 
 ***
 ### فهرست مطالب
