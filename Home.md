@@ -2,21 +2,75 @@
 
 [**![Lang_farsi](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) &nbsp;فارسی**](https://github.com/hiddify/hiddify-config/wiki/Home_fa)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-</br>
-<div align=left markdown="1">
+<br>
+<div align=center markdown="1">
 
-![Hiddify Logo](https://user-images.githubusercontent.com/125398461/227720391-f6360e48-f211-4f56-a5b1-42522c30ecb7.png)
-
+![Hiddify Logo](https://user-images.githubusercontent.com/125398461/227777845-a4d0f86b-faa2-4f2b-a410-4aa5f68bfe19.png)
 
 </div>
-</br>
+<br>
+<div align=center>
 
+
+<!--[![Total Downloads](https://img.shields.io/github/downloads/hiddify/hiddify-config/total?label=downloads%20after%202023%2F03%2F27%2011%3A00%20&style=flat-square)](https://github.com/hiddify/hiddify-config/)
+[![Downloads](https://img.shields.io/pypi/dm/hiddifypanel?style=flat-square)](https://pypistats.org/packages/hiddifypanel)-->
+ [![Downloads](https://static.pepy.tech/badge/hiddifypanel?style=flat-square&v3)](https://pepy.tech/project/hiddifypanel?display=monthly&versions=2.*&versions=1.*&versions=3.*)[![Last Version](https://img.shields.io/github/release/hiddify/hiddify-config/all.svg?style=flat-square)](https://github.com/hiddify/hiddify-config/)[![Last Release Date](https://img.shields.io/github/release-date/hiddify/hiddify-config.svg?style=flat-square)](https://github.com/hiddify/hiddify-config/)![commits](https://img.shields.io/github/commit-activity/m/hiddify/hiddify-config?style=flat-square)[![Youtube](https://img.shields.io/youtube/channel/views/UCxrmeMvVryNfB4XL35lXQNg?label=Youtube&style=flat-square&logo=youtube)](https://www.youtube.com/@hiddify)[![Telegram Channel](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhiddify&color=blue)](https://telegram.dog/hiddify)[![Telegram Group](https://img.shields.io/endpoint?color=neon&label=Support%20Group&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhiddify_board)](https://telegram.dog/hiddify_board)
+<!--
+[![Youtube](https://img.shields.io/youtube/channel/views/UCxrmeMvVryNfB4XL35lXQNg?label=Youtube&style=flat-square)](https://www.youtube.com/@hiddify/videos)
+[![Telegram Channel](https://img.shields.io/endpoint?label=Telegram&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhiddify)](https://telegram.dog/hiddify)
+[![Telegram Group](https://img.shields.io/endpoint?color=neon&label=Support%20Group&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhiddify_board)](https://telegram.dog/hiddify_board)
+[![GitHub Stars](https://img.shields.io/tokei/lines/github/hiddify/hiddify-config.svg)](https://github.com/hiddify/hiddify-config/)
+[![GitHub Stars](https://img.shields.io/github/stars/hiddify/hiddify-config.svg)](https://github.com/hiddify/hiddify-config/)
+[![GitHub Forks](https://img.shields.io/github/forks/hiddify/hiddify-config.svg)](https://github.com/hiddify/hiddify-config/)
+[![Telegram Channel](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2Fhiddify&label=Telegram
+)](https://telegram.com/hiddify/)
+
+
+[![Telegram Channel](https://img.shields.io/endpoint?label=Telegram&style=plastic&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhiddify)](https://telegram.dog/hiddify)
+[![Telegram Group](https://img.shields.io/endpoint?color=neon&label=Support%20Group&style=plastic&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhiddify_board)](https://telegram.dog/hiddify_board)
+[![Youtube](https://img.shields.io/youtube/channel/views/UCxrmeMvVryNfB4XL35lXQNg?label=Youtube&style=plastic)](https://www.youtube.com/@hiddify)
+[![Twitter](https://img.shields.io/twitter/follow/hiddify_com?label=Twitter&style=plastic)](https://twitter.com/intent/follow?screen_name=hiddify_com)
+-->
+
+</div>
 
 <div dir="ltr" markdown="1">
 
 ## Welcome to Hiddify
 
 Hiddify is a powerful and professional anti-censorship toolbox, which is a multi-user panel with an effortless installation and <b>supporting more than 20 protocols</b> including <b>Reality</b> and <b>Telegram proxy</b> to circumvent filtering.  It's optimized for censorship circumvention in <b>China</b>, <b>Russia</b> and <b>Iran</b> and Recommended by <a href="https://github.com/XTLS/Xray-core#installation" target="_blank"><b>Xray</b></a>. It's a great replacement of X-UI panel.
+
+
+![English new 2](https://user-images.githubusercontent.com/125398461/234265624-36ee0a18-d4e8-4803-a9ad-331a7c5998e3.png)
+
+
+
+<!--
+![English new](https://user-images.githubusercontent.com/125398461/234178583-ad520732-4cf3-411a-abec-0dfb42387869.png)
+![english_demo](https://user-images.githubusercontent.com/114227601/228011984-83b1f981-aede-438e-920d-113d9894477a.png)
+
+![English_Demo](https://user-images.githubusercontent.com/125398461/233846740-a1ff94a6-9031-40fd-ab3a-238dbeae9b0f.png)
+-->
+
+
+
+***
+
+### Table of Contents
+- [Why Hiddify?](#why-hiddify)
+- [Installation Guide](#installation-guide-)
+  - [Prerequisites](#prerequisites)
+  - [Quick installation](#quick-installation)
+  - [Typical installation](#typical-installation)
+- [Configuration Guide](#configuration-guide)
+- [Wiki](#wiki)
+- [Donation and Support](#donation-and-support)
+- [Collaboration and Contact Information](#collaboration-and-contact-information)
+
+
+***
+## Why Hiddify?
+Hiddify is a mixture of Hidden and Simplify. A feature-full panel with a wide range of capabilities that helps you enjoy surfing free internet with ease and peace Of mind. 
 
 ### Attractive features
 - **Quick installation**
@@ -39,17 +93,16 @@ Hiddify is a powerful and professional anti-censorship toolbox, which is a multi
 
 And dozens of other features that you will notice after installation
 
-<details markdown="1"> <summary><h3>Supported protocols</h3> (Click here)</summary> 
-
+<details markdown="1"> <summary><h3>Supported protocols</h3> (click here)</summary> 
 
 | Supported Configs | Supported Configs | Supported Configs |
 | - | - | - |
 | **Direct** | **CDN** | **Domain Fronting** |
 |Trojan:<br>- TLS WS<br>- TLS TCP<br>- TLS gRPC<br>- TLS H2 WS<br>- TLS H2 TCP<br>- TLS H2 gRPC<br> |  Trojan:<br>- TLS WS<br>- TLS gRPC<br>- TLS H2 WS<br>- TLS H2 gRPC<br><br><br>| Trojan:<br>- TLS WS Fake<br><br><br><br><br><br> |
-| Vless:<br>- TLS WS<br>- HTTP WS<br>- TLS TLS<br>- TLS gRPC<br>- TLS H2 TLS<br>- TLS H2 WS<br>- TLS H2 gRPC<br>- Reality XTLS<br>- Reality gRPC | Vless:<br>- TLS WS<br>- TLS gRPC<br>- HTTP WS<br>- TLS H2 WS<br>- TLS H2 gRPC<br><br><br><br><br>| Vless:<br>- TLS WS Fake<br>- HTTP WS Fake<br><br><br><br><br><br><br><br> |
+| Vless:<br>- TLS WS<br>- HTTP WS<br>- TLS XTLS<br>- TLS gRPC<br>- TLS H2 TLS<br>- TLS H2 WS<br>- TLS H2 gRPC<br>- Reality XTLS<br>- Reality gRPC | Vless:<br>- TLS WS<br>- TLS gRPC<br>- HTTP WS<br>- TLS H2 WS<br>- TLS H2 gRPC<br><br><br><br><br>| Vless:<br>- TLS WS Fake<br>- HTTP WS Fake<br><br><br><br><br><br><br><br> |
 | Vmess:<br>- TLS WS<br>- TLS TCP<br>- HTTP WS<br>- HTTP TCP<br>- TLS gRPC<br>- TLS H2 WS<br>- TLS H2 TCP<br> | Vmess:<br>- TLS WS<br>- TLS gRPC<br>- HTTP WS<br>- TLS H2 WS<br>- TLS H2 gRPC<br><br><br> | Vmess:<br>- TLS WS Fake<br>- HTTP WS Fake<br><br><br><br><br><br> |
 | V2ray:<br>- TLS WS<br>- HTTP WS<br>- TLS H2 |  V2ray:<br>- TLS WS<br>- HTTP WS<br>- TLS H2 | |
-| Shadowsocks:<br>- TLS Shadowtls<br>- HTTP Shadowtls<br>- TLS H2 Shadowtls<br>- TLS H3 Shadowtls  | | |
+| Shadowsocks:<br>- TLS Shadowtls<br>- HTTP Shadowtls<br>- TLS H2 Shadowtls<br>- TLS H3 Shadowtls | | |
 
 <!--
 | Supported Configs | Supported Configs |
@@ -62,12 +115,11 @@ And dozens of other features that you will notice after installation
 
 </details>
 
-
-<details markdown="1"> <summary><h3>Smart proxy for domestic and filtered sites</h3></summary>
+<details markdown="1"> <summary><h3>Smart Proxy For Domestic And Filtered Sites</h3></summary>
  
-You can connect to the internet in 3 modes using Clash client and Hiddify panel. 
-1. This method only circumvents the filtered websites via the anti-filter.
-2. This method circumvents all websites except for the Iranian websites, and they can be opened without ant-filter (recommended)
+You can connect to the internet in 3 modes using Hiddify(Clash) client and Hiddify panel. 
+1. This method only circumvents filtered websites via the proxies.
+2. This method circumvents all websites except domestic websites based in China, Russia and Iran. This way the domestic websites can be opened without any proxies (recommended)
 3. This method circumvents all websites. 
 
 At the same time, the proposed solution is resistant to detection by the internet filtering entities and prevents the usual attacks on the server i.e., the possibility of detection is minimal, however, do not forget to disable other ports except 22, 80 and 443.  
@@ -81,11 +133,13 @@ At the same time, the proposed solution is resistant to detection by the interne
 Hiddify has been tested on Ubuntu 20.04 and 22.04. Ubuntu arm64 or amd64
 </details>
 
+
+
 <details  markdown="1"> <summary>Speed test</summary>
 
-In this way, you can check the speed of the server with and without VPN connection.
+In this way, you can check the speed of the server with and without anti-filter.
 
-![image](https://user-images.githubusercontent.com/114227601/210183115-4e1f4186-421e-4316-8082-3ce53275adc7.png)
+![speed_test](https://user-images.githubusercontent.com/114227601/210183115-4e1f4186-421e-4316-8082-3ce53275adc7.png)
 
 </details>
 
@@ -110,20 +164,9 @@ When you want to share Telegram proxy or Shadowsocks proxy through other program
  
 </details>
 
-
 </details>
 </details>
 
-<!--
-<div align=center>
-
-
-<a href="https://www.youtube.com/watch?v=-a4tfRUsrNY">
-  <img width="50%" src="https://user-images.githubusercontent.com/125398461/227990194-e20b67dc-6cda-4b05-bd26-b7147d830a12.png" />
-</a>
-</div>
-
--->
 
 ## Installation Guide ![](https://img.shields.io/badge/Install-Hiddify-004E9F?style=flat-square&logo=Azure-Data-Explorer)
 
@@ -158,12 +201,9 @@ To install, you only need to have a server according to the prerequisites, and t
 ## Configuration Guide 
 For making the best use of this panel, read [this guide ![](https://img.shields.io/badge/Config-Hiddify-009688?style=flat-square&logo=Azure-Functions)](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly) .
 
-## Other Useful Guides
+## All tutorials and videos
 
-All the contents of this wiki are accessible in `Pages` section. Please find it in the up-right corner on Desktop or in the bottom of this page on mobile.
-
-#### All tutorials and videos
-For information on how to register a domain and set it up in Hidify, see [this link](https://github.com/hiddify/hiddify-config/wiki/Domain-types-and-how-to-register-them).
+All tutorial contents of this project are accessible in this page. Please find `pages` in the up-right corner on desktop or in the bottom of this page on mobile.
 
 Also, all tutorials and videos can be accessed by clicking on the image below.
 </div>
