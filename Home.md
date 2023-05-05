@@ -31,7 +31,6 @@ Hiddify is a powerful and professional anti-censorship toolbox. The appropriate 
   - [Prerequisites](#prerequisites)
   - [Quick installation](#quick-installation)
   - [Typical installation](#typical-installation)
-- [Configuration Guide](#configuration-guide)
 - [All tutorials and videos](#all-tutorials-and-videos)
 
 
