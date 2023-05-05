@@ -29,6 +29,6 @@ When you deactivate it, you must give it a WARP Plus code, which there are diffe
 It passes all traffic through the warp, even the sites that don't have problems pass through the warp.
 
 ### Mode "Only blocked and local websites"
-Only domectic sites and `google, spotifiy, netflix, openai, ipinfo.io` use Warp.
+Only domestic sites and `Google, Spotify, Netflix, Openai, ipinfo.io` use Warp.
 
 - Note: If for any reason there is an error in the inserted code, the warp will be disabled. So make sure to use the code correctly. Select and copy the code provided by the bot correctly and place it in the desired field.
