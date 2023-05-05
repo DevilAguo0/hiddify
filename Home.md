@@ -14,7 +14,7 @@
 
 ## Welcome to Hiddify's wiki page
 
-Hiddify is a powerful and professional anti-censorship toolbox. The appropriate and detailed information of features and protocols are accessable [here in code section](https://github.com/hiddify/hiddify-config/blob/main/README.md). This page contains installation and tutorial guides related to this project.
+Hiddify is a powerful and professional anti-censorship toolbox. The appropriate and detailed information of features and protocols are accessible [here in code section](https://github.com/hiddify/hiddify-config/blob/main/README.md). This page contains installation and tutorial guides related to this project.
 
 
 
