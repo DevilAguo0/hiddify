@@ -2,8 +2,7 @@
 <div align="left" markdown="1">
 
 [**![Lang_English](https://user-images.githubusercontent.com/125398461/229074810-599bd7f9-0bc1-44a9-b76e-90bf7e182314.png) English**](https://github.com/hiddify/hiddify-config/wiki)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**![Lang_Chinese](https://user-images.githubusercontent.com/125398461/236453142-16f3a81e-8f40-403d-a452-34c4c9ed8f64.png) 中国人**](https://github.com/hiddify/hiddify-config/wiki/Home_cn)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 
 
@@ -52,131 +51,7 @@
   - [پیش نیازها](#%D9%BE%DB%8C%D8%B4-%D9%86%DB%8C%D8%A7%D8%B2%D9%87%D8%A7)
   - [نصب سریع](#%D9%86%D8%B5%D8%A8-%D8%B3%D8%B1%DB%8C%D8%B9)
   - [نصب معمول](#%D9%86%D8%B5%D8%A8-%D9%85%D8%B9%D9%85%D9%88%D9%84)
-- [راهنمای پیکربندی](#%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D9%BE%DB%8C%DA%A9%D8%B1%D8%A8%D9%86%D8%AF%DB%8C)
 - [همه آموزش‌ها و ویدئوها](#%D9%87%D9%85%D9%87-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%D9%87%D8%A7-%D9%88-%D9%88%DB%8C%D8%AF%D8%A6%D9%88%D9%87%D8%A7)
-
-***
-## چرا هیدیفای؟
-هیدیفای تلفیقی از دو کلمه Hidden (مخفی شده) و Simplify (ساده سازی) است. پنلی با ويژگی های فراوان و تعداد قابل توجهی از قابلیت ها که به شما کمک می کند با خیالی راحت و آسوده از اینترنت آزاد بهره ببرید.
-
-### ویژگی‌های جذاب 
-
-- **نصب سریع**
-- **پروکسی هوشمند** (کلاینت هیدیفای و کلش)
-- **بروزرسانی خودکار**
-- **بکاپ‌گیری خودکار** (هر ۶ ساعت)
-- **اتصال خودکار به کلادفلر**
-- استفاده از **چندین دامین**
-- قابلیت کانفیگ **آیپی خودکار Auto CDN**
-- مدیریت **کانفیگ‌های فعال**
-- امکان **مالتی ادمین** به سطوح دسترسی متفاوت
-- **مدیریت کاربران**
-- تعریف **محدودیت زمان و میزان استفاده کاربران**
-- **صفحات اختصاصی کاربران** برای مشاهده مصرف و کانفیگ‌ها
-- **کانفیگ های اختصاصی و هوشمند**
-- **نرم‌افزار‌های کلاینت اختصاصی**
-- **پروکسی تلگرام** با استفاده از کتابخانه های مختلف
-- **DNS بر روی HTTPS** یا DoH
-
-
-و ده ها قابلیت دیگر که بعد از نصب متوجه آن‌ها می‌شوید.
-<details markdown="1"> <summary><h3>پروتکل‌های پشتیبانی شده</h3> (کلیک کنید)</summary> 
-
-
-| پروتکل‌های پشتیبانی شده | پروتکل‌های پشتیبانی شده | پروتکل‌های پشتیبانی شده |
-| - | - | - |
-| **دایرکت** | **CDN** | **دامین فرانتینگ** |
-|Trojan:<br>- TLS WS<br>- TLS TCP<br>- TLS gRPC<br>- TLS H2 WS<br>- TLS H2 TCP<br>- TLS H2 gRPC<br> |  Trojan:<br>- TLS WS<br>- TLS gRPC<br>- TLS H2 WS<br>- TLS H2 gRPC<br><br><br>| Trojan:<br>- TLS WS Fake<br><br><br><br><br><br> |
-| Vless:<br>- TLS WS<br>- HTTP WS<br>- TLS XTLS<br>- TLS gRPC<br>- TLS H2 TLS<br>- TLS H2 WS<br>- TLS H2 gRPC<br>- Reality XTLS<br>- Reality gRPC | Vless:<br>- TLS WS<br>- TLS gRPC<br>- HTTP WS<br>- TLS H2 WS<br>- TLS H2 gRPC<br><br><br><br><br>| Vless:<br>- TLS WS Fake<br>- HTTP WS Fake<br><br><br><br><br><br><br><br> |
-| Vmess:<br>- TLS WS<br>- TLS TCP<br>- HTTP WS<br>- HTTP TCP<br>- TLS gRPC<br>- TLS H2 WS<br>- TLS H2 TCP<br> | Vmess:<br>- TLS WS<br>- TLS gRPC<br>- HTTP WS<br>- TLS H2 WS<br>- TLS H2 gRPC<br><br><br> | Vmess:<br>- TLS WS Fake<br>- HTTP WS Fake<br><br><br><br><br><br> |
-| V2ray:<br>- TLS WS<br>- HTTP WS<br>- TLS H2 |  V2ray:<br>- TLS WS<br>- HTTP WS<br>- TLS H2 | |
-| Shadowsocks:<br>- TLS Shadowtls<br>- HTTP Shadowtls<br>- TLS H2 Shadowtls<br>- TLS H3 Shadowtls  | | |
-
-<!--
-| Supported Configs | Supported Configs |
-| - | - |
-| ♥ **Telegram Proxy** ♥ | **vless+xtls** |
-| **Web Socket (cdn support)**:<br> - vless+tls+ws <br>- trojan+tls+ws <br> - vmess+tls+ws | **h2+tls**:<br> - vless+tls<br> - trojan+tls<br> - vmess+tls |
-| **grpc+tls**:<br> - vless+grpc+tls<br> - trojan+grpc+tls<br> - vmess+grpc+tls | **http1.1+tls**:  <br>- trojan+tls <br> - vmess+tls|
-| **old configs**: <br> - trojango (cdn support) <br> - v2ray+ws (cdn support) <br> - vmess (cdn support) <br> - ss+faketls| **HTTP** <br> -unsafe, default is disable <br> - vless<br> -vmess |
--->
-
-
-</details>
-
-
-<details markdown="1"> <summary><h3>پروکسی هوشمند برای سایت های غیر ایرانی و فیلترشده</h3></summary>
- 
-با استفاده از کلاینت کلش و پنل هایدیفای می‌تونین در ۳ حالت به اینترنت وصل بشید. 
-
-۱. روش اول فقط سایت فیلترشده را از فیلترشکن عبور دهد.
-
-۲. فقط سایت های ایرانی بدون فیلترشکن باز شود (پیشنهادی)
-
-۳. تمام سایت ها از فیلترشکن عبور کنند
-
-از طرف دیگر سعی شده راه‌حل ارائه شده در برابر کشف توسط نهادهای فیلتر کننده اینترنت مقاوم باشد و جلوی حملات معمول به سرور گرفته و امکان شناسایی حداقل باشد با این وجود فراموش نکنید که سایر پورت ها به جز ۲۲، ۸۰ و ۴۴۳ را غیر فعال کنید
-
-</details>
-
-<details markdown="1"><summary><h3>سایر امکانات فوق العاده</h3></summary>
-
-
-<details  markdown="1"> <summary>سیستم‌عامل‌های پشتیبانی شده</summary>
-هایدیفای روی اوبونتو ۲۰.۰۴ و ۲۲.۰۴ تست شده است.
-Ubuntu arm64 or amd64
-</details>
-
-
-
-<details  markdown="1"> <summary>تست سرعت</summary>
-
-از این طریق میتوان سرعت سرور بدون فیلترشکن و با فیلترشکن را بررسی کرد
-
-![image](https://user-images.githubusercontent.com/114227601/210183115-4e1f4186-421e-4316-8082-3ce53275adc7.png)
-
-</details>
-
- <details markdown="1"> <summary>صفحات راهنمای کاربران</summary> 
- با امکان تولید qrcode
-
- ![صفحه راهنمای کاربران](https://user-images.githubusercontent.com/114227601/206908372-db1fc206-4c6a-4206-ad39-e6b6b44a55c4.png)
-</details>
-
-<details markdown="1"> <summary>DNS over HTTPS (CDN support)</summary>
- 
- برای استفاده از DNS over HTTPS کافی است در مرورگر از dns زیر استفاده کنید:
- 
- `https://yourdomain.com/yoursecret/dns/dns-query{?dns}`
- 
-</details>
-
-<details markdown="1"> <summary>Redirector (CDN support)</summary> 
-  وقتی میخواهید پروکسی تلگرام یا پروکسی شدوساکس را از طریق برنامه های دیگر به اشتراک بگذارید امکان ریدایرکت با پشتیبانی سی دی ان فراهم می شود. برای مثال اگر کانفیگ شدوساکس را به جای fullURL قرار دهید باعث میشود با کلیک بر روی این لینک، اپ شدوساکس باز شده و پروکسی بر روی آن فعال شود. برای مثال:
- 
- `https://yourdomain.com/yoursecret/redirect/fullURL` 
- 
-
-"fullURL" را با کانفیگ Shadowsocks جایگزین کنید:
- 
- `https://yourdomain.com/yoursecret/redirect/ss://secret/` 
- 
-</details>
-
-
-</details>
-</details>
-
-</div>
-
-<!--
-<a href="https://www.youtube.com/watch?v=-a4tfRUsrNY">
-  <img width="50%" src="https://user-images.githubusercontent.com/125398461/227990194-e20b67dc-6cda-4b05-bd26-b7147d830a12.png" />
-</a>
-
--->
-
-<div align=right dir="rtl">
 
 ***
 
@@ -209,12 +84,6 @@ Ubuntu arm64 or amd64
 
 
 
-## راهنمای پیکربندی 
-برای اینکه حداکثر استفاده را از مزایای این پنل ببرید؛ این [راهنما ![](https://img.shields.io/badge/Config-Hiddify-009688?style=flat-square&logo=Azure-Functions)](https://github.com/hiddify/hiddify-config/wiki/%D9%86%D8%AD%D9%88%D9%87-%D9%BE%DB%8C%DA%A9%D8%B1%D8%A8%D9%86%D8%AF%DB%8C-%D9%BE%D9%86%D9%84-%D9%87%DB%8C%D8%AF%DB%8C%D9%81%D8%A7%DB%8C) را مطالعه کنید.
-
-
-
-</div>
 
 </div>
 
