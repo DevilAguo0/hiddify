@@ -22,8 +22,7 @@ Go to the panel settings section, in this section you can see the WARP settings.
 
 </div>
 
-
-When you deactivate it, you must give it a WARP Plus code, which there are different bots in Telegram to receive this code. One of them is [this robot](https://t.me/generatewarpplusbot).
+When you deactivate it, you need to give it a Warp Plus code, which you need to get this service from Cloudflare. Of course, to get this code, there are different bots in Telegram that give you this code, but none of them are approved by us.
 
 ### Mode "All"
 It passes all traffic through the warp, even the sites that don't have problems pass through the warp.
