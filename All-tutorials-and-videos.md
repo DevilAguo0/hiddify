@@ -63,6 +63,7 @@ Quick access to each section
 - [How to connect and troubleshoot via SSH](https://github.com/hiddify/hiddify-config/wiki/How-to-connect-and-troubleshoot-via-SSH)
 - [How to use Reality on Hiddify](https://github.com/hiddify/hiddify-config/wiki/How-to-use-Reality-on-Hiddify)
 - [How to set up and use Telegram bot in the Hiddify panel](https://github.com/hiddify/hiddify-config/wiki/How-to-set-up-and-use-Telegram-bot-in-the-Hddify-panel)
+- [How to activate WARP on the Hiddify panel](https://github.com/hiddify/hiddify-config/wiki/How-to-activate-WARP-on-the-Hiddify-panel)
 
 <br>
 <br>
