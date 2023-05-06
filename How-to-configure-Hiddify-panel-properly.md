@@ -330,6 +330,9 @@ This is especially important when you use proxies with lower security (http and 
 
 This is done automatically by the panel, but you can change it if you want
 
+### WARP
+If you need to get some information related to enabling WARP on Hiddify, read [this link](https://github.com/hiddify/hiddify-config/wiki/How-to-activate-WARP-on-the-Hiddify-panel).
+
 ### Reality
 For view more information about this protocol, please view [this article](https://github.com/hiddify/hiddify-config/wiki/How-to-use-Reality-on-Hiddify).
 
