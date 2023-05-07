@@ -91,6 +91,7 @@ In this menu, information related to system resources is displayed graphically.
 ## Users
 In this part, you can define accounts for users. Click on the Create button. You can specify Usage Limit, Package days, Mode etc.
 
+<img src="https://user-images.githubusercontent.com/125398461/236673236-3ca6b99a-2586-4755-b21e-4e6f85405135.png">
 
 After creating accounts, you can browse dedicated page to each user via links next to them in which you can find all applications and configs. On to top of the page you can find and download client applications based on your OS.
 
