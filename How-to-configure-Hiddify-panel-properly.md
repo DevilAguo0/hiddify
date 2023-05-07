@@ -116,6 +116,32 @@ Several methods are suggested for providing links to users:
 
 If you need more information about how to connect the client to the server, please visit our [YouTube Channel](https://www.youtube.com/watch?v=5CyktpUePf0&list=PL2DSfh6Z6tTK0fhT_koc8BlxV95GfzCje) in order to find a playlist in this regard.
 
+
+## Admins
+In this section, you can define for the admin panel.
+
+PIC
+
+Just click the create button and create the desired admin.
+
+There are several admin types:
+
+* Super admin: he is the admin of the whole system and has full access to all settings.
+* Admin: has access to a number of settings. Can manage users.
+* Agent: can only manage users.
+
+> * For each of the admins, you can set a limit on the number of users and the number of active users.
+> * You can add a sub-admin for each.
+> * You can also change the admin password.
+
+Note:
+
+> The admin password is also available in the admin page link, which changes the address of the panel completely. To see more information about the correct format of the admin link, click [here](https://github.com/hiddify/hiddify-config/wiki/The-correct-format-of-admin-link)
+
+
+
+<details><summary><h2>Settings</h2></summary>
+
 <details><summary><h2>Domains</h2></summary>
 
 Go to the Domains menu to add your domains. There are 5 modes here.
@@ -148,10 +174,12 @@ Pay attention:
 
 </details>
 
-### AUTO_CDN_IP domain
+<details><summary><h4>AUTO_CDN_IP domain</h4></summary>
 Due to the long and detailed description of this mode; You can read [this article](https://github.com/hiddify/hiddify-config/wiki/Guide-for-using-mode-Auto_CDN_IP-in-Hidify) to learn how to set it up.
 
-<details><summary><h3>Relay domain</h3></summary>
+</details>
+
+<details><summary><h4>Relay domain</h4></summary>
 Click on the create button and follow the instructions on the page that opens.
 
 
@@ -165,7 +193,7 @@ Note:
 
 </details>
 
-<details><summary><h3>Fake domain</h3></summary>
+<details><summary><h4>Fake domain</h4></summary>
 Click on the create button and follow the instructions on the page that opens.
 
 
@@ -181,7 +209,8 @@ Pay attention:
 
 </details>
 
-## Proxies
+
+<details><summary><h3>Proxies</h3></summary>
 In this part of the panel, you can specify general and detailed settings for proxies and enable or disable each of them. General settings include the following: 
 
 
@@ -192,22 +221,20 @@ Pay attention:
 
 > HTTP connections are unencrypted, but TLS is.
 
-<details><summary><h2>Settings</summary></h2>
+</details>
 
-### Admin settings
+<details><summary><h3>Other</h3></summary>
+
+
+#### Admin settings
 Here are the admin settings.
 
 
 
 * You can set the language of the admin page.
 
-* Also changed the admin password.
 
-Note:
-
-> The admin password is also available in the admin page link, which changes the address of the panel completely. To see more information about the correct format of the admin link, click [here]
-
-### Personalization of the user page
+#### Rationalization of the user page
 In this section, you can set the page related to users.
 
 
@@ -221,7 +248,7 @@ In this section, you can set the page related to users.
 
 * Finally, you can specify the language of the user page.
 
-### General settings
+#### General settings
 In this section, there are some general settings related to the panel.
 
 
@@ -238,7 +265,7 @@ In this section, there are some general settings related to the panel.
 
 * You can enable or disable NetData. This tool is used to display the amount of system usage of resources and graphical charts of the admin menu.
 
-### Proxy settings
+#### Proxy settings
 In this section, you can make specific proxy settings.
 
 
@@ -251,19 +278,19 @@ In this section, you can make specific proxy settings.
 
 
 * V2Ray mode can be activated or deactivated.
-* vmess can be enabled or disabled.
+* Vmess can be enabled or disabled.
 * The shared password can be changed. This password is used for connections that do not calculate traffic volume.
 * You can choose browser fingerprint emulation from Chrome, Android, Safari and Firefox options.
 
-### domain Fronting
+#### domain Fronting
 This option is used to simulate another website instead of your website in SNI. Therefore, the filtering system cannot detect packets whose main destination is your domain, but fakely pretends to be sent to another destination, and as a result, it can be bypassed. This option may not work on all networks. [more information]
 
 
 * For this purpose, you can specify the desired fake website.
-* You can enable this option for http protocol (no encryption).
-* You can enable this option for tls protocol (with encryption).
+* You can enable this option for HTTP protocol (no encryption).
+* You can enable this option for TLS protocol (with encryption).
 
-### Telegram proxy
+#### Telegram proxy
 Telegram proxy is designed to be used inside the Telegram app to bypass Telegram filtering.
 
 
@@ -280,8 +307,8 @@ Telegram proxy is designed to be used inside the Telegram app to bypass Telegram
 * You can choose different Telegram libraries. Note that only Python works correctly on all systems and others may have bugs. Be sure to test after the change.
 
 
-### HTTP settings
-In this section, the http protocol is enabled or disabled. Due to the lack of encryption, its activation is not recommended.
+#### HTTP settings
+In this section, the HTTP protocol is enabled or disabled. Due to the lack of encryption, its activation is not recommended.
 
 
 
@@ -290,14 +317,14 @@ In this section, the http protocol is enabled or disabled. Due to the lack of en
 
 * Commas can be used to add other ports. Also, you should only use cloudflare's http ports. For example, 80,8080. [More information about cloudflare ports](https://developers.cloudflare.com/fundamentals/get-started/reference/network-ports/)
 
-### TLS settings
+#### TLS settings
 In this section you can set TLS.
 
 
 It is possible to enable or disable the TLS protocol in this section.
-    In addition, you can specify the ports used in this regard, port 443 cannot be changed, but you can add other Cloudflare https ports, which can be separated by commas. For example, 443,2053. [More information about cloudflare ports](https://developers.cloudflare.com/fundamentals/get-started/reference/network-ports/)
+    In addition, you can specify the ports used in this regard, port 443 cannot be changed, but you can add other Cloudflare HTTPS ports, which can be separated by commas. For example, 443,2053. [More information about cloudflare ports](https://developers.cloudflare.com/fundamentals/get-started/reference/network-ports/)
 
-### Shadowsocks settings
+#### Shadowsocks settings
 ShadowSax FakeTLS is a simple obfuscation method that encapsulates data in a TLS packet to fool the filter.
 
 
@@ -306,10 +333,10 @@ ShadowSax FakeTLS is a simple obfuscation method that encapsulates data in a TLS
 
 * You can also set a fake domain to obfuscate packets by ShadowSocks
 
-### TUIC Settings
+#### TUIC Settings
 Delicately-TUICed high-performance UDP-based proxy similar to quic. The goal of TUIC is to minimize the handshake delay as much as possible. You can activate it in this section.
 
-### Advanced settings
+#### Advanced settings
 In this section, there are configurations that are needed by a few users and are designed for professional users
 
 
@@ -330,14 +357,24 @@ This is especially important when you use proxies with lower security (http and 
 
 This is done automatically by the panel, but you can change it if you want
 
-### WARP
+#### WARP
 If you need to get some information related to enabling WARP on Hiddify, read [this link](https://github.com/hiddify/hiddify-config/wiki/How-to-activate-WARP-on-the-Hiddify-panel).
 
-### Reality
+#### Reality
 For view more information about this protocol, please view [this article](https://github.com/hiddify/hiddify-config/wiki/How-to-use-Reality-on-Hiddify).
 
 </details>
 
+
+<details><summary><h3>Backup</h3></summary>
+In this menu, you can take a backup from the panel or restore your previous backup.
+
+* The output format of the backup file is Json.
+* When restoring the backup on the panel, it is possible to choose the type of restoration from the options of restoring settings, restoring users and restoring domains.
+
+</details>
+
+</details>
 
 <details><summary><h2>Actions</h2></summary>
 
@@ -380,17 +417,13 @@ After performing this operation, because the system will be restarted once; The 
 
 </details>
 
-## Backup
-In this menu, you can take a backup from the panel or restore your previous backup.
 
-* The output format of the backup file is Json.
-* When restoring the backup on the panel, it is possible to choose the type of restoration from the options of restoring settings, restoring users and restoring domains.
 
-## Support
-If there is a problem with the settings and performance of the panel, you can raise your problems in the project-related [problems section .](https://github-com.translate.goog/hiddify/hiddify-config/issues?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+## Help
+Through [this link](https://github.com/hiddify/hiddify-config/wiki/All-tutorials-and-videos), you will have access to categorized content and all tutorials and videos.
 
-## Telegram
-Notifications related to this project are made on the [Telegram channel](https://t.me/hiddify) .
+
+
 
 
 
