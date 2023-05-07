@@ -81,16 +81,16 @@ Here is a parameter that is very critical; Enter your registered domain in the s
 Then click apply changes for saving configurations. If you face with a problem, [Go here](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#apply-configs). If the changes are applied successfully; The panel is almost ready to use, but it is recommended to read the following contents till the end so that you can get the maximum advantages of this panel.
 
 
-In this menu, you can find information related to system resources displayed graphically.
 
-![](https://user-images.githubusercontent.com/125398461/236671412-9887bac1-1ce6-45d7-ad9d-8d74ad1a32b2.png)
+
+
 
 
 
 ## Dashboard
 In this menu, information related to system resources is displayed graphically.
 
-To display this section, NetData must be enabled in the general settings section.
+![](https://user-images.githubusercontent.com/125398461/236671412-9887bac1-1ce6-45d7-ad9d-8d74ad1a32b2.png)
 
 ## Users
 In this part, you can define accounts for users. Click on the Create button. You can specify Usage Limit, Package days, Mode etc.
