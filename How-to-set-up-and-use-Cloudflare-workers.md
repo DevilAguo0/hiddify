@@ -14,3 +14,106 @@ In other words, the working method of Workers is that instead of trying to open 
 The purpose here is to hide the domain behind the workers.
 
 ## How to use a Workers?
+To use a Worker you need to have an active domain on the Cloudflare.
+
+## Domain and subdomain registration on Cloudflare
+Here you need a purchased domain and you need to register it in the Cloudflare. If you have any ambiguity about the domain and how it is registered; Read [this](https://github.com/hiddify/hiddify-config/wiki/Domain-types-and-how-to-register-them).
+
+Sign in to your account in your account according to the description of how to register your domain.
+
+![](https://user-images.githubusercontent.com/125398461/224561629-dd0be4b5-9345-43b7-aa81-a3bfaaaf5899.png)
+
+Enter the registered domain and register a new subdomain in the DNS section.
+
+![](https://user-images.githubusercontent.com/125398461/224561952-cbb99885-46f7-49e2-874d-f48e5b0c9b0d.png)
+
+There is no need for the proxy to be `ON`. The Worker works with both proxy modes (ON and OFF).
+
+PIC
+
+After registering a sub domain, you must change certificate settings.
+
+## Setting up domain certificate
+Set the certificate setting of your domain to `Full`.
+
+![](https://user-images.githubusercontent.com/125398461/235835085-8d9c9ea5-16f2-4782-bfa2-4cc010d7367c.png)
+
+## Creating Worker service
+Go to the Worker section on your dashboard page on Cloudflare.
+
+![](https://user-images.githubusercontent.com/125398461/224562657-f433fff0-d4a1-4fe6-95e0-5f4e17337c3d.png)
+
+Then select the `Create a Service` option.
+
+![](https://user-images.githubusercontent.com/125398461/224562813-20dc1a02-8d93-446b-a7d9-d90fbae3cda3.png)
+
+Here you can choose the name of your Worker service. Cloudflare also offers you a name. You can change it, but note that this name should be unique.
+
+PIC
+
+The `Starter` option should be also on `HTTP Handler`. Finally, by selecting the `Create service`, your Worker service will be created.
+
+Then you need to click the `Quick Edit` button to put your favorite code in the Worker.
+
+PIC
+
+On the editing page of the Worker, wipe the default codes on the left side.
+
+PIC
+
+Then put the following code in its place.
+
+```
+addEventListener(
+   "fetch", event => {
+       
+       const ip = event.request.headers.get('cf-connecting-ip') || event.request.headers.get('x-forwarded-for') || (event.request.socket && event.request.socket.remoteAddress);
+       let url = new URL(event.request.url);
+       const worker_domain=url.hostname;
+       url.hostname = "sub.domain.com";                        
+       url.protocol = event.request.headers.get('x-forwarded-proto') || "https";
+       let request = new Request(url, event.request);
+       if (ip)
+        request.headers.set('cf-connecting-ip', ip);
+        request.headers.set('Host', worker_domain);
+       event.respondWith(
+           fetch(request)
+       )
+   }
+)
+
+```
+
+Note:
+- In the sixth line, you must put the registered domain for the `url.hostname` value. That is, for example, you have registered the subdomain `sub.domain.co`m in Cloudflare according to the description of the first step; Here you need to put that domain for the `url.hostname` value.
+
+PIC
+
+Click the `Save and deploy` button.
+
+**A very important note: Do not worry if an error is displayed in the section that displays the result of the code execution (shown in the upper right of the image) at the stage of saving the code. Save the code and continue.**
+
+On the workers page, copy your workers address without `https`. For example, like this:
+
+PIC
+
+
+This step was completed successfully. Now you have to register the address of your Workers service on Hiddify panel.
+
+
+## Workers setting up on Hiddify
+Go to the Domains menu and click `Create`.
+
+PIC
+
+Make the settings according to the picture above and save it.
+
+> Note: You can use CDN and AutoCDN modes
+
+Work is finished. A CDN/AutoCDN domain with the details of your workers has been added to your previous domains and you can use its connections.
+
+
+> Final and important point:
+Workers in the free plan only processes 100,000 requests per day, so this service is useful for those who do not have high traffic on their server.
+
+![](https://user-images.githubusercontent.com/125398461/235835675-e454ba05-29ad-4b53-9cf9-f23f4c225ef6.png)
