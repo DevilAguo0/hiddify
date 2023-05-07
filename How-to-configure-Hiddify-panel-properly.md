@@ -19,10 +19,11 @@
     - Auto_CDN_IP domain
     - Relay domain
     - Fake domain
+    - Sub-only domain
   - Proxies
   - Other
     - Admin settings
-    - Personalization of the user page
+    - Customizing user page
     - General settings
     - Proxy settings
     - Domain Fronting
@@ -30,7 +31,7 @@
     - HTTP settings
     - TLS settings
     - Shadowsocks settings
-    - TUIC settings
+    - ShadowTLS Settings
     - Advanced settings
     - Very advanced settings
     - Reality
@@ -93,9 +94,19 @@ In this part, you can define accounts for users. Click on the Create button. You
 
 <img src="https://user-images.githubusercontent.com/125398461/236673236-3ca6b99a-2586-4755-b21e-4e6f85405135.png">
 
+You can hit the `Create` button then go to the creating of new user
+
+<img width="1259" src="https://user-images.githubusercontent.com/125398461/236682495-988f2cc9-52b6-42c0-ac07-d19553425dd4.png">
+
+
 After creating accounts, you can browse dedicated page to each user via links next to them in which you can find all applications and configs. On to top of the page you can find and download client applications based on your OS.
 
+<img width="1280" src="https://user-images.githubusercontent.com/125398461/236682677-4b72bb63-d4c0-41d2-b0e5-05786770aa00.png">
+
+
 At the bottom of this page, you can see the configurations related to the user.
+
+![](https://user-images.githubusercontent.com/125398461/236682704-86f4b740-172f-442e-a31f-73752c7aea43.png)
 
 Several methods are suggested for providing links to users:
 
@@ -109,7 +120,7 @@ If you need more information about how to connect the client to the server, plea
 ## Admins
 In this section, you can define for the admin panel.
 
-PIC
+<img width="1201" src="https://user-images.githubusercontent.com/125398461/236682754-91aa4f0e-2b12-483d-a06a-14109adb87bc.png">
 
 Just click the create button and create the desired admin.
 
@@ -131,11 +142,13 @@ Note:
 
 <details><summary><h2>Settings</h2></summary>
 
-<details><summary><h2>Domains</h2></summary>
+<details><summary><h3>Domains</h3></summary>
 
 Go to the Domains menu to add your domains. There are 5 modes here.
-<details><summary><h3>Direct domain</h3></summary>
+<details><summary><h4>Direct domain</h4></summary>
 Click the Create button. In the opened page, act according to the figure.
+
+![](https://user-images.githubusercontent.com/125398461/236682821-4b721589-8adc-43e8-b90e-8c096aa27c6e.png)
 
 
 Be careful:
@@ -148,8 +161,10 @@ Be careful:
 
 </details>
 
-<details><summary><h3>CDN domain</h3></summary>
+<details><summary><h4>CDN domain</h4></summary>
 Click on the create button and follow the instructions on the page that opens.
+
+![](https://user-images.githubusercontent.com/125398461/236682963-aa6bf603-7449-43f2-9639-436332043e2a.png)
 
 
 
@@ -171,6 +186,7 @@ Due to the long and detailed description of this mode; You can read [this articl
 <details><summary><h4>Relay domain</h4></summary>
 Click on the create button and follow the instructions on the page that opens.
 
+![](https://user-images.githubusercontent.com/125398461/236683034-66b7b5d8-8ab4-4d53-b5c2-641b92c43543.png)
 
 Note:
 
@@ -185,6 +201,8 @@ Note:
 <details><summary><h4>Fake domain</h4></summary>
 Click on the create button and follow the instructions on the page that opens.
 
+![](https://user-images.githubusercontent.com/125398461/236683245-0c9f0fd4-0d84-436d-9e7a-ae26b180ec73.png)
+
 
 Pay attention:
 
@@ -196,11 +214,27 @@ Pay attention:
 
 </details>
 
+<details><summary><h4>Sub-Only domain</h4></summary>
+This is a bonus tip. You can choose a domain to use as subscription only domain. This way you can separate connections from subscription links and your link will never be blocked. Then your links can be updated all the time.
+
+![](https://user-images.githubusercontent.com/125398461/236683456-2e99c6f2-ab23-4c54-a5cf-89e565472e8f.png)
+
+After connecting `Sub-only domain` to the `Connection domains`, you can go to the user page via this sub-only domain. You see the configs are connected to this domain.
+
+Tip: We recommend using direct domains as Sub-only domains because they are fast if your server's IP is clean. Moreover direct domains wont be locked if they are used as Sub-only links. Additionally you can use PHP sites as subscription links. [More info](https://github.com/hiddify/hiddify-config/discussions/689)
+
+</details>
+
+
 </details>
 
 
 <details><summary><h3>Proxies</h3></summary>
 In this part of the panel, you can specify general and detailed settings for proxies and enable or disable each of them. General settings include the following: 
+
+<img width="1188" src="https://user-images.githubusercontent.com/125398461/236683886-a08db1ce-5939-4d96-80ef-4dd1c40e129b.png">
+
+
 
 
 In detailed settings, you can enable or disable individual proxies (connections). Connections are grouped.
@@ -218,13 +252,18 @@ Pay attention:
 #### Admin settings
 Here are the admin settings.
 
+<img width="573" src="https://user-images.githubusercontent.com/125398461/236683990-4bf2b03a-b080-4479-91f2-aff85ef326e0.png">
+
+
 
 
 * You can set the language of the admin page.
 
 
-#### Rationalization of the user page
+#### Customizing user page
 In this section, you can set the page related to users.
+
+<img width="574" src="https://user-images.githubusercontent.com/125398461/236684199-cbd46efc-c13b-4263-ba35-c94d5915224f.png">
 
 
 
@@ -240,6 +279,9 @@ In this section, you can set the page related to users.
 #### General settings
 In this section, there are some general settings related to the panel.
 
+<img width="568" src="https://user-images.githubusercontent.com/125398461/236684249-02f6d52d-09dd-491a-baf2-b18b78241279.png">
+
+
 
 
 * You can determine how to update the server.
@@ -252,14 +294,16 @@ In this section, there are some general settings related to the panel.
 
 * You can enable or disable the firewall. By activating the firewall, the main service ports such as 80,443,22 remain active and other ports are disabled.
 
-* You can enable or disable NetData. This tool is used to display the amount of system usage of resources and graphical charts of the admin menu.
 
 #### Proxy settings
 In this section, you can make specific proxy settings.
 
+<img width="575" src="https://user-images.githubusercontent.com/125398461/236684281-c32f4141-ad33-4866-9bf9-99d429758278.png">
 
 
-* Block Iranian sites. By activating it, all traffic destined for sites inside Iran or sites that are on the ir domain; They are blocked through the server. This option is very effective for not identifying the server by the filtering system. He suggested that it should be activated.
+
+
+* Block domestic sites. By activating it, all traffic destined for sites inside Iran or sites that are on the ir domain; They are blocked through the server. This option is very effective for not identifying the server by the filtering system. He suggested that it should be activated.
 
 
 
@@ -272,15 +316,22 @@ In this section, you can make specific proxy settings.
 * You can choose browser fingerprint emulation from Chrome, Android, Safari and Firefox options.
 
 #### domain Fronting
-This option is used to simulate another website instead of your website in SNI. Therefore, the filtering system cannot detect packets whose main destination is your domain, but fakely pretends to be sent to another destination, and as a result, it can be bypassed. This option may not work on all networks. [more information]
+This option is used to simulate another website instead of your website in SNI. Therefore, the filtering system cannot detect packets whose main destination is your domain, but fakely pretends to be sent to another destination, and as a result, it can be bypassed. This option may not work on all networks. [more information](https://github.com/hiddify/hiddify-config/wiki/Guide-for-domain-fronting)
+
+<img width="581" src="https://user-images.githubusercontent.com/125398461/236684655-3d8c0123-c66a-44ae-8e83-599b8f8720da.png">
+
+
 
 
 * For this purpose, you can specify the desired fake website.
 * You can enable this option for HTTP protocol (no encryption).
 * You can enable this option for TLS protocol (with encryption).
+* Please note that this feature is disabled on Cloudflare, and you must use other CDNs to use it.
 
 #### Telegram proxy
 Telegram proxy is designed to be used inside the Telegram app to bypass Telegram filtering.
+
+<img width="569" src="https://user-images.githubusercontent.com/125398461/236684736-23daa824-cb42-4a6b-94ed-9c1594f46502.png">
 
 
 
@@ -299,6 +350,8 @@ Telegram proxy is designed to be used inside the Telegram app to bypass Telegram
 #### HTTP settings
 In this section, the HTTP protocol is enabled or disabled. Due to the lack of encryption, its activation is not recommended.
 
+<img width="578" src="https://user-images.githubusercontent.com/125398461/236684772-39b2fe70-6ea5-4a6a-84dd-bec43ac3232e.png">
+
 
 
 
@@ -309,6 +362,9 @@ In this section, the HTTP protocol is enabled or disabled. Due to the lack of en
 #### TLS settings
 In this section you can set TLS.
 
+<img width="563" src="https://user-images.githubusercontent.com/125398461/236684810-8a3c1cdf-f49e-48e6-a059-834c9c8e8a50.png">
+
+
 
 It is possible to enable or disable the TLS protocol in this section.
     In addition, you can specify the ports used in this regard, port 443 cannot be changed, but you can add other Cloudflare HTTPS ports, which can be separated by commas. For example, 443,2053. [More information about cloudflare ports](https://developers.cloudflare.com/fundamentals/get-started/reference/network-ports/)
@@ -316,17 +372,24 @@ It is possible to enable or disable the TLS protocol in this section.
 #### Shadowsocks settings
 ShadowSax FakeTLS is a simple obfuscation method that encapsulates data in a TLS packet to fool the filter.
 
+<img width="575" src="https://user-images.githubusercontent.com/125398461/236684838-aec3d882-fbeb-46cb-b072-2f1336ab9b63.png">
 
 
 * Here, one of the algorithms of this protocol called simple obfs can be activated, which is not recommended.
 
 * You can also set a fake domain to obfuscate packets by ShadowSocks
 
-#### TUIC Settings
-Delicately-TUICed high-performance UDP-based proxy similar to quic. The goal of TUIC is to minimize the handshake delay as much as possible. You can activate it in this section.
+#### ShadowTLS Settings
+
+A Proxy to expose real tls handshake to the firewall. It works like Trojan but It does not require signing certificate. the firewall will see real tls handshake with valid certificate that you choose.
+
+<img width="572" src="https://user-images.githubusercontent.com/125398461/236684908-91bffbe0-96b9-49a7-8dd1-e51534b02b27.png">
+
 
 #### Advanced settings
-In this section, there are configurations that are needed by a few users and are designed for professional users
+In this section, there are configurations that are needed by a few users and are designed for professional users.
+
+<img width="572" src="https://user-images.githubusercontent.com/125398461/236685004-e2f45048-3dea-48fa-b90e-219905293a23.png">
 
 
 
@@ -340,6 +403,10 @@ In this section, there are configurations that are needed by a few users and are
 
 ### Very advanced settings
 In this section, you can set the proxy path.
+
+<img width="614" alt="Screen Shot 1402-02-17 at 14 38 59 copy" src="https://user-images.githubusercontent.com/125398461/236685035-9d878767-98fb-464d-8a99-0f056352c0e5.png">
+
+
 
 
 This is especially important when you use proxies with lower security (http and vmess).
@@ -358,6 +425,10 @@ For view more information about this protocol, please view [this article](https:
 <details><summary><h3>Backup</h3></summary>
 In this menu, you can take a backup from the panel or restore your previous backup.
 
+<img width="1220" src="https://user-images.githubusercontent.com/125398461/236685069-22011cc0-ebdd-4e30-9077-c4237242f32b.png">
+
+
+
 * The output format of the backup file is Json.
 * When restoring the backup on the panel, it is possible to choose the type of restoration from the options of restoring settings, restoring users and restoring domains.
 
@@ -369,14 +440,26 @@ In this menu, you can take a backup from the panel or restore your previous back
 
 In this menu, a simulated terminal is displayed, through which a series of actions related to maintenance, troubleshooting and installation of the panel can be performed.
 
+<img width="97" src="https://user-images.githubusercontent.com/125398461/236685118-f3524067-6251-4835-b50a-4832cb2e5f95.png">
+
+
 ### Status
 This menu executes the system status display script and displays the related logs.
+
+<img width="1207" src="https://user-images.githubusercontent.com/125398461/236685140-6d0dca77-9d82-4486-92cd-e6020167f9b6.png">
 
 ### View Logs
 In this section, the service logs will be visible in categories.
 
+<img width="607" src="https://user-images.githubusercontent.com/125398461/236685170-1357ea59-4b89-4f29-840e-8e08b536e4b3.png">
+
+
+
+
 ### Apply Configs
 Settings registered in other menus are applied through this section.
+
+<img width="1185" src="https://user-images.githubusercontent.com/125398461/236685205-372dae9c-63c7-4a54-a72d-e2cd0b23f8cf.png">
 
 
 Important points related to applying changes:
@@ -389,18 +472,34 @@ Important points related to applying changes:
 
     If you have lost the emergency link, you should solve the problem through ssh. [more information](https://github.com/hiddify/hiddify-config/wiki/How-to-connect-and-troubleshoot-via-SSH)
 
+<img width="371" src="https://user-images.githubusercontent.com/125398461/236685271-67ab8704-b3f2-4f08-970d-bf4dceab5ff3.png">
+
+At the end, the panel shows you a message like this. It means every thin applied successfully.
+
 ### Update System
 It is possible to install the update panel in this way.
+
+<img width="1177" src="https://user-images.githubusercontent.com/125398461/236685314-79d9cdda-c04f-4153-a101-a55c770f91c4.png">
+
 
 which usually should be done between 5 and 10 minutes. As a precaution, be sure to copy the emergency link to use in case of a problem.
 
 ### Reinstall System
 The panel startup script will be executed again and the corresponding log will be displayed. By doing this, the database of users and links will not change, so there is no need to worry, but be sure to copy the emergency link as a precaution.
 
+<img width="1182" src="https://user-images.githubusercontent.com/125398461/236685416-c27a0a3e-0a10-49b2-914c-c0765dcadf8d.png">
+
+
+
+
 Sometimes the green message that the operation is successful may not be shown, but through the simulated terminal, you can see the completion of the operation.
 
 ### Restart System
 If you need to reset the server, you can do it from this section.
+
+<img width="1181" src="https://user-images.githubusercontent.com/125398461/236685466-8f82e0d3-98da-4614-a4ba-37ad3c2d257d.png">
+
+
 
 After performing this operation, because the system will be restarted once; The page format may be messed up, so don't rush at all and wait at least 5 minutes for the service to be restored
 
