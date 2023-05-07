@@ -116,4 +116,11 @@ Work is finished. A CDN/AutoCDN domain with the details of your workers has been
 > Final and important point:
 Workers in the free plan only processes 100,000 requests per day, so this service is useful for those who do not have high traffic on their server.
 
+
+
+<div align=center>
+
 ![](https://user-images.githubusercontent.com/125398461/235835675-e454ba05-29ad-4b53-9cf9-f23f4c225ef6.png)
+
+
+</div>
