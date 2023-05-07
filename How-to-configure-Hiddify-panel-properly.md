@@ -114,7 +114,7 @@ Several methods are suggested for providing links to users:
 > 2. The link related to the user's subscription should be provided to them: in this case, it will be possible to update the scanners in case of changes.
 > 3. The connection link should be provided to the user: in this case, it is not possible to update the connections
 
-If you need more information about how to connect the client to the server, please visit our [YouTube Channel](https://www.youtube.com/watch?v=5CyktpUePf0&list=PL2DSfh6Z6tTK0fhT_koc8BlxV95GfzCje) in order to find a playlist in this regard.
+If you need more information about how to connect the client to the server, please visit our [YouTube Channel](https://www.youtube.com/watch?v=Ml7XeYp70mM&list=PL2DSfh6Z6tTIalRDm3hY7G7ku9-yrCfBL) in order to find a playlist in this regard.
 
 
 ## Admins
