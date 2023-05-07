@@ -83,8 +83,9 @@ Then click apply changes for saving configurations. If you face with a problem, 
 
 In this menu, you can find information related to system resources displayed graphically.
 
+![](https://user-images.githubusercontent.com/125398461/236671412-9887bac1-1ce6-45d7-ad9d-8d74ad1a32b2.png)
 
-For showing these graphs you need to enable Netdata in [General settings](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#general-settings).
+
 
 ## Dashboard
 In this menu, information related to system resources is displayed graphically.
