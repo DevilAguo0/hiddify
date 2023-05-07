@@ -78,11 +78,7 @@ Here is a parameter that is very critical; Enter your registered domain in the s
 
 ![](https://user-images.githubusercontent.com/125398461/236670372-500351a3-d829-4665-af29-651451f45c2d.png)
 
-Then click apply changes for saving configurations. If you face with a problem, [Go here](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#apply-configs). If the changes are applied successfully; The panel is almost ready to use, but it is recommended to read the following contents till the end so that you can get the maximum advantages of this panel.
-
-
-
-
+Then click apply changes for saving configurations. If you face with a problem, [Go here](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#apply-configs). If the changes are applied successfully; The panel is almost ready to use, but it is recommended to read the following contents till the end so that you can take the maximum advantages of this panel.
 
 
 
