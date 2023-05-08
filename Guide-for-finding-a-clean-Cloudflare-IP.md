@@ -28,10 +28,19 @@ Tip:
 ## Using Bashsiz's scanner
 Mr. Bashsiz is an Iranian engineer who has developed a program called CFScanner, which can be used to test the list of Cloudflare IPs on different networks and reach the clean Cloudflare IPs.
 
-This program is published in two versions, Linux and Windows. To do this, first download the desired version from here and then follow how to run it based on the desired operating system.
+This program has been released in several versions including Linux and Windows. Versions available until the date of editing this article:
+- Bash
+- Docker
+- Windows
+- Python
+- Golang
+- Android
+
+To do this, first download the desired version [here](https://github.com/MortezaBashsiz/CFScanner) and then follow how to run it based on the desired operating system.
 
 
-### Run on Linux version
+<details><summary><h3>Run on Linux version</h3> (Click here)</summary>
+
 Download the program files and first see Mr. Bashsiz's explanation of how to run it in the video below (persian).
 
 [![](https://user-images.githubusercontent.com/125398461/229997889-eaf51d2c-e5e1-4899-aa34-6c2c73375f10.png)](https://www.youtube.com/watch?v=BKLRAHolhvM)
@@ -79,53 +88,315 @@ bash cfScanner.sh SUBNET DOWN 8 1 config.real 100 custom.subnets
 ```
 Finally, the test result is placed in the `result` folder, which you can view and use. More information on the program [wiki](https://github.com/MortezaBashsiz/CFScanner/tree/main/bash).
 
-## Run on Windows version
-For the Windows version, install it after downloading the app.
+</details>
 
-![PICTURE](https://user-images.githubusercontent.com/125398461/222939844-0d312508-d15c-4fe8-b3d9-283e44704339.png)
+<details><summary><h3>Run on Windows version</h3> (Click here)</summary>
 
-There are some important files and folders that we need to know for running. See the picture below.
+<details><summary><h4>Prerequisites</h4></summary>
+First, there must be prerequisites that will be explained in order:
 
-![222940073-b4263585-8116-4527-84ea-ec6ab22148ae2](https://user-images.githubusercontent.com/125398461/234599115-60ac8552-23d2-4f10-8734-d999680d884a.png)
+- Download the Windows scanner app from [the project's GitHub](https://github.com/MortezaBashsiz/CFScanner/tree/main/windows)
+- Install .NET Desktop Runtime 6 app from the main application site given below
+
+```
+https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+```
+
+- Checking TLS Handshake
+For this, you must first enter the program folder and open `Command Prompt` inside that folder. That is, `Shift+Right click` on the folder and select `Open in Windows Terminal`.
+
+Run the following command in the terminal environment.
+
+`‍‍.\v2ray.exe tls ping sub.yourdomain.com`
+
+Put your subdomain instead of `sub.yourdomain.com`. If handshake `succeeded` message appears; It means that the scanner is ready to use, otherwise you should make temporary changes in the certificate settings on Cloudflare website.
+
+Set the TLS version to TLS 1.0 and disable the TLS 1.3 option.
+
+![Image](https://user-images.githubusercontent.com/125398461/234774581-c1a07bdb-352f-43cc-97f7-2ce6c87a761d.png)
+
+* Note: Don't forget to return these options to the first state after testing.
+* Prepare the config template structures for testing.
+If you want to test your configurations, you must apply them in the Json file related to the connection in the program folder. This change needs to be applied in `inbound`.
+
+```
+
+{
+  "inbounds": [{
+    "port": "PORTPORT", 
+    "listen": "127.0.0.1",
+    "tag": "socks-inbound",
+    "protocol": "socks",
+    "settings": {
+...
+```
+And also apply this change in `outbound`.
+
+```
+{
+"outbounds": [
+   {
+   "protocol": "vmess",
+   "settings": {
+     "vnext": [{
+       "address": "IP.IP.IP.IP",
+...
+```
+
+Now, for ease of work, some examples of configuration templates that iSegaro has worked hard to present; You can choose one according to your needs.
+
+* Be careful, in these structures, only in the `outbounds` part, you should change the configuration specifications including 5 parts `Port, UUID, PATH, HOST, SNI`, which are marked with the word `xxxxx`, so wherever there is the word `xxxxx`, change it only depending on your configuration. And do not change the rest of the codes.
+
+- Example template for Vmess+WS+TLS :
+
+```
+{
+  "inbounds": [{
+    "port": "PORTPORT", 
+    "listen": "127.0.0.1",
+    "tag": "socks-inbound",
+    "protocol": "socks",
+    "settings": {
+      "auth": "noauth",
+      "udp": false,
+      "ip": "127.0.0.1"
+    },
+    "sniffing": {
+      "enabled": true,
+      "destOverride": ["http", "tls"]
+    }
+  }],
+  "outbounds": [
+    {
+    "protocol": "vmess",
+    "settings": {
+      "vnext": [{
+        "address": "IP.IP.IP.IP", 
+        "port": xxxxx,
+        "users": [{"id": "xxxxx" }]
+      }]
+    },
+		"streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "wsSettings": {
+            "headers": {
+                "Host": "xxxxx"
+            },
+            "path": "xxxxx"
+        },
+        "tlsSettings": {
+            "serverName": "xxxxx",
+            "allowInsecure": false,
+			"fingerprint": "chrome",
+			"alpn": [
+			"http/1.1"
+			]
+        }
+    }
+	}],
+  "other": {}
+}
+```
+
+- Example template for Vless+GRPC+TLS :
+
+```
+{
+  "inbounds": [{
+    "port": "PORTPORT", 
+    "listen": "127.0.0.1",
+    "tag": "socks-inbound",
+    "protocol": "socks",
+    "settings": {
+      "auth": "noauth",
+      "udp": false,
+      "ip": "127.0.0.1"
+    },
+    "sniffing": {
+      "enabled": true,
+      "destOverride": ["http", "tls"]
+    }
+  }],
+  "outbounds": [
+    {
+    "protocol": "vless",
+    "settings": {
+      "vnext": [{
+        "address": "IP.IP.IP.IP", 
+        "port": xxxxx,
+        "users": [{"id": "xxxxx",
+		"encryption": "none"
+			}]
+      }]
+    },
+		"streamSettings": {
+        "network": "grpc",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "xxxxx",
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "grpcSettings": {
+          "serviceName": "",
+          "multiMode": false
+        }
+      }
+	}],
+  "other": {}
+}
+```
+
+- Example template for Trojan+WS+TLS :
+
+```
+{
+  "inbounds": [{
+    "port": "PORTPORT", 
+    "listen": "127.0.0.1",
+    "tag": "socks-inbound",
+    "protocol": "socks",
+    "settings": {
+      "auth": "noauth",
+      "udp": false,
+      "ip": "127.0.0.1"
+    },
+    "sniffing": {
+      "enabled": true,
+      "destOverride": ["http", "tls"]
+    }
+  }],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "IP.IP.IP.IP",
+            "method": "chacha20",
+            "ota": false,
+            "password": "xxxxx",
+            "port": xxxxx,
+            "level": 1,
+            "flow": ""
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "xxxxx",
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "xxxxx",
+          "headers": {
+            "Host": "xxxxx"
+          }
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    }
+  ],
+  "other": {}
+}
+```
+
+- Example template for Vless+WS+TLS :
+
+```
+{
+"inbounds": [{
+    "port": "PORTPORT", 
+    "listen": "127.0.0.1",
+    "tag": "socks-inbound",
+    "protocol": "socks",
+    "settings": {
+      "auth": "noauth",
+      "udp": false,
+      "ip": "127.0.0.1"
+    },
+    "sniffing": {
+      "enabled": true,
+      "destOverride": ["http", "tls"]
+    }
+  }],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [{
+        "address": "IP.IP.IP.IP", 
+        "port": xxxxx,
+        "users": [{"id": "xxxxx",
+		"encryption": "none"
+			}]
+      }]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "xxxxx",
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "xxxxx",
+          "headers": {
+            "Host": "xxxxx"
+          }
+        }
+      }
+    }
+  ],
+	"other": {}
+}
+```
+
+Finally, present your configuration according to the examples for the next step or use the default configuration.
 
 
-The contents of `v2ray-config` folder here is our config for testing.
-
-![222940243-f84e7a8e-45c9-40a8-bc8d-72202ee00fd62](https://user-images.githubusercontent.com/125398461/234599306-eb9a5edb-ca53-4be2-b74b-aeec3d3e2a5f.png)
-
->config.real file which is the main configuration information.
-
->The config.json.template file is the config template file.
-
->In the generated folder, a structure corresponding to our config is created and tested for each cloudflare IP.
-
->It should be noted that the structure of this test is based on the vmess configuration, but vless and trojan can also be tested with it.
-
->So complete the config.real file based on a vmess_ws config in your panel.
 
 
-![222940550-a2739cc8-c282-41ea-b193-9374d0ec29ff2](https://user-images.githubusercontent.com/125398461/234599586-789e2a5c-8813-410c-b4f3-316a0707a1ab.png)
+</details>
 
+Now suppose you have completed the prerequisites; All you need is the config file of the sample program or the config file created by yourself, which is in Json format; From the menu `Tools > Add custom v2ray config`, put it in the program so that the scan is done based on it, otherwise the program will scan with the default configuration.
 
-Finally, to start the test, you can specify the simultaneous test of IPs and press the Start Scan button.
+![App](https://user-images.githubusercontent.com/125398461/234803794-7c7f5bb9-0967-4f1b-b519-9db266b7a0e7.png)
 
+1. From `Tools > Add custom v2ray config`, you can give the desired file according to the described pattern to the software so that the scan can be done based on it.
 
-![222940595-8d84cbfb-e391-4762-8da5-c8cd0768579b2](https://user-images.githubusercontent.com/125398461/234599700-ce52e975-3177-457f-9dc1-cac597c6d087.png)
+2. You can specify the download or upload test type or both.
 
+3. In this section, you can specify the number of simultaneous IPs to be tested by the scanner. It is suggested to increase this number step by step and increase or decrease it based on the CPU processing power of your system. Its default value is 4.
 
-In the Fastest IP found section, it shows the fastest available IP based on the lowest delay.
+4. The fastest IP will be displayed after the scan is completed
 
-Recommendations:
-- Be sure to edit the config.real file based on your server. It is also recommended
-- Do not set the number of IP concurrency more than 8 to give a more accurate output.
+5. The range of tested IPs is displayed
 
-Sometimes you may open the app and scan, but nothing is displayed; In this case, there are two modes:
->1. Host address or SNI related to the filtered configuration.
->2. You did not enter the configuration information correctly. For this case, you should open one of the structures placed in the generated folder and check whether the information of this structure is the same as your configuration or not.
+6. From this section, you can give the software the IP range you want to scan based on it.
 
-![PICTURE](https://user-images.githubusercontent.com/125398461/222940830-906481cb-f8dc-4e3a-abf9-61528f844435.png)
+* **Suggestion:** You can set the software to scan the entire default IP range once. For the next time, you can just scan this output (with higher accuracy), you will probably get a better result. Also, if you take an upload test, you will probably get a better result. All this depends on your efforts and creativity.
 
-To see the new settings of the Windows version, see [this topic](https://github.com/MortezaBashsiz/CFScanner/discussions/210).
+</details>
 <br>
 <br>
 
