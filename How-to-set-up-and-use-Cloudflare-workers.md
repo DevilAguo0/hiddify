@@ -29,7 +29,8 @@ Enter the registered domain and register a new subdomain in the DNS section.
 
 There is no need for the proxy to be `ON`. The Worker works with both proxy modes (ON and OFF).
 
-PIC
+
+![](https://user-images.githubusercontent.com/125398461/236729724-3c4c85e9-046b-4285-9d92-4bc4d9506091.png)
 
 After registering a sub domain, you must change certificate settings.
 
@@ -49,17 +50,20 @@ Then select the `Create a Service` option.
 
 Here you can choose the name of your Worker service. Cloudflare also offers you a name. You can change it, but note that this name should be unique.
 
-PIC
+![Picture](https://user-images.githubusercontent.com/125398461/236729831-7ecba946-b031-46c1-b370-0df1dae47385.png)
 
 The `Starter` option should be also on `HTTP Handler`. Finally, by selecting the `Create service`, your Worker service will be created.
 
 Then you need to click the `Quick Edit` button to put your favorite code in the Worker.
 
-PIC
+
+![Imgage](https://user-images.githubusercontent.com/125398461/236729939-ca4f2378-91a2-447f-80fd-9f1ff79f83fe.png)
+
 
 On the editing page of the Worker, wipe the default codes on the left side.
 
-PIC
+
+![Image](https://user-images.githubusercontent.com/125398461/236730008-7ffa12a1-84de-44d2-8c16-ae8e757d77b6.png)
 
 Then put the following code in its place.
 
@@ -87,7 +91,8 @@ addEventListener(
 Note:
 - In the sixth line, you must put the registered domain for the `url.hostname` value. That is, for example, you have registered the subdomain `sub.domain.co`m in Cloudflare according to the description of the first step; Here you need to put that domain for the `url.hostname` value.
 
-PIC
+![Image](https://user-images.githubusercontent.com/125398461/236730073-2d3a5e99-9a38-4e73-b3b6-9d962acee957.png)
+
 
 Click the `Save and deploy` button.
 
@@ -95,7 +100,7 @@ Click the `Save and deploy` button.
 
 On the workers page, copy your workers address without `https`. For example, like this:
 
-PIC
+![Image](https://user-images.githubusercontent.com/125398461/236730138-16641a29-82e8-4276-8f8e-9c16f1bd4348.png)
 
 
 This step was completed successfully. Now you have to register the address of your Workers service on Hiddify panel.
@@ -104,7 +109,8 @@ This step was completed successfully. Now you have to register the address of yo
 ## Workers setting up on Hiddify
 Go to the Domains menu and click `Create`.
 
-PIC
+![Image](https://user-images.githubusercontent.com/125398461/236730761-5b3ae32d-c67f-4e54-96b4-fe1a034da834.png)
+
 
 Make the settings according to the picture above and save it.
 
