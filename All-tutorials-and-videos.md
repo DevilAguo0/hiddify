@@ -34,6 +34,7 @@ Quick access to each section
 - [Quick installation on Oracle Cloud](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Oracle-Cloud)
 - [Quick installation on OVH Servers](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-OVH-Servers)
 - [Quick installation on Microsoft Azure](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Microsoft-Azure)
+- [Cloud-init installation](https://github.com/hiddify/hiddify-config/wiki/Cloud-init-installation)
 - [Quick installation on Ubuntu](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-On-Ubuntu)
 - [Guide for setting up the domain and finalizing the installation](https://github.com/hiddify/hiddify-config/wiki/Guide-for-Setting-up-the-Domain-and-Finalizing-the-Installation)
 
