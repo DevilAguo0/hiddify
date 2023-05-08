@@ -405,6 +405,62 @@ Now suppose you have completed the prerequisites; All you need is the config fil
 <br>
 
 ## Using Vahid Farid's scanner
+This program has been prepared in different versions based on different platforms that you can use according to your needs.
+
+Versions available until the date of editing this article:
+* Mac
+* Windows
+* Android
+* Web
+<details><summary><h3>Prerequisites</h3></summary>
+- First, [download Python](https://www.python.org/downloads/) according to your operating system.
+- Download the compressed file of the code [here](https://github.com/vfarid/cf-ip-scanner-py) and then extract it.
+- Now you need to install requests.
+
+```
+pip install requests
+```
+
+</details>
+
+<details><summary><h3>Run the program</h3></summary>
+- Open the terminal program to run in the extracted folder. That is, for example, in Windows, enter the program folder and `Shift+Right click` and then click `Open in Command Prompt` to enter the terminal from that folder. 
+
+- Now type the following command to run the program.
+
+```
+python start.py
+```
+- At first, you enter the required IP number.
+- In the next step, enter the maximum delay you want in milliseconds. For example, 500 means 500 milliseconds
+- You can choose the range you want to scan. Use comma to select multiple ranges and use `-` to ignore one range.
+- You can exclude multiple sufferings from the search. Use comma to select multiple ranges and use `-` to ignore one range.
+- In the next step, you can specify the size of the packets sent for scanning in kilobytes. The higher the volume, the higher the scanning accuracy, but on the other hand, the volume of traffic also increases.
+- Set the download speed according to your needs so that it finds the IPs whose download speed is higher than this value. Enter the speed in Mbps.
+- In the next step, set the upload speed according to your needs so that it finds the IPs whose upload speed is higher than this value. Enter this value in Mbps.
+- In the next step, if needed, you can enter the scanned results directly into Cloudflare or ignore it until the scan starts.
+- If you have typed `y` in the answer to the previous step, you must enter the email connected to your Cloudflare account here.
+     Then copy the `Zone ID` in the next step. To find the `Zone ID`, enter the domain settings in your account, then find and copy the `Zone ID` as shown in the image below.
+
+![Image](https://user-images.githubusercontent.com/125398461/235452066-9be0f0d9-e314-47cc-9565-4e05158b9d00.png)
+
+- In this step, you need to give your global token to the software. For this, click on `Get your API token` on the main page of the dashboard.
+
+![Image](https://user-images.githubusercontent.com/125398461/235454090-7a23c21a-fd1a-4fe8-9eb9-d9343402929b.png)
+
+- Then, on the tokens page in `Global API Key`, select the `View` option.
+
+![Image](https://user-images.githubusercontent.com/125398461/235454894-4e8bad4d-6561-4dec-9d5a-859ef0f64932.png)
+
+- Here it will ask you for your account password and then display your token.
+
+![Image](https://user-images.githubusercontent.com/125398461/235455122-9d39781e-bb9b-4abb-8c77-a4b68a07f048.png)
+
+- Copy this token into the software.
+- Then give the desired subdomain to register these IPs on your domain. For example, `cf.yourdomain.com`
+- After that, the scanner will start scanning and at the end, the IPs will be displayed to you based on the given specifications. Also, if you have completed the IP registration section in Cloudflare, these IPs will also be registered in Cloudflare on the desired subdomain. That is, you will have subdomains in Cloudflare that are automatically registered with the name `cf.yourdomain.com` and with the IPs found by the scanner with the proxy turned off.
+
+</details>
 
 <br>
 <br>
@@ -414,6 +470,51 @@ Now suppose you have completed the prerequisites; All you need is the config fil
 <br>
 
 ## Using Safa Safarian's scanner
+This scanner has been developed in several versions that you can use according to your needs.
+
+Versions available until the date of editing this article:
+- Windows
+- Mac
+- Android
+
+<details><summary><h3>Script installation</h3></summary>
+
+<details><summary><h4>Windows</h4></summary>
+* First, download Python from [this link](https://www.python.org/downloads/windows/).
+* When installing Python, don't forget to check pip installation and add Python to PATH.
+* Download the [original compressed scanner](https://github.com/SafaSafari/ss-cloud-scanner/archive/refs/heads/main.zip) file and extract it.
+* Open a `Command Prompt` terminal in the extracted path. That is, enter the extracted path. Press `Shift+Right click` to open terminal.
+* Use the following command to install the prerequisites.
+
+```
+pip install -r ./requirements.txt
+```
+
+- After installing the prerequisites, the work is finished and it is time to run the program.
+
+<details><summary><h4>Android</h4></summary>
+
+- To install on the Android operating system, you need a program called Termux, which you can download [here](https://github.com/termux/termux-app/releases/).
+- Here you will come across several apk files from which you should select one based on your device type. If you do not know the type of your Android device, download and install armeabi-v7a version.
+- Next, by opening the Thermox program, the command line will be shown to you, enter the following commands in order.
+- In the installation process, answer all the questions with `y`.
+
+```
+pkg update -y; pkg install -y python python-pip openssl python-cryptography
+```
+- Then run the following command.
+
+```
+curl -sLo main.zip https://github.com/SafaSafari/ss-cloud-scanner/archive/refs/heads/main.zip && unzip -qq main.zip && rm main.zip
+```
+
+- 
+
+</details>
+
+</details>
+
+</details>
 
 <br>
 <br>
