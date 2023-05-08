@@ -492,17 +492,21 @@ pip install -r ./requirements.txt
 
 - After installing the prerequisites, the work is finished and it is time to run the program.
 
+</details>
+
 <details><summary><h4>Android</h4></summary>
 
 - To install on the Android operating system, you need a program called Termux, which you can download [here](https://github.com/termux/termux-app/releases/).
 - Here you will come across several apk files from which you should select one based on your device type. If you do not know the type of your Android device, download and install armeabi-v7a version.
-- Next, by opening the Thermox program, the command line will be shown to you, enter the following commands in order.
+- Next, by opening the Termux program, the command line will be shown to you, enter the following commands in order.
 - In the installation process, answer all the questions with `y`.
 
 ```
 pkg update -y; pkg install -y python python-pip openssl python-cryptography
 ```
+
 - Then run the following command.
+
 
 ```
 curl -sLo main.zip https://github.com/SafaSafari/ss-cloud-scanner/archive/refs/heads/main.zip && unzip -qq main.zip && rm main.zip
@@ -510,7 +514,8 @@ curl -sLo main.zip https://github.com/SafaSafari/ss-cloud-scanner/archive/refs/h
 
 - After that enter the program folder and install the prerequisites.
 
-‍‍‍‍‍‍‍‍```
+
+```
 cd ss-cloud-scanner-main
 pip install -r ./requirements.txt
 ```
@@ -521,13 +526,15 @@ pip install -r ./requirements.txt
 
 </details>
 
+
+
 <details><summary><h3>Run the script</h3></summary>
 
 - With the following command, the program starts.
 
-```
+
 python main.py
-```
+
 
 * As soon as it runs, the program will ask you for the number of required IPs.
 * In the next step, the type of scan can be specified.
@@ -540,13 +547,15 @@ python main.py
 This type of scanning uses an alternative worker due to the whitelist of SNI in Iran, which greatly increases the efficiency of this scanning model.
 
 **Vmess mode**
-This scanning model practically simulates a proxy connection by creating a Vmess packet and sending it to the server with Websocket. Alternative scanners do this using v2ray or ray kernels, but this scanner does this purely with Python. has implemented
+This scanning model practically simulates a proxy connection by creating a Vmess packet and sending it to the server with Websocket. Alternative scanners do this using V2ray or Xray kernels, but this scanner does this purely with Python. has implemented
 
 [Refrence](https://github.com/SafaSafari/ss-cloud-scanner)
 
 </details>
 
-</details>
+
+
+
 
 <br>
 <br>
