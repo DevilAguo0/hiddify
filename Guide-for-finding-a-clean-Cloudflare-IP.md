@@ -508,9 +508,41 @@ pkg update -y; pkg install -y python python-pip openssl python-cryptography
 curl -sLo main.zip https://github.com/SafaSafari/ss-cloud-scanner/archive/refs/heads/main.zip && unzip -qq main.zip && rm main.zip
 ```
 
-- 
+- After that enter the program folder and install the prerequisites.
+
+‍‍‍‍‍‍‍‍```
+cd ss-cloud-scanner-main
+pip install -r ./requirements.txt
+```
+
+- After installing the prerequisites, the work is finished and it is time to run the program.
 
 </details>
+
+</details>
+
+<details><summary><h3>Run the script</h3></summary>
+
+- With the following command, the program starts.
+
+```
+python main.py
+```
+
+* As soon as it runs, the program will ask you for the number of required IPs.
+* In the next step, the type of scan can be specified.
+* Then it will ask you to scan with `https` or `http`.
+* And then it starts scanning and after some time healthy IPs (if any) will appear on the screen.
+* If type 2 is selected, it will ask you for the `uuid`, `domain`, `port`, and `path` of the proxy used, and as soon as you enter them in the desired places, the scanning operation will begin. Thus mode 2 will scan with your config settings.
+
+**Speed mode**
+
+This type of scanning uses an alternative worker due to the whitelist of SNI in Iran, which greatly increases the efficiency of this scanning model.
+
+**Vmess mode**
+This scanning model practically simulates a proxy connection by creating a Vmess packet and sending it to the server with Websocket. Alternative scanners do this using v2ray or ray kernels, but this scanner does this purely with Python. has implemented
+
+[Refrence](https://github.com/SafaSafari/ss-cloud-scanner)
 
 </details>
 
