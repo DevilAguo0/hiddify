@@ -35,3 +35,5 @@ output: { all: "| tee -a /root/cloud-init-output.log" }
 
 # you can see the generated link from the website by using http://yourip/ or https://yourip.sslip.io in one hour, after that, it will be disapear. 
 ```
+
+After installing this script, follow the installation from [here](https://github.com/hiddify/hiddify-config/wiki/Guide-for-Setting-up-the-Domain-and-Finalizing-the-Installation) to complete the installation.
