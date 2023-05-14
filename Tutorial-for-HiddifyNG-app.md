@@ -1,4 +1,4 @@
 
 
 
-# Tutorial for V2rayNG app
+# Tutorial for HiddifyNG app
