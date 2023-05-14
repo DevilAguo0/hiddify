@@ -4,4 +4,4 @@
 
 </div>
 
-# Tutorial for HiddifyClashDesktop
+# Tutorial for HiddifyClashDesktop software
