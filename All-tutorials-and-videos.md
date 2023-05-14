@@ -13,7 +13,9 @@ Quick access to each section
 - [Contents related to domain and CDN](#contents-related-to-domain-and-cdn)
 - [Contents related to Workers and Tunneling](#contents-related-to-workers-and-tunneling)
 - [Contents related to check and troubleshooting](#contents-related-to-check-and-troubleshooting)
-- [Contents related to client software](#contents-related-to-client-software)
+- [Contents related to client software on Android](#contents-related-to-client-software-on-android)
+- [Contents related to client software on iOS](#contents-related-to-client-software-on-ios)
+- [Contents related to client software on Desktop](#contents-related-to-client-software-on-desktop)
 
 <br>
 <br>
@@ -135,15 +137,17 @@ Quick access to each section
 <br>
 <div dir="ltr" align=center>
 
-## Contents related to client software
+## Contents related to client software on Android
 </div>
 
-- [Comprehensive guide for client software](https://github.com/hiddify/hiddify-config/wiki/Comprehensive-guide-for-connecting-to-client-software-for-bypassing-the-filtering)
+- [Tutorial for HiddifyNG app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-HiddifyNG-app)
+- [Tutorial for HiddifyClashAndroid app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-HiddifyClashAndroid-app)
+- [Tutorial for V2rayNG app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-V2rayNG-app)
 
 
 <div dir="ltr" align="center">
 
-**Videos related to client software**
+**Videos related to client software on Android**
 
 
 <a href="https://www.youtube.com/watch?v=hVcWJ8Qg1GQ"><img width="32%" src="https://user-images.githubusercontent.com/125398461/235705873-4f6730b7-a23a-4717-95c3-a5a667db1c59.png" /></a>
@@ -152,6 +156,66 @@ Quick access to each section
 <a href="https://www.youtube.com/watch?v=Ml7XeYp70mM"><img width="32%" src="https://user-images.githubusercontent.com/125398461/235707725-a6d73e32-178b-4163-9fe8-8aab4e4458fe.png" /></a>
 
 
+
+
+</div>
+
+<br>
+<br>
+
+***
+<br>
+<br>
+
+## Contents related to client software on iOS
+</div>
+
+- [Tutorial for ShadowRocket app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-ShadowRocket-app)
+- [Tutorial for Stash app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-Stash-app)
+- [Tutorial for WingsX app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-WingsX-app)
+- [Tutorial for Fair VPN app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-Fair-VPN-app)
+- [Tutorial for V2Box app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-V2Box-app)
+
+
+
+<div dir="ltr" align="center">
+
+<!--
+**Videos related to client software on iOS**
+
+
+<a href="https://www.youtube.com/watch?v=hVcWJ8Qg1GQ"><img width="32%" src="https://user-images.githubusercontent.com/125398461/235705873-4f6730b7-a23a-4717-95c3-a5a667db1c59.png" /></a>
+-->
+
+
+
+
+</div>
+
+<br>
+<br>
+
+***
+<br>
+<br>
+
+## Contents related to client software on Desktop
+</div>
+
+- [Tutorial for HiddifyN software](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-HiddifyN-software)
+- [Tutorial for HiddifyClashDesktop software](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-HiddifyClashDesktop-software)
+
+
+<div dir="ltr" align="center">
+
+<!--
+**Videos related to client software on Desktop**
+
+
+<a href="https://www.youtube.com/watch?v=hVcWJ8Qg1GQ"><img width="32%" src="https://user-images.githubusercontent.com/125398461/235705873-4f6730b7-a23a-4717-95c3-a5a667db1c59.png" /></a>
+
+
+-->
 
 
 </div>
