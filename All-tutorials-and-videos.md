@@ -66,6 +66,17 @@ Quick access to each section
 - [How to set up and use Telegram bot in the Hiddify panel](https://github.com/hiddify/hiddify-config/wiki/How-to-set-up-and-use-Telegram-bot-in-the-Hddify-panel)
 - [How to activate WARP on the Hiddify panel](https://github.com/hiddify/hiddify-config/wiki/How-to-activate-WARP-on-the-Hiddify-panel)
 
+
+<div dir="ltr" align="center">
+
+**Videos related to configuration and advanced settings**
+
+
+<a href="https://www.youtube.com/watch?v=nOe7FhajX3g"><img width="32%" src="https://github.com/hiddify/hiddify-config/assets/125398461/661b1164-aca9-4ef6-bce8-781ab2970040" /></a>
+
+
+
+</div>
 <br>
 <br>
 
