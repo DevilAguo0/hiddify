@@ -4,4 +4,4 @@
 
 </div>
 
-# Tutorial for HiddifyN
+# Tutorial for HiddifyN software
