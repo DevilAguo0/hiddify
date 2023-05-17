@@ -78,7 +78,15 @@ Also, all tutorials and videos can be accessed by clicking on the image below.
 
 <div align=center>
 
-<a href="https://github.com/hiddify/hiddify-config/wiki/All-tutorials-and-videos"><img width="70%" src="https://user-images.githubusercontent.com/125398461/235845087-645212c1-097f-4f93-a924-7a40828891e7.png"></a>
+<a href="https://github.com/hiddify/hiddify-config/wiki/All-tutorials-and-videos"><img width="70%" src="https://github.com/hiddify/hiddify-config/assets/125398461/e8924ab6-3198-49c2-ba2b-f8339c507d86"></a>
+
+
+
+
+
+<!--
+https://user-images.githubusercontent.com/125398461/235845087-645212c1-097f-4f93-a924-7a40828891e7.png
+-->
 
 </div>
 
