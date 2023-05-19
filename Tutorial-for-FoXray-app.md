@@ -4,4 +4,4 @@
 
 </div>
 
-# Tutorial for WingsX app
+# Tutorial for FoXray app
