@@ -134,9 +134,9 @@ Workers in the free plan only processes 100,000 requests per day, so this servic
 
 </div>
 
-## Adding Workers configurations to the domain related to subscription links
+## Adding the configurations of Workers to the domain related to subscription links
 
-As you probably know, in Hiddify you can put subscription links on a separate domain and add other domains that are set for connections to this domain. The advantage of this is that the domain of subscription link will always be available and will not be filtered because it separates connections from subscription links.
+As you probably know, in Hiddify you can put subscription links on a separate domain and add other domains that are set for connections to this domain. The advantage of this is that the domain of subscription link will always be available and will not be filtered because this way separates connections from subscription links.
 
 Well, suppose the domain of our subscription links that you have already registered is `t1.hiddify.com`. Go to the settings related to this domain and in the `Show Configs of Domains` field, check the new domain that you added in the previous step for Workers as shown below.
 
