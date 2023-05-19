@@ -37,7 +37,10 @@ After registering a sub domain, you must change certificate settings.
 ## Setting up domain certificate
 Set the certificate setting of your domain to `Full`.
 
+<div align=center>
+
 ![](https://user-images.githubusercontent.com/125398461/235835085-8d9c9ea5-16f2-4782-bfa2-4cc010d7367c.png)
+</div>
 
 ## Creating Worker service
 Go to the Worker section on your dashboard page on Cloudflare.
@@ -119,7 +122,7 @@ Make the settings according to the picture above and save it.
 Work is finished. A CDN/AutoCDN domain with the details of your workers has been added to your previous domains and you can use its connections.
 
 
-> Final and important point:
+> Important point:
 Workers in the free plan only processes 100,000 requests per day, so this service is useful for those who do not have high traffic on their server.
 
 
@@ -137,7 +140,7 @@ As you probably know, in Hiddify you can put subscription links on a separate do
 
 Well, suppose the domain of our subscription links that you have already registered is `t1.hiddify.com`. Go to the settings related to this domain and in the `Show Configs of Domains` field, check the new domain that you added in the previous step for Workers as shown below.
 
-![](https://github.com/hiddify/hiddify-config/assets/125398461/53d75527-670b-479d-a330-0e34fdef0c1f)
+![](https://github.com/hiddify/hiddify-config/assets/125398461/e0037530-fcb7-4aed-968f-a75d2978c2bb)
 
 Finally, if you go to the users' page and click on the user link as shown below,
 
