@@ -138,6 +138,7 @@ Note:
 
 > The admin password is also available in the admin page link, which changes the address of the panel completely. To see more information about the correct format of the admin link, click [here](https://github.com/hiddify/hiddify-config/wiki/The-correct-format-of-admin-link)
 
+Also, on the page of all tutorials on the wiki, you can see the tutorials on how to use client apps based on the OS type [here](https://github.com/hiddify/hiddify-config/wiki/All-tutorials-and-videos#-contents-related-to-client-software-on-android).
 
 
 <details><summary><h2>Settings</h2></summary>
