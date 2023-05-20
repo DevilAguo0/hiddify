@@ -90,10 +90,9 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [How to activate WARP on the Hiddify panel](https://github.com/hiddify/hiddify-config/wiki/How-to-activate-WARP-on-the-Hiddify-panel)
 
-
+<br>
 <div dir="ltr" align="center">
 
-<br>
 **🎥 Videos related to configuration and advanced settings**
 
 
@@ -181,10 +180,10 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [Tutorial for Clash for Android app](https://github.com/hiddify/hiddify-config/wiki/Training-for-Clash-for-Android-app)
 
-
+<br>
 <div dir="ltr" align="center">
 
-<br>
+
 **🎥 Videos related to client software on Android**
 
 
@@ -219,7 +218,7 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 📔 [Tutorial for V2Box app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-V2Box-app)
 
 
-
+<br>
 <div dir="ltr" align="center">
 
 <!--
@@ -248,7 +247,7 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [Tutorial for HiddifyClashDesktop software](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-HiddifyClashDesktop-software)
 
-
+<br>
 <div dir="ltr" align="center">
 
 <!--
