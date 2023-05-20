@@ -2,7 +2,7 @@
 
 [💲Donation](https://github.com/hiddify/hiddify-config/wiki/Support)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[❓FAQ](https://github.com/hiddify/hiddify-config/discussions/categories/q-a-%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%B1%D8%A7%DB%8C%D8%AC)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🐞BugReport](https://github.com/hiddify/hiddify-config/issues)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[Telegram Channel](https://t.me/hiddify)
+[Telegram Channel](https://t.me/hiddify)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Telegram Group](https://t.me/hiddify_board/5)
 ***
 <div markdown="1" dir="rtl">
 
@@ -10,6 +10,6 @@
 
 [💲حمایت‌مالی](https://github.com/hiddify/hiddify-config/wiki/Support)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[❓سوالات‌رایج](https://github.com/hiddify/hiddify-config/discussions/categories/q-a-%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%B1%D8%A7%DB%8C%D8%AC) &nbsp;&nbsp;&nbsp;&nbsp;[🐞گزارش‌باگ](https://github.com/hiddify/hiddify-config/issues)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[کانال‌تلگرام](https://t.me/hiddify)
+[کانال‌تلگرام](https://t.me/hiddify)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[گروه تلگرام](https://t.me/hiddify_board)
 
 </div>
