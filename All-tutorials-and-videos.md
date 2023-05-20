@@ -11,19 +11,19 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📚 [Contents related to installation and setup](#-contents-related-to-installation-and-setup)
 
-📚 [Contents related to configuration and advanced settings](#contents-related-to-configuration-and-advanced-settings)
+📚 [Contents related to configuration and advanced settings](#-contents-related-to-configuration-and-advanced-settings)
 
-📚 [Contents related to domain and CDN](#contents-related-to-domain-and-cdn)
+📚 [Contents related to domain and CDN](#-contents-related-to-domain-and-cdn)
 
-📚 [Contents related to Workers and Tunneling](#contents-related-to-workers-and-tunneling)
+📚 [Contents related to Workers and Tunneling](#-contents-related-to-workers-and-tunneling)
 
-📚 [Contents related to check and troubleshooting](#contents-related-to-check-and-troubleshooting)
+📚 [Contents related to check and troubleshooting](#-contents-related-to-check-and-troubleshooting)
 
-📚 [Contents related to client software on Android](#contents-related-to-client-software-on-android)
+📚 [Contents related to client software on Android](#-contents-related-to-client-software-on-android)
 
-📚 [Contents related to client software on iOS](#contents-related-to-client-software-on-ios)
+📚 [Contents related to client software on iOS](#-contents-related-to-client-software-on-ios)
 
-📚 [Contents related to client software on Desktop](#contents-related-to-client-software-on-desktop)
+📚 [Contents related to client software on Desktop](#-contents-related-to-client-software-on-desktop)
 
 <br>
 <br>
