@@ -164,6 +164,8 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [Basic concepts related to the internet and  using proxies](https://github.com/hiddify/hiddify-config/wiki/Basic-Concepts)
 
+📔 [How the fragment works and its usage](https://github.com/hiddify/hiddify-config/wiki/How-the-fragment-works-and-its-usage)
+
 <br>
 <br>
 
