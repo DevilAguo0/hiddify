@@ -57,6 +57,7 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [Guide for setting up the domain and finalizing the installation](https://github.com/hiddify/hiddify-config/wiki/Guide-for-Setting-up-the-Domain-and-Finalizing-the-Installation)
 
+<br>
 <div dir="ltr" align="center">
 
 **🎥 Videos related to installation and setup**
@@ -92,6 +93,7 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 <div dir="ltr" align="center">
 
+<br>
 **🎥 Videos related to configuration and advanced settings**
 
 
@@ -182,6 +184,7 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 <div dir="ltr" align="center">
 
+<br>
 **🎥 Videos related to client software on Android**
 
 
