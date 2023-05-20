@@ -9,7 +9,7 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 **⚡️ Quick access to each section**
 
-📚 [Contents related to installation and setup](#📚-contents-related-to-installation-and-setup)
+📚 [Contents related to installation and setup](#-contents-related-to-installation-and-setup)
 
 📚 [Contents related to configuration and advanced settings](#contents-related-to-configuration-and-advanced-settings)
 
