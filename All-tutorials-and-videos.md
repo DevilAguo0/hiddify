@@ -207,7 +207,7 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [Tutorial for Stash app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-Stash-app)
 
-📔 [Tutorial for WingsX app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-WingsX-app)
+📔 [Tutorial for FoXray app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-FoXray-app)
 
 📔 [Tutorial for Fair VPN app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-Fair-VPN-app)
 
