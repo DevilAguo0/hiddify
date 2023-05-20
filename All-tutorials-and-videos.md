@@ -17,7 +17,7 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📚 [Contents related to Workers and Tunneling](#-contents-related-to-workers-and-tunneling)
 
-📚 [Contents related to check and troubleshooting](#-contents-related-to-basic-concepts-and-checking-and-troubleshooting)
+📚 [Contents related to basic concepts and troubleshooting](#-contents-related-to-basic-concepts-and-troubleshooting)
 
 📚 [Contents related to client software on Android](#-contents-related-to-client-software-on-android)
 
@@ -153,7 +153,7 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 <br>
 <div dir="ltr" align=center>
 
-## 📚 Contents related to basic concepts and checking and troubleshooting
+## 📚 Contents related to basic concepts and troubleshooting
 </div>
 
 📔 [How to make sure the server's IP or domain is clean](https://github.com/hiddify/hiddify-config/wiki/How-to-make-sure-the-server's-IP-or-domain-is-clean)
