@@ -1,11 +1,14 @@
 [**![World Learning Splash Image](https://user-images.githubusercontent.com/125398461/229074810-599bd7f9-0bc1-44a9-b76e-90bf7e182314.png) English**](https://github.com/hiddify/hiddify-config/wiki/Guide-for-using-mode-Auto_CDN_IP-on-Hiddify)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hiddify/hiddify-config/wiki/%D9%87%D9%85%D9%87-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%E2%80%8C%D9%87%D8%A7-%D9%88-%D9%88%DB%8C%D8%AF%D8%A6%D9%88%D9%87%D8%A7"><img width="100" src="https://github.com/hiddify/hiddify-config/assets/125398461/3704cd84-eee6-4c45-abe7-3c02936bbebb" /></a>
 
+
+
+
 <div align=center dir="rtl">
 
 قبل از شروع میتونید ویدئوی زیر را مشاهده کنید تا با کلیت کار آشنا بشید.
 
 <a href="https://www.youtube.com/watch?v=kz_Ih__jS9c">
-  <img width="50%" src="https://user-images.githubusercontent.com/125398461/229042162-9182ca9b-f69c-44ea-ac50-af817f0af88c.png" />
+  <img width="50%" src="https://github.com/hiddify/hiddify-config/assets/125398461/243aae94-4f25-41f5-a54e-9e258c1fc277" />
 </a>
 
 
