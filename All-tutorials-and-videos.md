@@ -3,19 +3,27 @@
 [**![Lang_Farsi](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) &nbsp;فارسی**](https://github.com/hiddify/hiddify-config/wiki/%D9%87%D9%85%D9%87-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%E2%80%8C%D9%87%D8%A7-%D9%88-%D9%88%DB%8C%D8%AF%D8%A6%D9%88%D9%87%D8%A7)
 </div>
 
-# All tutorials and videos
+# 🎥 📚 All tutorials and videos
 
 In this article, we put categorized content of Wiki. In addition to the fact that you can click on the links of each article to reach the full explanations of them, there are some videos for these items on our [YouTube channel](https://www.youtube.com/@hiddify/videos), which you can view by clicking on the images below.
 
-Quick access to each section
-- [Contents related to installation and setup](#contents-related-to-installation-and-setup)
-- [Contents related to configuration and advanced settings](#contents-related-to-configuration-and-advanced-settings)
-- [Contents related to domain and CDN](#contents-related-to-domain-and-cdn)
-- [Contents related to Workers and Tunneling](#contents-related-to-workers-and-tunneling)
-- [Contents related to check and troubleshooting](#contents-related-to-check-and-troubleshooting)
-- [Contents related to client software on Android](#contents-related-to-client-software-on-android)
-- [Contents related to client software on iOS](#contents-related-to-client-software-on-ios)
-- [Contents related to client software on Desktop](#contents-related-to-client-software-on-desktop)
+**⚡️ Quick access to each section**
+
+📚 [Contents related to installation and setup](#📚-contents-related-to-installation-and-setup)
+
+📚 [Contents related to configuration and advanced settings](#contents-related-to-configuration-and-advanced-settings)
+
+📚 [Contents related to domain and CDN](#contents-related-to-domain-and-cdn)
+
+📚 [Contents related to Workers and Tunneling](#contents-related-to-workers-and-tunneling)
+
+📚 [Contents related to check and troubleshooting](#contents-related-to-check-and-troubleshooting)
+
+📚 [Contents related to client software on Android](#contents-related-to-client-software-on-android)
+
+📚 [Contents related to client software on iOS](#contents-related-to-client-software-on-ios)
+
+📚 [Contents related to client software on Desktop](#contents-related-to-client-software-on-desktop)
 
 <br>
 <br>
@@ -26,23 +34,32 @@ Quick access to each section
 
 <div dir="ltr" align=center>
 
-## Contents related to installation and setup
+## 📚 Contents related to installation and setup
 </div>
 
-- [Installation prerequisites](https://github.com/hiddify/hiddify-config/wiki/Installation-prerequisites)
-- [How to connect and troubleshoot via SSH](https://github.com/hiddify/hiddify-config/wiki/How-to-connect-to-server-via-SSH)
-- [Quick installation on Hetzner Servers](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Hetzner-Servers)
-- [Quick installation on Vultr Servers](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Vultr-Servers)
-- [Quick installation on Oracle Cloud](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Oracle-Cloud)
-- [Quick installation on OVH Servers](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-OVH-Servers)
-- [Quick installation on Microsoft Azure](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Microsoft-Azure)
-- [Cloud-init installation](https://github.com/hiddify/hiddify-config/wiki/Cloud-init-installation)
-- [Quick installation on Ubuntu](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-On-Ubuntu)
-- [Guide for setting up the domain and finalizing the installation](https://github.com/hiddify/hiddify-config/wiki/Guide-for-Setting-up-the-Domain-and-Finalizing-the-Installation)
+📔 [Installation prerequisites](https://github.com/hiddify/hiddify-config/wiki/Installation-prerequisites)
+
+📔 [How to connect and troubleshoot via SSH](https://github.com/hiddify/hiddify-config/wiki/How-to-connect-to-server-via-SSH)
+
+📔 [Quick installation on Hetzner Servers](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Hetzner-Servers)
+
+📔 [Quick installation on Vultr Servers](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Vultr-Servers)
+
+📔 [Quick installation on Oracle Cloud](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Oracle-Cloud)
+
+📔 [Quick installation on OVH Servers](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-OVH-Servers)
+
+📔 [Quick installation on Microsoft Azure](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Microsoft-Azure)
+
+📔 [Cloud-init installation](https://github.com/hiddify/hiddify-config/wiki/Cloud-init-installation)
+
+📔 [Quick installation on Ubuntu](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-On-Ubuntu)
+
+📔 [Guide for setting up the domain and finalizing the installation](https://github.com/hiddify/hiddify-config/wiki/Guide-for-Setting-up-the-Domain-and-Finalizing-the-Installation)
 
 <div dir="ltr" align="center">
 
-**Videos related to installation and setup**
+**🎥 Videos related to installation and setup**
 
 
 <a href="https://www.youtube.com/watch?v=XSwCE35lqmU"><img width="32%" src="https://user-images.githubusercontent.com/125398461/235692699-f6cc0a42-3742-44d5-be20-783ac0e50fdc.png" /></a>
@@ -59,19 +76,23 @@ Quick access to each section
 
 <div dir="ltr" align=center>
 
-## Contents related to configuration and advanced settings
+## 📚 Contents related to configuration and advanced settings
 </div>
 
-- [How to configure Hiddify panel properly](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly)
-- [How to connect and troubleshoot via SSH](https://github.com/hiddify/hiddify-config/wiki/How-to-connect-and-troubleshoot-via-SSH)
-- [How to use Reality on Hiddify](https://github.com/hiddify/hiddify-config/wiki/How-to-use-Reality-on-Hiddify)
-- [How to set up and use Telegram bot in the Hiddify panel](https://github.com/hiddify/hiddify-config/wiki/How-to-set-up-and-use-Telegram-bot-in-the-Hddify-panel)
-- [How to activate WARP on the Hiddify panel](https://github.com/hiddify/hiddify-config/wiki/How-to-activate-WARP-on-the-Hiddify-panel)
+📔 [How to configure Hiddify panel properly](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly)
+
+📔 [How to connect and troubleshoot via SSH](https://github.com/hiddify/hiddify-config/wiki/How-to-connect-and-troubleshoot-via-SSH)
+
+📔 [How to use Reality on Hiddify](https://github.com/hiddify/hiddify-config/wiki/How-to-use-Reality-on-Hiddify)
+
+📔 [How to set up and use Telegram bot in the Hiddify panel](https://github.com/hiddify/hiddify-config/wiki/How-to-set-up-and-use-Telegram-bot-in-the-Hddify-panel)
+
+📔 [How to activate WARP on the Hiddify panel](https://github.com/hiddify/hiddify-config/wiki/How-to-activate-WARP-on-the-Hiddify-panel)
 
 
 <div dir="ltr" align="center">
 
-**Videos related to configuration and advanced settings**
+**🎥 Videos related to configuration and advanced settings**
 
 
 <a href="https://www.youtube.com/watch?v=nOe7FhajX3g"><img width="32%" src="https://github.com/hiddify/hiddify-config/assets/125398461/661b1164-aca9-4ef6-bce8-781ab2970040" /></a>
@@ -87,16 +108,22 @@ Quick access to each section
 <br>
 <div dir="ltr" align=center>
 
-## Contents related to domain and CDN
+## 📚 Contents related to domain and CDN
 </div>
 
-- [Domain types and how to register them](https://github.com/hiddify/hiddify-config/wiki/Domain-types-and-how-to-register-them)
-- [Guide for finding a clean Cloudflare IP](https://github.com/hiddify/hiddify-config/wiki/Guide-for-finding-a-clean-Cloudflare-IP)
-- [Tutorial on automating subdomain registration on Cloudflare](https://github.com/hiddify/hiddify-config/wiki/Get-Cloudflare-API)
-- [Tutorial for Automatic CDN IP configuration](https://github.com/hiddify/hiddify-config/wiki/Guide-for-using-mode-Auto_CDN_IP-on-Hiddify)
-- [Tutorial for using wildcard subdomains on Hiddify](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-using-wildcard-subdomains-on-Hiddify)
-- [How to use GCore CDN on Cloudflare registered domain](https://github.com/hiddify/hiddify-config/wiki/How-to-use-GCore-CDN-on-Cloudflare-registered-domain)
-- [Guide for domain fronting](https://github.com/hiddify/hiddify-config/wiki/Guide-for-domain-fronting)
+📔 [Domain types and how to register them](https://github.com/hiddify/hiddify-config/wiki/Domain-types-and-how-to-register-them)
+
+📔 [Guide for finding a clean Cloudflare IP](https://github.com/hiddify/hiddify-config/wiki/Guide-for-finding-a-clean-Cloudflare-IP)
+
+📔 [Tutorial on automating subdomain registration on Cloudflare](https://github.com/hiddify/hiddify-config/wiki/Get-Cloudflare-API)
+
+📔 [Tutorial for Automatic CDN IP configuration](https://github.com/hiddify/hiddify-config/wiki/Guide-for-using-mode-Auto_CDN_IP-on-Hiddify)
+
+📔 [Tutorial for using wildcard subdomains on Hiddify](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-using-wildcard-subdomains-on-Hiddify)
+
+📔 [How to use GCore CDN on Cloudflare registered domain](https://github.com/hiddify/hiddify-config/wiki/How-to-use-GCore-CDN-on-Cloudflare-registered-domain)
+
+📔 [Guide for domain fronting](https://github.com/hiddify/hiddify-config/wiki/Guide-for-domain-fronting)
 
 <br>
 <br>
@@ -106,13 +133,16 @@ Quick access to each section
 <br>
 <div dir="ltr" align=center>
 
-## Contents related to Workers and Tunneling
+## 📚 Contents related to Workers and Tunneling
 </div>
 
-- [How to setup and use Cloudflare workers](https://github.com/hiddify/hiddify-config/wiki/How-to-set-up-and-use-Cloudflare-workers)
-- [How to setup relay server using IP Tables tunneling](https://github-com.translate.goog/hiddify/hiddify-config/discussions/129?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
-- [How to setup relay server using GOST](https://github-com.translate.goog/hiddify/hiddify-config/discussions/493?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
-- [How to setup relay server using WST](https://github-com.translate.goog/hiddify/hiddify-config/discussions/851?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+📔 [How to setup and use Cloudflare workers](https://github.com/hiddify/hiddify-config/wiki/How-to-set-up-and-use-Cloudflare-workers)
+
+📔 [How to setup relay server using IP Tables tunneling](https://github-com.translate.goog/hiddify/hiddify-config/discussions/129?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+
+📔 [How to setup relay server using GOST](https://github-com.translate.goog/hiddify/hiddify-config/discussions/493?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+
+📔 [How to setup relay server using WST](https://github-com.translate.goog/hiddify/hiddify-config/discussions/851?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
 <br>
 <br>
@@ -122,11 +152,12 @@ Quick access to each section
 <br>
 <div dir="ltr" align=center>
 
-## Contents related to check and troubleshooting
+## 📚 Contents related to check and troubleshooting
 </div>
 
-- [How to make sure the server's IP or domain is clean](https://github.com/hiddify/hiddify-config/wiki/How-to-make-sure-the-server's-IP-or-domain-is-clean)
-- [How to check DNS leakage and the way to solve it](https://github-com.translate.goog/hiddify/hiddify-config/discussions/859?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+📔 [How to make sure the server's IP or domain is clean](https://github.com/hiddify/hiddify-config/wiki/How-to-make-sure-the-server's-IP-or-domain-is-clean)
+
+📔 [How to check DNS leakage and the way to solve it](https://github-com.translate.goog/hiddify/hiddify-config/discussions/859?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
 
 <br>
@@ -137,17 +168,19 @@ Quick access to each section
 <br>
 <div dir="ltr" align=center>
 
-## Contents related to client software on Android
+## 📚 Contents related to client software on Android
 </div>
 
-- [Tutorial for HiddifyNG app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-HiddifyNG-app)
-- [Tutorial for HiddifyClashAndroid app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-HiddifyClashAndroid-app)
-- [Tutorial for V2rayNG app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-V2rayNG-app)
+📔 [Tutorial for HiddifyNG app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-HiddifyNG-app)
+
+📔 [Tutorial for HiddifyClashAndroid app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-HiddifyClashAndroid-app)
+
+📔 [Tutorial for V2rayNG app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-V2rayNG-app)
 
 
 <div dir="ltr" align="center">
 
-**Videos related to client software on Android**
+**🎥 Videos related to client software on Android**
 
 
 <a href="https://www.youtube.com/watch?v=hVcWJ8Qg1GQ"><img width="32%" src="https://user-images.githubusercontent.com/125398461/235705873-4f6730b7-a23a-4717-95c3-a5a667db1c59.png" /></a>
@@ -167,21 +200,25 @@ Quick access to each section
 <br>
 <br>
 
-## Contents related to client software on iOS
+## 📚 Contents related to client software on iOS
 </div>
 
-- [Tutorial for ShadowRocket app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-ShadowRocket-app)
-- [Tutorial for Stash app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-Stash-app)
-- [Tutorial for WingsX app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-WingsX-app)
-- [Tutorial for Fair VPN app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-Fair-VPN-app)
-- [Tutorial for V2Box app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-V2Box-app)
+📔 [Tutorial for ShadowRocket app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-ShadowRocket-app)
+
+📔 [Tutorial for Stash app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-Stash-app)
+
+📔 [Tutorial for WingsX app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-WingsX-app)
+
+📔 [Tutorial for Fair VPN app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-Fair-VPN-app)
+
+📔 [Tutorial for V2Box app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-V2Box-app)
 
 
 
 <div dir="ltr" align="center">
 
 <!--
-**Videos related to client software on iOS**
+**🎥 Videos related to client software on iOS**
 
 
 <a href="https://www.youtube.com/watch?v=hVcWJ8Qg1GQ"><img width="32%" src="https://user-images.githubusercontent.com/125398461/235705873-4f6730b7-a23a-4717-95c3-a5a667db1c59.png" /></a>
@@ -199,17 +236,18 @@ Quick access to each section
 <br>
 <br>
 
-## Contents related to client software on Desktop
+## 📚 Contents related to client software on Desktop
 </div>
 
-- [Tutorial for HiddifyN software](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-HiddifyN-software)
-- [Tutorial for HiddifyClashDesktop software](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-HiddifyClashDesktop-software)
+📔 [Tutorial for HiddifyN software](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-HiddifyN-software)
+
+📔 [Tutorial for HiddifyClashDesktop software](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-HiddifyClashDesktop-software)
 
 
 <div dir="ltr" align="center">
 
 <!--
-**Videos related to client software on Desktop**
+**🎥 Videos related to client software on Desktop**
 
 
 <a href="https://www.youtube.com/watch?v=hVcWJ8Qg1GQ"><img width="32%" src="https://user-images.githubusercontent.com/125398461/235705873-4f6730b7-a23a-4717-95c3-a5a667db1c59.png" /></a>
