@@ -153,13 +153,16 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 <br>
 <div dir="ltr" align=center>
 
-## 📚 Contents related to check and troubleshooting
+## 📚 Contents related to basic concepts and checking and troubleshooting
 </div>
 
 📔 [How to make sure the server's IP or domain is clean](https://github.com/hiddify/hiddify-config/wiki/How-to-make-sure-the-server's-IP-or-domain-is-clean)
 
 📔 [How to check DNS leakage and the way to solve it](https://github-com.translate.goog/hiddify/hiddify-config/discussions/859?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
+📔 [The correct format of admin link](https://github.com/hiddify/hiddify-config/wiki/The-correct-format-of-admin-link)
+
+📔 [Basic concepts related to the internet and  using proxies](https://github.com/hiddify/hiddify-config/wiki/Basic-Concepts)
 
 <br>
 <br>
