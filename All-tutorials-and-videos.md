@@ -17,7 +17,7 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📚 [Contents related to Workers and Tunneling](#-contents-related-to-workers-and-tunneling)
 
-📚 [Contents related to check and troubleshooting](#-contents-related-to-check-and-troubleshooting)
+📚 [Contents related to check and troubleshooting](#-contents-related-to-basic-concepts-and-checking-and-troubleshooting)
 
 📚 [Contents related to client software on Android](#-contents-related-to-client-software-on-android)
 
