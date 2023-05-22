@@ -52,10 +52,7 @@ packages:
 
 runcmd:
   - cd /opt
-  - git clone https://github.com/hiddify/hiddify-config/
-  - cd hiddify-config
-  - bash install.sh
-
+  - bash -c "$(curl -Lfo- https://raw.githubusercontent.com/hiddify/hiddify-config/main/common/download_install.sh)"
 final_message: "The system is finally up, after $UPTIME seconds"
 output: { all: "| tee -a /root/cloud-init-output.log" }
 
