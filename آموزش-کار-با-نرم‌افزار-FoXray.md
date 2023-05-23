@@ -85,6 +85,15 @@
 <img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/6851f393-45a1-4cdd-ab77-d09119a99476" />
 </div>
 
+## محدود کردن میزان استفاده از حافظه
+برای این کار در `Setting` در بخش `ToolBox` گزینه `Limit Memory Usage` را فعال کنید.
+
+<div align=center>
+
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/7f0f8830-5b95-4d1a-9afb-7337309238ff" />
+</div>
+
+
 
 ## اضافه کردن DNS
 * در صورت نیاز به اضافه کردن DNS به برنامه در منوی FoXray بخش DNS را انتخاب نمایید.
