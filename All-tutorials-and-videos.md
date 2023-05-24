@@ -146,6 +146,17 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 📔 [How to setup relay server using WST](https://github-com.translate.goog/hiddify/hiddify-config/discussions/851?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
 <br>
+<div dir="ltr" align="center">
+
+**🎥 Videos related to Workers and Tunneling**
+
+
+<a href="https://www.youtube.com/watch?v=ea5C93ynkUs"><img width="32%" src="https://github.com/hiddify/hiddify-config/assets/125398461/97edd880-89ee-4f57-9f8d-d9398a3ceea0" /></a>
+
+
+
+</div>
+<br>
 <br>
 
 ***
