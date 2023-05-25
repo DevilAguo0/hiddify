@@ -91,7 +91,7 @@
 <img src="https://github.com/hiddify/hiddify-config/assets/125398461/d04a7717-0072-4912-9154-2633ab4dddbd" />
 </div>
 
-#### ۱. Settings
+<details><summary><h4>۱. Settings</h4></summary>
 تنظیمات پیشرفته برنامه در این قسمت قرار دارد.
 
 <div align=center>
@@ -161,11 +161,26 @@
 در این بخش می‌توانید مسیریابی مربوط به پروفایل ایمپورت شده به برنامه را مشاهده کنید و در صورت نیاز در آن تغییر اعمال نمایید. اما پیشنهاد می‌شود در صورت امکان به آن دست نزنید.
 
 
+<div align=center>
+
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/b87ec29b-ae7d-4e63-8a7f-d33b53a5c3f7" />
+</div>
+
 
 ###### DNS setting
 در این بخش می‌توانید DNSهای مورد نظر خود را وارد نرم‌افزار کنید.
 
 
+<div align=center>
+
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/d7ca0641-bab2-450b-9510-d21dfcb8e75d" />
+</div>
+
+
+###### Reboot as administrator
+با این گزینه می‌توانید برنامه را ریستارت کرده و با دسترسی ادمین باز نمایید که این حالت برای استفاده از حالت Tun مورد نیاز است.
+
+</details>
 
 #### ۲. Reload
 این دکمه برای reload کردن هسته برنامه استفاده می‌شود.
