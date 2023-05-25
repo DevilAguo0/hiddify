@@ -194,8 +194,6 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [Tutorial for V2rayNG app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-V2rayNG-app)
 
-📔 [Tutorial for Clash for Android app](https://github.com/hiddify/hiddify-config/wiki/Training-for-Clash-for-Android-app)
-
 <br>
 <div dir="ltr" align="center">
 
