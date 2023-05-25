@@ -14,7 +14,10 @@
 ## دانلود نرم‌افزار 
 برای دانلود برنامه در پنل کاربری خود، تب مربوط به دسکتاپ را باز کنید و بخش مربوط به HiddifyN را باز کنید و سپس روی آیکون ویندوز (دکمه شماره ۳) بزنید تا برنامه دانلود شود.
 
-![download](https://github.com/hiddify/hiddify-config/assets/125398461/86bedd2c-8186-445e-8860-7d1138f081e4)
+<div align=center>
+
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/86bedd2c-8186-445e-8860-7d1138f081e4" />
+</div>
 
 ## نصب برنامه
 نصب برنامه خیلی ساده است. کافیست ابتدا برنامه [Runtime 6](https://www.google.com/search?q=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF+%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87+Microsoft+.Net+runtime+6&oq=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF+%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87+Microsoft+.Net+runtime) را نصب کنید و سپس فایل دانلود شده را اکسترکت کرده و در پوشه مربوط به آن فایل HiddifyN را اجرا نمایید.
@@ -22,13 +25,19 @@
 ## اضافه کردن پروفایل به برنامه
 در پنل کاربری مجددا به بخش HiddifyN بروید و روی `کلیک برای افزودن کانفیگ` بزنید تا کانفیگ‌ها به صورت خودکار به برنامه اضافه شوند.
 
-![add](https://github.com/hiddify/hiddify-config/assets/125398461/502ebb27-b314-411a-9bdc-976c68542eea)
+<div align=center>
+
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/502ebb27-b314-411a-9bdc-976c68542eea" />
+</div>
 
 
 ## حالت‌های پروکسی
 یکی از مهم‌ترین بخش‌های این اپلیکیشن، حالت‌های پروکسی است که در ادامه درباره هر قسمت آن توضیح داده خواهد شد.
 
-![Proxy_mode](https://github.com/hiddify/hiddify-config/assets/125398461/6d50dc2b-f0a1-43a3-87cd-a65de0c9991e)
+<div align=center>
+
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/6d50dc2b-f0a1-43a3-87cd-a65de0c9991e" />
+</div>
 
 #### Auto/Smart
 به صورت خودکار به کانفیگی با بیشترین سرعت (کمترین پینگ) متصل می‌شود.
@@ -42,35 +51,53 @@
 ##  تغییر زبان نرم‌افزار
 برای تغییر زبان نرم‌افزار روی منوی مشخص شده در تصویر زیر بزنید و زبان را انتخاب کنید. سپس یک بار برنامه را ببندید و مجددا باز کنید.
 
-![lang](https://github.com/hiddify/hiddify-config/assets/125398461/42a4aecf-1cd0-4d20-86cc-e245828a0d93)
+<div align=center>
+
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/42a4aecf-1cd0-4d20-86cc-e245828a0d93" />
+</div>
 
 ## تغییر تم نرم‌افزار
 برای تغییر تم نرم‌افزار روی دکمه مشخص شده کلیک کنید.
 
-![theme](https://github.com/hiddify/hiddify-config/assets/125398461/b4318d50-8ee1-4724-b2da-0112530dd76d)
+<div align=center>
+
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/b4318d50-8ee1-4724-b2da-0112530dd76d" />
+</div>
 
 
 ## اطلاعات پروفایل کاربری
 در بخش نمایش داده در زیر اطلاعات مربوط به پروفایل کاربری ایمپورت شده از جمله زمان انقضا و میزان حجم کلی و همینطور حجم مصرف شده نمایش داده می‌شود.
 
-![usage](https://github.com/hiddify/hiddify-config/assets/125398461/94dac157-fd58-4c0c-8df7-3c797b75ae80)
+<div align=center>
+
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/94dac157-fd58-4c0c-8df7-3c797b75ae80" />
+</div>
 
 در این قسمت می‌توانید پروفایل‌های جدید را به صورت دستی نیز اضافه نمایید. کافیست روی `Import` بزنید و لینک کپی شده از پنل را کاربری را اضافه نمایید.
 
 ## اتصال به فیلترشکن
 برای اتصال به فیلترشکن باید روی دکمه دایره‌ای وسط کلیک کنید. نرم‌افزار بر اساس حالت پروکسی انتخاب شده به کانفیگ‌ها متصل می‌گردد همچنین پینگ مربوط به کانفیگ در کنار این دکمه نمایش داده می‌شود.
 
-![Connection](https://github.com/hiddify/hiddify-config/assets/125398461/a994a47b-6751-4d6d-9302-684ea7e35680)
+<div align=center>
+
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/a994a47b-6751-4d6d-9302-684ea7e35680" />
+</div>
 
 ## تنظیمات پیشرفته برنامه
 این بخش باز زدن دکمه Manual در قسمت حالت پروکسی باز می‌شود.
 
-![advance settings](https://github.com/hiddify/hiddify-config/assets/125398461/d04a7717-0072-4912-9154-2633ab4dddbd)
+<div align=center>
+
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/d04a7717-0072-4912-9154-2633ab4dddbd" />
+</div>
 
 #### ۱. Settings
 تنظیمات پیشرفته برنامه در این قسمت قرار دارد.
 
-![settings](https://github.com/hiddify/hiddify-config/assets/125398461/0f546c7b-3371-4915-8031-088c89c69e38)
+<div align=center>
+
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/0f546c7b-3371-4915-8031-088c89c69e38" />
+</div>
 
 ###### Option setting
 در این زیربخش تنظیمات اختیاری برنامه قرار دارد که خود شامل چند بخش متفاوت است.
@@ -78,31 +105,57 @@
 * تنظیمات پایه
 که برای استفاده روزمره چندان نیاز به تغییر در این قسمت نیست. تنها آپشن پرکاربرد شاید پورت استفاده شده برای برنامه باشد که در این بخش قابل تغییر است.
 
-![basic](https://github.com/hiddify/hiddify-config/assets/125398461/1ca46870-cc5e-4102-9a76-8057fa086d73)
+<div align=center>
+
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/1ca46870-cc5e-4102-9a76-8057fa086d73" />
+</div>
 
 اگر نیاز به استفاده از پروکسی دارید می‌توانید پروکسی socks5  را روی این پورت تنظیم نمایید.
 
 * تنظیمات V2rayN
 در این بخش تنظیمات دیفالت برنامه V2rayN که پایه اصلی برنامه HIddifyN است، قرار دارد.
 
-![v2rayN_Settingsـ](https://github.com/hiddify/hiddify-config/assets/125398461/462a56f3-6d74-44ff-9301-226b22f51200)
-  * که Start on boot برنامه را با بالا آمدن سیستم اجرا می‌کند.
-  * Auto hide startup برنامه اجرا شده در ابتدای کار را به صورت خودکار مخفی می‌کند و فقط آیکون برنامه در Notification Area قابل مشاهده است.
-  * Check for pre releade update آپدیت‌های غیر رسمی را به برنامه می‌دهد.
-  * همچنین سایر در تنظیمات که در تصویر زیر می‌بینید که البته برای استفاده روزمره مورد استفاده قرار نمی‌گیرند.
-![v2rayN_settings_2](https://github.com/hiddify/hiddify-config/assets/125398461/00b5c622-ab35-42e3-b030-5578458ad0cd)
+<div align=center>
+
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/462a56f3-6d74-44ff-9301-226b22f51200" />
+</div>
+
+> * که Start on boot برنامه را با بالا آمدن سیستم اجرا می‌کند.
+> * Auto hide startup برنامه اجرا شده در ابتدای کار را به صورت خودکار مخفی می‌کند و فقط آیکون برنامه در Notification Area قابل مشاهده است.
+> * Check for pre releade update آپدیت‌های غیر رسمی را به برنامه می‌دهد.
+> * همچنین سایر در تنظیمات که در تصویر زیر می‌بینید که البته برای استفاده روزمره مورد استفاده قرار نمی‌گیرند.
+
+<div align=center>
+
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/00b5c622-ab35-42e3-b030-5578458ad0cd" />
+</div>
 
 
 * تنظیمات سیستم پروکسی
 این بخش تنظیمات مربوط به سیستم پروکسی را نشان می‌دهد.
 
 
-![sys_proxy](https://github.com/hiddify/hiddify-config/assets/125398461/69b71ac5-dae9-4dca-a937-3cd68719c84c)
+<div align=center>
+
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/69b71ac5-dae9-4dca-a937-3cd68719c84c" />
+</div>
+
+* تنظیمات حالت Tun
+این قسمت شامل تنظیمات حالت Tun است که برای استفاده روزمره نیاز به تغییر ندارد.
+
+<div align=center>
+
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/c17b612a-eff6-4d9c-bb86-2183b5c5756f" />
+</div>
+
 
 * تنظیمات هسته
 در این بخش می‌توانید برای پروتکل‌های مختلف هسته‌ها را تنظیم نمایید که دیفالت آن Xray است.
 
-![Core](https://github.com/hiddify/hiddify-config/assets/125398461/602fa4bf-1d18-4855-9eb9-d212c4fbf223)
+<div align=center>
+
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/602fa4bf-1d18-4855-9eb9-d212c4fbf223" />
+</div>
 
 ###### Routing setting
 در این بخش می‌توانید مسیریابی مربوط به پروفایل ایمپورت شده به برنامه را مشاهده کنید و در صورت نیاز در آن تغییر اعمال نمایید. اما پیشنهاد می‌شود در صورت امکان به آن دست نزنید.
@@ -129,8 +182,11 @@
 #### ۶. Subs group
 این بخش مربوط به لینک‌های سابسکریپشن می‌باشد. با زدن این دکمه می‌توانید لینک‌های اضافه شده به برنامه را مشاهده کنید و آن‌ها را ویرایش نمایید.
 
+<div align=center>
 
-![Subscription](https://github.com/hiddify/hiddify-config/assets/125398461/6e244634-0a3f-4c89-b2fb-8525f79b0bae)
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/6e244634-0a3f-4c89-b2fb-8525f79b0bae" />
+</div>
+
 
 #### ۷. کانفیگ‌های ایمپورت شده به برنامه
 در این بخش کانفیگ‌های ایمپورت شده به برنامه مشاهده می‌شود.
