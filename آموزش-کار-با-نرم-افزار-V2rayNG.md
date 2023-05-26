@@ -27,21 +27,76 @@
 
 * حالا  وارد برنامه V2rayNG شوید و از منوی سه خط، گزینه Subscription group setting را انتخاب کنید.
 
+
+<div align=center>
+
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/6363d390-30c9-4db9-a64d-15605ba11824" />
+</div>
+
+
 * در صفحه باز شده، روی `+` بزنید.
+
+
+<div align=center>
+
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/f3312cb2-41fc-4b98-aaa8-0d9639bb7e03" />
+</div>
+
+
 
 * در صفحه بعد برای remark یک اسم دلخواده بدهید و لینک کپی شده را در فیلد URL قرار دهید و ذخیره کنید.
 
+
+
+<div align=center>
+
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/32d01572-7db8-40f1-b577-5785bd9abbce" />
+</div>
+
 * سپس روی منوی سه نقطه بزنید و گزینه `Update subscription` را انتخاب کنید تا کانفیگ‌های موجود در لینک سابسکریپشن در برنامه بارگذاری شوند.
 
-## تست کانفیگ‌ها
-برای این کار وارد منوی سه نقطه شوید و گزینه `Real delay all configuration` را انتخاب نمایید تا از همه کانفیگ‌ها تست پینگ گرفته شود.
 
-نتیجه تست در کنار هر کانفیگ نمایش داده می‌شود.
+<div align=center>
+
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/64a1f43c-b8fc-4f46-8206-1357ad5394db" />
+</div>
+
+
+## تست کانفیگ‌ها
+* برای این کار وارد منوی سه نقطه شوید و گزینه `Real delay all configuration` را انتخاب نمایید تا از همه کانفیگ‌ها تست پینگ گرفته شود.
+
+
+<div align=center>
+
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/17406ecc-e22b-4acc-9fdc-ac2c182741e4" />
+</div>
+
+
+* نتیجه تست در کنار هر کانفیگ نمایش داده می‌شود.
+
+
+<div align=center>
+
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/5ac550c5-6387-4f1c-841c-935fc58f65cd" />
+</div>
+
 
 ## اتصال به فیلترشکن
 برای اتصال به فیلترشکن دکمه Connect را در پایین بزنید تا ارتباط برقرار شود.
 
+
+<div align=center>
+
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/11b6f98b-406a-4007-8125-11a8128a2187" />
+</div>
+
 ## آپدیت کردن سابسکریپشن
 ابتدا اتصال خود از فیلترشکن را قطع نمایید که برای این کار روی دکمه اتصال بزنید تا ارتباط قطع شود.
+
+<div align=center>
+
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/9fb9c6d8-852c-48fc-9c18-8fd59ca899af" />
+</div>
+
 
 سپس از منوی سه نقطه روی گزینه `Update subscription` بزنید تا لینک سابسکریپشن با آخرین تنظیمات روی پنل بروزرسانی شود.
