@@ -126,6 +126,8 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [Guide for domain fronting](https://github.com/hiddify/hiddify-config/wiki/Guide-for-domain-fronting)
 
+📔 [Using PHP site for subscription link](https://github-com.translate.goog/hiddify/hiddify-config/discussions/689?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+
 <br>
 <br>
 
