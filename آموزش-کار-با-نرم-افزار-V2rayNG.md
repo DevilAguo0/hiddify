@@ -39,7 +39,7 @@
 
 <div align=center>
 
-<img src="https://github.com/hiddify/hiddify-config/assets/125398461/f3312cb2-41fc-4b98-aaa8-0d9639bb7e03" />
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/98439a04-bce3-4d21-af7b-d0aae957f14a" />
 </div>
 
 
@@ -50,7 +50,7 @@
 
 <div align=center>
 
-<img src="https://github.com/hiddify/hiddify-config/assets/125398461/32d01572-7db8-40f1-b577-5785bd9abbce" />
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/572e8384-9284-4801-a631-0621718393c9" />
 </div>
 
 * سپس روی منوی سه نقطه بزنید و گزینه `Update subscription` را انتخاب کنید تا کانفیگ‌های موجود در لینک سابسکریپشن در برنامه بارگذاری شوند.
