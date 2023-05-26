@@ -33,6 +33,7 @@ We need your collaboration in order to develop this project. If you are speciali
 * Media production &nbsp;&nbsp;&nbsp;&nbsp; تولید محتوا
 * Python developing &nbsp;&nbsp;&nbsp;&nbsp; برنامه‌نویسی پایتون 
 * Kotlin developing &nbsp;&nbsp;&nbsp;&nbsp; برنامه‌نویسی کاتلین
+* Flutter developing &nbsp;&nbsp;&nbsp;&nbsp; برنامه‌نویسی فلاتر
 
 
 <div align=center>
