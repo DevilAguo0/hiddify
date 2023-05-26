@@ -3,7 +3,7 @@
 <div dir="rtl" markdown="1">
 
 # آموزش کار با نرم افزار V2rayNG
-این برنامه یک اپ خوب برای اتصال به کانفیگ‌های مبتنی بر Xray می‌باشد و اپ جایگزین [HiddifyNG](https://github.com/hiddify/hiddify-config/wiki/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-HiddifyNG) می‌باشد.
+این برنامه یک اپ خوب برای اتصال به کانفیگ‌های مبتنی بر Xray می‌باشد و جایگزین اپ [HiddifyNG](https://github.com/hiddify/hiddify-config/wiki/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-HiddifyNG) می‌باشد.
 
 ## دانلود نرم‌افزار
 برای این کار در پنل کاربری خود وارد بخش HiddifyNG شوید و سپس نرم‌افزار جایگزین V2rayNG را باز کنید و روی `دانلود مستقیم` بزنید تا برنامه دانلود شود.
