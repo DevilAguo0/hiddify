@@ -28,10 +28,24 @@
 ## دانلود و نصب نرم‌افزار
 در پنل کاربری خود وارد تب اندروید شوید و بخش مربوط به `HiddifyNG` را باز کنید.
 
+
+<div align=center>
+
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/7cf32479-99d4-4a16-90e9-d3bf0998866d" />
+</div>
+
+
 روی `دانلود مستقیم` بزنید تا برنامه دانلود شود.
 
 همچنین می‌توانید برنامه را از [گیتهاب](https://github.com/hiddify/HiddifyNG/releases) و از [گوگل‌پلی](https://play.google.com/store/apps/details?id=ang.hiddify.com) به صورت مستقیم دانلود و نصب کنید.
 
 ## افزودن کانفیگ
 برای این کار در همان بخش مربوط به برنامه `HiddifyNG` روی `کلیک برای افزودن کانفیک` بزنید تا کانفیگ به برنامه اضافه گردد.
+
+<div align=center>
+
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/7bbdb8e3-2520-4764-9a27-b53f67c7cd49" />
+</div>
+
+
 
