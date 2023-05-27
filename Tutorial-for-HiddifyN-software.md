@@ -9,13 +9,21 @@ This software is developed based on Xray and has many features that will be revi
 
 ## Software download
 To download the program in your user panel, open the desktop tab and open the section related to HiddifyN and then click on the Windows icon (button number 3) to download the program.
+<div align=center>
 
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/d3036c0a-2bbd-4e71-a636-06767eb5da45" />
+</div>
+
+<div align=center>
 
 ## Software installation
 Installing the program is very simple. Just install the Runtime 6 program first and then extract the downloaded file and run the HiddifyN file in the corresponding folder.
 
 ## Add a profile to the app
 In the user panel, go to the HiddifyN section again and `Click to import` so that the configurations are automatically added to the program.
+
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/38bb54a9-bdab-45ba-bf0c-cfe1e5592dd9" />
+</div>
 
 ## Proxy modes
 One of the most important parts of this application is the proxy modes, which will be explained about each part below.
