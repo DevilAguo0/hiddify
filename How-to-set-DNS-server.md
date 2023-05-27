@@ -33,7 +33,7 @@ To do this, go to the panel settings and in the general settings section, put th
 The panel has automatically set the Cloudflare server for you, and of course, it has also put suggestions at the bottom that you can apply if needed.
 
 ## Setting DNS server via SSH
-If for any reason you wanted to use SSH to do this setup, SSH into your server and then press `ctrl+c` to exit the Hiddify menu.
+If for any reason you wanted to use SSH to do this setup, [connect to your server via SSH](https://github.com/hiddify/hiddify-config/wiki/How-to-connect-to-server-via-SSH) and then press `ctrl+c` to exit the Hiddify menu.
 * In the terminal environment, type this command to open the DNS server settings with the nano text editor.
 
 ```
