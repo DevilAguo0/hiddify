@@ -13,6 +13,10 @@ In the picture below, you can see that the request to open `www.bbc.com` is filt
 
 Now, if this request is sent in several pieces, it can bypass this system and after passing through the filtering system, these pieces will join each other on the server.
 
+<div align=center>
+
+<img width=70% src="https://github.com/hiddify/hiddify-config/assets/125398461/0fed04dd-7aaa-4eea-87eb-f783173f766d" />
+</div>
 
 
 ## Different fragment modes
