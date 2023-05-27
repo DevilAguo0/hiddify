@@ -15,7 +15,7 @@ To download the program in your user panel, open the desktop tab and open the se
 <img src="https://github.com/hiddify/hiddify-config/assets/125398461/d3036c0a-2bbd-4e71-a636-06767eb5da45" />
 </div>
 
-<div align=center>
+
 
 ## Software installation
 Installing the program is very simple. Just install the Runtime 6 program first and then extract the downloaded file and run the HiddifyN file in the corresponding folder.
