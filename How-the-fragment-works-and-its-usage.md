@@ -4,10 +4,11 @@
 </div>
 
 
-# What is the fragment and how does it work?
-Normally, when you want to send a request to open sites and apps to the Internet, sni may be detected by the filtering system. sni or server name is actually the main destination of the sent packets that we try to keep hidden from the filtering system with different protocols. But many times it can be detected for various reasons, including the use of weak SNI protocols.
 
-Now the fragment breaks the sent packets into pieces. In this case, sni is sent in several pieces and thus cannot be detected by the filtering system. And
+# What is the fragment and how does it work?
+Normally, when you want to send a request to open sites and apps to the Internet, SNI may be detected by the filtering system. SNI or server name is actually the main destination of the sent packets that we try to keep hidden from the filtering system with different protocols. But many times it can be detected for various reasons, including the use of weak SNI protocols.
+
+Now the fragment breaks the sent packets into pieces. In this case, SNI is sent in several pieces and thus cannot be detected by the filtering system. And
 
 In the picture below, you can see that the request to open `www.bbc.com` is filtered, and if this request is sent normally, the desired page will probably be blocked by the filtering system and a fake page will be opened for you.
 
@@ -15,7 +16,7 @@ Now, if this request is sent in several pieces, it can bypass this system and af
 
 <div align=center>
 
-<img width=70% src="https://github.com/hiddify/hiddify-config/assets/125398461/0fed04dd-7aaa-4eea-87eb-f783173f766d" />
+<img width=70% src="https://github.com/hiddify/hiddify-config/assets/125398461/de4c0b72-cf9b-42a6-a8ea-63990b7f7ddb" />
 </div>
 
 
