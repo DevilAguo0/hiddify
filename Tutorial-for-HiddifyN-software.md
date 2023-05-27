@@ -20,14 +20,48 @@ In the user panel, go to the HiddifyN section again and `Click to import` so tha
 ## Proxy modes
 One of the most important parts of this application is the proxy modes, which will be explained about each part below.
 
-### Auto/Smart
+#### Auto/Smart
 It will automatically connect to the configuration with the highest speed (lowest ping).
 
-### Load-Balance
+#### Load-Balance
 It connects to several configs at the same time and traffic is distributed between them. This mode is very useful when you have several configurations with dirty IP, by spreading the load on several configurations at the same time, an acceptable speed is obtained.
 
-### Manual
+#### Manual
 It is used to set the configs manually. By clicking on it, the advanced settings of the program will be returned, which will be [explained](#-Advanced-settings) further.
 
+dgn
+gfh
+gfgf
+jhghg
+kjh
+gjk
+hkj
+hg
+k
+hgh
 
+jg
+k
+jghj
+k
+jk
+jh
+kjh
+k
+jf
+kjh
+kjhl
+jh
+lj
+
+jhl
+g
+l
+h
+lg
+
+l
+gl
+h
+k
 ## Advanced settings
