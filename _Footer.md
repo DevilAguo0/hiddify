@@ -21,7 +21,7 @@ We also need financial support for our services. All of our activities are done 
 </br>
 
 <div align=center>
-<h2> Collaboration and Contact Information &nbsp;&nbsp;&nbsp;&nbsp; راه های همکاری و ارتباط با ما </h2>
+<h2> Collaboration and Contact Information &nbsp;&nbsp;&nbsp;&nbsp; راه‌های همکاری و ارتباط با ما </h2>
 </div>
 
 We need your collaboration in order to develop this project. If you are specialists in these areas, please do not hesitate to contact us.
