@@ -23,7 +23,7 @@ The fragment is considered based on the default in the config.
 It splits the packets into two pieces and sends them.
 
 #### Random mode
-It transforms the packets into random chunks i.e. the packets are divided into very small chunks and then sends them.
+It transforms the packets into random chunks,that is, the packets are divided into very small pieces and then sends them.
 
 
 ## How to use fragment
