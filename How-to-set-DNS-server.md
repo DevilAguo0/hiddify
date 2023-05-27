@@ -24,7 +24,10 @@ These servers that serve globally belong to big companies including Google and C
 ## Setting DNS server through the Hiddify panel
 To do this, go to the panel settings and in the general settings section, put the desired server in the DNS server field. The work is done.
 
-![Screenshot_20230527_072423](https://github.com/hiddify/hiddify-config/assets/125398461/1145521a-cfd2-492b-99d0-83559c20ab15)
+<div align=center>
+
+<img src="https://github.com/hiddify/hiddify-config/assets/125398461/1145521a-cfd2-492b-99d0-83559c20ab15" />
+</div>
 
 
 The panel has automatically set the Cloudflare server for you, and of course, it has also put suggestions at the bottom that you can apply if needed.
