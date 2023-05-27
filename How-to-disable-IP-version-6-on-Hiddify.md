@@ -21,7 +21,7 @@ Just enter the general settings in the panel settings and activate the `IP versi
 </div>
 
 ## How to disable IP version 6 via SSH
-* If for any reason you need to turn off IP version 6 via SSH, SSH to your server, and exit the Hiddify menu with `ctrl+c`.
+* If for any reason you need to turn off IP version 6 via SSH, connect to your server via SSH, and exit the Hiddify menu with `ctrl+c`.
 
 * Open the system settings file with nano text editor.
 
