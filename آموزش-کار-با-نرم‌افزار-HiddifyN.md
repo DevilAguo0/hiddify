@@ -99,7 +99,7 @@
 <img src="https://github.com/hiddify/hiddify-config/assets/125398461/0f546c7b-3371-4915-8031-088c89c69e38" />
 </div>
 
-<details><sumary><h6>Option setting</h6></sumary>
+<details><summary><h6>Option setting</h6></summary>
 
 در این زیربخش تنظیمات اختیاری برنامه قرار دارد که خود شامل چند بخش متفاوت است.
 
