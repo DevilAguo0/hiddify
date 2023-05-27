@@ -39,8 +39,6 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [Installation prerequisites](https://github.com/hiddify/hiddify-config/wiki/Installation-prerequisites)
 
-📔 [How to connect and troubleshoot via SSH](https://github.com/hiddify/hiddify-config/wiki/How-to-connect-to-server-via-SSH)
-
 📔 [Quick installation on Hetzner Servers](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Hetzner-Servers)
 
 📔 [Quick installation on Vultr Servers](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Vultr-Servers)
