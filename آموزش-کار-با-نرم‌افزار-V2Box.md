@@ -37,7 +37,7 @@
 <img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/2629b6ad-cfcf-4252-846e-9e336493a259" />
 </div>
 
-* سپس Add Subscribe را بزنید تا کانفیگ‌ها به برنامه اضافه شوند.
+* سپس `Add Subscribe` را بزنید تا کانفیگ‌ها به برنامه اضافه شوند.
 
 <div align=center>
 
