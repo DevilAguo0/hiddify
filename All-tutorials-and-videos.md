@@ -90,6 +90,8 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [How to activate WARP on the Hiddify panel](https://github.com/hiddify/hiddify-config/wiki/How-to-activate-WARP-on-the-Hiddify-panel)
 
+📔 [How to backup and restore panel on Hiddify](https://github.com/hiddify/hiddify-config/wiki/How-to-backup-and-restore-panel-on-Hiddify)
+
 <br>
 <div dir="ltr" align="center">
 
@@ -186,6 +188,8 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 📔 [How the fragment works and its usage](https://github.com/hiddify/hiddify-config/wiki/How-the-fragment-works-and-its-usage)
 
 📔 [How to disable IP version 6 on Hiddify](https://github.com/hiddify/hiddify-config/wiki/How-to-disable-IP-version-6-on-Hiddify)
+
+📔 [How to transfer files between a server and a computer](https://github.com/hiddify/hiddify-config/wiki/How-to-transfer-files-between-a-server-and-a-computer)
 
 <br>
 <br>
