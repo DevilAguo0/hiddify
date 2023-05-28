@@ -159,6 +159,7 @@
 
 <img width=80% src="https://github.com/hiddify/hiddify-config/assets/125398461/1700bfe0-9a4e-4f4b-ae11-25654d29273b" />
 </div>
+
 ## Rules
 این منو مربوط به Ruleهای موجود در پروفایل ایمپورت شده است که می‌توان مشاهده کرد چه مواردی در این فایل تعیین شده است.
 
@@ -177,6 +178,7 @@
 
 <img width=80% src="https://github.com/hiddify/hiddify-config/assets/125398461/deed841f-24f9-452f-b9fb-84301437223a" />
 </div>
+
 ## گراف ترافیک
 در بخش مشخص شده زیر نیز گرافیک مربوط به ترافیک عبوری از فیلترشکن نمایش داده می‌شود.
 
