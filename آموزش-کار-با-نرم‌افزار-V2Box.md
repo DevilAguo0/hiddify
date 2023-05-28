@@ -16,9 +16,10 @@
 * روی دکمه کنار لینک کلیک کنید و در پنجره باز شده`Copy` را بزنید. 
 
 
+
 <div align=center>
 
-<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/c2cee66b-4ef6-4d9e-93c9-3af1fa8fb150" />
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/fde61f60-7521-4975-bacb-56c438cc2092" />
 </div>
 
 * نرم‌افزار V2Box را باز کنید و در منوی پایین `Configs` را انتخاب کنید. 
