@@ -15,6 +15,12 @@ For this, enter your user panel and use the link for `Subscription b64` in the s
 ## Copy the link
 - Click on the button next to the link and click `Copy` in the opened window.
 
+<div align=center>
+
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/67d5e2d8-d8bd-4ad9-aa0f-b9dc0ebe2d39" />
+</div>
+
+
 
 
 - Open the V2Box software and select `Configs` from the bottom menu.
