@@ -86,7 +86,7 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [How to use Reality on Hiddify](https://github.com/hiddify/hiddify-config/wiki/How-to-use-Reality-on-Hiddify)
 
-📔 [How to set up and use Telegram bot on the Hiddify panel](https://github.com/hiddify/hiddify-config/wiki/How-to-set-up-and-use-Telegram-bot-on-the-Hddify-panel)
+📔 [How to set up and use Telegram bot on Hiddify panel](https://github.com/hiddify/hiddify-config/wiki/How-to-set-up-and-use-Telegram-bot-on-Hddify-panel)
 
 📔 [How to activate WARP on the Hiddify panel](https://github.com/hiddify/hiddify-config/wiki/How-to-activate-WARP-on-the-Hiddify-panel)
 
