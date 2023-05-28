@@ -20,7 +20,7 @@
 <img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/85ee7493-1657-4bbc-9a47-2e1bfe6fe6fb" />
 </div>
 
-* نرم‌افزار V2Box را باز کنید و در منوی پایین Configs را انتخاب کنید. 
+* نرم‌افزار V2Box را باز کنید و در منوی پایین `Configs` را انتخاب کنید. 
 * دکمه `+` را بزنید.
 
 <div align=center>
