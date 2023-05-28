@@ -28,7 +28,7 @@ When updating or reinstalling the panel, it is backed up and you can access and 
 
 `/opt/hiddify-config/hiddify-panel/backup`
 
-and then transfer the file to your PC.
+and then transfer the file to your PC. ([more info here](https://github.com/hiddify/hiddify-config/wiki/How-to-transfer-files-between-a-server-and-a-computer))
 
 ## Restoring backup file
 Now install the panel on the new server and do nothing on the `Quick-setup` page.
