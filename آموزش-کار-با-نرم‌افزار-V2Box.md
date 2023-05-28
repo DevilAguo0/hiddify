@@ -28,8 +28,8 @@
 <img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/c84fd272-2719-4fd2-8397-9a2a0e2013be" />
 </div>
 
-* گزینه Add Subscription را انتخاب نمایید.
-* یک نام دلخواه بدهید و لینک کپی شده در مرحله قبل را در URL کپی کنید.
+* گزینه `Add Subscription` را انتخاب نمایید.
+* یک نام دلخواه بدهید و لینک کپی شده در مرحله قبل را در `URL` کپی کنید.
 
 
 <div align=center>
