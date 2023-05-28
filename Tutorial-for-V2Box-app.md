@@ -5,3 +5,39 @@
 </div>
 
 # Tutorial for V2Box app
+This software is a subset of V2ray software that was released for iOS.
+
+## Add subscription links to the app
+For this, enter your user panel and use the link for `Subscription b64` in the section of `All configs`.
+
+
+
+## Copy the link
+- Click on the button next to the link and click `Copy` in the opened window.
+
+
+- Open the V2Box software and select `Configs` from the bottom menu.
+- Tap the `+` button.
+
+- Select the `Add Subscription` option.
+- Give a desired name and copy the link copied in the previous step into the `URL`.
+
+
+- Then click `Add Subscribe` to add the configurations to the program.
+
+
+- After that, the program will automatically test the connections.
+
+## Scan QR code
+- To do this, click the button next to the link in the user panel
+- Tap `+` in the V2Box app.
+- Select the `Scan QR` option.
+- Then scan the QR code on the user's page with the phone's camera.
+
+
+
+
+- Configs are automatically added and the connection test is performed from them.
+
+## Connection test
+To do this, click on `Ping All` in the `Configs` list so that all configs are tested.
