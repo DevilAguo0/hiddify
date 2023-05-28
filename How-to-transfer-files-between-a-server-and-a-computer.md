@@ -43,7 +43,7 @@ The output of this command is as follows.
 
 Select one of the backup files to transfer.
 
-## Transfer the file from the server to the system via scp command
+## Transfering the file from the server to the system via scp command
 Use this command in the terminal.
 
 `scp <user>@<Server's IP>:<path/to/your/file> "Path\in\your\PC"`
@@ -56,7 +56,7 @@ scp root@1.1.1.1:/opt/hiddify-config/hiddify-panel/backup/2023_05_06__06_00_03.j
 
 The work is done. The desired file was copied to the Backup folder.
 
-## Transfer the file from the system to the server via scp command
+## Transfering the file from the system to the server via scp command
 For this, suppose your server user is `root` and its IP is `1.1.1.1`. Also suppose that the `text.txt` file is located in `C:\File` and you want to transfer it to the server. In this case, use the following command.
 
 ```
