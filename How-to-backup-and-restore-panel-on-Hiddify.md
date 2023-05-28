@@ -18,7 +18,7 @@ Here you can specify the storage location of your backup file so that the json f
 
 ## Sending the backup file to Telegram
 
-Every 6 hours, the panel automatically backs up for you, and if you have activated the Telegram bot, it will be sent to the bot.
+Every 6 hours, the panel automatically backs up for you, and if you have activated the [Telegram bot](https://github.com/hiddify/hiddify-config/wiki/How-to-set-up-and-use-Telegram-bot-on-Hddify-panel), it will be sent to the bot.
 
 ## Backup during important operations
 
