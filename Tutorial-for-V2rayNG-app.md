@@ -9,14 +9,24 @@ This app is a good app to connect to Xray based configs and replace [HiddifyNG](
 ## Download the app
 To do this, enter the `HiddifyNG` section in your user panel and then open the `Alternative V2rayNG` and click on `Direct Download` to download the program.
 
+<div align=center>
+
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/00c19c16-e704-4f88-bfc9-292263a90293" />
+</div>
+
 
 
 ## Install the app
 Run the downloaded file to install. You may get an error about unknown apps that you need to confirm to install the app. Installation is very simple.
 
 ## Add configs to the app
-- In the user panel in the previous section, click on the button next to the `subscription link` to open the `QR code` page. Then tap on `copy`.
+- In the user panel in the previous section, click on the button next to the `Subscription Link` to open the `QR code` page. Then tap on `copy`.
 
+
+<div align=center>
+
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/3023ab40-9988-4d19-b288-302cb0ca705a" />
+</div>
 
 
 
