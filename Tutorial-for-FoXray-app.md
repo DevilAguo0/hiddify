@@ -9,8 +9,13 @@ This app has been released by the WingsX app team, which has been replaced due t
 
 ## Add subscription link to the app
 - First, enter your user page on Hidify panel.
-- In the iOS tab, open the section related to FoXray and click the link for Subscription b64.
+- In the `iOS` tab, open the section related to `FoXray` and click `Subscription Link b64`.
 - `Copy` the link.
+
+<div align=center>
+
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/69e8b710-9f38-444b-a3ce-e9acef54b8c8" />
+</div>
 
 
 
