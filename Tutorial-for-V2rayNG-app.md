@@ -26,7 +26,7 @@ Run the downloaded file to install. You may get an error about unknown apps that
 
 <div align=center>
 
-<img width=30% src="https://user-images.githubusercontent.com/125398461/241164507-6363d390-30c9-4db9-a64d-15605ba11824.png" />
+<img src="https://user-images.githubusercontent.com/125398461/241164507-6363d390-30c9-4db9-a64d-15605ba11824.png" />
 </div>
 
 
