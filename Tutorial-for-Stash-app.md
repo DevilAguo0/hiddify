@@ -10,6 +10,10 @@ This program is written based on Clash for iOS and must be purchased to use it.
 ## Copy profile to the app
 - For this, enter the `iOS` tab in your user panel and open the `Stash` section.
 
+<div align=center>
+
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/51f5dfdc-102f-4057-8c0b-33b123d6108b" />
+</div>
 
 
 
@@ -20,6 +24,11 @@ This program is written based on Clash for iOS and must be purchased to use it.
 
 - The second mode is the orange or `Normal` profile, which sends all traffic from the VPN to the server. If domestic sites are blocked on the server, they will not be opened, or if WARP is enabled for all traffic, domestic sites will be opened via the WARP.
 - Finally, choose one of the two profiles.
+
+<div align=center>
+
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/8f93711d-27ec-473c-a1d9-928ee3656abd" />
+</div>
 
 
 
