@@ -35,7 +35,7 @@ Run the downloaded file to install. You may get an error about unknown apps that
 
 <div align=center>
 
-<img width=30% src="https://user-images.githubusercontent.com/125398461/241167247-98439a04-bce3-4d21-af7b-d0aae957f14a.png" />
+<img src="https://user-images.githubusercontent.com/125398461/241167247-98439a04-bce3-4d21-af7b-d0aae957f14a.png" />
 </div>
 
 
@@ -43,7 +43,7 @@ Run the downloaded file to install. You may get an error about unknown apps that
 
 <div align=center>
 
-<img width=30% src="https://user-images.githubusercontent.com/125398461/241167435-572e8384-9284-4801-a631-0621718393c9.png" />
+<img src="https://user-images.githubusercontent.com/125398461/241167435-572e8384-9284-4801-a631-0621718393c9.png" />
 </div>
 
 
@@ -52,7 +52,7 @@ Run the downloaded file to install. You may get an error about unknown apps that
 
 <div align=center>
 
-<img width=30% src="https://user-images.githubusercontent.com/125398461/241165034-64a1f43c-b8fc-4f46-8206-1357ad5394db.png" />
+<img src="https://user-images.githubusercontent.com/125398461/241165034-64a1f43c-b8fc-4f46-8206-1357ad5394db.png" />
 </div>
 
 
@@ -62,7 +62,7 @@ Run the downloaded file to install. You may get an error about unknown apps that
 
 <div align=center>
 
-<img width=30% src="https://user-images.githubusercontent.com/125398461/241165795-17406ecc-e22b-4acc-9fdc-ac2c182741e4.png" />
+<img src="https://user-images.githubusercontent.com/125398461/241165795-17406ecc-e22b-4acc-9fdc-ac2c182741e4.png" />
 </div>
 
 
@@ -71,7 +71,7 @@ Run the downloaded file to install. You may get an error about unknown apps that
 
 <div align=center>
 
-<img width=30% src="https://user-images.githubusercontent.com/125398461/241166032-5ac550c5-6387-4f1c-841c-935fc58f65cd.png" />
+<img src="https://user-images.githubusercontent.com/125398461/241166032-5ac550c5-6387-4f1c-841c-935fc58f65cd.png" />
 </div>
 
 
@@ -80,7 +80,7 @@ To connect to the app, press the Connect button at the bottom to establish a con
 
 <div align=center>
 
-<img width=30% src="https://user-images.githubusercontent.com/125398461/241166105-11b6f98b-406a-4007-8125-11a8128a2187.png" />
+<img src="https://user-images.githubusercontent.com/125398461/241166105-11b6f98b-406a-4007-8125-11a8128a2187.png" />
 </div>
 
 
@@ -89,7 +89,7 @@ To connect to the app, press the Connect button at the bottom to establish a con
 
 <div align=center>
 
-<img width=30% src="https://user-images.githubusercontent.com/125398461/241166381-9fb9c6d8-852c-48fc-9c18-8fd59ca899af.png" />
+<img src="https://user-images.githubusercontent.com/125398461/241166381-9fb9c6d8-852c-48fc-9c18-8fd59ca899af.png" />
 </div>
 
 
