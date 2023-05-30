@@ -81,7 +81,7 @@ For this, use the update button number 2.
 ### Start configs
 For this, use the update button number 3.
 
-### 3-dot menu in configs
+### Three-dot menu in configs
 In this menu, which is a subset of the config menu, you can do various things that are mentioned below.
 
 
