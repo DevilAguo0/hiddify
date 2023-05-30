@@ -120,13 +120,10 @@ You can edit the imported profiles or add a new profile.
 ## Advanced
 On this page, there are advanced settings that will be mentioned later.
 
+<div align=center>
 
-
-
-
-
-
-
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/28a6cdeb-5c7c-4e87-b47d-e3121a318c6a" />
+</div>
 
 ## Proxy mode settings
 
@@ -175,12 +172,10 @@ Configs are entered manually. By clicking this button, the app opens another pag
 ## Three-line software menu settings
 In this section, there are several general settings, the most useful parts of which are these.
 
+<div align=center>
 
-
-
-
-
-
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/34534df8-e9a0-4e0d-886e-eaa15a50deec" />
+</div>
 
 ### Subscription group setting
 Settings for all subscription links Select this option.
