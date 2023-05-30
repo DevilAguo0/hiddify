@@ -87,7 +87,7 @@ Here are the configs that were added using the subscription link.
 ### Update configs
 For this, use the update button number 2.
 
-### Start configs
+### Start or stop configs
 For this, use the update button number 3.
 
 ### Three-dot menu in configs
