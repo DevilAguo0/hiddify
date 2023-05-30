@@ -41,6 +41,93 @@ To do this, tap on the section related to the profile to open the section relate
 
 You can edit the imported profiles or add a new profile.
 
+
+## Home
+This plate is designed for quick connection to the filter breaker, which consists of several parts.
+
+### Profile section
+
+In this section, you can see your imported profiles. 
+
+- View the Traffic usage and the total traffic. Also see the number of days remaining in your account. (section number 1)
+
+- You can enter your user page in the panel through button number 2
+
+- You can contact your support through button number 3.
+
+
+### Add new profile
+
+For this, press the `+` button from the profile section or from the top right of the application.
+
+You can use the copied link or scan its QR code.
+
+
+### Connect to the software
+
+To do this, click on the connection button in the middle of the screen.
+
+
+
+## Configs
+Here are the configs that were added using the subscription link.
+
+
+
+
+### Update configs
+For this, use the update button number 2.
+
+### Start configs
+For this, use the update button number 3.
+
+### 3-dot menu in configs
+In this menu, which is a subset of the config menu, you can do various things that are mentioned below.
+
+
+
+
+
+
+
+
+#### Filter config files
+This menu is for filtering configurations based on a specific item.
+
+#### Export non-custom configs
+This menu is used to exit the configuration added to the program and transfer it to another device.
+
+#### Remove all configs
+This menu is for deleting the entire config file from the program.
+
+#### Remove duplicate configs
+Sometimes, due to the large number of configurations, you need to sort and remove the duplicate imported configurations from the program. Use this option for this.
+
+#### Remove invalid settings after testing
+Sometimes you manipulate the configs to get better results by changing the parameters. If you need to delete configs that have invalid settings, use this option.
+
+#### Real delay test
+This option displays the result for actual ping test based on the connection to the configs.
+
+#### Sort by test results
+Sorts the list of configs based on the test result. Configurations with lower ping and better results are placed at the top of the list.
+
+To do this, tap on the section related to the profile to open the section related to their settings.
+
+You can edit the imported profiles or add a new profile.
+
+
+## Advanced
+On this page, there are advanced settings that will be mentioned later.
+
+
+
+
+
+
+
+
+
 ## Proxy mode settings
 
 The settings of this section determine how the traffic of sites and applications pass through the VPN, which consists of three parts.
@@ -85,6 +172,26 @@ It connects to several configs at the same time and traffic is distributed betwe
 Configs are entered manually. By clicking this button, the app opens another page that shows the list of available configs in which you can choose your desired one.
 
 
-## Connect to the app
-To connect to any of the configs, after selecting, you must click on the connect button to connect.
+## Three-line software menu settings
+In this section, there are several general settings, the most useful parts of which are these.
 
+
+
+
+
+
+
+
+### Subscription group setting
+Settings for all subscription links Select this option.
+
+
+### Settings
+There are general software settings in this section.
+
+
+### Logcat
+Use this option if you need a log file for troubleshooting.
+
+### Feedback
+Use this menu if you need to report bugs and errors.
