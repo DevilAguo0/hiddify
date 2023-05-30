@@ -129,8 +129,9 @@
 در این صفحه تنظیمات پیشرفته قرار دارد که در ادامه به آن‌ها اشاره خواهد شد.
 <div align=center>
 
-<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/28a6cdeb-5c7c-4e87-b47d-e3121a318c6a" />
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/14681ce8-8d61-4b14-9798-7d1e9318f849" />
 </div>
+
 
 
 
