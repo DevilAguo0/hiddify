@@ -7,11 +7,13 @@
 Because some of the concepts used in the contents of this wiki and also the world of proxies may be unfamiliar to many people; In this article, we try to explain these things in simple language.
 
 ## HTTP
-It is the basic protocol of the Internet and is the foundation of information communication for the World Wide Web, where hypertext documents include hyperlinks to other resources that the user can easily access with, for example, a mouse click or a tap on the screen in a web browser. be This protocol uses a url or web address for addressing, and we call these addresses domains, which are defined below. Http protocol uses handshaking to send and receive information. In this method, several requests and responses are exchanged between the server and the client to start and end the information exchange operation. Imagine that the client (browser) is a person who intends to receive information about a site. At first, he must send a request to the server of that site. Then he has to wait to receive a response from the server to his request. If the requested information is available on the server, a response will be sent to the person agreeing to send the information. Then again, a message is sent from the client requesting information data to the server. At this stage, the server receives the message and divides the requested data into smaller data packets. Finally, these packets are sent to the person sequentially by the Handshaking protocol. Communication between client and server in this protocol is usually done through port 80.
+It is the basic protocol of the Internet and is the foundation of information communication for the web, where documents, including links and texts, are connected to other resources that the user can easily access, for example, with a click or a tap on the screen in a web browser. . This protocol uses a url or web address for addressing, and we call these addresses domains, which are defined below.
+
+The HTTP protocol uses handshaking to send and receive information. In this method, several requests and responses are exchanged between the server and the client to start and end the information exchange operation. Imagine that the client (browser) is a person who intends to receive information about a site. At first, he must send a request to the server of that site. Then he has to wait to receive a response from the server to his request. If the requested information is available on the server, a response will be sent to the person agreeing to send the information. Then again, a message is sent from the client requesting information data to the server. At this stage, the server receives the message and divides the requested data into smaller data packets. Finally, these packets are sent to the person sequentially by the Handshaking protocol. Communication between client and server in this protocol is usually done through port 80.
 
 ## HTTPS
 
-This protocol is actually the security version of the http protocol. Because information and data are not encrypted in the HTTP protocol, it can be easily hacked and misused. Based on this, if someone like the internet service provider has access to the information exchange route, he can easily see the information that is being exchanged. But in https, the information exchanged between the website and the user is encrypted. That is, even if someone can access the information exchanged on the site, they cannot use the content on the other side. Because this information is encrypted and can only be seen by someone who has the key to decrypt it. It uses one of two SSL or TLS protocols to encrypt communications, which will be explained later.
+This protocol is actually the security version of the HTTP protocol. Because information and data are not encrypted in the HTTP protocol, it can be easily hacked and misused. Based on this, if someone like the internet service provider has access to the information exchange route, he can easily see the information that is being exchanged. But in HTTPS, the information exchanged between the website and the user is encrypted. That is, even if someone can access the information exchanged on the site, they cannot use the content on the other side. Because this information is encrypted and can only be seen by someone who has the key to decrypt it. It uses one of two SSL or TLS protocols to encrypt communications, which will be explained later.
 
 
 ## Domain
@@ -49,13 +51,14 @@ Note: The settings of these 3 items can be different according to the type of co
 
 Hiddify panel uses this platform to pass the filtering system. In fact, Hiddify is recommended by Xray. This platform, which was introduced in 2020, is a modified and better version of the famous V2ray! Due to being more up-to-date and fixing defects, V2ray became the dominant and common platform. In the Xray platform, all v2ray protocols have been added in addition to newer protocols such as Vless.
 
+## Vmess
+It was one of the first protocols of the V2ray and Xray subcategory, which encodes and sends information packets based on system time, although this protocol can be detected by the filtering system due to weaknesses in its algorithm, and it is recommended not to use it wherever possible.
 
 ## Vless
 Vless protocol is a modified version of Vmess! In Vless, all the disadvantages of Vmess have been fixed and due to the difference in encryption in Vless and its lighter weight, it provides the possibility to have more users than vmess on the same server.
 
 
 ## Trojan
-
 This protocol is another safe way to pass through the filtering system. The trojan introduced in 2017 has always been used alongside vless, a powerful protocol to pass through the filtering system.
 
 For more security and speed, we suggest you to use these two protocols, Vless and Trojan. According to the received reports, it is recommended to use these protocols in the following situations
