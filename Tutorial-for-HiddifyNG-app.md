@@ -35,17 +35,15 @@ To do this, in the same section related to the `HiddifyNG` program, click on `Cl
 
 
 
-## Edit profiles
-
-To do this, tap on the section related to the profile to open the section related to their settings.
-
-You can edit the imported profiles or add a new profile.
-
-
 ## Home
 This plate is designed for quick connection to the filter breaker, which consists of several parts.
 
 ### Profile section
+
+<div align=center>
+
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/3b52550d-4e96-49c7-a966-282dfd48c4cc" />
+</div>
 
 In this section, you can see your imported profiles. 
 
@@ -62,11 +60,22 @@ For this, press the `+` button from the profile section or from the top right of
 
 You can use the copied link or scan its QR code.
 
+<div align=center>
+
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/4c886c83-ba4a-4208-a78c-43dc49f32e33" />
+</div>
+
+
+
 
 ### Connect to the software
 
 To do this, click on the connection button in the middle of the screen.
 
+<div align=center>
+
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/937d9d96-9f9f-4bfa-8700-858e161a289d" />
+</div>
 
 
 ## Configs
