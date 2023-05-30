@@ -62,8 +62,10 @@ You can use the copied link or scan its QR code.
 
 <div align=center>
 
-<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/4c886c83-ba4a-4208-a78c-43dc49f32e33" />
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/a3aa8b25-1500-48c8-8899-b38b31621024" />
 </div>
+
+
 
 
 
@@ -81,7 +83,10 @@ To do this, click on the connection button in the middle of the screen.
 ## Configs
 Here are the configs that were added using the subscription link.
 
+<div align=center>
 
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/8d68a8aa-fe9b-4396-a66c-7859a44082b8" />
+</div>
 
 
 ### Update configs
@@ -95,30 +100,33 @@ In this menu, which is a subset of the config menu, you can do various things th
 
 
 
+<div align=center>
+
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/afdd5488-99dc-4693-b5a8-6d9861e620e3" />
+</div>
 
 
 
 
-
-#### Filter config files
+#### Filter configuration file
 This menu is for filtering configurations based on a specific item.
 
 #### Export non-custom configs
 This menu is used to exit the configuration added to the program and transfer it to another device.
 
-#### Remove all configs
+#### Remove all config
 This menu is for deleting the entire config file from the program.
 
-#### Remove duplicate configs
+#### Remove duplicate config
 Sometimes, due to the large number of configurations, you need to sort and remove the duplicate imported configurations from the program. Use this option for this.
 
-#### Remove invalid settings after testing
+#### Remove invalid config (Test first)
 Sometimes you manipulate the configs to get better results by changing the parameters. If you need to delete configs that have invalid settings, use this option.
 
-#### Real delay test
+#### Real delay all configuration
 This option displays the result for actual ping test based on the connection to the configs.
 
-#### Sort by test results
+#### Sorting by test results
 Sorts the list of configs based on the test result. Configurations with lower ping and better results are placed at the top of the list.
 
 To do this, tap on the section related to the profile to open the section related to their settings.
