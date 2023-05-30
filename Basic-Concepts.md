@@ -63,6 +63,10 @@ This protocol is another safe way to pass through the filtering system. The troj
 
 For more security and speed, we suggest you to use these two protocols, Vless and Trojan. According to the received reports, it is recommended to use these protocols in the following situations
 
+## Reality
+REALITY is used instead of TLS and it can eliminate the TLS fingerprint characteristics of the server, still have forward secrecy, etc. Moreover the certificate chain attack is invalid, and the security exceeds that of conventional TLS.
+You can point to other websites without having to buy a domain name or configure a TLS server, which is more convenient and realizes the full real TLS of specifying SNI to the middleman.
+
 Note: although Hiddify supports all protocols related to Xray, we suggest using more robust protocols such as Reality, Vless and Trojan like these ones.
 
 `Reality XTLS`
