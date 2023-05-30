@@ -38,9 +38,9 @@ allowInsecure: prevents the use of fake certificates.
 
 Settings to keep in mind about connections:
 
-`uTLS = randomized, Chrome. Firefox, etc`
+`uTLS = Randomized, Chrome. Firefox, etc`
 
-`alpn = h2,http/1.1`
+`alpn = H2,HTTP/1.1`
 
 `allowInsecure = false`
 
@@ -75,14 +75,14 @@ Note: although Hiddify supports all protocols related to Xray, we suggest using 
 
 `Vless CDN GRPC`
 
-`Vless CDN WS Http2`
+`Vless CDN WS H2`
 
-`Vless CDN GRPC Http2`
+`Vless CDN GRPC H2`
 
 `Trojan CDN WS`
 
 `Trojan CDN GRPC`
 
-`Trojan CDN WS Http2`
+`Trojan CDN WS H2`
 
-`Trojan CDN GRPC Http2`
+`Trojan CDN GRPC H2`
