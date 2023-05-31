@@ -25,13 +25,13 @@ Enter the panel `Settings` and click on `Create` in the `Domains` section.
 Set domain mode to Cloudflare worker.
 
 ### Domain
-In this section, choose the domain name you want for the worker so that this name is automatically added to your Cloudflare account in the workers section.
+In this section, choose the domain name you want for the Worker so that this name is automatically added to your Cloudflare account in the workers section.
 
 ### Alias
 If you want, you can choose a name to display in the configs.
 
 ### Force Config to Use Following IPs
-In this field, if needed, you can put your Cloudflare clean IPs or use IRCF clean IPs. If you need more information on how to enter IPs in this field, read this topic.
+In this field, if needed, you can put your Cloudflare clean IPs or use IRCF clean IPs. If you need more information on how to enter IPs in this field, read this [topic](https://github-com.translate.goog/hiddify/hiddify-config/discussions/2009?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp).
 
 Finally, click Save to save the settings. Then click apply changes to apply the changes to the panel.
 
