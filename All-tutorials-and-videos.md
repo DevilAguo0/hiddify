@@ -111,7 +111,7 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 <br>
 <div dir="ltr" align=center>
 
-## 📚 Contents related to domain and CDN
+## 📚 Contents related to domain, Worker, CDN and Tunneling
 </div>
 
 📔 [Domain types and how to register them](https://github.com/hiddify/hiddify-config/wiki/Domain-types-and-how-to-register-them)
@@ -136,17 +136,6 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [How to use the Cloudflare worker domain on Hiddify](https://github.com/hiddify/hiddify-config/wiki/How-to-use-the-Cloudflare-worker-domain-on-Hiddify)
 
-<br>
-<br>
-
-***
-<br>
-<br>
-<div dir="ltr" align=center>
-
-## 📚 Contents related to Workers and Tunneling
-</div>
-
 📔 [How to setup and use Cloudflare workers](https://github.com/hiddify/hiddify-config/wiki/How-to-set-up-and-use-Cloudflare-workers)
 
 📔 [How to setup relay server using IP Tables tunneling](https://github-com.translate.goog/hiddify/hiddify-config/discussions/129?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
@@ -158,7 +147,7 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 <br>
 <div dir="ltr" align="center">
 
-**🎥 Videos related to Workers and Tunneling**
+**🎥 Videos related to domain, Worker, CDN and Tunneling**
 
 
 <a href="https://www.youtube.com/watch?v=ea5C93ynkUs"><img width="32%" src="https://github.com/hiddify/hiddify-config/assets/125398461/97edd880-89ee-4f57-9f8d-d9398a3ceea0" /></a>
