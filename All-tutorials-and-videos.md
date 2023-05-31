@@ -13,7 +13,7 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📚 [Contents related to configuration and advanced settings](#-contents-related-to-configuration-and-advanced-settings)
 
-📚 [Contents related to domain and CDN](#-contents-related-to-domain-and-cdn)
+📚 [Contents related to domain, Worker, CDN and tunneling](#-contents-related-to-domain-worker-cdn-and-tunneling)
 
 📚 [Contents related to Workers and Tunneling](#-contents-related-to-workers-and-tunneling)
 
