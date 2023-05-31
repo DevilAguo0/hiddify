@@ -162,6 +162,17 @@ Be careful:
 
 </details>
 
+<details><summary><h4>Only for subscription link</h4></summary>
+This is a bonus tip. You can choose a domain to use as subscription only domain. This way you can separate connections from subscription links and your link will never be blocked. Then your links can be updated all the time.
+
+![](https://user-images.githubusercontent.com/125398461/236683456-2e99c6f2-ab23-4c54-a5cf-89e565472e8f.png)
+
+After connecting `Sub-only domain` to the `Connection domains`, you can go to the user page via this sub-only domain. You see the configs are connected to this domain.
+
+Tip: We recommend using direct domains as Sub-only domains because they are fast if your server's IP is clean. Moreover direct domains wont be locked if they are used as Sub-only links. Additionally you can use PHP sites as subscription links. [More info](https://github.com/hiddify/hiddify-config/discussions/689)
+
+</details>
+
 <details><summary><h4>CDN domain</h4></summary>
 Click on the create button and follow the instructions on the page that opens.
 
@@ -179,7 +190,7 @@ Pay attention:
 
 </details>
 
-<details><summary><h4>AUTO_CDN_IP domain</h4></summary>
+<details><summary><h4>Automatic CDN IP Selector or AUTO_CDN_IP domain</h4></summary>
 Due to the long and detailed description of this mode; You can read [this article](https://github.com/hiddify/hiddify-config/wiki/Guide-for-using-mode-Auto_CDN_IP-in-Hidify) to learn how to set it up.
 
 </details>
@@ -199,7 +210,7 @@ Note:
 
 </details>
 
-<details><summary><h4>Fake domain</h4></summary>
+<details><summary><h4>Fake site</h4></summary>
 Click on the create button and follow the instructions on the page that opens.
 
 ![](https://user-images.githubusercontent.com/125398461/236683245-0c9f0fd4-0d84-436d-9e7a-ae26b180ec73.png)
@@ -215,15 +226,13 @@ Pay attention:
 
 </details>
 
-<details><summary><h4>Sub-Only domain</h4></summary>
-This is a bonus tip. You can choose a domain to use as subscription only domain. This way you can separate connections from subscription links and your link will never be blocked. Then your links can be updated all the time.
+<details><summary><h4>Reality domain</h4></summary>
+For view more information about this domain, please view [this article](https://github.com/hiddify/hiddify-config/wiki/How-to-use-Reality-on-Hiddify).
 
-![](https://user-images.githubusercontent.com/125398461/236683456-2e99c6f2-ab23-4c54-a5cf-89e565472e8f.png)
+</details>
 
-After connecting `Sub-only domain` to the `Connection domains`, you can go to the user page via this sub-only domain. You see the configs are connected to this domain.
-
-Tip: We recommend using direct domains as Sub-only domains because they are fast if your server's IP is clean. Moreover direct domains wont be locked if they are used as Sub-only links. Additionally you can use PHP sites as subscription links. [More info](https://github.com/hiddify/hiddify-config/discussions/689)
-
+<details><summary><h4>Cloudflare worker domain</h4></summary>
+Read this [article](https://github.com/hiddify/hiddify-config/wiki/How-to-use-the-Cloudflare-worker-domain-on-Hiddify) in this regard
 </details>
 
 
