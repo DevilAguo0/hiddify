@@ -75,7 +75,7 @@ Yellow messages may be given as a result of the server checking your completed f
 
 - In Reality, in order not to be recognized, it is better that the selected domain is in your data center, and also note that the server name field and the returned domain must be on the same server.
 
-- That is, you cannot set the return domain to www.yahoo.com, but the server name is www.google.com. But if you put the name of the server as blog.yahoo.com, it is ok.
+- That is, you cannot set the return domain to `www.yahoo.com` , but the server name is `www.google.com`. But if you put the name of the server as `blog.yahoo.com`, it is ok.
 
 <div align=center>
 
