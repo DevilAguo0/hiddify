@@ -33,7 +33,7 @@ If you want, you can choose a name to display in the configs.
 ### Force Config to Use Following IPs
 In this field, if needed, you can put your Cloudflare clean IPs or use IRCF clean IPs. If you need more information on how to enter IPs in this field, read this [topic](https://github-com.translate.goog/hiddify/hiddify-config/discussions/2009?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp).
 
-Finally, click Save to save the settings. Then click apply changes to apply the changes to the panel.
+Finally, click Save to save the settings. Then click `Apply Changes`.
 
 ## Use the configs of this domain
 As you probably know, it is recommended that the subscription link be separated from the configurations in Hiddify to prevent the subscription links from being filtered. So if you have already created the subscription link; Here, go to the config settings of that domain and add the new Worker domain in `Show Configs of Domains` field.
