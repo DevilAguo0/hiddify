@@ -111,7 +111,7 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 <br>
 <div dir="ltr" align=center>
 
-## 📚 Contents related to domain, Worker, CDN and Tunneling
+## 📚 Contents related to domain, Worker, CDN and tunneling
 </div>
 
 📔 [Domain types and how to register them](https://github.com/hiddify/hiddify-config/wiki/Domain-types-and-how-to-register-them)
