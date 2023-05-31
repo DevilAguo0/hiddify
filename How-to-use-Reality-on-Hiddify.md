@@ -69,7 +69,7 @@ If you want a specific IP instead of the server's main IP in the configuration, 
 
 > Tip: If you have more than a few IPs, you can put each IP in a row and connect between them.
 
-Finally, press save to save the settings and don't forget to apply the settings.
+Finally, press save to save the settings and don't forget to `Apply Changes`.
 
 Yellow messages may be given as a result of the server checking your completed fields.
 
