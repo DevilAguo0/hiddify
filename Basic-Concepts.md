@@ -6,6 +6,23 @@
 # Basic concepts
 Because some of the concepts used in the contents of this wiki and also the world of proxies may be unfamiliar to many people; In this article, we try to explain these things in simple language.
 
+## IP address
+
+An IP address is a unique address that identifies a device on the Internet or local network, and through which the Internet or local network can be accessed. In other words, IP addresses are identifiers that allow sending information between devices in the network; because they contain the geographical location information of the device; Hence, they make devices available to each other to communicate.
+
+We have two IP versions. One IP version 4 and one IP version 6
+
+### IP version 4 or IPv4
+IP version 4 consists of sections, each section is separated by a `dot`. For example, w.x.y.z, each of which can be between 0 and 255. Finally, an IP version 4 is like this. `54.78.11.14`
+
+### IP version 6 or IPv6
+This IP address is the new version of IPs based on hex or 16 numbers. It consists of 6 sections, each section is separated by `:` An IP version 6 is like this.
+
+`2017:c569:54ed:f141:ec49:0567`
+In this version, IPs are reducted in some places. For example, pay attention to the following IP. `2017:c569:0000:0000:0000:0567`
+In this version, you can remove the consecutive zeros and take the factor and finally write it like this. `2017:c569::0567`
+
+
 ## HTTP
 It is the basic protocol of the Internet and is the foundation of information communication for the web, where documents, including links and texts, are connected to other resources that the user can easily access, for example, with a click or a tap on the screen in a web browser. . This protocol uses a url or web address for addressing, and we call these addresses domains, which are defined below.
 
