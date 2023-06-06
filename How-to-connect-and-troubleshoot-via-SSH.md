@@ -148,3 +148,4 @@ If you need to remove the installed panel from the server, use this option. Also
 
 ### Purge
 Select this option to completely remove the program and database from the server.
+> If this method did not work for you for any reason, you can `Rebuild` the server through your data center. This will delete all server data.
