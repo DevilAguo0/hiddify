@@ -60,9 +60,8 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 **🎥 Videos related to installation and setup**
 
-
-<a href="https://www.youtube.com/watch?v=XSwCE35lqmU"><img width="32%" src="https://user-images.githubusercontent.com/125398461/235692699-f6cc0a42-3742-44d5-be20-783ac0e50fdc.png" /></a>
 <a href="https://www.youtube.com/watch?v=PcCfSkMjx4w"><img width="32%" src="https://github.com/hiddify/hiddify-config/assets/125398461/ed55040a-3239-450b-99d9-34b722cee1a9" /></a>
+<a href="https://www.youtube.com/watch?v=XSwCE35lqmU"><img width="32%" src="https://user-images.githubusercontent.com/125398461/235692699-f6cc0a42-3742-44d5-be20-783ac0e50fdc.png" /></a>
 
 </div>
 
