@@ -6,3 +6,56 @@
 
 
 # How to update Hiddify panel
+There are 2 ways to update the panel.
+
+## Update through admin panel
+In the panel, go to the Actions menu and click `Update`.
+
+<div align=center>
+
+![update approach ](https://github.com/hiddify/hiddify-config/assets/125398461/9f482e1c-30ae-4fd3-8d3c-44d72b08155f)
+
+</div>
+
+This may take between 5 and 10 minutes, after which the operation will finish and the panel will be updated with the latest update.
+
+
+## Change the update mode
+
+If you need to change the update mode, you can choose one of the `Release` and `Develop` versions and then `update`.
+
+
+<div align=center>
+
+![update mode](https://github.com/hiddify/hiddify-config/assets/125398461/49672932-a561-459b-9078-ff8b3ec6b8e3)
+
+
+</div>
+
+## Automatic update settings in the panel
+
+The panel updates itself daily with the latest version of released version on project's GitHub. Its settings are in the general settings section.
+
+
+<div align=center>
+
+![auto update](https://github.com/hiddify/hiddify-config/assets/125398461/9ba845b1-2538-44db-90e2-57c7b31e5c8c)
+
+</div>
+
+For this, the automatic update option should be enabled in the general settings, the panel will be updated daily.
+
+## Update via SSH
+
+Connect via [SSH to the server](https://github.com/hiddify/hiddify-config/wiki/How-to-connect-to-server-via-SSH) and select Update in the Hiddify menu. There are 3 modes.
+
+<div align=center>
+
+
+![](https://user-images.githubusercontent.com/125398461/230083991-e90d579a-5301-49f3-ae5c-645ae5cb6d18.png)
+
+</div>
+
+* The `default` option updates the panel based on default.
+* The update `release` option is based on the stable version.
+* The `develop` option is to update the version under development.
