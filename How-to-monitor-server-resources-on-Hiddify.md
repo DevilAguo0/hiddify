@@ -6,10 +6,61 @@
 
 
 # How to monitor server resources on Hiddify
+Many times you need to check the status of your server's CPU and RAM resources. For example, when there is a regiment. For this purpose, you can monitor these resources in several ways.
 
+## Using the dashboard section in the panel
 
+To know the status of your CPU and RAM usage, go to the dashboard section in the Hiddify panel. Here, various and useful information about the status of system resources as well as network card traffic information and online users can be seen in an integrated manner.
 
+<div align=center>
 
+![dashboard](https://github.com/hiddify/hiddify-config/assets/125398461/0e3c9cd4-ea9b-4e0e-83a6-425f4fdc212c)
+</div>
+
+## Resource control using the htop tool
+One of the tools that can be used to control resources in Linux servers is htop.
+
+- First, connect via [SSH to the server](https://github.com/hiddify/hiddify-config/wiki/How-to-connect-to-server-via-SSH).
+
+- and exit Hiddify menu by clicking `Cancel` or pressing `ctrl+c` keys at the same time. If the menu is still displayed after this, type the command `clear` and enter.
+
+- Then if htop is not installed on your server, install it through the following command
+
+```
+apt install htop
+```
+
+> Usually, this program is installed by default on Ubuntu 20.04 and 22.04.
+
+- Then run this command to open `htop`.
+
+```
+htop
+```
+
+<div align=center>
+
+![](https://user-images.githubusercontent.com/125398461/243195292-38c5ab1f-8fed-49c9-9455-04c7a7e83917.jpg)
+
+</div>
+
+From this program, you can see the consumption of your server resources by each process.
+
+- To see the amount of `CPU` consumption of each process, click on the `CPU` to sort accordingly and see which process has allocated a higher percentage of `CPU` to itself.
+
+- Also, to see how much `RAM` is consumed by each process, click on `MEM` to sort accordingly.
+
+- If the most resources are used by Hiddify services (such as hiddify-panel, hiddify-nginx, hiddify-xray, etc.), exit htop.
+
+- To exit the htop environment, you must press `ctrl+c` or `q`.
+
+- Then enter Hiddify menu once through the following command.
+
+```
+bash /opt/hiddify-config/menu.sh
+
+```
+- Select the `restart` option using the arrow keys (up and down) and wait until the services are restarted and exit the [Hiddify menu](https://github.com/hiddify/hiddify-config/wiki/How-to-connect-and-troubleshoot-via-SSH) again and check `htop`.
 
 ## Free up RAM memory
 RAM memory is actually a temporary memory whose space is occupied by running services. Part of the memory is occupied by the operating system itself.
