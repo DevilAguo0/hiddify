@@ -103,3 +103,8 @@ To do this, go to the SSL/TLS section of the Cloudflare site. A graph is display
 
 ## Worker service
 To see details about this service, read [this article](https://github.com/hiddify/hiddify-config/wiki/How-to-set-up-and-use-Cloudflare-workers).
+
+## Domain fronting service
+To see details about this service, read [this article](https://github.com/hiddify/hiddify-config/wiki/Guide-for-domain-fronting).
+
+This service is currently disabled in Cloudflare.
