@@ -33,7 +33,7 @@ sudo apt-get install speedtest
 speedtest
 ```
 
-When you run the program for the first time, the terms and conditions of use, as well as the data collected by the `Speedtest` website, will appear in the form of two messages, for each of which you should enter `yes` as confirmation.
+* When you run the program for the first time, the terms and conditions of use, as well as the data collected by the `Speedtest` website, will appear in the form of two messages, for each of which you should enter `yes` as confirmation.
 
 <div align=center>
 
@@ -49,7 +49,7 @@ When you run the program for the first time, the terms and conditions of use, as
 
 </div>
 
-After that, you will see that your bandwidth test has been executed and after a short time, its output will be displayed. Whenever you need to re-do this test, just type `speedtest` in the command line and hit enter to re-test.
+* After that, you will see that your bandwidth test has been executed and after a short time, its output will be displayed. Whenever you need to re-do this test, just type `speedtest` in the command line and hit enter to re-test.
 
 
 <div align=center>
@@ -58,7 +58,7 @@ After that, you will see that your bandwidth test has been executed and after a 
 
 </div>
 
-In some situations, users need to test from other locations, for this purpose, run the following command to get the list of locations.
+* In some situations, users need to test from other locations, for this purpose, run the following command to get the list of locations.
 
 ```
 speedtest --servers
@@ -71,7 +71,7 @@ speedtest --servers
 
 </div>
 
-As can be seen in the above image, a list of servers with locations close to your server will be displayed to you, in the ID column there is also a 5-digit code for each row, select the desired location for testing and copy its 5-digit code. Then you can use the following command to take a speed test from your desired location, only in the last part replace the ID with the desired code and enter.
+* As can be seen in the above image, a list of servers with locations close to your server will be displayed to you, in the ID column there is also a 5-digit code for each row, select the desired location for testing and copy its 5-digit code. Then you can use the following command to take a speed test from your desired location, only in the last part replace the ID with the desired code and enter.
 
 ```
 speedtest --server-id=ID
@@ -84,7 +84,7 @@ speedtest --server-id=ID
 
 ## The second method: using the bench.sh tool
 
-Using the above tool, in addition to testing the speed from different locations, you can easily view the server hardware specifications including CPU, storage space, RAM, processor architecture, network port speed, etc. by running the following command.
+* Using the above tool, in addition to testing the speed from different locations, you can easily view the server hardware specifications including CPU, storage space, RAM, processor architecture, network port speed, etc. by running the following command.
 
 ```
 wget -qO- bench.sh | bash
@@ -96,4 +96,4 @@ wget -qO- bench.sh | bash
 
 </div>
 
-After executing the above command, just wait for a few minutes (about 5 to 8 minutes) until the speed test is taken from several locations in different continents and the results are displayed.
+* After executing the above command, just wait for a few minutes (about 5 to 8 minutes) until the speed test is taken from several locations in different continents and the results are displayed.
