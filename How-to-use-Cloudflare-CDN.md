@@ -108,3 +108,37 @@ To see details about this service, read [this article](https://github.com/hiddif
 To see details about this service, read [this article](https://github.com/hiddify/hiddify-config/wiki/Guide-for-domain-fronting).
 
 This service is currently disabled in Cloudflare.
+
+
+
+## gRPC service
+This service was introduced by Google in 2015 and is based on `TLS` and `HTTP/2`, and because its packet size is smaller, it requires less bandwidth and is therefore faster. This service is also active in Cloudflare and is compatible with many of its other services. Therefore, you can activate it on the domain service and use this feature to bypass filtering.
+
+- To do this, go to the `Network` section and then enable the `gRPC` option.
+
+![](https://user-images.githubusercontent.com/125398461/223042141-c2456322-7cac-44be-be9c-044a307eeb52.png)
+
+After that, it is possible to send `gRPC` packets from the client to Cloudflare. After the packets reach Cloudflare, they are forwarded to the original destination, which is your server.
+
+## WebSocket wervice
+Another cloudflare service is `WebSocket`, which allows stable communication between the client and the main server. In this case, the client and server can exchange information without the need to re-establish communication and have a stable connection. This service can also be used to bypass filtering.
+
+- For this, go to the `Network` section and then activate the `WebSockets` option.
+
+![](https://user-images.githubusercontent.com/125398461/223042141-c2456322-7cac-44be-be9c-044a307eeb52.png)
+
+After that, it is possible to send `WebSocket` packets from the client to Cloudflare. After the packets reach Cloudflare, they are forwarded to the original destination, which is your server.
+
+
+## QUIC service
+This service is based on HTTP/3 and works with TLS1.3. That's why it's so fast because its handshake is much faster than TCP.
+
+<div align=center>
+
+<img width="60%" alt="http-request-over-quic" src="https://github.com/hiddify/hiddify-config/assets/125398461/5793c28e-7785-4ea5-998d-9695cc11b341" />
+
+</div>
+
+- For this, go to the `Network` section and then activate the `HTTP/3 (with QUIC)` option.
+
+![QUIC](https://user-images.githubusercontent.com/125398461/223041843-7b441805-4aab-4547-b318-7dbbda4cc893.png)
