@@ -17,8 +17,7 @@ Go to the panel settings section, in this section you can see the WARP settings.
 
 <div align=center>
 
-![Warp_settings](https://user-images.githubusercontent.com/125398461/236473988-c194771e-c6c5-4ee2-ade6-4eff2c84db8b.png)
-
+![Warp_settings](https://github.com/hiddify/hiddify-config/assets/125398461/ca7fb053-6a1d-4c3d-aa31-90ec98f85534)
 
 </div>
 
