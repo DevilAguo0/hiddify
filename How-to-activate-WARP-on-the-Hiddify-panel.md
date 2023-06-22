@@ -30,3 +30,22 @@ It passes all traffic through the warp, even the sites that don't have problems 
 Only domestic sites and `Google, Spotify, Netflix, Openai, ipinfo.io` use Warp.
 
 - Note: If for any reason there is an error in the inserted code, the warp will be disabled. So make sure to use the code correctly. Select and copy the code provided by the bot correctly and place it in the desired field.
+
+## How to check if warp is active or not?
+
+To do this, check the status of the panel from the actions menu.
+
+<div align=center>
+
+![status log](https://github.com/hiddify/hiddify-config/assets/125398461/d419260b-5386-4d4d-bbbc-70f0d4e21fcf)
+
+</div>
+
+The system status is displayed on this page. Also, the status of the warp connection, the IP allocated for the use of the warp traffic is displayed.
+
+You can also use the [ipinfo](https://ipinfo.io/) site. If the IP displayed on this page belongs to Cloudflare despite the filter breaker being turned on; In this case, the warp is activated correctly.
+
+
+
+
+You can also use the [ip.gs](https://ip.gs/) website, and if Cloudflare's IP is displayed, it means that Warp is activated.
