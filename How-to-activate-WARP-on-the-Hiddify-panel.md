@@ -33,11 +33,14 @@ Only domestic sites and `Google, Spotify, Netflix, Openai, ipinfo.io` use Warp.
 
 ## How to check if warp is active or not?
 
-To do this, check the status of the panel from the actions menu.
+To do this, check the `Status` of the panel from the `Actions` menu.
 
 <div align=center>
 
-![status log](https://github.com/hiddify/hiddify-config/assets/125398461/d419260b-5386-4d4d-bbbc-70f0d4e21fcf)
+
+
+![status log](https://github.com/hiddify/hiddify-config/assets/125398461/81bf46b8-c265-4dd9-ae38-2995ee6c70f2)
+
 
 </div>
 
