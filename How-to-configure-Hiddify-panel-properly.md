@@ -227,6 +227,7 @@ Pay attention:
 </details>
 
 <details><summary><h4>Reality domain</h4></summary>
+
 For view more information about this domain, please view [this article](https://github.com/hiddify/hiddify-config/wiki/How-to-use-Reality-on-Hiddify).
 
 </details>
