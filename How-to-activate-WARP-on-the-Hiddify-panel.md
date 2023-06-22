@@ -45,7 +45,19 @@ The system status is displayed on this page. Also, the status of the warp connec
 
 You can also use the [ipinfo](https://ipinfo.io/) site. If the IP displayed on this page belongs to Cloudflare despite the filter breaker being turned on; In this case, the warp is activated correctly.
 
+<div align=center>
 
+![ip_info](https://github.com/hiddify/hiddify-config/assets/125398461/5410e3e5-c380-40d5-aa37-ec944a3f2fb8)
+
+
+</div> 
 
 
 You can also use the [ip.gs](https://ip.gs/) website, and if Cloudflare's IP is displayed, it means that Warp is activated.
+
+<div align=center>
+
+![ip_gs](https://github.com/hiddify/hiddify-config/assets/125398461/a807066a-fde6-4659-809f-24e8e3a4a28c)
+
+
+</div> 
