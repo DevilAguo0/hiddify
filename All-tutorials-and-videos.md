@@ -180,19 +180,33 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [How to make sure the server's IP or domain is clean](https://github.com/hiddify/hiddify-config/wiki/How-to-make-sure-the-server's-IP-or-domain-is-clean)
 
+📔 [How to connect and troubleshoot via SSH](https://github.com/hiddify/hiddify-config/wiki/How-to-connect-to-server-via-SSH)
+
 📔 [How to set DNS server](https://github.com/hiddify/hiddify-config/wiki/How-to-set-DNS-server)
 
 📔 [How to check DNS leakage and the way to solve it](https://github-com.translate.goog/hiddify/hiddify-config/discussions/859?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
-📔 [The correct format of admin link](https://github.com/hiddify/hiddify-config/wiki/The-correct-format-of-admin-link)
+📔 [How to setup Firewall on Hiddify panel](https://github.com/hiddify/hiddify-config/wiki/How-to-setup-Firewall-on-Hiddify-panel)
 
-📔 [Basic concepts related to the internet and  using proxies](https://github.com/hiddify/hiddify-config/wiki/Basic-Concepts)
+📔 [How to monitor server resources on Hiddify](https://github.com/hiddify/hiddify-config/wiki/How-to-monitor-server-resources-on-Hiddify)
 
-📔 [How the fragment works and its usage](https://github.com/hiddify/hiddify-config/wiki/How-the-fragment-works-and-its-usage)
+📔 [How to do speed test on server](https://github.com/hiddify/hiddify-config/wiki/How-to-monitor-server-resources-on-Hiddify)
 
 📔 [How to disable IP version 6 on Hiddify](https://github.com/hiddify/hiddify-config/wiki/How-to-disable-IP-version-6-on-Hiddify)
 
+📔 [TLS setting for increased security](https://github.com/hiddify/hiddify-config/wiki/TLS-setting-for-increased-security)
+
 📔 [How to transfer files between a server and a computer](https://github.com/hiddify/hiddify-config/wiki/How-to-transfer-files-between-a-server-and-a-computer)
+
+📔 [How the fragment works and its usage](https://github.com/hiddify/hiddify-config/wiki/How-the-fragment-works-and-its-usage)
+
+📔 [Basic concepts related to the internet and  using proxies](https://github.com/hiddify/hiddify-config/wiki/Basic-Concepts)
+
+📔 [The correct format of admin link](https://github.com/hiddify/hiddify-config/wiki/The-correct-format-of-admin-link)
+
+
+
+
 
 <br>
 <br>
