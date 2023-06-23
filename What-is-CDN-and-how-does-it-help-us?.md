@@ -30,9 +30,10 @@ Then ping the created subdomain:
 
 <div align=center>
 
-![photo_2023-06-07_20-04-38](https://github.com/hiddify/hiddify-config/assets/125398461/16868a83-6991-43f2-9969-1802801eb12f)
+![244136935-16868a83-6991-43f2-9969-1802801eb12f](https://github.com/hiddify/hiddify-config/assets/125398461/bc5757b6-001a-4b08-a678-5264fe60e51b)
 
 </div>
+
 
 
 As you can see in the image above, the main IP of the server can be identified and filtered easily. In the next test, we enable the proxy option for the created subdomain and compare the results:
