@@ -266,14 +266,14 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 <br>
 <div dir="ltr" align="center">
 
-<!--
 **🎥 Videos related to client software on Desktop**
 
 
-<a href="https://www.youtube.com/watch?v=hVcWJ8Qg1GQ"><img width="32%" src="https://user-images.githubusercontent.com/125398461/235705873-4f6730b7-a23a-4717-95c3-a5a667db1c59.png" /></a>
+<a href="https://www.youtube.com/watch?v=Jnnx1VWMlEs"><img width="32%" src="https://github.com/hiddify/hiddify-config/assets/125398461/846063e3-1827-41bb-b946-8d2687ab5543" /></a>
+<a href="https://www.youtube.com/watch?v=L1VxAcG_7jg"><img width="32%" src="https://github.com/hiddify/hiddify-config/assets/125398461/f107a096-8abe-4f30-a8a6-b2413803dc86" /></a>
 
 
--->
+
 
 
 </div>
