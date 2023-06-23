@@ -89,6 +89,8 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [How to backup and restore panel on Hiddify](https://github.com/hiddify/hiddify-config/wiki/How-to-backup-and-restore-panel-on-Hiddify)
 
+📔 [How to update Hiddify panel](https://github.com/hiddify/hiddify-config/wiki/How-to-update-Hiddify-panel)
+
 <br>
 <div dir="ltr" align="center">
 
@@ -111,30 +113,43 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 ## 📚 Contents related to domain, Worker, CDN and tunneling
 </div>
 
+### Contents related to domain
 📔 [Domain types and how to register them](https://github.com/hiddify/hiddify-config/wiki/Domain-types-and-how-to-register-them)
 
-📔 [Guide for finding a clean Cloudflare IP](https://github.com/hiddify/hiddify-config/wiki/Guide-for-finding-a-clean-Cloudflare-IP)
+### Contents related to CDN
+📔 [What is CDN and how does it help us?](https://github.com/hiddify/hiddify-config/wiki/What-is-CDN-and-how-does-it-help-us%3F)
+
+📔 [How to use Cloudflare CDN](https://github.com/hiddify/hiddify-config/wiki/How-to-use-Cloudflare-CDN)
+
+📔 [How to use GCore CDN](https://github.com/hiddify/hiddify-config/wiki/How-to-use-GCore-CDN-on-Cloudflare-registered-domain)
 
 📔 [Tutorial on automating subdomain registration on Cloudflare](https://github.com/hiddify/hiddify-config/wiki/Get-Cloudflare-API)
 
-📔 [Tutorial for Automatic CDN IP configuration](https://github.com/hiddify/hiddify-config/wiki/Guide-for-using-mode-Auto_CDN_IP-on-Hiddify)
+📔 [How to use AutoCDN IP domain](https://github.com/hiddify/hiddify-config/wiki/Guide-for-using-mode-Auto_CDN_IP-on-Hiddify)
 
-📔 [Tutorial for using wildcard subdomains on Hiddify](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-using-wildcard-subdomains-on-Hiddify)
+📔 [How to use wildcard subdomains on Hiddify](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-using-wildcard-subdomains-on-Hiddify)
 
-📔 [How to use GCore CDN on Cloudflare registered domain](https://github.com/hiddify/hiddify-config/wiki/How-to-use-GCore-CDN-on-Cloudflare-registered-domain)
+📔 [How to use Domain Fronting](https://github.com/hiddify/hiddify-config/wiki/Guide-for-domain-fronting)
 
-📔 [Guide for domain fronting](https://github.com/hiddify/hiddify-config/wiki/Guide-for-domain-fronting)
-
-📔 [Using PHP site for subscription link](https://github-com.translate.goog/hiddify/hiddify-config/discussions/689?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
 📔 [How to manage multiple CDN domains better on Hiddify](https://github-com.translate.goog/hiddify/hiddify-config/discussions/332?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
-📔 [How to determine the IRCF subdomains format according to your needs?](https://github-com.translate.goog/hiddify/hiddify-config/discussions/2009?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+### Contents related to Cloudflare's clean IP
+📔 [What is Cloudflare's clean IP and how to find it](https://github.com/hiddify/hiddify-config/wiki/Guide-for-finding-a-clean-Cloudflare-IP)
 
+📔 [Inserting personal clean IPs based on a specific format](https://github-com.translate.goog/hiddify/hiddify-config/discussions/2009?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+
+### Contents related to subscription link
+📔 [How to create subscription link on Hiddify](https://github.com/hiddify/hiddify-config/wiki/How-to-create-subscription-link-on-Hiddify)
+
+📔 [Using PHP site for subscription link](https://github-com.translate.goog/hiddify/hiddify-config/discussions/689?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+
+### Contents related to Worker
 📔 [How to use the Cloudflare worker domain on Hiddify](https://github.com/hiddify/hiddify-config/wiki/How-to-use-the-Cloudflare-worker-domain-on-Hiddify)
 
 📔 [How to setup and use Cloudflare workers](https://github.com/hiddify/hiddify-config/wiki/How-to-set-up-and-use-Cloudflare-workers)
 
+### Contents related to Relay server and tunneling
 📔 [How to setup relay server using IP Tables tunneling](https://github-com.translate.goog/hiddify/hiddify-config/discussions/129?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
 📔 [How to setup relay server using GOST](https://github-com.translate.goog/hiddify/hiddify-config/discussions/493?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
