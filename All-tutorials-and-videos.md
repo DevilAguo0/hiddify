@@ -137,7 +137,7 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 ### Contents related to Cloudflare's clean IP
 📔 [What is Cloudflare's clean IP and how to find it](https://github.com/hiddify/hiddify-config/wiki/Guide-for-finding-a-clean-Cloudflare-IP)
 
-📔 [Inserting personal clean IPs based on a specific format](https://github-com.translate.goog/hiddify/hiddify-config/discussions/2009?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+📔 [How to use desired clean IPs based on a specific format](https://github-com.translate.goog/hiddify/hiddify-config/discussions/2009?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
 ### Contents related to subscription link
 📔 [How to create subscription link on Hiddify](https://github.com/hiddify/hiddify-config/wiki/How-to-create-subscription-link-on-Hiddify)
