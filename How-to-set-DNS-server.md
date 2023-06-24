@@ -46,4 +46,30 @@ nameserver 8.8.8.8
 nameserver 1.1.1.1
 ```
 * Press `ctrl+s` to save and `ctrl+x` to exit.
-The work is done.
+* Now you have to make this file cannot be changed by the system. For this, use the following command.
+
+```
+chattr +i /etc/resolv.conf
+```
+* The work is done.
+
+## DNS leak test on server
+The easiest tool to test leaks on the server is to use `nslookup`.
+
+- First, if `nslookup` is not installed, install it with this command.
+
+```
+sudo apt install dnsutils
+```
+To test, you must test a domain such as google.com using this tool.
+
+```
+nslookup google.com
+```
+If the output of the command was as follows, it means that the work is done correctly and DNS leak does not happen on the server.
+<div align=center>
+
+![](https://user-images.githubusercontent.com/125398461/248440247-3ef15d0b-54b0-43ce-8be5-a5229054d1fb.png)
+</div>
+
+As you can see, in the `Server` section, the first server, `8.8.8.8`, placed in the settings file, is displayed. Here you should not see anything other than the designated servers. Otherwise, you have to do the above steps correctly again. [Learn more about DNS leaks](https://github-com.translate.goog/hiddify/hiddify-config/discussions/859?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
