@@ -85,6 +85,8 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [How to set up and use Telegram bot on Hiddify panel](https://github.com/hiddify/hiddify-config/wiki/How-to-set-up-and-use-Telegram-bot-on-Hddify-panel)
 
+📔 [How to set up Telegram proxy on Hiddify](https://github.com/hiddify/hiddify-config/wiki/How-to-set-up-Telegram-proxy-on-Hiddify)
+
 📔 [How to activate WARP on the Hiddify panel](https://github.com/hiddify/hiddify-config/wiki/How-to-activate-WARP-on-the-Hiddify-panel)
 
 📔 [How to backup and restore panel on Hiddify](https://github.com/hiddify/hiddify-config/wiki/How-to-backup-and-restore-panel-on-Hiddify)
