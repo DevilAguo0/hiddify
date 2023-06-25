@@ -46,6 +46,13 @@ To do this, check the `Status` of the panel from the `Actions` menu.
 
 The system status is displayed on this page. Also, the status of the warp connection, the IP allocated for the use of the warp traffic is displayed.
 
+> * Note that Warp is always active as a service. That is, here even if you have disabled it in the settings, it will be displayed again.
+
+> * When you disable warp from the settings, traffic will not pass through the service even though it is enabled.
+
+> * If you have entered the limited or unlimited Warp Plus code, the type of service will be displayed as Limited or Unlimited on this page.
+
+
 You can also use the [ipinfo](https://ipinfo.io/) site. If the IP displayed on this page belongs to Cloudflare despite the filter breaker being turned on; In this case, the warp is activated correctly.
 
 <div align=center>
