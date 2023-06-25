@@ -50,7 +50,7 @@ The system status is displayed on this page. Also, the status of the warp connec
 
 > * When you disable warp from the settings, traffic will not pass through the service even though it is enabled.
 
-> * If you have entered the limited or unlimited Warp Plus code, the type of service will be displayed as Limited or Unlimited on this page.
+> * If you have entered the limited or unlimited Warp Plus code, the type of service will be displayed as `Limited` or `Unlimited` on this page.
 
 
 You can also use the [ipinfo](https://ipinfo.io/) site. If the IP displayed on this page belongs to Cloudflare despite the filter breaker being turned on; In this case, the warp is activated correctly.
