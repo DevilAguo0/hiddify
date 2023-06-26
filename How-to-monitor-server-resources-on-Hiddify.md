@@ -76,4 +76,5 @@ The operating system is always in charge of managing the server's resources, and
 ```
 sync && systemctl -w vm.drop_caches=3
 ```
-> Be sure to be root user and then execute this command.
+> Be sure to log in as the root user and then execute this command.
+
