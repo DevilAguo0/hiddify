@@ -78,3 +78,25 @@ sync && systemctl -w vm.drop_caches=3
 ```
 > Be sure to log in as the root user and then execute this command.
 
+## Hard disk management
+- In addition to Hiddify panel dashboard that displays the status of the hard disk, the following command can also be used in the terminal.
+
+```
+df -h --total
+```
+
+whose output is as follows.
+
+<div align=center>
+
+![](https://user-images.githubusercontent.com/125398461/248637861-f3552ab5-a105-40b5-8210-65487903c6ba.png)
+
+</div>
+
+Here, the space related to `sda1` should be checked according to the figure. If for any reason this space was full and you need to free up some space, you can delete the information related to the logs with the following command.
+
+```
+rm-rf /opt/hiddify-config/log/system/*
+```
+
+- The work is done
