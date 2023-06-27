@@ -71,3 +71,19 @@ You can also use the [ip.gs](https://ip.gs/) website, and if Cloudflare's IP is 
 
 
 </div> 
+
+
+
+## How to change IP Warp?
+
+- To do this, SSH to your server; Press ctrl+c and click Cancel to exit Hidify menu.
+
+- Now run this command.
+
+```
+
+bash /opt/hiddify-config/other/warp/change_ip.sh
+
+```
+
+- After that, the assigned IP is changed by Warp. You can see the IP using the method given above.
