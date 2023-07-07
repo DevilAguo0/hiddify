@@ -225,4 +225,93 @@
 #### ۱۰. مشخصات اتصال کنونی
 در این بخش مشخصات اتصال کنونی و پینگ مربوط به آن نمایش داده می‌شود.
 
+
+
+## رفع مشکلات شایع
+### حل مشکل عدم کارکرد کانفیگ های ریالیتی
+درصورتی که بعد از وارد کردن لینک سابسکریپشن با مشکل کار نکردن ریالیتی و یا پینگ `1-` مواجه شدید 
+به `تنظیمات پیشرفته` رفته و از مسیر زیر  `TLS`  را روی `1.3` قرار دهید.
+
+<div dir=ltr>
+
+`Settings > Option Setting > v2rayN settings > Enable Security Protocol TLS v1.3  `
+ 
+</div>
+
+<div align=center>
+
+![V2rayN settings](https://github.com/hiddify/hiddify-config/assets/125398461/1e0df0d2-508e-4a6a-91da-79a015947fd5)
+</div>
+
+و درنهایت `confirm` را بزنید. 
+
+### بهبود عملکرد با آپدیت‌های غیررسمی
+برای بهبود عملکرد و همچنین آپدیت بودن هسته های مورد نیاز برنامه همچون Xray, SingBox به همان مسیر گفته شده بروید. 
+
+<div align=center>
+
+![Pre-release updates](https://github.com/hiddify/hiddify-config/assets/125398461/6bbc59ef-05a8-445d-80df-22222faa1f53)
+
+</div>
+
+گزینه   `Check for pre-release update` را فعال کنید و سپس از طریق گزینه `Check update` هسته‌ها را آپدیت کنید.
+
+<div align=center>
+
+![check for update](https://github.com/hiddify/hiddify-config/assets/125398461/8ea188b9-e240-48a9-96a8-a1473a9346d3)
+
+
+</div>
+
+### رفع نشتی DNS
+برای این کار باید گزینه `TunMode` را فعال کنید و لازمه این کار استفاده از هسته SingBox است. در مسیر زیر بروید.
+
+`Settings > Option Setting > TunMode settings > Stack`
+ماژول `SingBox` را نصب کنید و سپس باید در صفحه اصلی نرم‌افزار زینه `TunMode` را فعال کنید. برای فعال کردن این گزینه نیز همانطور که بالاتر توضیح داده شده، نیاز است برنامه یکبار بسته و سپس به حالت`Run as administrator` باز شود.
+
+### مجزا کردن ترافیک داخلی یا مستقیم کردن ترافیک سایت های داخلی
+اگر علیرغم استفاده از پروفایل‌ `Lite` یا سبزرنگ که در پنل آماده شده است، نیاز داشتید که ترافیک سایت دیگری را بدون عبور از فیلترشکن به مقصد بفرستید، به دو روش می‌توانید این کار را انجام دهید.
+
+#### با استفاده از تنظیمات System proxy
+
+برای این کار به این مسیر بروید.
+
+<div dir=ltr>
+
+`Settings > Option Setting > v2rayN settings > System proxy settings`
+
+</div>
+
+در اینجا آدرس‌های مورد نظر خود را که می‌خواهید از فیلترشکن عبور نکنند وارد کنید. بین هر آدرس از `;` استفاده نمایید.
+
+<div align=center>
+
+![proxy settings](https://github.com/hiddify/hiddify-config/assets/125398461/4c3a9fe5-d641-41e6-8bd1-bd7bfdee19d2)
+
+</div>
+
+> نکته: برای وارد کردن آدرس‌ها به جای `https://tamin.ir` از `tamin.ir` استفاده نمایید.
+
+#### استفاده از تنظیمات Routing
+برای این کار به مسیر زیر بروید.
+
+<div dir=ltr>
+
+` Settings > Routing setting`
+
+</div>
+
+<div align=center>
+
+![Routing settings](https://github.com/hiddify/hiddify-config/assets/125398461/acbd0ec2-104a-4b69-a69b-7f37f35ce5a6)
+
+</div>
+
+همانطور که می‌بینید با امیپورت کردن پروفایل Lite یا سبزرنگ، رول‌های عبور سایت‌های داخلی در اینجا اضافه شده‌اند. اگر خواستید این حالت را به صورت دستی انجام دهید و سایت‌های مدنظر خود را قرار دهید، 
+* برای این کار گزینه enable `Enable advanced function` را خاموش کنید.
+*  سپس گزینه `direct domain or IP` را انتخاب کنید.
+* می‌توانید دامنه مورد نظر خود را وارد کنید. برای جداسازی چندین سایت از `,` استفاده نمایید.
+* می‌توانید از طریق گزینه `block domain or ip` دامنه های مورد نظرو خود را بلاک کنید.
+
+
 </div>
