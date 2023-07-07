@@ -264,7 +264,17 @@
 </div>
 
 ### رفع نشتی DNS
-برای این کار باید گزینه `TunMode` را فعال کنید و لازمه این کار استفاده از هسته SingBox است. در مسیر زیر بروید.
+
+* برای این کار باید گزینه `TunMode` را فعال کنید و لازمه این کار استفاده از هسته SingBox است. بنابراین در صفحه اصلی برنامه با استفاده از دکمه `Check update` هسته SingBox را دانلود کنید.
+
+
+<div align=center>
+
+![SingBox core](https://github.com/hiddify/hiddify-config/assets/125398461/c2f94432-0168-40e9-8d8d-43baa2faf0f7)
+
+</div>
+
+* سپس به مسیر زیر بروید.
 
 <div dir=ltr>
 
