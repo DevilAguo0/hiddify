@@ -5,13 +5,26 @@
 </div>
 
 # How to Reset Hiddify panel to default
-In this article, we are going to teach how to raw the HiFi panel (complete reset of the panel and database) similar to the initial installation. If you intend to return the Hidify panel to its initial settings, this tutorial is prepared for you. Follow these steps to the end.
+In this article, we are going to teach how to raw the Hiddify panel (complete reset of the panel and database) similar to the initial installation. If you intend to return the Hiddify panel to its initial settings, this tutorial is prepared for you. Follow these steps to the end.
 
-     To begin, first SSH into your server.
-     Then, by using the combination keys ctrl+c or selecting the Cancel button, close the Hidify menu to access the terminal (command line environment) of your server.
+* To begin, first [SSH into your server](https://github.com/hiddify/hiddify-config/wiki/How-to-connect-to-server-via-SSH).
+* Then, by using the combination keys `ctrl+c` or selecting the `Cancel` button, close the Hidیify menu to access the terminal (command line environment) of your server.
 
-     If after performing these steps, the Hidify menu is still displayed to you, type the word clear and press enter.
+* If after performing these steps, the Hiddify menu is still displayed to you, type the word `clear` and press enter.
 
-     It should be mentioned here that if you need to back up your panel, make a backup of the settings-backup before proceeding.
+> It should be mentioned here that if you need to backup your panel, make a backup of the settings-backup before proceeding.
+* Then enter this command in the terminal of your server to completely delete the current database:
 
-     Then enter this command in the terminal of your server to completely delete the current database:
+```
+rm -rf /opt/hiddify-config/hiddifypanel/hiddifypanel.db
+```
+* Then open the menu again using the following command:
+
+```
+bash /opt/hiddify-config/menu.sh
+```
+
+* And select `Reinstall` option from the Hiddify menu and wait for the panel to be reinstalled.
+* After finishing, you can access the new panel and configure it using the displayed admin links.
+
+In this method, after the re-installation is finished, the panel will be completely retested and similar to the initial installation.
