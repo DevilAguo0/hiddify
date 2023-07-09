@@ -184,7 +184,7 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [How to connect and troubleshoot via SSH](https://github.com/hiddify/hiddify-config/wiki/How-to-connect-to-server-via-SSH)
 
-📔 [How to set DNS server](https://github.com/hiddify/hiddify-config/wiki/How-to-set-DNS-server)
+📔 [How to set DNS server on Hiddify](https://github.com/hiddify/hiddify-config/wiki/How-to-set-DNS-server)
 
 📔 [How to check DNS leakage and the way to solve it](https://github-com.translate.goog/hiddify/hiddify-config/discussions/859?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
