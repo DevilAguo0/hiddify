@@ -282,12 +282,19 @@
 
 </div>
 
+<div align=center>
+
+![TunMode settings](https://github.com/hiddify/hiddify-config/assets/125398461/af2b9542-e8b2-49e9-932e-b247ef8dc5af)
+
+
+</div>
+
 * سپس گزینه `Strict Route` را فعال کنید.
 * گزینه `Stack` را روی `System` قرار دهید.
 * حالا دکمه `TunMode` را از صفحه اصلی فعال کنید.
 > نکته: برای فعال کردن دکمه `TunMode` باید حتما برنامه به صورت `Run as administrator` باز شود.
 
-> نکته: اگر TunMode برای شما به هر دلیلی کار نکرد گزینه `Stack` روی `gvisor` قرار بدید 
+> نکته: اگر `TunMode` برای شما به هر دلیلی کار نکرد گزینه `Stack` روی `gvisor` قرار بدید 
 
 <!--
 ماژول `SingBox` را نصب کنید و سپس باید در صفحه اصلی نرم‌افزار گزینه `TunMode` را فعال کنید. برای فعال کردن این گزینه نیز همانطور که بالاتر توضیح داده شده، نیاز است برنامه یکبار بسته و سپس به حالت`Run as administrator` باز شود.
