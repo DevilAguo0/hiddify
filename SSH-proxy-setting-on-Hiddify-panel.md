@@ -43,5 +43,5 @@ Now, if you go to your user page in the panel, you will see that the SSH configu
 
 </div>
 
-To use this proxy in the client, you must currently use the SingBox app, which is explained in this tutorial.
+To use this proxy in the client, you must currently use the SingBox app, which is explained in [this tutorial](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-SingBox-app).
 
