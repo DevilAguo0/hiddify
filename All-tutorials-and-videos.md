@@ -93,6 +93,8 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [How to update Hiddify panel](https://github.com/hiddify/hiddify-config/wiki/How-to-update-Hiddify-panel)
 
+📔 [How to setup SSH proxy on Hiddify panel](https://github.com/hiddify/hiddify-config/wiki/SSH-proxy-setting-on-Hiddify-panel)
+
 <br>
 <div dir="ltr" align="center">
 
