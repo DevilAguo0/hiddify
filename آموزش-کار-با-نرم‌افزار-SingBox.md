@@ -13,7 +13,7 @@
 - [iOS](https://apps.apple.com/us/app/sing-box/id6451272673)
 
 ## افزودن پروکسی SSH به برنامه
-- ابتدا این مقاله را مطالعه کنید تا با نحوه فعال‌سازی این پروکسی آشنا شوید.
+- ابتدا [این مقاله](https://github.com/hiddify/hiddify-config/wiki/%D8%AA%D9%86%D8%B8%DB%8C%D9%85-%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C-SSH-%D8%AF%D8%B1-%D9%BE%D9%86%D9%84-%D9%87%DB%8C%D8%AF%DB%8C%D9%81%D8%A7%DB%8C) را مطالعه کنید تا با نحوه فعال‌سازی این پروکسی آشنا شوید.
 - سپس در برنامه به منوی `Profiles` بروید.
 
 <div align=center>
