@@ -35,7 +35,7 @@ Here you can enable or disable the SSH proxy.
 
 ## Use config to connect
 
-Now, if you go to your user page in the panel, you will see that the SSH configuration has been added to the previous configurations. This configuration can be added to client software through the subscription link and separately.
+Now, if you go to your user page in the panel, you will see that the SSH configuration has been added to the previous configurations. This configuration can be added to client app separately.
 
 <div align=center>
 
