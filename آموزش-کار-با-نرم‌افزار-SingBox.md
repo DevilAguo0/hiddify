@@ -30,7 +30,7 @@
 
 </div>
 
-- Type را روی Remote قرار دهید.
+- `Type` را روی `Remote` قرار دهید.
 
 <div align=center>
 
