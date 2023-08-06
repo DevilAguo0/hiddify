@@ -49,7 +49,7 @@ nameserver 1.1.1.1
 * Now you have to make this file cannot be changed by the system. For this, use the following command.
 
 ```
-chattr +i /etc/resolv.conf
+chattr +I -f /etc/resolv.conf
 ```
 * The work is done.
 
