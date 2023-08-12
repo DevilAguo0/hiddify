@@ -12,6 +12,7 @@ Follow the links below to download the program.
 
 - [Android](https://install.appcenter.ms/users/nekohasekai/apps/sfa/distribution_groups/publictest)
 - [iOS](https://apps.apple.com/us/app/sing-box/id6451272673)
+- [Windows](https://github.com/yebekhe/SingBox-UI)
 
 ## Add SSH proxy to the app
 
