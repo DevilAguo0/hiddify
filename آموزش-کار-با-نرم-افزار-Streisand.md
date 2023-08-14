@@ -10,18 +10,52 @@
 برای نصب اپلیکیشن می توان از [اینجا](https://apps.apple.com/us/app/streisand/id6450534064) آن را دانلود و نصب نمود.
 
 ## افزودن لینک سابسکریپشن
-برای این کار به پنل کاربری خود بروید و در قسمت `تمام کانفیگ‌ها`، بخش مربوط به `لینک برای Subscription b64` را باز نمایید.
+برای این کار ۲ راه وجود دارد.
+
+### کپی کردن لینک سابسکریپشن
+
+* برای این کار به پنل کاربری خود بروید و در قسمت `تمام کانفیگ‌ها`، بخش مربوط به `لینک برای Subscription b64` را باز نمایید.
 
 <div align=center>
 
-<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/1008f944-78cd-4c85-8e4c-5e265675ecc6" />
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/5fb09864-81c6-4665-b75c-01988fb7fa81" />
 
 </div>
 
 
-حالا می‌توانید QR code را کپی کنید.
+* حالا می‌توانید QR code را `کپی` کنید.
 
 
 <div align=center>
 
 <img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/b8a76e41-4db4-45ac-be27-856f6ec9182e" />
+
+</div>
+
+* وارد نرم‌افزار شوید و دکمه `+` را بزنید.
+
+
+<div align=center>
+
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/78fe4b65-d7f7-4d16-b185-82f8dd67a135" />
+
+</div>
+
+* سپس سابسکریپشن به نرم‌افزار اضافه می‌گردد و کانفیگ‌ها لود می‌شوند.
+
+### اسکن کردن لینک سابسکریپشن
+
+* می‌توان به جای کپی لینک سابسکریپشن، QR code را اسکن نمود.
+
+<div align=center>
+
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/b8a76e41-4db4-45ac-be27-856f6ec9182e" />
+
+</div>
+
+
+
+
+
+
+
