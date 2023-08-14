@@ -18,3 +18,10 @@
 
 </div>
 
+
+حالا می‌توانید QR code را کپی کنید.
+
+
+<div align=center>
+
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/b8a76e41-4db4-45ac-be27-856f6ec9182e" />
