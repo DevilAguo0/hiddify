@@ -22,9 +22,10 @@ There are 2 ways to do this.
 
 <div align=center>
 
-<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/bd66d65a-d914-412b-bbb0-39b05becd5b0" />
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/09e30aeb-7c73-4235-ab0d-64c1c446f6d2" />
 
 </div>
+
 
 
 * Now you can `Copy` the QR code.
