@@ -47,13 +47,37 @@
 
 * می‌توان به جای کپی لینک سابسکریپشن، QR code را اسکن نمود.
 
+
 <div align=center>
 
-<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/b8a76e41-4db4-45ac-be27-856f6ec9182e" />
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/fe4de484-3136-4531-8292-c961e26d838e" />
 
 </div>
 
 
+* در نرم‌افزار دکمه `+` را بزنید و گزینه `Scan QRCode` را بزنید و QR code را اسکن نمایید.
+
+
+<div align=center>
+
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/58c97e17-3cfa-4c40-9b2d-01de70b1e40d" />
+
+</div>
+
+* سپس سابسکریپشن به نرم‌افزار اضافه می‌گردد و کانفیگ‌ها لود می‌شوند.
+
+## تنظیمات Subscription
+برای این کار روی سابسکریپشن اضافه شده به نرم‌افزار تپ کنید و نگه دارید. گزینه‌های زیر ظاهر می‌شوند.
+
+<div align=center>
+
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/52954cdf-5c76-4fbe-8adb-8371d7fa6747" />
+
+</div>
+
+
+
+### 
 
 
 
