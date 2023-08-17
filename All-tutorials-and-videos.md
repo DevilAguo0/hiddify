@@ -102,8 +102,7 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 
 <a href="https://www.youtube.com/watch?v=nOe7FhajX3g"><img width="32%" src="https://github.com/hiddify/hiddify-config/assets/125398461/661b1164-aca9-4ef6-bce8-781ab2970040" /></a>
-
-
+<a href="https://www.youtube.com/watch?v=eFNPBSy8_to"><img width="32%" src="https://github.com/hiddify/hiddify-config/assets/125398461/59808c2f-3894-47f7-ab7b-b50c3dbb3d68" /></a>
 
 </div>
 <br>
