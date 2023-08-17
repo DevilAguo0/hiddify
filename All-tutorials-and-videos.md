@@ -303,6 +303,8 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [Tutorial for HiddifyClashDesktop software](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-HiddifyClashDesktop-software)
 
+📔 [Tutorial for QV2ray software](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-QV2ray-software)
+
 <br>
 <div dir="ltr" align="center">
 
