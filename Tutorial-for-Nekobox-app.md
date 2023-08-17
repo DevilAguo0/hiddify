@@ -5,4 +5,4 @@
 </div>
 
 
-# Tutorial for Nekobox software
+# Tutorial for Nekobox app
