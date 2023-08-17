@@ -229,6 +229,10 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [Tutorial for V2rayNG app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-V2rayNG-app)
 
+📔 [Tutorial for Sing-box app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-SingBox-app)
+
+📔 [Tutorial for Nekobox app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-Nekobox-app)
+
 <br>
 <div dir="ltr" align="center">
 
@@ -266,6 +270,9 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [Tutorial for V2Box app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-V2Box-app)
 
+📔 [Tutorial for Streisand](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-Streisand)
+
+📔 [Tutorial for Sing-box app](https://github.com/hiddify/hiddify-config/wiki/Tutorial-for-SingBox-app)
 
 <br>
 <div dir="ltr" align="center">
