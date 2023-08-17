@@ -48,8 +48,8 @@
 
 * گزینه `group type` را روی `subscription` قرار دهید.
 * روی `subscription link` بزنید و لینک سابسکریپشن خود را وارد کنید.
-* گزینه `force resolve` و `auto update` را فعال کنید.
-`group` ساخته شده را ذخیره کنید و صبر کنید تا اپدیت تمام شود.
+* گزینه‌های `force resolve` و `auto update` را فعال کنید.
+* `group` ساخته شده را ذخیره کنید و صبر کنید تا اپدیت تمام شود.
 
  
 <div align=center>
