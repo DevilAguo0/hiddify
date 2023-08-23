@@ -210,3 +210,22 @@ Now click on the created load balancer and tap `Test`. With this, the load balan
 
 <img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/819da751-8a46-4ab3-88e2-00a5e0b3f724" />
 </div>
+
+
+## Fixed the problem of some sites not opening
+
+If some sites or applications do not open for you or Telegram gifs do not open, make the following settings to fix it.
+
+* Go to the `Settings` menu.
+
+* Enter the `TCP` section.
+
+* Set `TLS` to `Network`.
+
+* Set `Fingerprint` to `Safari15_5`.
+
+* Set `Max Read Length` to `16384`.
+
+* Then go to `Home`.
+
+* Set `Global Routing` to `Proxy`.
