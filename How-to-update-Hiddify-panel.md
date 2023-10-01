@@ -20,17 +20,22 @@ In the panel, go to the Actions menu and click `Update`.
 This may take between 5 and 10 minutes, after which the operation will finish and the panel will be updated with the latest update.
 
 
+
 ## Change the update mode
 
-If you need to change the update mode, you can choose one of the `Release` and `Develop` versions and then `update`.
+If you need to change the update mode, you can choose one of the `Release`, `Beta` and `Develop` versions and then `update`.
 
 
 <div align=center>
 
-![update mode](https://github.com/hiddify/hiddify-config/assets/125398461/49672932-a561-459b-9078-ff8b3ec6b8e3)
+![update mode](https://github.com/hiddify/Hiddify-Server/assets/125398461/dd430784-7e78-4dd3-b549-67f653c02f45)
 
 
 </div>
+
+For example, in the above picture, set the update mode to the `Beta` mode and click `Submit`.
+
+Then select the `Update` option from the `Actions` menu. After about 5 minutes, the panel will be updated to the version you want.
 
 ## Automatic update settings in the panel
 
