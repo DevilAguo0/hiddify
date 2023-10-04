@@ -3,17 +3,20 @@
 [**![flag_of_Iran](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) &nbsp;فارسی**](https://github.com/hiddify/hiddify-config/wiki/%D9%86%D8%B5%D8%A8-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D8%A7%D9%88%D8%A8%D9%88%D9%86%D8%AA%D9%88)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hiddify/hiddify-config/wiki/All-tutorials-and-videos"><img width="100" src="https://github.com/hiddify/hiddify-config/assets/125398461/8ac5b906-105c-4b98-acf5-0e12e39e33f6" /></a>
 </div>
 
+# Quick installation on Ubuntu
 
-# Before installation
+## Before installation
 
 If you have important information or an important service, note that installing this configuration may interfere with your other services. Therefore, please do not install any special service on your server.
 
 This code is only applicable on Ubuntu and has been tested only on version 20.04 and 22.04.
 
+## Installation prerequisites
+Before installation, you need a series of prerequisites which you can read them [here](https://github.com/hiddify/Hiddify-Server/wiki/Installation-prerequisites). 
 
 
 
-Complete installation training video
+## Complete installation training video
 
 In the video below, all the steps are described in full detail. This video is in Farsi and if you watch the steps you can handle that. Although We are considering making some English videos for non-Persian people, till then you can visit this or follow the instructions in this article.
 
@@ -24,7 +27,7 @@ In the video below, all the steps are described in full detail. This video is in
 </a>
 </div>
 
-# Installation steps on Ubuntu
+## Installation steps on Ubuntu
 1. Connect to your server through ssh and copy and run the following command in the terminal
 
 ```
