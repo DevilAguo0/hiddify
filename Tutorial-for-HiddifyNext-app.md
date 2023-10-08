@@ -182,46 +182,100 @@ It means that it has x or executable permission and you can run it easily. Other
 
 ## Adding a profile to the app
 - First, open the link related to your user in the panel.
-- The following page is visible. By clicking to apply the filter, the link related to your profile will be loaded in the app.
+- The following page is visible. By clicking on `Tap to Start Anti-Filter`, the link related to your profile will be loaded in the app.
 
-- If profile link is not added automatically, this page will open. Just click on copy link to copy the profile link.
+<div align=center>
 
+<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/d39e775c-4817-427b-b11c-6161ecffc81f">
+
+</div>
+
+
+- If profile link is not added automatically, this page will open. Just click on `Copy Link` to copy the profile link.
+
+<div align=center>
+
+<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/e921e0a0-1034-456b-bc9c-fd59fd55503e">
+
+</div>
 
 - Now enter the program and tap on the `+` button on the top left on the `Home` menu, so that the page of adding a new profile appears.
 
 
+<div align=center>
+
+<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/279924ad-9f16-424f-9133-b5096329030a">
+
+</div>
 
 - You can add the copied link in two ways on this page.
 
-> Method 1: Click `Add from Clipboard`. The copied link will be added automatically.
+> Method 1: Click `Add from clipboard`. The copied link will be added automatically.
+
+<div align=center>
+
+<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/e515d2d7-886f-4e33-9764-76b4398fc83b">
+
+</div>
 
 
+> Method 2: Click on `Add manually`, on the next page enter a desired name in the `Name` field and copy the link in the `URL` field. Then hit the `Save` button.
 
-> Method 2: Click on `Add manually`, on the next page enter a desired name in the `Name` field and copy the link in the `Link` field. Then hit the `Save` button.
+<div align=center>
+
+<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/2931f4c9-c2af-4d61-b0a9-40af563b248f">
+
+</div>
+
 
 ## Add single configs
 
 - For this, go to the user page and click on `All Configs`.
+
+<div align=center>
+
+<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/92912b97-38bb-4973-a48d-44a29613598e">
+
+</div>
 
 
 
 - In the displayed list, select the single config you want.
 - Click `Copy` to copy the config.
 
+<div align=center>
+
+<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/eb4d7cf9-4f1f-4910-acc8-1c7d545ee1eb" />
+
+</div>
 
 - Enter the program and click the `+' button. 
 - Tap `Add from clipboard`.
 
+<div align=center>
+
+<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/e515d2d7-886f-4e33-9764-76b4398fc83b">
+
+</div>
 
 - The config is added to the program.
 
-## Working with app
+## Working with the app
 
 ### Connect to the VPN
-- When the profile is added, you will see this on the home page.
+- When the profile is added, you will see this on the `Home` page.
 
+<div align=center>
+
+<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/a69b2807-d9df-4a03-b48f-6f96f21ff377">
+</div>
 
 - Just click on the connection button in the middle of the screen to connect the VPN.
+
+<div align=center>
+
+<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/484b1f82-63d8-4a9b-b72d-fb78f8ac6da6">
+</div>
 
 
 ## Checking and testing proxies
@@ -244,11 +298,17 @@ It means that it has x or executable permission and you can run it easily. Other
 
 * In the `Settings` menu, you can see the `General` settings.
 
+<div align=center>
+
+<img width=60% alt="General-settings" src="https://github.com/hiddify/Hiddify-Server/assets/125398461/4a00ed21-8988-419e-86a2-4ba102d8893f">
+</div>
+
+
 * You can change the language of the software using the `Language` menu.
 * By using `Theme Mode` you can choose your desired theme from dark, light or device mode.
-* The `True Black` button makes the device theme deeply black.
-* The `run at system startup` button is used to run the program when the operating system starts up for the first time.
-* The `quiet execution` button causes a window not to be displayed when the software is running, and the software is only displayed in the bottom toolbar after execution.
+* The `Pure Black` button makes the device theme deeply black.
+* The `Start on Boot` button is used to run the program when the operating system starts up for the first time.
+* The `Silent Start` button causes a window not to be displayed when the software is running, and the software is only displayed in the bottom toolbar after execution.
 
 ## Advanced settings
 ### Enabling TUN
@@ -304,8 +364,13 @@ sudo ~/Downloads/hiddify-linux-x64.AppImage
 
 
 - Now that the program is opened with admin or root access level, just go to the `Settings` menu.
-- Enter the `configuration settings` in the `Advanced` section.
-- Turn on `TUN mode` button.
+- Enter the `Config Options` in the `Advanced` section.
+- Turn on `Enable TUN` button.
 
+<div align=center>
+
+<img width=60% alt="advanced-setting" src="https://github.com/hiddify/Hiddify-Server/assets/125398461/d624876a-bca9-4d52-b169-cf8f42b86f70">
+
+</div>
 
 - Now go to the `Home` menu and tap the `Connect button` until it turns green.
