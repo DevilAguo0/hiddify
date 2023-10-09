@@ -20,7 +20,10 @@ For reading the tutorial follow this article.
 Choose one of the following based on your operating system.
 
 <br>
-
+<div align=center>
+ <a href="https://play.google.com/store/apps/details?id=app.hiddify.com"><img width=20% src="https://github.com/hiddify/hiddify-next/blob/main/docs/google-play-badge.png"></a>
+</div>
+<br>
 <details markdown="1"> <summary><b>Install on Windows</b> (click)</summary>
 
 - First download the program from [here](https://app.hiddify.com/win).
