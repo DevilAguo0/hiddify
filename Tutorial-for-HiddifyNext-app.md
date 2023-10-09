@@ -28,7 +28,7 @@ Choose one of the following based on your operating system.
 - Now run the downloaded file. This Windows security message will appear and you must click `Yes`.
 
 <div align=center>
-<img width=30% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/3ff20f7c-7626-4c41-90ec-97d875414607">
+<img width=30% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/e4174de0-10b5-4b46-9baf-2e302162da5a">
 
 </div>
 
@@ -49,14 +49,15 @@ Choose one of the following based on your operating system.
 - In the next step, it displays the installation location of the program, which you can change if needed and click `Next`.
 
 <div align=center>
-<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/cd2e1402-8907-4802-bc40-407b062cf3c1">
+
+<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/7196a86f-3f74-4177-b611-19b484e0da9a">
 
 </div>
 
 - At this stage, it asks you for more settings, such as creating a shortcut on the desktop and enabling Automatically start the app. You can choose the options you want and click `Next`.
 
 <div align=center>
-<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/663dc815-3ac6-42ee-84ec-fd1c4723fcb3">
+<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/bcac0d1e-f8d8-46d9-bedc-4fe04571a504">
 
 </div>
 
@@ -64,25 +65,27 @@ Choose one of the following based on your operating system.
 
 <div align=center>
 
-<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/e8cd2167-7a7d-4c9e-b0fc-ee08e8b72840">
+<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/980314df-c907-407c-aa4d-a94d4d492b66">
 
 </div>
 
 - In this way, the program starts to install.
 
-<div align=center>
-
-<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/a59955f8-c0ec-4996-ac95-97e52a9b48ab">
-
-</div>
-
-- At the end of the installation, the following window will appear, click Finish.
 
 <div align=center>
 
-<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/9633aa27-e780-4c00-a7bf-51c1b7403412">
+<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/1aee90d0-dde1-4bf8-b673-058fc0e9204a">
 
 </div>
+
+- At the end of the installation, the following window will appear, click `Finish`.
+
+<div align=center>
+
+<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/4a8849c5-24f0-4376-be4d-355eb754f395">
+
+</div>
+
 
 - Now the program is running. If it does not run, run its shortcut on the desktop.
 
@@ -99,6 +102,12 @@ Choose one of the following based on your operating system.
 
 
 - In the next step, the program will open.
+
+<div align=center>
+
+<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/9ff5d21c-7fbf-4183-96bb-acd12cebf2a8">
+
+</div>
 
 - The next time you run the program, you will always face this page and the previous steps will not be needed.
 
@@ -302,9 +311,36 @@ It means that it has x or executable permission and you can run it easily. Other
 <img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/484b1f82-63d8-4a9b-b72d-fb78f8ac6da6">
 </div>
 
+- If you need to update your profile, click on this button.
+
+<div align=center>
+
+<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/e5faed5f-c373-4acb-a33b-991599e2be5a">
+</div>
+
+
+- If you need to change the profile, click on the profile section and select the desired profile from the opened list.
+
+<div align=center>
+
+<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/18f8e9e1-34b8-4a3f-b7bd-a70c9f9d9404">
+</div>
+
+- In this section you can edit profiles.
+
+<div align=center>
+
+<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/c5520e82-aeae-4213-b55b-ecce33bfed0e">
+</div>
+
 
 ## Checking and testing proxies
 - To view the proxies, first connect the VPN. Then go to the `Proxies` menu.
+
+<div align=center>
+
+<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/919020e5-0ed6-4523-8f2f-ece7e6d74219">
+</div>
 
 
 - On this page, the proxies or configs related to the profile, are displayed or you can see the individual configs added to the software.
@@ -313,10 +349,19 @@ It means that it has x or executable permission and you can run it easily. Other
 - Along with these proxies, their delay is also displayed.
 - If you need to test the delay, you should click on its button at the bottom right.
 
+<div align=center>
+
+<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/265bd648-4716-4791-80d4-666a2dc4b0b7">
+</div>
 
 
 
 - You can sort the proxies by name or test result with the upper right button.
+
+<div align=center>
+
+<img width=60% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/95ca6072-96b5-4282-be66-bc8980befded">
+</div>
 
 
 ## General settings
