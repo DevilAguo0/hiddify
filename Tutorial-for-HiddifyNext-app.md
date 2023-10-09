@@ -31,6 +31,21 @@ Choose one of the following based on your operating system.
 <img width=30% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/3ff20f7c-7626-4c41-90ec-97d875414607">
 
 </div>
+
+- In Windows 11, a warning may be displayed like this, click on `More info`.
+
+<div align=center>
+<img width=40% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/8a3bc452-004d-4be7-a9bb-21aad90db7fc">
+
+</div>
+
+- Then click `Run Anyway` to open the file.
+
+<div align=center>
+<img width=40% src="https://github.com/hiddify/Hiddify-Server/assets/125398461/36293a7c-f56a-4811-8302-474874654b70">
+
+</div>
+
 - In the next step, it displays the installation location of the program, which you can change if needed and click `Next`.
 
 <div align=center>
