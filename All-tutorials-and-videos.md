@@ -17,6 +17,8 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📚 [Contents related to basic concepts and troubleshooting](#-contents-related-to-basic-concepts-and-troubleshooting)
 
+📚 [Contents related to HiddifyNext App](#-contents-related-to-hiddifynext-app)
+
 📚 [Contents related to client software on Android](#-contents-related-to-client-software-on-android)
 
 📚 [Contents related to client software on iOS](#-contents-related-to-client-software-on-ios)
@@ -210,6 +212,35 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 
 
+
+<br>
+<br>
+
+***
+<br>
+<br>
+<div dir="ltr" align=center>
+
+## 📚 Contents related to HiddifyNext App
+</div>
+
+📔 [Tutorial for HiddifyNext app](https://github.com/hiddify/Hiddify-Server/wiki/Tutorial-for-HiddifyNext-app)
+
+
+<br>
+<div dir="ltr" align="center">
+
+
+**🎥 Videos related to HiddifyNext App** (coming soon)
+
+<!--
+<a href="https://www.youtube.com/watch?v=hVcWJ8Qg1GQ"><img width="32%" src="https://user-images.githubusercontent.com/125398461/235705873-4f6730b7-a23a-4717-95c3-a5a667db1c59.png" /></a>
+-->
+
+
+
+
+</div>
 
 <br>
 <br>
