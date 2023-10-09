@@ -4,6 +4,16 @@
 </div>
 
 # Tutorial for HiddifyNext app
+This app is a multi-platform client based on Sing-box that serves as a universal proxy toolchain. This app offers a wide range of capabilities. It also supports a large number of protocols. The app is free to use, ad-free, and open-source. It provides a secure and private tool for getting access to the free internet.
+
+🚀 Supporting a wide range of protocols such as: 
+**ECH, Sing-box, V2ray, Xray, Vless, Vmess, Trojan, Reality, gRPC, WebSocket, Quic, TUIC, Hysteria, Hysteria2, Shadowtls, SSH, Clash, Clash meta**
+
+🟡 Supporting different subscription links like: **Clash, Sing-box, Shadowsocks**
+
+⭐ **[View more features](https://github.com/hiddify/hiddify-next/blob/main/README.md#-main-features)** 
+
+For reading the tutorial follow this article. 
 
 ## Software installation
 
