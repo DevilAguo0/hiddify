@@ -15,7 +15,7 @@
 
 ## Welcome to wiki page Hiddify-Manager
 
-Hiddify is a powerful and professional anti-censorship toolbox. The appropriate and detailed information of features and protocols are accessible [here in code section](https://github.com/hiddify/hiddify-config/blob/main/README.md). This page contains installation and tutorial guides related to this project.
+Hiddify-Manager is a powerful and professional anti-censorship toolbox. The appropriate and detailed information of features and protocols are accessible [here in code section](https://github.com/hiddify/hiddify-config/blob/main/README.md). This page contains installation and tutorial guides related to this project.
 
 
 
