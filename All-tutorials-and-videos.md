@@ -227,7 +227,9 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 ## 📚 Contents related to HiddifyNext App
 </div>
 
-📔 [Tutorial for HiddifyNext app](https://github.com/hiddify/Hiddify-Server/wiki/Tutorial-for-HiddifyNext-app)
+📔 [How to install HiddifyNext app](https://github.com/hiddify/hiddify-next/wiki/How-to-install-HiddifyNext-app)
+
+📔 [How to use HiddifyNext app](https://github.com/hiddify/hiddify-next/wiki/How-to-use-HiddifyNext-app)
 
 
 <br>
