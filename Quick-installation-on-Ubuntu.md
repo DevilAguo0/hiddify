@@ -31,7 +31,7 @@ In the video below, all the steps are described in full detail. This video is in
 1. Connect to your server through ssh and copy and run the following command in the terminal
 
 ```
-sudo apt update&&sudo apt install curl&& sudo bash -c "$(curl -Lfo- https://raw.githubusercontent.com/hiddify/hiddify-config/main/common/download_install.sh)"
+sudo apt update&&sudo apt install -y curl&& sudo bash -c "$(curl -Lfo- https://raw.githubusercontent.com/hiddify/hiddify-config/main/common/download_install.sh)"
 ```
 
 Congratulations, the installation is complete. 
