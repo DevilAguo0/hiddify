@@ -21,7 +21,7 @@ Before you disable password authentication, make sure you have key-based authent
    ```
    If you can log in without being prompted for a password, key-based authentication is working.
 
-# Warning! If the last step has error, do not start the Step 2
+# Warning! If the last step has error, do not start Step 2
 ### Step 2: Edit the SSH Configuration File
 
 1. **Access the SSH Configuration File**:
