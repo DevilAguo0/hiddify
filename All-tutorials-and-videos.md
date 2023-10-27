@@ -202,6 +202,8 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [How to disable IP version 6 on Hiddify](https://github.com/hiddify/hiddify-config/wiki/How-to-disable-IP-version-6-on-Hiddify)
 
+📔 [Disabling SSH Password Authentication on SSH](https://github.com/hiddify/Hiddify-Manager/wiki/Disable-SSH-Password-Authentication)
+
 📔 [TLS setting for increased security](https://github.com/hiddify/hiddify-config/wiki/TLS-setting-for-increased-security)
 
 📔 [How to transfer files between a server and a computer](https://github.com/hiddify/hiddify-config/wiki/How-to-transfer-files-between-a-server-and-a-computer)
@@ -212,7 +214,6 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [The correct format of admin link](https://github.com/hiddify/hiddify-config/wiki/The-correct-format-of-admin-link)
 
-📔 [Disabling SSH Password Authentication on SSH](https://github.com/hiddify/Hiddify-Manager/wiki/Disable-SSH-Password-Authentication)
 
 
 
