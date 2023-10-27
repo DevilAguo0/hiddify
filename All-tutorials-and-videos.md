@@ -212,7 +212,7 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [The correct format of admin link](https://github.com/hiddify/hiddify-config/wiki/The-correct-format-of-admin-link)
 
-
+📔 [Disabling SSH Password Authentication on SSH](https://github.com/hiddify/Hiddify-Manager/wiki/Disable-SSH-Password-Authentication)
 
 
 
