@@ -20,7 +20,7 @@ Before installation, you need a series of prerequisites:
   - 1 GB Ram
   - 1 Core CPU
   - 10 GB Storage
-- The operating system of this virtual server must be Ubuntu 22.04 or 20.04. Ubuntu is a distribution of Linux operating system whose logo is like this. ![](https://img.shields.io/badge/Ubuntu--E95420?style=flat-square&logo=ubuntu)
+- The operating system of this virtual server must be Ubuntu 22.04. Ubuntu is a distribution of Linux operating system whose logo is like this. ![](https://img.shields.io/badge/Ubuntu--E95420?style=flat-square&logo=ubuntu)
 
 - Then if you need to connect to your server via SSH please visit [this link](https://github.com/hiddify/hiddify-config/wiki/How-to-connect-to-server-via-SSH) for more information.
 
