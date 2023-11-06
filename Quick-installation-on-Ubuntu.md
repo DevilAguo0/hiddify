@@ -9,7 +9,7 @@
 
 If you have important information or an important service, note that installing this configuration may interfere with your other services. Therefore, please do not install any special service on your server.
 
-This code is only applicable on Ubuntu and has been tested only on version 20.04 and 22.04.
+This code is only applicable on Ubuntu and has been tested only on version 22.04.
 
 ## Installation prerequisites
 Before installation, you need a series of prerequisites which you can read them [here](https://github.com/hiddify/Hiddify-Server/wiki/Installation-prerequisites). 
