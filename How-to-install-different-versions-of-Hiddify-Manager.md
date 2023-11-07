@@ -3,3 +3,48 @@
 <div dir="ltr" markdown="1">
 
 # How to install different versions of Hiddify Manager
+As you know, Hidify Manager is offered in three versions as follows:
+
+* **Develop version:**
+
+This version is a version of the software that is being developed to create the latest features. This version may have bugs, so it is better to install it on test servers.
+
+* **Beta version:**
+This version is a version after the version under development, and in fact it is the version before the final release, in which part of the bugs have been fixed and it has new features.
+
+* **Release version:**
+
+
+This version is actually the final version of the software that was released after the final tests and is the most stable version possible. See this figure for a better understanding.
+
+## Install Release version
+* Before installing, if you have already installed another version of the panel, take a backup of the panel. [Read more...](https://github.com/hiddify/Hiddify-Manager/wiki/How-to-backup-and-restore-panel-on-Hiddify#how-to-backup-and-restore-panel-on-hiddify)
+* Now just run the following one-line command in the terminal.
+
+```
+sudo bash -c "apt update; apt install -y curl; bash <(curl -sSL https://raw.githubusercontent.com/hiddify/hiddify-manager/main/common/download.sh) release"
+```
+
+* After installation, just restore your backup. [Read more...](https://github.com/hiddify/Hiddify-Manager/wiki/How-to-backup-and-restore-panel-on-Hiddify#restoring-backup-file)
+
+
+## Install Beta version
+* Before installing, if you have already installed another version of the panel, take a backup of the panel. [Read more...](https://github.com/hiddify/Hiddify-Manager/wiki/How-to-backup-and-restore-panel-on-Hiddify#how-to-backup-and-restore-panel-on-hiddify)
+* Now just run the following one-line command in the terminal.
+
+```
+sudo bash -c "apt update; apt install -y curl; bash <(curl -sSL https://raw.githubusercontent.com/hiddify/hiddify-manager/main/common/download.sh) beta"
+```
+
+* After installation, just restore your backup. [Read more...](https://github.com/hiddify/Hiddify-Manager/wiki/How-to-backup-and-restore-panel-on-Hiddify#restoring-backup-file)
+
+
+## Install Develop version
+* Before installing, if you have already installed another version of the panel, take a backup of the panel. [Read more...](https://github.com/hiddify/Hiddify-Manager/wiki/How-to-backup-and-restore-panel-on-Hiddify#how-to-backup-and-restore-panel-on-hiddify)
+* Now just run the following one-line command in the terminal.
+
+```
+sudo bash -c "apt update; apt install -y curl; bash <(curl -sSL https://raw.githubusercontent.com/hiddify/hiddify-manager/main/common/download.sh) develop"
+```
+
+* After installation, just restore your backup. [Read more...](https://github.com/hiddify/Hiddify-Manager/wiki/How-to-backup-and-restore-panel-on-Hiddify#restoring-backup-file)
