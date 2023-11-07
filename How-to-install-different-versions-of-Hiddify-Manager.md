@@ -17,6 +17,12 @@ This version is a version after the version under development, and in fact it is
 
 This version is actually the final version of the software that was released after the final tests and is the most stable version possible. See this figure for a better understanding.
 
+<div align=center>
+
+![install versions](https://github.com/hiddify/Hiddify-Manager/assets/125398461/6528a2c5-f938-48c3-a88f-f829d7e3a481)
+
+</div>
+
 ## Install Release version
 * Before installing, if you have already installed another version of the panel, take a backup of the panel. [Read more...](https://github.com/hiddify/Hiddify-Manager/wiki/How-to-backup-and-restore-panel-on-Hiddify#how-to-backup-and-restore-panel-on-hiddify)
 * Now just run the following one-line command in the terminal.
