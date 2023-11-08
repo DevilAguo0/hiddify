@@ -24,10 +24,11 @@ We also need financial support for our services. All of our activities are done 
 <h2> Collaboration and Contact Information &nbsp;&nbsp;&nbsp;&nbsp; راه‌های همکاری و ارتباط با ما </h2>
 </div>
 
-We need your collaboration in order to develop this project. If you are specialists in these areas, please do not hesitate to contact us.
+We need your collaboration in order to develop this project. If you are specialists in these areas, please do not hesitate to contact us and mention your skill.
+
 <div dir="rtl" markdown="1">
 
-اگر در هر یک از زمینه‌های زیر توانایی دارید، لطفا با ما در تماس باشید.
+اگر در هر یک از زمینه‌های زیر توانایی دارید، لطفا ضمن قید کردن تخصص خود با ما در تماس باشید.
 </div>
 
 * Media production &nbsp;&nbsp;&nbsp;&nbsp; تولید محتوا
