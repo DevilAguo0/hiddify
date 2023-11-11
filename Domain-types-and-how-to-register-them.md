@@ -138,4 +138,4 @@ In fact, it is a direct domain that is considered for intermediate servers, and 
 
 
 ## Fake domain registration
-As the name suggests, we want to use a fake domain that is not related to us, so we don't need to register it in advance. But we can only use it in the panel.
+As the name suggests, we want to use a fake domain that is not related to us, so we don't need to register it in advance. But we can only use it in the panel. Click [here](https://github.com/hiddify/Hiddify-Manager/wiki/How-to-create-and-use-fake-domain) to see the article on registering and using fake domains.
