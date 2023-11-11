@@ -34,3 +34,34 @@ As the name suggests, we want to use a fake domain that is not related to us, so
 </div>
 
 * Finally, click on `Save` to register your fake domain.
+
+## Connecting the fake domain to the subscription domain
+* To use the registered fake domain configurations, you need to edit your subscription domain and add the fake domain from `Show Configs of Domains`.
+
+<div align=center>
+
+![](https://user-images.githubusercontent.com/125398461/247821040-b0749490-6e4e-43aa-b9b4-ab721cceb6b8.png)
+
+</div>
+
+* The work is done, the fake configs have been added to the subscription link. Just update the subscription link on your client application.
+
+
+## Proxy section settings
+* To make sure that the created fake proxies are active, enter the proxies menu in the settings section.
+* Check that `http` is enabled from the `Global Configs` section.
+*  If you want to use Vmess, check that `Vmess` is active in the `Global Configs` section.
+
+<div align=center>
+
+![Global settings of Proxies](https://github.com/hiddify/Hiddify-Manager/assets/125398461/357a290d-799d-4f71-b956-b734915d137b)
+
+</div>
+
+* In `Direct` section, check that the following proxies are enabled.
+
+<div align=center>
+
+![](https://user-images.githubusercontent.com/125398461/282223262-7707d08d-f4ba-4875-b06a-32302817d31f.png)
+
+</div>
