@@ -50,7 +50,7 @@ As the name suggests, we want to use a fake domain that is not related to us, so
 ## Proxy section settings
 * To make sure that the created fake proxies are active, enter the proxies menu in the settings section.
 * Check that `http` is enabled from the `Global Configs` section.
-*  If you want to use Vmess, check that `Vmess` is active in the `Global Configs` section.
+*  If you want to use VMess, check that `VMess` is active in the `Global Configs` section.
 
 <div align=center>
 
