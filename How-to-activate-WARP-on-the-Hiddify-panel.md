@@ -81,7 +81,9 @@ You can also use the [ip.gs](https://ip.gs/) website, and if Cloudflare's IP is 
 - Now run this command.
 
 ```
-bash /opt/hiddify-config/other/warp/wireguard/change_ip.sh
+
+cd /opt/hiddify-manager/other/warp/wireguard && bash change_ip.sh
+
 ```
 
 - After that, the assigned IP is changed by Warp. You can see the IP using the method given above.
