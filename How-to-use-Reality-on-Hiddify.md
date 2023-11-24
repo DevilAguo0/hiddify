@@ -51,8 +51,9 @@ Here, set the mode to reality so that you can make specific settings related to 
 
 
 ## Fallback Domain 
-This domain is used when the filtering system is visiting your website, which causes it to redirect to this address. You can put one of the addresses of the review page that had a lower ping time in this field.
+This domain, which is also known as Diggs such as Fallback or Destination, is used when the filtering system is visiting your website to be directed to this address if it does not have a valid key. You can put one of the addresses of the review page that had a lower ping time in this field, which is the same as the address in the Server Names or SNI field.
 
+You can also put the address of the site that is supposed to be hosted in the country of origin and supports tls1.3 and H2. By doing this, this site actually plays the role of an intermediate server.
 ## Alias
 If you want, enter a custom name to display in the configs.
 
@@ -60,6 +61,8 @@ If you want, enter a custom name to display in the configs.
 
 ## Reality Server Names
 The server name used to simulate the destination of your traffic. You can choose one or more sites from the list on the review page. To use multiple sites, use `,` . Finally, suppose that the sites `www.yahoo.com` and `www.microsoft.com` are in your data center and have a good test result; Put these addresses in this field and leave a comma between them.
+
+To learn how to use multiple server names or SNI, read [this article](https://github.com/hiddify/Hiddify-Manager/wiki/How-to-use-subdomains-of-a-website-in-Reality).
 
 ## gRPC
 Turn on this button if you need to use gRPC in this protocol.
