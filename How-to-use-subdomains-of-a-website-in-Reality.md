@@ -6,10 +6,27 @@
 </div>
 
 
-</div>
-
-
-</div>
-
-
 # How to use subdomains of a website in Reality
+
+One way to help make real traffic less detectable is to split the traffic over different domains. That is, if it is possible to specify all the subdomains of a website and distribute traffic on them, this will help the filtering system to identify your server later.
+
+- First, enter this website and search for one of the websites you want. For example, this is a list of all the subdomains related to the Speedtest site.
+
+<div align=center>
+
+![speedtest_subdomains](https://github.com/hiddify/Hiddify-Manager/assets/125398461/968b94b3-1899-43b2-a45a-19e71379ad17)
+
+</div>
+
+- You can also use this website. For example, the subdomains of the Firefox website are specified in this website.
+
+<div align=center>
+
+![Firefox_subdomains](https://github.com/hiddify/Hiddify-Manager/assets/125398461/234710c2-dec4-436e-a478-c3bb2b0d2de7)
+
+
+</div>
+
+- Now you have a list of subdomains of a website. Just separate them with a comma and put them in the field of domain name or Servername or SNI corresponding to your real domain.
+
+- Every time your sub-link is updated, one of these subdomains is selected as the address and in this way the traffic is divided on these subdomains. For example, if your app client automatically updates the subscription every 1 hour, then traffic is sent to one of these subdomains every hour, thus reducing the probability of the server being detected by the filtering system. More information about Realty domain registration in Hidify Manager
