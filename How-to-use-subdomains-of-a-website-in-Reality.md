@@ -10,7 +10,7 @@
 
 One way to help make real traffic less detectable is to split the traffic over different domains. That is, if it is possible to specify all the subdomains of a website and distribute traffic on them, this will help the filtering system to identify your server later.
 
-- First, enter this website and search for one of the websites you want. For example, this is a list of all the subdomains related to the Speedtest site.
+- First, enter [this website](https://subdomainfinder.c99.nl/) and search for one of the websites you want. For example, this is a list of [all the subdomains related to the Speedtest site](https://subdomainfinder.c99.nl/scans/2023-11-20/speedtest.net) .
 
 <div align=center>
 
@@ -18,7 +18,7 @@ One way to help make real traffic less detectable is to split the traffic over d
 
 </div>
 
-- You can also use this website. For example, the subdomains of the Firefox website are specified in this website.
+- You can also use [this website](https://crt.sh/) . For example, [the subdomains of the Firefox website](https://crt.sh/?q=mozilla.org) are specified in this website.
 
 <div align=center>
 
