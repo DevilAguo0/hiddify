@@ -165,6 +165,9 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [How to setup relay server using WST](https://github-com.translate.goog/hiddify/hiddify-config/discussions/851?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
+### Contents related to Fake domain and Header trick
+📔 [How to create and use fake domain](https://github.com/hiddify/Hiddify-Manager/wiki/How-to-create-and-use-fake-domain)
+
 <br>
 <div dir="ltr" align="center">
 
