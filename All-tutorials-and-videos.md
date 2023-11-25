@@ -79,23 +79,27 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 ## 📚 Contents related to configuration and advanced settings
 </div>
 
-📔 [How to configure Hiddify panel properly](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly)
+📔 [How to configure Hiddify Manager properly](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly)
 
 📔 [How to connect and troubleshoot via SSH](https://github.com/hiddify/hiddify-config/wiki/How-to-connect-and-troubleshoot-via-SSH)
 
-📔 [How to use Reality on Hiddify](https://github.com/hiddify/hiddify-config/wiki/How-to-use-Reality-on-Hiddify)
+📔 [How to use Reality on Hiddify Manager](https://github.com/hiddify/hiddify-config/wiki/How-to-use-Reality-on-Hiddify)
 
-📔 [How to set up and use Telegram bot on Hiddify panel](https://github.com/hiddify/hiddify-config/wiki/How-to-set-up-and-use-Telegram-bot-on-Hddify-panel)
+📔 [How to set up and use Telegram bot on Hiddify Manager](https://github.com/hiddify/hiddify-config/wiki/How-to-set-up-and-use-Telegram-bot-on-Hddify-panel)
 
-📔 [How to set up Telegram proxy on Hiddify](https://github.com/hiddify/hiddify-config/wiki/How-to-set-up-Telegram-proxy-on-Hiddify)
+📔 [How to set up Telegram proxy on Hiddify Manager](https://github.com/hiddify/hiddify-config/wiki/How-to-set-up-Telegram-proxy-on-Hiddify)
 
-📔 [How to activate WARP on the Hiddify panel](https://github.com/hiddify/hiddify-config/wiki/How-to-activate-WARP-on-the-Hiddify-panel)
+📔 [How to activate WARP on the Hiddify Manager](https://github.com/hiddify/hiddify-config/wiki/How-to-activate-WARP-on-the-Hiddify-panel)
 
-📔 [How to backup and restore panel on Hiddify](https://github.com/hiddify/hiddify-config/wiki/How-to-backup-and-restore-panel-on-Hiddify)
+📔 [How to backup and restore the Hiddify Manager](https://github.com/hiddify/hiddify-config/wiki/How-to-backup-and-restore-panel-on-Hiddify)
 
-📔 [How to update Hiddify panel](https://github.com/hiddify/hiddify-config/wiki/How-to-update-Hiddify-panel)
+📔 [How to update Hiddify Manager](https://github.com/hiddify/hiddify-config/wiki/How-to-update-Hiddify-panel)
 
-📔 [How to setup SSH proxy on Hiddify panel](https://github.com/hiddify/hiddify-config/wiki/SSH-proxy-setting-on-Hiddify-panel)
+📔 [How to setup SSH proxy on Hiddify Manager](https://github.com/hiddify/hiddify-config/wiki/SSH-proxy-setting-on-Hiddify-panel)
+
+📔 [How to use subdomains of a website in Reality](https://github.com/hiddify/Hiddify-Manager/wiki/How-to-use-subdomains-of-a-website-in-Reality)
+
+📔 [How to use Hiddify Reality Scanner](https://github.com/hiddify/Hiddify_Reality_Scanner/blob/main/README.md)
 
 <br>
 <div dir="ltr" align="center">
@@ -236,12 +240,14 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 <br>
 <div dir="ltr" align="center">
 
+<!--
 
 **🎥 Videos related to HiddifyNext App** (coming soon)
 
-<!--
-<a href="https://www.youtube.com/watch?v=hVcWJ8Qg1GQ"><img width="32%" src="https://user-images.githubusercontent.com/125398461/235705873-4f6730b7-a23a-4717-95c3-a5a667db1c59.png" /></a>
+
+<a href="https://www.youtube.com/watch?v=vUaA1AEUy1s"><img width="32%" src="https://github.com/hiddify/Hiddify-Manager/assets/125398461/4c4946ae-ef22-4efd-a8c7-147699039d1d" /></a>
 -->
+
 
 
 
