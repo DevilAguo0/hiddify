@@ -33,7 +33,7 @@ As the name suggests, we want to use a fake domain that is not related to us, so
 ![fake-domain3-en](https://github.com/hiddify/Hiddify-Manager/assets/125398461/db2b1523-c954-4203-aebe-76a895c370f2)
 </div>
 
-   [here](https://gist.github.com/ofou/654efe67e173a6bff5c64ba26c09d058) you can see a list of sites and ports to use as fake domains.
+[here](https://gist.github.com/ofou/654efe67e173a6bff5c64ba26c09d058) you can see a list of sites and ports to use as fake domains.
 
 * Finally, click on `Save` to register your fake domain.
 
