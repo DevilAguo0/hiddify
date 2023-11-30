@@ -16,9 +16,17 @@ Before you disable password authentication, make sure you have key-based authent
    Press Enter to accept the default file location. Optionally, you can set a passphrase for additional security.
 
 2. **Copy the Public Key to Your Server**:
+
+- Windows:
+   ```bash
+   cat $HOME\.ssh\id_rsa.pub | ssh username@your_server_ip 'cat >> ~/.ssh/authorized_keys'
+   ```
+
+- Linux & Mac:
    ```bash
    ssh-copy-id username@your_server_ip
    ```
+
    Replace `username` with your actual username and `your_server_ip` with your server's IP address.
 
 3. **Test Key-Based Login**: Try to log in using your SSH key.
