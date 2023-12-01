@@ -62,4 +62,4 @@ To change the SSH port on Ubuntu, you'll need to modify the SSH daemon configura
    sudo sh -c 'iptables-restore < /etc/iptables/rules.v4'
    ```
 
-   Remember that changing the SSH port can enhance security by making it less predictable, but it's also essential to update your firewall rules and remember the new port when connecting.
+Remember that changing the SSH port can enhance security by making it less predictable, but it's also essential to update your firewall rules and remember the new port when connecting.
