@@ -211,6 +211,8 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [Disabling SSH Password Authentication on SSH](https://github.com/hiddify/Hiddify-Manager/wiki/Disable-SSH-Password-Authentication)
 
+📔 [How to change SSH port on your server](https://github.com/hiddify/Hiddify-Manager/wiki/How-to-change-SSH-port-on-your-server)
+
 📔 [TLS setting for increased security](https://github.com/hiddify/hiddify-config/wiki/TLS-setting-for-increased-security)
 
 📔 [How to transfer files between a server and a computer](https://github.com/hiddify/hiddify-config/wiki/How-to-transfer-files-between-a-server-and-a-computer)
