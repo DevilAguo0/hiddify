@@ -41,8 +41,8 @@ To change the SSH port on Ubuntu, you'll need to modify the SSH daemon configura
    ```
    Replace `<new_port>` with the port number you specified in the configuration file.
 
-6. **Update Firewall Rules using iptables in Linux:**
-   If you are using a firewall, make sure to update the rules to allow traffic on the new SSH port. 
+6. **Update Firewall Rules using `iptables` in Linux:**
+   If you are using `iptables` as firewall manager, make sure to update the rules to allow traffic on the new SSH port. 
 
    ```bash
    sudo iptables -A INPUT -p tcp --dport 2222 -j ACCEPT
