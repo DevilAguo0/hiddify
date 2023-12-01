@@ -24,3 +24,6 @@ Before installation, you need a series of prerequisites:
 
 - Then if you need to connect to your server via SSH please visit [this link](https://github.com/hiddify/hiddify-config/wiki/How-to-connect-to-server-via-SSH) for more information.
 
+- To increase the security of your server when SSH, read these two articles:
+  - [Disable SSH Password Authentication](https://github.com/hiddify/Hiddify-Manager/wiki/Disable-SSH-Password-Authentication)
+  - [How to change SSH port on your server](https://github.com/hiddify/Hiddify-Manager/wiki/How-to-change-SSH-port-on-your-server)
