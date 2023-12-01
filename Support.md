@@ -8,6 +8,17 @@
 <div align="center" markdown="1">
 
 #  Donation  حمایت مالی
+</div>
+
+<div dir="ltr">
+
+We need financial support for our services. All of our activities are done voluntarily and financial support will be spent on the development of the project. You can make your financial support through one of the following addresses.
+
+</div>
+
+<div dir="rtl">
+
+ما برای سرویس‌هایمان به کمک مالی نیاز داریم. تمامی فعالیت‌های ما به صورت داوطلبانه انجام می‌شود و حمایت‌های مالی صرف توسعه پروژه می‌شود. شما می توانید حمایت مالی خود را از طریق یکی از آدرس‌های زیر انجام دهید.
 
 </div>
 
