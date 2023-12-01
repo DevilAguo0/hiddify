@@ -14,7 +14,7 @@ We also need financial support for our services. All of our activities are done 
 
 <div dir="rtl" markdown="1">
 
-ما برای سرویس هایمان به کمک مالی هم نیاز داریم. تمامی فعالیت‌های ما به صورت داوطلبانه انجام می‌شود و حمایت‌های مالی صرف توسعه پروژه می‌شود. شما می توانید روش حمایت از این پروژه را از [اینجا](https://github.com/hiddify/hiddify-config/wiki/support) ملاحظه فرمایید.
+ما برای سرویس‌هایمان به کمک مالی هم نیاز داریم. تمامی فعالیت‌های ما به صورت داوطلبانه انجام می‌شود و حمایت‌های مالی صرف توسعه پروژه می‌شود. شما می توانید روش حمایت از این پروژه را از [اینجا](https://github.com/hiddify/hiddify-config/wiki/support) ملاحظه فرمایید.
 
 </div>
 
