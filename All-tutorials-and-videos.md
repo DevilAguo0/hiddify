@@ -57,6 +57,8 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [Guide for setting up the domain and finalizing the installation](https://github.com/hiddify/hiddify-config/wiki/Guide-for-Setting-up-the-Domain-and-Finalizing-the-Installation)
 
+📔 [How to install different versions of Hiddify Manager](https://github.com/hiddify/Hiddify-Manager/wiki/How-to-install-different-versions-of-Hiddify-Manager)
+
 <br>
 <div dir="ltr" align="center">
 
