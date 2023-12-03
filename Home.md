@@ -1,6 +1,6 @@
 <div dir="rtl" markdown="1">
 
-[**![Lang_farsi](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) &nbsp;فارسی**](https://github.com/hiddify/hiddify-config/wiki/Home_fa)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**![Lang_farsi](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) &nbsp;فارسی**](https://github.com/hiddify/Hiddify-Manager/wiki/Home_fa)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
@@ -24,7 +24,7 @@
 
 ## Welcome to the wiki page of Hiddify-Manager
 
-Hiddify-Manager is a powerful and professional anti-censorship toolbox. The appropriate and detailed information of features and protocols are accessible [here in code section](https://github.com/hiddify/hiddify-config/blob/main/README.md). This page contains installation and tutorial guides related to this project.
+Hiddify-Manager is a powerful and professional anti-censorship toolbox. The appropriate and detailed information of features and protocols are accessible [here in code section](https://github.com/hiddify/Hiddify-Manager/blob/main/README.md). This page contains installation and tutorial guides related to this project.
 
 
 
@@ -50,7 +50,7 @@ Hiddify-Manager is a powerful and professional anti-censorship toolbox. The appr
 ## Installation Guide ![](https://img.shields.io/badge/Install-Hiddify-004E9F?style=flat-square&logo=Azure-Data-Explorer)
 
 ### Prerequisites
-Before you start the installation; You need a series of prerequisites. Click [here](https://github.com/hiddify/hiddify-config/wiki/Installation-prerequisites) to get to know them.
+Before you start the installation; You need a series of prerequisites. Click [here](https://github.com/hiddify/Hiddify-Manager/wiki/Installation-prerequisites) to get to know them.
 
 ### Quick installation
 
@@ -58,7 +58,7 @@ If you get your server directly from famous data centers; we made it easy and au
 
 <div align=center>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Install%20On-Hetzner-D50C2D?style=flat-square&logo=Hetzner)](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Hetzner-Servers)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Install%20On-Vultr-007BFC?style=flat-square&logo=vultr)](https://github.com/hiddify/hiddify-config/wiki/Quick-installation-on-Vultr-Servers)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Install%20On-Oracle%20Cloud-F80000?style=flat-square&logo=oracle)](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Oracle-Cloud)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Install%20On-OVH-123F6D?style=flat-square&logo=ovh)](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-OVH-Servers)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Install%20On-Azure-0078D4?style=flat-square&logo=microsoft-azure)](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-on-Microsoft-Azure)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Install%20On-Hetzner-D50C2D?style=flat-square&logo=Hetzner)](https://github.com/hiddify/Hiddify-Manager/wiki/Quick-installation-on-Hetzner-Servers)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Install%20On-Vultr-007BFC?style=flat-square&logo=vultr)](https://github.com/hiddify/Hiddify-Manager/wiki/Quick-installation-on-Vultr-Servers)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Install%20On-Oracle%20Cloud-F80000?style=flat-square&logo=oracle)](https://github.com/hiddify/Hiddify-Manager/wiki/Quick-Installation-on-Oracle-Cloud)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Install%20On-OVH-123F6D?style=flat-square&logo=ovh)](https://github.com/hiddify/Hiddify-Manager/wiki/Quick-Installation-on-OVH-Servers)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Install%20On-Azure-0078D4?style=flat-square&logo=microsoft-azure)](https://github.com/hiddify/Hiddify-Manager/wiki/Quick-Installation-on-Microsoft-Azure)
 
 </div>
 
@@ -69,10 +69,10 @@ To install, you only need to have a server according to the prerequisites, and t
 
 <div align=center>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Install%20On-Ubuntu-E95420?style=flat-square&logo=ubuntu)](https://github.com/hiddify/hiddify-config/wiki/Quick-Installation-On-Ubuntu)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Install%20On-Ubuntu-E95420?style=flat-square&logo=ubuntu)](https://github.com/hiddify/Hiddify-Manager/wiki/Quick-Installation-On-Ubuntu)
 
 <!--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Install%20On-Docker-2496ED?style=flat-square&logo=docker)](https://github.com/hiddify/hiddify-config/wiki/Install-Hiddify-using-Docker)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Install%20On-Docker-2496ED?style=flat-square&logo=docker)](https://github.com/hiddify/Hiddify-Manager/wiki/Install-Hiddify-using-Docker)
 -->
 </div>
 
@@ -87,7 +87,7 @@ Also, all tutorials and videos can be accessed by clicking on the image below.
 
 <div align=center>
 
-<a href="https://github.com/hiddify/hiddify-config/wiki/All-tutorials-and-videos"><img width="70%" src="https://github.com/hiddify/hiddify-config/assets/125398461/e8924ab6-3198-49c2-ba2b-f8339c507d86"></a>
+<a href="https://github.com/hiddify/Hiddify-Manager/wiki/All-tutorials-and-videos"><img width="70%" src="https://github.com/hiddify/Hiddify-Manager/assets/125398461/e8924ab6-3198-49c2-ba2b-f8339c507d86"></a>
 
 
 
@@ -107,7 +107,7 @@ https://user-images.githubusercontent.com/125398461/235845087-645212c1-097f-4f93
 
 <div align=center>
 
-[![](https://img.shields.io/badge/FAQ-Here-512DA8?style=flat-square&logo=Favro)](https://github.com/hiddify/hiddify-config/discussions/categories/q-a-%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%B1%D8%A7%DB%8C%D8%AC)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Report-Bugs-F67909?style=flat-square&logo=Open-Bug-Bounty)](https://github.com/hiddify/hiddify-config/issues)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/%20Telegram-Channel-26A5E4?style=flat-square&logo=Telegram)](https://t.me/hiddify) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![](https://img.shields.io/badge/FAQ-Here-512DA8?style=flat-square&logo=Favro)](https://github.com/hiddify/Hiddify-Manager/discussions/categories/q-a-%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%B1%D8%A7%DB%8C%D8%AC)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Report-Bugs-F67909?style=flat-square&logo=Open-Bug-Bounty)](https://github.com/hiddify/Hiddify-Manager/issues)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/%20Telegram-Channel-26A5E4?style=flat-square&logo=Telegram)](https://t.me/hiddify) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![](https://img.shields.io/badge/%20Telegram-Support%20Group-26A5E4?style=flat-square&logo=Telegram)](https://t.me/hiddify_board/5)
 
 </div>
