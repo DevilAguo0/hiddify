@@ -48,7 +48,12 @@ Hiddify-Manager is a powerful and professional anti-censorship toolbox. The appr
 
 
 ## Installation Guide ![](https://img.shields.io/badge/Install-Hiddify-004E9F?style=flat-square&logo=Azure-Data-Explorer)
+To install Hiddify Manager, please follow [this link](https://github.com/hiddify/Hiddify-Manager/wiki/Quick-installation-on-Ubuntu)
 
+
+
+
+<!--
 ### Prerequisites
 Before you start the installation; You need a series of prerequisites. Click [here](https://github.com/hiddify/Hiddify-Manager/wiki/Installation-prerequisites) to get to know them.
 
@@ -71,7 +76,7 @@ To install, you only need to have a server according to the prerequisites, and t
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Install%20On-Ubuntu-E95420?style=flat-square&logo=ubuntu)](https://github.com/hiddify/Hiddify-Manager/wiki/Quick-Installation-On-Ubuntu)
 
-<!--
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Install%20On-Docker-2496ED?style=flat-square&logo=docker)](https://github.com/hiddify/Hiddify-Manager/wiki/Install-Hiddify-using-Docker)
 -->
 </div>
