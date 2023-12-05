@@ -37,7 +37,7 @@ Hiddify-Manager is a powerful and professional anti-censorship toolbox. The appr
 ***
 
 ### Table of Contents
-- [Installation Guide](#installation-guide-)
+- [Installation Guide](#installation)
   - [Prerequisites](#prerequisites)
   - [Quick installation](#quick-installation)
   - [Typical installation](#typical-installation)
@@ -47,7 +47,7 @@ Hiddify-Manager is a powerful and professional anti-censorship toolbox. The appr
 ***
 
 
-## Installation Guide ![](https://img.shields.io/badge/Install-Hiddify-004E9F?style=flat-square&logo=Azure-Data-Explorer)
+## Installation
 To install Hiddify Manager, please follow [this link](https://github.com/hiddify/Hiddify-Manager/wiki/Quick-installation-on-Ubuntu)
 
 
