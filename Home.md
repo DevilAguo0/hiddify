@@ -33,7 +33,7 @@ Hiddify-Manager is a powerful and professional anti-censorship toolbox. The appr
 
 
 
-
+<!--
 ***
 
 ### Table of Contents
@@ -45,7 +45,7 @@ Hiddify-Manager is a powerful and professional anti-censorship toolbox. The appr
 
 
 ***
-
+-->
 
 ## Installation
 To install Hiddify Manager, please follow [this link](https://github.com/hiddify/Hiddify-Manager/wiki/Quick-installation-on-Ubuntu)
