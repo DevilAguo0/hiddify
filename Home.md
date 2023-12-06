@@ -62,7 +62,7 @@ If you get your server directly from famous data centers; we made it easy and au
 
 ### Typical installation
 
-To install, you only need to have a server according to the prerequisites, and then the installation is done with a simple one-line command. Click on the button below
+To install on Ubuntu server, click the button below and follow the article.
 
 <div align=center>
 
