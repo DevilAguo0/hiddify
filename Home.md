@@ -49,7 +49,7 @@ Hiddify-Manager is a powerful and professional anti-censorship toolbox. The appr
 ## Installation
 
 
-#### Easy and quick installation
+### Easy and quick installation
 
 If you get your server directly from famous data centers; we made it easy and automated for you. In this method, the installation is done automatically very quickly and easily without the need for technical knowledge. Click on one of the buttons below to continue.
 
