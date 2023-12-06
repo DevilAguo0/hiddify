@@ -48,16 +48,9 @@ Hiddify-Manager is a powerful and professional anti-censorship toolbox. The appr
 -->
 
 ## Installation
-To install Hiddify Manager, please follow [this link](https://github.com/hiddify/Hiddify-Manager/wiki/Quick-installation-on-Ubuntu)
 
 
-
-
-<!--
-### Prerequisites
-Before you start the installation; You need a series of prerequisites. Click [here](https://github.com/hiddify/Hiddify-Manager/wiki/Installation-prerequisites) to get to know them.
-
-### Quick installation
+#### Easy and quick installation
 
 If you get your server directly from famous data centers; we made it easy and automated for you. In this method, the installation is done automatically very quickly and easily without the need for technical knowledge. Click on one of the buttons below to continue.
 
@@ -70,7 +63,7 @@ If you get your server directly from famous data centers; we made it easy and au
 
 ### Typical installation
 
-To install, you only need to have a server according to the prerequisites, and then the installation is done with a simple one-line command. Click one of the following buttons according to your needs.
+To install, you only need to have a server according to the prerequisites, and then the installation is done with a simple one-line command. Click on the button below
 
 <div align=center>
 
