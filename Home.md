@@ -38,7 +38,7 @@ Hiddify-Manager is a powerful and professional anti-censorship toolbox. The appr
 
 ### Table of Contents
 - [Installation](#installation)
-  - [Quick installation](#easy-and-quick-installation)
+  - [Easy and quick installation](#easy-and-quick-installation)
   - [Typical installation](#typical-installation)
 - [All tutorials and videos](#all-tutorials-and-videos)
 
