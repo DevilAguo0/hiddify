@@ -11,7 +11,6 @@
 
 - This code is only applicable on Ubuntu and has been tested only on version 22.04.
 
-- If you get your server directly from famous data centers; we made it easy and automated for you. In this method, the installation is done automatically very quickly and easily without the need for technical knowledge. Click on one of the buttons above. 
 
 - If not, you need a series of prerequisites which you can read them [here](https://github.com/hiddify/Hiddify-Server/wiki/Installation-prerequisites). 
 
