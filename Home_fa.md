@@ -39,7 +39,7 @@
 
 ***
 
-## راهنمای نصب ![](https://img.shields.io/badge/Install-Hiddify-004E9F?style=flat-square&logo=Azure-Data-Explorer)
+## نصب
 
 
 ###  نصب آسان و سریع
