@@ -211,16 +211,15 @@ Note:
 </details>
 
 <details><summary><h4>Fake site</h4></summary>
-Click on the create button and follow the instructions on the page that opens.
 
-![](https://user-images.githubusercontent.com/125398461/236683245-0c9f0fd4-0d84-436d-9e7a-ae26b180ec73.png)
+For view more information about this domain, please view [this article](https://github.com/hiddify/Hiddify-Manager/wiki/How-to-create-and-use-fake-domain).
 
 
-Pay attention:
 
-* You can enter a custom name in the display name field.
 
-* The field to force the use of the host and display the domain configs do not need to be completed here.
+
+
+
 
 * If you use several domains and also a large number of users connect to the panel and you need to assign a specific domain to each user; It is recommended to read [this topic]
 
