@@ -221,7 +221,7 @@ For view more information about this domain, please view [this article](https://
 
 
 
-* If you use several domains and also a large number of users connect to the panel and you need to assign a specific domain to each user; It is recommended to read [this topic]
+
 
 </details>
 
@@ -235,6 +235,7 @@ For view more information about this domain, please view [this article](https://
 Read this [article](https://github.com/hiddify/hiddify-config/wiki/How-to-use-the-Cloudflare-worker-domain-on-Hiddify) in this regard
 </details>
 
+> If you use several domains and also a large number of users connect to the panel and you need to assign a specific domain to each user; It is recommended to read [this topic]
 
 </details>
 
