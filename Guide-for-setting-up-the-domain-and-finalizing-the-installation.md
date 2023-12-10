@@ -54,7 +54,7 @@ You have done [the initial installation](https://github-com/hiddify/hiddify-conf
 
 So, continue this step based on the method you have chosen.
 
-> Important note: This program can only be installed on Ubuntu server versions 22.04 and 20.04.
+> Important note: This program can only be installed on Ubuntu server versions 22.04.
 
 <details markdown="1"><summary><h3>1.2. Continue installation in cloud-init mode</h3></summary>
 If you have used quick installation scripts (cloud-init mode) for famous data centers such as Hetzner, Vultr, etc.; Therefore, in this case, a temporary link (valid for one hour) will be created for you.
