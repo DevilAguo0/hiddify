@@ -88,7 +88,7 @@ When you open the admin page for the first time, quick installation settings wil
 
 ![Screenshot_20230330_114622](https://user-images.githubusercontent.com/125398461/228776688-61847f37-72de-4111-9287-a0a733e62126.png)
 
-Click the Submit button and then click `Apply Configs` to save the settings in the panel. [Go here](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#apply-configs) if you have a problem . If the changes are applied successfully; The panel is almost ready to use. 
+Click the Submit button and then click `Apply Configs` to save the settings in the panel. [Go here](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly#apply-configs) if you have a problem. If the changes are applied successfully; The panel is almost ready to use. 
 
 For making the best use of this panel please view this [article](https://github.com/hiddify/hiddify-config/wiki/How-to-configure-Hiddify-Panel-properly).
 
