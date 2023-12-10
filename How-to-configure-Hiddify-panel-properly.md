@@ -57,7 +57,7 @@ Before starting the configuration, it is necessary to explain that this panel is
 You have chosen a server whose IP is clean. To be sure of this issue, read how to [test the IP of server](https://github.com/hiddify/hiddify-config/wiki/How-to-make-sure-the-server's-IP-or-domain-is-clean). If it is determined after the test that the IP is not clean; You need to change your IP server.
 
 ### The panel is installed correctly
-You have successfully installed the panel using the methods mentioned in the [installation guide](https://github.com/hiddify/hiddify-config/wiki#installation-guide-) and you have received admin links. These links include the admin address and password. For more information about the correct format of the admin link, read [this article](https://github.com/hiddify/hiddify-config/wiki/The-correct-format-of-admin-link).
+You have successfully installed the panel using the methods mentioned in the [installation guide](https://github.com/hiddify/Hiddify-Manager/wiki/All-tutorials-and-videos#-contents-related-to-installation-and-setup) and you have received admin links. These links include the admin address and password. For more information about the correct format of the admin link, read [this article](https://github.com/hiddify/hiddify-config/wiki/The-correct-format-of-admin-link).
 
 
 ### The domain is registered and accessible
