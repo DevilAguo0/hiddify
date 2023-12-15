@@ -88,7 +88,7 @@
 
 <!--
 https://user-images.githubusercontent.com/125398461/235846300-a696ce93-5218-4310-a863-8b4cb8739a74.png
-<img alt="All tutorials and videos" width="70%" src="https://github.com/hiddify/Hiddify-Manager/assets/125398461/e572107f-c0fe-4d41-b09a-7d1dd440795d" />
+<img alt="All tutorials and videos" width="100%" src="https://github.com/hiddify/Hiddify-Manager/assets/125398461/e572107f-c0fe-4d41-b09a-7d1dd440795d" />
 -->
 
 
