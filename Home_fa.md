@@ -81,7 +81,8 @@
 </div>
 
 <div align=center>
-<a href="https://github.com/hiddify/Hiddify-Manager/wiki/%D9%87%D9%85%D9%87-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%E2%80%8C%D9%87%D8%A7-%D9%88-%D9%88%DB%8C%D8%AF%D8%A6%D9%88%D9%87%D8%A7"><img alt="All tutorials and videos" width="70%" src="https://github.com/hiddify/Hiddify-Manager/assets/125398461/3d29038a-b30a-405c-a83d-b30a2d918ca7" /></a>
+<a href="https://github.com/hiddify/Hiddify-Manager/wiki/%D9%87%D9%85%D9%87-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%E2%80%8C%D9%87%D8%A7-%D9%88-%D9%88%DB%8C%D8%AF%D8%A6%D9%88%D9%87%D8%A7"><img alt="All tutorials and videos" width="70%" src="https://github.com/hiddify/Hiddify-Manager/assets/125398461/5c842e5d-83d0-4217-a825-6163a3d65bb1" /></a>
+
 
 
 <!--
