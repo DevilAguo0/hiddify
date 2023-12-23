@@ -52,11 +52,27 @@ iptables -A INPUT -p tcp --destination-port PORT -j ACCEPT
 ```
 iptables -A INPUT -p tcp --destination-port 1234 -j ACCEPT
 ```
-- Or if you want to provide access to ping or `ICMP` packets; Just run the following command.
+
+
+* Although it is not recommended  to open the `ICMP` protocol in terms of security, if you want to provide access to ping or `ICMP` packets; Just run the following command.
+
+<div dir=ltr>
 
 ```
 iptables -A INPUT -p ICMP -j ACCEPT
 ```
+</div>
+
+* Use the following command to drop the `ICMP ` protocol.
+
+<div dir=ltr>
+
+```
+iptables -A INPUT -p icmp -j DROP
+```
+
+</div>
+
 
 - The work is done.
 
