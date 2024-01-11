@@ -152,3 +152,23 @@
 
 <img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/ab49fa85-742a-4002-afee-6f518146d9a4" />
 </div>
+
+## فعال‌سازی فرگمنت
+برای فعال‌سازی فرگمنت روی کانکشن‌های TLS می‌بایست در این نرم‌افزار روی کانکشن بزنید و گزینه Fragment را فعال کنید.
+پارامترهای زیر برای تعیین در فیلدهای مربوطه پیشنهاد می‌شود.
+
+![Fargment Setting on FoXray](https://github.com/hiddify/Hiddify-Manager/assets/125398461/184d50de-95c8-4086-a2df-6e01c5c5f6fc)
+
+
+<div dir=ltr>
+
+`packets: tlshello`
+
+`length : 100-200`
+
+`interval : 10-20`
+
+</div>
+
+بسته به اپراتور ممکن است نیاز باشد پارمترها را تغییر دهید یا نوع پکت‌ها را از tlshello به حالت `tcp segment 1-3` تغییر دهید. البته ممکن است زودتر شناسایی شود.
+`packets: 1-3`
