@@ -161,3 +161,26 @@ If you need to test the connections before connecting, activate the `Test Outbou
 
 <img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/ab49fa85-742a-4002-afee-6f518146d9a4" />
 </div>
+
+## Fragment activation
+To activate the fragment on TLS connections, you need to click on the connection on this app and activate the Fragment option.
+The following parameters are suggested to be specified in the relevant fields.
+
+<div align=center>
+
+<img src="https://github.com/hiddify/Hiddify-Manager/assets/125398461/184d50de-95c8-4086-a2df-6e01c5c5f6fc" width="30%" />
+
+</div>
+
+<div dir=ltr>
+
+`packets: tlshell`
+
+`length: 100-200`
+
+`Interval: 10-20`
+
+</div>
+
+Depending on the operator, you may need to change the parameters or change the type of packets from tlshello to ``tcp segment 1-3'' mode. Of course, this condition may be detected earlier.
+`packets: 1-3`
