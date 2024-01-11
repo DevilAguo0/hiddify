@@ -1,5 +1,5 @@
 <div align=center>
-<h2> Donation and support &nbsp;&nbsp;&nbsp;&nbsp; از ما حمایت کنید </h2>
+<h2> Donation and Support &nbsp;&nbsp;&nbsp;&nbsp; از ما حمایت کنید </h2>
 </div>
 
 
