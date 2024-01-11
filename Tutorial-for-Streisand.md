@@ -147,3 +147,5 @@ In this section, you can reset the settings related to the application.
 <img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/8b336b0b-0c57-49e7-89e4-f86317955061" />
 
 </div>
+
+## Fragment activation
