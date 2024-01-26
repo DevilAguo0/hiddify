@@ -62,7 +62,7 @@ nameserver 1.1.1.1
 <div dir="ltr">
 
 ```
-chattr +I -f /etc/resolv.conf
+chattr +i /etc/resolv.conf
 ```
 </div>
 
