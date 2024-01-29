@@ -7,14 +7,15 @@
 ## domain registration
 * To do this, first point an A record to your server address in DNS. Suppose you have pointed sub1.domain.com to the IP address of your server.
 
-<div align=center>
-
-<img alt="aws settings" src="https://github.com/hiddify/Hiddify-Manager/assets/125398461/9e1623b7-ffdc-4881-be24-b7223c63cb90" width=70% />
-</div>
 
 * Go to [Amazon AWS](https://aws.amazon.com/) and search for Cloudfront service.
 * Create a destination by clicking create distribution.
 * Enter the values in the opened page according to the image below.
+
+<div align=center>
+
+<img alt="aws settings" src="https://github.com/hiddify/Hiddify-Manager/assets/125398461/9e1623b7-ffdc-4881-be24-b7223c63cb90" width=70% />
+</div>
 
 All values on this page are default except for the following which should be set as shown in the images.
 
