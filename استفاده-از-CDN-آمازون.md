@@ -6,14 +6,15 @@
 ## ثبت دامنه
 * برای این کار ابتدا یک رکورد A به آدرس سرور خود در  DNS پوینت کنید. فرضا `sub1.domain.com` را به آدرس آیپی سرور خود پوینت کرده‌اید.
 
-<div align=center>
-
-<img alt="aws settings" src="https://github.com/hiddify/Hiddify-Manager/assets/125398461/9e1623b7-ffdc-4881-be24-b7223c63cb90" width=70% />
-</div>
 
 * به سایت [Amazon AWS](https://aws.amazon.com/) رفته و سرویس Cloudfront را جستجو نمایید.
 * با زدن create distribution یک مقصد ایجاد نمایید.
 * در صفحه باز شده مطابق با تصویر زیر مقادیر را وارد نمایید.
+
+<div align=center>
+
+<img alt="aws settings" src="https://github.com/hiddify/Hiddify-Manager/assets/125398461/9e1623b7-ffdc-4881-be24-b7223c63cb90" width=70% />
+</div>
 
 تمام مقادیر در این صفحه به صورت پیش‌فرض است به جز موارد زیر که باید همانند تصاویر تعیین شوند.
 
