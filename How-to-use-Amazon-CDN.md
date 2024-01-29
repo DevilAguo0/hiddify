@@ -4,7 +4,7 @@
 </div>
 
 # How to use Amazon CDN or Cloudfront
-## domain registration
+## Domain registration
 * To do this, first point an A record to your server address in DNS. Suppose you have pointed sub1.domain.com to the IP address of your server.
 
 
