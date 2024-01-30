@@ -134,6 +134,8 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📔 [How to use GCore CDN](https://github.com/hiddify/Hiddify-Manager/wiki/How-to-use-GCore-CDN-on-Cloudflare-registered-domain)
 
+📔 [How to use Amazon CDN or Cloudfront](https://github.com/hiddify/Hiddify-Manager/wiki/How-to-use-Amazon-CDN)
+
 📔 [Tutorial on automating subdomain registration on Cloudflare](https://github.com/hiddify/Hiddify-Manager/wiki/Get-Cloudflare-API)
 
 📔 [How to use AutoCDN IP domain](https://github.com/hiddify/Hiddify-Manager/wiki/Guide-for-using-mode-Auto_CDN_IP-on-Hiddify)
