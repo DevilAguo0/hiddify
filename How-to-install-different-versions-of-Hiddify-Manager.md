@@ -34,7 +34,7 @@ This version is actually the final version of the software that was released aft
 * Now just run the following one-line command in the terminal.
 
 ```
-sudo bash -c "apt update; apt install -y curl; bash <(curl -sSL https://raw.githubusercontent.com/hiddify/hiddify-manager/main/common/download.sh) release"
+bash <(curl i.hiddify.com/release)
 ```
 
 * After installation, just restore your backup. [Read more...](https://github.com/hiddify/Hiddify-Manager/wiki/How-to-backup-and-restore-panel-on-Hiddify#restoring-backup-file)
@@ -45,7 +45,7 @@ sudo bash -c "apt update; apt install -y curl; bash <(curl -sSL https://raw.gith
 * Now just run the following one-line command in the terminal.
 
 ```
-sudo bash -c "apt update; apt install -y curl; bash <(curl -sSL https://raw.githubusercontent.com/hiddify/hiddify-manager/main/common/download.sh) beta"
+bash <(curl i.hiddify.com/beta)
 ```
 
 * After installation, just restore your backup. [Read more...](https://github.com/hiddify/Hiddify-Manager/wiki/How-to-backup-and-restore-panel-on-Hiddify#restoring-backup-file)
@@ -56,7 +56,22 @@ sudo bash -c "apt update; apt install -y curl; bash <(curl -sSL https://raw.gith
 * Now just run the following one-line command in the terminal.
 
 ```
-sudo bash -c "apt update; apt install -y curl; bash <(curl -sSL https://raw.githubusercontent.com/hiddify/hiddify-manager/main/common/download.sh) develop"
+bash <(curl i.hiddify.com/dev)
 ```
 
 * After installation, just restore your backup. [Read more...](https://github.com/hiddify/Hiddify-Manager/wiki/How-to-backup-and-restore-panel-on-Hiddify#restoring-backup-file)
+
+## Install the desired version
+It is possible to install a specific version. Just follow the instructions below.
+
+
+```
+bash <(curl i.hiddify.com/vVERSION)
+```
+
+
+Here, instead of VERSION, you should enter the desired version. Suppose you want to install version `8`. Just run the following command.
+
+```
+bash <(curl i.hiddify.com/v8)
+```
