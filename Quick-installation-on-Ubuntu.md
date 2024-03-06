@@ -30,12 +30,9 @@
 1. Connect to your server through ssh and copy and run the following command in the terminal
 
 ```
-curl https://install.hiddify.com/release |bash
+bash <(curl i.hiddify.com/release)
 ```
-If the previous command won't work, use the following one:
-```
-sudo apt update&&sudo apt install -y curl&& curl -sSL https://raw.githubusercontent.com/hiddify/hiddify-manager/main/common/download.sh | sudo bash -s release
-```
+
 
 Congratulations, the installation is complete. 
 
