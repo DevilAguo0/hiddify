@@ -17,7 +17,7 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 
 📚 [Contents related to basic concepts and troubleshooting](#-contents-related-to-basic-concepts-and-troubleshooting)
 
-📚 [Contents related to HiddifyNext App](#-contents-related-to-hiddifynext-app)
+📚 [Contents related to Hiddify App](#-contents-related-to-hiddify-app)
 
 📚 [Contents related to client software on Android](#-contents-related-to-client-software-on-android)
 
@@ -242,12 +242,12 @@ In this article, we put categorized content of Wiki. In addition to the fact tha
 <br>
 <div dir="ltr" align=center>
 
-## 📚 Contents related to HiddifyNext App
+## 📚 Contents related to Hiddify App
 </div>
 
-📔 [How to install HiddifyNext app](https://github.com/hiddify/hiddify-next/wiki/How-to-install-HiddifyNext-app)
+📔 [How to install Hiddify app](https://github.com/hiddify/hiddify-next/wiki/How-to-install-HiddifyNext-app)
 
-📔 [How to use HiddifyNext app](https://github.com/hiddify/hiddify-next/wiki/How-to-use-HiddifyNext-app)
+📔 [How to use Hiddify app](https://github.com/hiddify/hiddify-next/wiki/How-to-use-HiddifyNext-app)
 
 
 <br>
